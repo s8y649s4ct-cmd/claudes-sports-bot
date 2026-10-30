@@ -11,7 +11,8 @@
    "start": "Fri 7:40 PM ET",
    "reason": "Edgecombe is averaging 7.8 rebounds this season (Basketball-Reference), so the line sits more than two boards under his average and still pays plus money. Jaylen Brown is questionable (knee), and if he sits, Edgecombe picks up more minutes and more rebounds.",
    "marketId": "742.194858263",
-   "selectionId": "75784960"
+   "selectionId": "75784960",
+   "marketIdMD": "724.194996998"
   },
   {
    "pick": "Yaxel Lendeborg Over 7.5 Rebounds",
@@ -22,7 +23,8 @@
    "start": "Fri 10:10 PM ET",
    "reason": "Lendeborg is averaging 9.2 rebounds. Golden State is without Jimmy Butler, Moses Moody and Kristaps Porzi\u0146\u0123is, and Gui Santos is doubtful, so the frontcourt minutes and boards fall to him against a Lakers team that just got Luka back. The line is 1.7 below his average at plus money.",
    "marketId": "742.194850422",
-   "selectionId": "64937530"
+   "selectionId": "64937530",
+   "marketIdMD": "724.194989163"
   },
   {
    "pick": "Jaden McDaniels Over 5.5 Rebounds",
@@ -33,7 +35,8 @@
    "start": "Fri 8:10 PM ET",
    "reason": "McDaniels averages 6.6 rebounds this season (Basketball-Reference). With Anthony Edwards and Donte DiVincenzo out, Minnesota leans on him for more minutes, and the Clippers' frontcourt is depleted (Ingram, Beal, Strus, Miller out). Even money on a line a full board under his average.",
    "marketId": "742.194863309",
-   "selectionId": "38988768"
+   "selectionId": "38988768",
+   "marketIdMD": "724.195002027"
   },
   {
    "pick": "Knicks @ 76ers Under 225.5 (Alt Total)",
@@ -522,7 +525,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Cade averages 5.6 rebounds, and Jalen Duren is out, so more boards are available.",
      "marketId": "742.194865096",
-     "selectionId": "41536747"
+     "selectionId": "41536747",
+     "marketIdMD": "724.195003832"
     },
     {
      "pick": "Anthony Davis Over 21.5 Points",
@@ -545,7 +549,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Barnes averages 7.3 rebounds and carries Toronto with Kawhi out. Orlando is without Banchero and Isaac.",
      "marketId": "742.194859792",
-     "selectionId": "40221569"
+     "selectionId": "40221569",
+     "marketIdMD": "724.194998535"
     },
     {
      "pick": "Jaden McDaniels Over 5.5 Rebounds",
@@ -556,7 +561,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "McDaniels averages 6.6 rebounds, and Minnesota is without Edwards and DiVincenzo.",
      "marketId": "742.194863309",
-     "selectionId": "38988768"
+     "selectionId": "38988768",
+     "marketIdMD": "724.195002027"
     },
     {
      "pick": "Stephen Curry Over 24.5 Points",

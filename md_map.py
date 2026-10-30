@@ -25,7 +25,7 @@ evs={}
 for m in info.values(): evs.setdefault(m['eventId'],set())
 mdm={}
 for ev in evs:
-  for tab in ['','popular','player-points','player-props','quarters','goals','alternates','1st-quarter','points']:
+  for tab in ['','popular','player-points','player-props','quarters','goals','alternates','1st-quarter','points','player-rebounds','player-assists','player-threes','player-combos']:
     o=get(f'https://sbapi.md.sportsbook.fanduel.com/api/event-page?_ak={K}&eventId={ev}'+(f'&tab={tab}' if tab else ''))
     for m in ((o.get('attachments') or {}).get('markets') or {}).values():
       mdm.setdefault((m['eventId'],m.get('marketType'),m.get('marketName')),[]).append(m)
