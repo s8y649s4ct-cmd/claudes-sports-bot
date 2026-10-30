@@ -27,10 +27,10 @@ tg.onclick=()=>setT(r.dataset.theme==='dark'?'light':'dark');
 const e=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt=o=>o==null?'':(o>0?'+'+o:o);
 function link(legs,fb){const ok=legs.filter(l=>l.marketId&&l.selectionId);
- if(ok.length===legs.length&&ok.length)return 'https://sportsbook.fanduel.com/addToBetslip?'+ok.map(l=>'marketId='+encodeURIComponent(l.marketId)+'&selectionId='+encodeURIComponent(l.selectionId)).join('&');
+ if(ok.length===legs.length&&ok.length)return 'https://sportsbook.fanduel.com/addToBetslip?'+ok.map((l,i)=>'marketId['+i+']='+encodeURIComponent(l.marketId)+'&selectionId['+i+']='+encodeURIComponent(l.selectionId)).join('&');
  return fb||legs.find(l=>l.eventUrl)?.eventUrl||'https://sportsbook.fanduel.com/'}
 function btn(legs,fb,label){const all=legs.every(l=>l.marketId&&l.selectionId);return `<a class="btn" href="${e(link(legs,fb))}">${all?label:'Open game in FanDuel (IDs not verified)'}</a>`}
-function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div></li>`}
+function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div>${l.marketId&&l.selectionId?`<a class="btn" style="padding:2px 8px;font-size:.8em" href="${e(link([l]))}">+ Add this leg</a>`:''}</li>`}
 const empty='<div class="card mut">No picks yet. Picks post around 10:30 AM and 3:00 PM ET.</div>';
 fetch('picks.json?'+Date.now()).then(x=>x.json()).then(d=>{
  document.getElementById('upd').textContent=d.updated?('Updated '+d.updated+' · '+(d.run||'')):(d.run||'');
