@@ -1,5 +1,5 @@
 {
- "updated": "Fri Oct 30, 2026 3:11 PM ET",
+ "updated": "Fri Oct 30, 2026 3:13 PM ET",
  "run": "3:00 PM ET run \u00b7 odds verified from FanDuel PA sportsbook data",
  "singles": [
   {
@@ -206,8 +206,7 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Chicago can't protect the rim without Claxton, and Boston's offense can push this total on its own.",
      "marketId": "742.194812220",
-     "selectionId": "7017823",
-     "marketIdMD": "724.194950964"
+     "selectionId": "7017823"
     }
    ]
   }
@@ -215,10 +214,10 @@
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 9876655,
+   "odds": 9971624,
    "stake": 5,
-   "payout": 493837.77,
-   "reason": "The 'Best Shot $500K' ticket: a $5 bet on 24 of today's highest-probability legs (one per game), combined to roughly 100,000-to-1 so it pays about $500K. NEWS-STRENGTHENED carryovers from the morning: Baylor, Celtics, Panthers, Kraken, Lakers, Villarreal.",
+   "payout": 498586.21,
+   "reason": "The 'Best Shot $500K' ticket: a $5 bet on 23 of today's highest-probability legs (one per game), combined to roughly 100,000-to-1 so it pays about $500K. NEWS-STRENGTHENED carryovers from the morning: Baylor, Celtics, Panthers, Kraken, Lakers, Villarreal.",
    "legs": [
     {
      "pick": "Villarreal ML",
@@ -231,17 +230,6 @@
      "marketId": "742.193952000",
      "selectionId": "28191",
      "marketIdMD": "724.194090739"
-    },
-    {
-     "pick": "Nathan Pitts ML",
-     "market": "Moneyline",
-     "odds": -3500,
-     "sport": "Tennis",
-     "event": "Nathan Pitts v Jacob Brisky",
-     "start": "Fri 4:20 PM ET",
-     "reason": "A -3500 favorite in a lower-tier event. The market makes him close to a lock; this one wasn't researched beyond the price.",
-     "marketId": "742.194880994",
-     "selectionId": "61419839"
     },
     {
      "pick": "Leylah Fernandez ML",
@@ -412,16 +400,16 @@
      "marketIdMD": "724.194554241"
     },
     {
-     "pick": "Wizards ML",
-     "market": "Moneyline",
-     "odds": -108,
+     "pick": "Wizards -1.5",
+     "market": "Spread",
+     "odds": 100,
      "sport": "NBA",
      "event": "Charlotte Hornets @ Washington Wizards",
      "start": "Fri 7:10 PM ET",
      "reason": "88-97% of the money is on Washington. Charlotte is missing White, Grant Williams and Knueppel.",
-     "marketId": "742.194415372",
+     "marketId": "742.194415371",
      "selectionId": "237485",
-     "marketIdMD": "724.194554111"
+     "marketIdMD": "724.194554112"
     },
     {
      "pick": "Knicks @ 76ers Under 227.5",
