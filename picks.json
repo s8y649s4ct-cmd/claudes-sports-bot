@@ -1,261 +1,85 @@
 {
- "updated": "Fri Oct 30, 2026 10:19 AM ET",
- "run": "10:30 AM ET run \u00b7 odds verified from FanDuel PA sportsbook data",
+ "updated": "Fri Oct 30, 2026 3:11 PM ET",
+ "run": "3:00 PM ET run \u00b7 odds verified from FanDuel PA sportsbook data",
  "singles": [
   {
-   "pick": "Ayo Dosunmu Over 16.5 Points",
-   "market": "Ayo Dosunmu - Points",
-   "odds": 102,
+   "pick": "VJ Edgecombe Over 5.5 Rebounds",
+   "market": "VJ Edgecombe - Rebounds",
+   "odds": 106,
+   "sport": "NBA",
+   "event": "New York Knicks @ Philadelphia 76ers",
+   "start": "Fri 7:40 PM ET",
+   "reason": "Edgecombe is averaging 7.8 rebounds this season (Basketball-Reference), so the line sits more than two boards under his average and still pays plus money. Jaylen Brown is questionable (knee), and if he sits, Edgecombe picks up more minutes and more rebounds.",
+   "marketId": "742.194858263",
+   "selectionId": "75784960"
+  },
+  {
+   "pick": "Yaxel Lendeborg Over 7.5 Rebounds",
+   "market": "Yaxel Lendeborg - Rebounds",
+   "odds": 106,
+   "sport": "NBA",
+   "event": "Los Angeles Lakers @ Golden State Warriors",
+   "start": "Fri 10:10 PM ET",
+   "reason": "Lendeborg is averaging 9.2 rebounds. Golden State is without Jimmy Butler, Moses Moody and Kristaps Porzi\u0146\u0123is, and Gui Santos is doubtful, so the frontcourt minutes and boards fall to him against a Lakers team that just got Luka back. The line is 1.7 below his average at plus money.",
+   "marketId": "742.194850422",
+   "selectionId": "64937530"
+  },
+  {
+   "pick": "Jaden McDaniels Over 5.5 Rebounds",
+   "market": "Jaden McDaniels - Rebounds",
+   "odds": 100,
    "sport": "NBA",
    "event": "Los Angeles Clippers @ Minnesota Timberwolves",
    "start": "Fri 8:10 PM ET",
-   "reason": "Minnesota is without Anthony Edwards (knee procedure Thursday) and Donte DiVincenzo, so the Wolves' backcourt shots funnel to Dosunmu. The Clippers are also short-handed (Ingram, Beal, Strus out; Hachimura questionable), which keeps the game playable for Minnesota's guards. Plus-money on a line that doesn't fully price the usage bump.",
-   "marketId": "742.194863382",
-   "selectionId": "41652478",
-   "marketIdMD": "724.195002139"
+   "reason": "McDaniels averages 6.6 rebounds this season (Basketball-Reference). With Anthony Edwards and Donte DiVincenzo out, Minnesota leans on him for more minutes, and the Clippers' frontcourt is depleted (Ingram, Beal, Strus, Miller out). Even money on a line a full board under his average.",
+   "marketId": "742.194863309",
+   "selectionId": "38988768"
   },
   {
-   "pick": "Andrew Wiggins Over 13.5 Points",
-   "market": "Andrew Wiggins - Points",
+   "pick": "Knicks @ 76ers Under 225.5 (Alt Total)",
+   "market": "Alternate Total Points",
+   "odds": 108,
+   "sport": "NBA",
+   "event": "New York Knicks @ Philadelphia 76ers",
+   "start": "Fri 7:40 PM ET",
+   "reason": "VSiN's ratings project this game under the main total of 227.5, and the 76ers are 13-0 to the Under on Fridays. Buying two points down to 225.5 still pays +106 while staying close to the projection.",
+   "marketId": "742.194836146",
+   "selectionId": "7707147",
+   "marketIdMD": "724.194974880"
+  },
+  {
+   "pick": "Wizards -1.5",
+   "market": "Spread",
    "odds": 100,
    "sport": "NBA",
-   "event": "Indiana Pacers @ Miami Heat",
-   "start": "Fri 8:10 PM ET",
-   "reason": "The Pacers are missing Tyrese Haliburton and Ivica Zubac, and this game has the highest total on the NBA board (236.5). Miami's Simone Fontecchio is questionable with illness, which would add wing minutes for Wiggins. Even money on a modest line in a fast, high-scoring script.",
-   "marketId": "742.194870756",
-   "selectionId": "12257194",
-   "marketIdMD": "724.195009493"
-  },
-  {
-   "pick": "Jets @ Panthers Over 6.5 Goals",
-   "market": "Total Goals 6.5",
-   "odds": 110,
-   "sport": "NHL",
-   "event": "Winnipeg Jets @ Florida Panthers",
+   "event": "Charlotte Hornets @ Washington Wizards",
    "start": "Fri 7:10 PM ET",
-   "reason": "Both projected starters (Nico Daws for Winnipeg, Akira Schmid for Florida) are sitting around an .885 save percentage. Winnipeg is without top defenseman Josh Morrissey, and both teams are leaking chances. At +110 we're getting plus-money on a game with two below-average goalies.",
-   "marketId": "742.194756108",
-   "selectionId": "7017911",
-   "marketIdMD": "724.194894850"
+   "reason": "Sharp money: 88-97% of the money is on Washington. Charlotte is short-handed, with Coby White, Grant Williams and Kon Knueppel out. -1.5 at even money is basically the moneyline, and it's cheaper.",
+   "marketId": "742.194415371",
+   "selectionId": "237485",
+   "marketIdMD": "724.194554112"
   },
   {
-   "pick": "Tulane -10.5 (Alt Spread)",
-   "market": "Alternate Spread",
-   "odds": 110,
-   "sport": "NCAAF",
-   "event": "Tulane @ Charlotte",
-   "start": "Fri 7:00 PM ET",
-   "reason": "Charlotte is 1-6 and has been one of the weakest offenses in the AAC. Tulane is 3-4, but its losses came against much better opponents. The main line is -9.5, and buying a point to -10.5 at +110 is a fair price for a win by two scores against a team this weak.",
-   "marketId": "742.193934345",
-   "selectionId": "48857855",
-   "marketIdMD": "724.194073080"
-  },
-  {
-   "pick": "Kyrie Irving Over 19.5 Points",
-   "market": "Kyrie Irving - Points",
-   "odds": 102,
+   "pick": "Pistons @ Nets Under 219.5 (Alt Total)",
+   "market": "Alternate Total Points",
+   "odds": 104,
    "sport": "NBA",
-   "event": "Houston Rockets @ Dallas Mavericks",
-   "start": "Fri 8:10 PM ET",
-   "reason": "Dallas is thin: Dereck Lively II and Sergio de Larrea are out, and Santi Aldama and Tarik Biberovic are doubtful, so the offense runs through Kyrie and Cooper Flagg. Houston may be without Alperen Sengun (back, questionable) and Marcus Smart (questionable), and Smart is their best perimeter defender. A low line at plus-money.",
-   "marketId": "742.194853916",
-   "selectionId": "12260613",
-   "marketIdMD": "724.194992689"
+   "event": "Detroit Pistons @ Brooklyn Nets",
+   "start": "Fri 7:40 PM ET",
+   "reason": "NEW NEWS STRENGTHENED THIS: this morning we had Under 222.5 in a parlay. Since then the betting splits show about 85% of the money on the Under from only 27% of tickets, which is classic sharp action. Jalen Duren is out for Detroit, which removes its putback offense, and Brooklyn has the league's weakest offense so far. Plus money at 219.5.",
+   "marketId": "742.194794100",
+   "selectionId": "7711254",
+   "marketIdMD": "724.194932840"
   }
  ],
  "parlays": [
   {
-   "name": "Injury-Edge NBA Favorites",
-   "odds": 144,
+   "name": "Sharp Money Parlay",
+   "odds": 518,
    "stake": 10,
-   "payout": 24.44,
-   "reason": "Three home favorites facing badly depleted opponents.",
+   "payout": 61.84,
+   "reason": "Three spots where the money from sharp bettors and the betting models point the same way.",
    "legs": [
-    {
-     "pick": "Miami Heat ML",
-     "market": "Moneyline",
-     "odds": -300,
-     "sport": "NBA",
-     "event": "Indiana Pacers @ Miami Heat",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Indiana is without Haliburton, Zubac, McConnell and Sheppard, so the Heat's frontcourt has a big edge at home.",
-     "marketId": "742.194415384",
-     "selectionId": "237486",
-     "marketIdMD": "724.194554122"
-    },
-    {
-     "pick": "Toronto Raptors ML",
-     "market": "Moneyline",
-     "odds": -230,
-     "sport": "NBA",
-     "event": "Orlando Magic @ Toronto Raptors",
-     "start": "Fri 7:40 PM ET",
-     "reason": "Orlando is gutted: Paolo Banchero, Jalen Suggs and Jonathan Isaac are out. Toronto is 3-1 at home even without Kawhi.",
-     "marketId": "742.194415368",
-     "selectionId": "237476",
-     "marketIdMD": "724.194554110"
-    },
-    {
-     "pick": "Detroit Pistons ML",
-     "market": "Moneyline",
-     "odds": -360,
-     "sport": "NBA",
-     "event": "Detroit Pistons @ Brooklyn Nets",
-     "start": "Fri 7:40 PM ET",
-     "reason": "Detroit is 4-1 and Brooklyn is 0-4. Jalen Duren's absence is the only knock.",
-     "marketId": "742.194415417",
-     "selectionId": "237474",
-     "marketIdMD": "724.194554156"
-    }
-   ]
-  },
-  {
-   "name": "Unders Trio",
-   "odds": 527,
-   "stake": 10,
-   "payout": 62.73,
-   "reason": "Three unders in games with strong goalies or defense, or weak offenses.",
-   "legs": [
-    {
-     "pick": "Devils @ Golden Knights Under 6.5",
-     "market": "Total Goals",
-     "odds": -132,
-     "sport": "NHL",
-     "event": "New Jersey Devils @ Vegas Golden Knights",
-     "start": "Fri 6:10 PM ET",
-     "reason": "Vegas is 9-4-1 with a structured defense, and if New Jersey starts Hellebuyck (.944) goals will be scarce.",
-     "marketId": "742.194748487",
-     "selectionId": "7017912",
-     "marketIdMD": "724.194887229"
-    },
-    {
-     "pick": "Pistons @ Nets Under 222.5",
-     "market": "Total Points",
-     "odds": -110,
-     "sport": "NBA",
-     "event": "Detroit Pistons @ Brooklyn Nets",
-     "start": "Fri 7:40 PM ET",
-     "reason": "Brooklyn has the league's weakest offense so far, and Detroit loses Duren's putbacks. The Pistons will grind this one.",
-     "marketId": "742.194757104",
-     "selectionId": "7017824",
-     "marketIdMD": "724.194895849"
-    },
-    {
-     "pick": "Baylor @ UCF Under 48.5",
-     "market": "Total Points",
-     "odds": -115,
-     "sport": "NCAAF",
-     "event": "Baylor @ UCF",
-     "start": "Fri 7:30 PM ET",
-     "reason": "Two 4-3 teams in a Friday-night game where both play at a moderate tempo. The market is shading toward the under at -115.",
-     "marketId": "742.193737521",
-     "selectionId": "7017917",
-     "marketIdMD": "724.193876256"
-    }
-   ]
-  },
-  {
-   "name": "1st-Quarter Scorers",
-   "odds": 128,
-   "stake": 10,
-   "payout": 22.8,
-   "reason": "Five primary scorers each clearing a low first-quarter bar.",
-   "legs": [
-    {
-     "pick": "Jalen Brunson 4+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 4+ Points",
-     "odds": -1200,
-     "sport": "NBA",
-     "event": "New York Knicks @ Philadelphia 76ers",
-     "start": "Fri 7:40 PM ET",
-     "reason": "Brunson's first-quarter usage is elite, and Alvarado being out tightens the rotation.",
-     "marketId": "742.194858885",
-     "selectionId": "21359550",
-     "marketIdMD": "724.194997616"
-    },
-    {
-     "pick": "Cooper Flagg 4+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 4+ Points",
-     "odds": -800,
-     "sport": "NBA",
-     "event": "Houston Rockets @ Dallas Mavericks",
-     "start": "Fri 8:10 PM ET",
-     "reason": "With Dallas this short-handed, Flagg is the first option out of the gate.",
-     "marketId": "742.194853986",
-     "selectionId": "75811215",
-     "marketIdMD": "724.194992729"
-    },
-    {
-     "pick": "Giannis 6+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 6+ Points",
-     "odds": -470,
-     "sport": "NBA",
-     "event": "Indiana Pacers @ Miami Heat",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Zubac is out, so Indiana has no size to slow Giannis early.",
-     "marketId": "742.194870757",
-     "selectionId": "7582836",
-     "marketIdMD": "724.195009489"
-    },
-    {
-     "pick": "Scottie Barnes 4+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 4+ Points",
-     "odds": -350,
-     "sport": "NBA",
-     "event": "Orlando Magic @ Toronto Raptors",
-     "start": "Fri 7:40 PM ET",
-     "reason": "Barnes carries the Raptors' offense with Kawhi out.",
-     "marketId": "742.194859716",
-     "selectionId": "36981603",
-     "marketIdMD": "724.194998434"
-    },
-    {
-     "pick": "Darius Garland 4+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 4+ Points",
-     "odds": -500,
-     "sport": "NBA",
-     "event": "Los Angeles Clippers @ Minnesota Timberwolves",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Garland is the Clippers' primary ball-handler with Ingram and Beal out.",
-     "marketId": "742.194863313",
-     "selectionId": "23316211",
-     "marketIdMD": "724.195002055"
-    }
-   ]
-  }
- ],
- "lottery": [
-  {
-   "name": "Best Shot $500K",
-   "odds": 10820108,
-   "stake": 5,
-   "payout": 541010.41,
-   "reason": "The 25 most likely legs we could find that still reach about 100,000-to-1, one per game, mostly favorites and short spreads. Every leg has to hit, so this is a true lottery ticket. Expect it to lose.",
-   "legs": [
-    {
-     "pick": "Shakhtar ML",
-     "market": "Moneyline (3-way)",
-     "odds": -1500,
-     "sport": "Soccer",
-     "event": "Shakhtar v Obolon-Brovar Kiev",
-     "start": "Fri 12:00 PM ET",
-     "reason": "Shakhtar is a massive home favorite over the bottom-table side Obolon.",
-     "marketId": "742.194061025",
-     "selectionId": "52495027",
-     "marketIdMD": "724.194199765"
-    },
-    {
-     "pick": "Zverev Wins in Straight Sets (Fery to win a set: No)",
-     "market": "Arthur Fery To Win At Least 1 Set",
-     "odds": -210,
-     "sport": "Tennis",
-     "event": "Alexander Zverev v Arthur Fery",
-     "start": "Fri 12:30 PM ET",
-     "reason": "Zverev is a -950 favorite. Fery rarely takes sets off top-10 players indoors.",
-     "marketId": "742.194805208",
-     "selectionId": "39849916",
-     "marketIdMD": "724.194943936"
-    },
     {
      "pick": "Celtics -15.5",
      "market": "Spread",
@@ -263,202 +87,22 @@
      "sport": "NBA",
      "event": "Chicago Bulls @ Boston Celtics",
      "start": "Fri 7:40 PM ET",
-     "reason": "Chicago is 1-4 and missing Claxton, with Patrick Williams, Jalen Smith and Tobe Awaka all questionable.",
+     "reason": "Sharp money is backing Boston. Chicago is 1-4 and missing Claxton, with Patrick Williams, Jalen Smith and Tobe Awaka questionable.",
      "marketId": "742.194415391",
      "selectionId": "60427",
      "marketIdMD": "724.194554128"
     },
     {
-     "pick": "Harvard -10.5",
-     "market": "Spread",
-     "odds": 100,
-     "sport": "NCAAF",
-     "event": "Harvard @ Dartmouth",
-     "start": "Fri 7:01 PM ET",
-     "reason": "Harvard is the Ivy powerhouse and a -375 favorite. Dartmouth's offense is limited.",
-     "marketId": "742.193773767",
-     "selectionId": "20568639",
-     "marketIdMD": "724.193912504"
-    },
-    {
-     "pick": "PSG ML",
-     "market": "Moneyline (3-way)",
-     "odds": -360,
-     "sport": "Soccer",
-     "event": "Le Havre v Paris St-G",
-     "start": "Fri 2:00 PM ET",
-     "reason": "Le Havre fights relegation every year, and PSG's depth wins this road game.",
-     "marketId": "742.192496345",
-     "selectionId": "489720",
-     "marketIdMD": "724.192635082"
-    },
-    {
-     "pick": "Jiri Lehecka ML",
-     "market": "Moneyline",
-     "odds": -340,
-     "sport": "Tennis",
-     "event": "Jerome Kym v Jiri Lehecka",
-     "start": "Fri 1:00 PM ET",
-     "reason": "Lehecka is a big step up in class over qualifier-level Kym in Basel.",
-     "marketId": "742.194833682",
-     "selectionId": "13203243",
-     "marketIdMD": "724.194972418"
-    },
-    {
-     "pick": "Tulane ML",
-     "market": "Moneyline",
-     "odds": -335,
-     "sport": "NCAAF",
-     "event": "Tulane @ Charlotte",
-     "start": "Fri 7:00 PM ET",
-     "reason": "Charlotte is 1-6.",
-     "marketId": "742.193737295",
-     "selectionId": "2137018",
-     "marketIdMD": "724.193876031"
-    },
-    {
-     "pick": "Kent State -7.5",
-     "market": "Spread",
-     "odds": -112,
-     "sport": "NCAAF",
-     "event": "Kent State @ Sacramento State",
-     "start": "Fri 10:30 PM ET",
-     "reason": "Sacramento State is 1-7, and Kent State is a -310 favorite.",
-     "marketId": "742.193737595",
-     "selectionId": "2174196",
-     "marketIdMD": "724.193876329"
-    },
-    {
-     "pick": "Timberwolves ML",
-     "market": "Moneyline",
-     "odds": -270,
-     "sport": "NBA",
-     "event": "Los Angeles Clippers @ Minnesota Timberwolves",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Even without Edwards, Minnesota is at home against a Clippers team missing Ingram, Beal and Strus.",
-     "marketId": "742.194415375",
-     "selectionId": "237478",
-     "marketIdMD": "724.194554114"
-    },
-    {
-     "pick": "Villarreal ML",
-     "market": "Moneyline (3-way)",
-     "odds": -270,
-     "sport": "Soccer",
-     "event": "Villarreal v Espanyol",
-     "start": "Fri 4:00 PM ET",
-     "reason": "Villarreal is a strong home side facing Espanyol, who struggle on the road.",
-     "marketId": "742.193952000",
-     "selectionId": "28191",
-     "marketIdMD": "724.194090739"
-    },
-    {
-     "pick": "Panthers ML",
-     "market": "Moneyline",
-     "odds": -235,
-     "sport": "NHL",
-     "event": "Winnipeg Jets @ Florida Panthers",
-     "start": "Fri 7:10 PM ET",
-     "reason": "Florida is at home against a Jets team without Morrissey and likely starting backup Daws.",
-     "marketId": "742.194756068",
-     "selectionId": "25608",
-     "marketIdMD": "724.194894808"
-    },
-    {
-     "pick": "de Minaur ML",
-     "market": "Moneyline",
-     "odds": -230,
-     "sport": "Tennis",
-     "event": "Matteo Berrettini v Alex de Minaur",
-     "start": "Fri 3:00 PM ET",
-     "reason": "De Minaur's consistency indoors beats Berrettini's serve-only game.",
-     "marketId": "742.194817945",
-     "selectionId": "10706482",
-     "marketIdMD": "724.194956679"
-    },
-    {
-     "pick": "Rockets ML",
-     "market": "Moneyline",
-     "odds": -225,
-     "sport": "NBA",
-     "event": "Houston Rockets @ Dallas Mavericks",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Houston is 5-0 and Dallas is missing four bigs.",
-     "marketId": "742.194415511",
-     "selectionId": "237488",
-     "marketIdMD": "724.194554241"
-    },
-    {
-     "pick": "Bodo/Glimt ML",
-     "market": "Moneyline (3-way)",
-     "odds": -195,
-     "sport": "Soccer",
-     "event": "Bodo Glimt v Viking",
-     "start": "Fri 2:00 PM ET",
-     "reason": "Bodo/Glimt is dominant at home on its artificial turf.",
-     "marketId": "742.193809900",
-     "selectionId": "373549",
-     "marketIdMD": "724.193948626"
-    },
-    {
-     "pick": "Nuggets ML",
-     "market": "Moneyline",
-     "odds": -186,
-     "sport": "NBA",
-     "event": "Denver Nuggets @ Phoenix Suns",
-     "start": "Fri 10:10 PM ET",
-     "reason": "Phoenix lost Mark Williams to shoulder surgery, and Denver is a -186 favorite.",
-     "marketId": "742.194415421",
-     "selectionId": "237492",
-     "marketIdMD": "724.194554158"
-    },
-    {
-     "pick": "Galatasaray ML",
-     "market": "Moneyline (3-way)",
-     "odds": -175,
-     "sport": "Soccer",
-     "event": "Konyaspor v Galatasaray",
-     "start": "Fri 1:00 PM ET",
-     "reason": "Galatasaray is the class of the Turkish league.",
-     "marketId": "742.193978041",
-     "selectionId": "2436",
-     "marketIdMD": "724.194116782"
-    },
-    {
-     "pick": "Lakers ML",
-     "market": "Moneyline",
-     "odds": -144,
-     "sport": "NBA",
-     "event": "Los Angeles Lakers @ Golden State Warriors",
-     "start": "Fri 10:10 PM ET",
-     "reason": "Luka is off the injury report, and Golden State is without Butler, Moody and Porzingis.",
-     "marketId": "742.194415406",
-     "selectionId": "5368712",
-     "marketIdMD": "724.194554143"
-    },
-    {
      "pick": "Baylor ML",
      "market": "Moneyline",
-     "odds": -134,
+     "odds": -132,
      "sport": "NCAAF",
      "event": "Baylor @ UCF",
      "start": "Fri 7:30 PM ET",
-     "reason": "Baylor is the market favorite and has the better quarterback play.",
+     "reason": "NEWS STRENGTHENED THIS (it was a morning Best Shot leg): Sharp money has come in on Baylor since the morning, and Baylor has the better quarterback play.",
      "marketId": "742.193737520",
      "selectionId": "2129112",
      "marketIdMD": "724.193876254"
-    },
-    {
-     "pick": "Al Ahli ML",
-     "market": "Moneyline (3-way)",
-     "odds": -130,
-     "sport": "Soccer",
-     "event": "Al-Shabab (KSA) v Al Ahli",
-     "start": "Fri 2:00 PM ET",
-     "reason": "Al Ahli has the stronger squad.",
-     "marketId": "742.194185287",
-     "selectionId": "1252792",
-     "marketIdMD": "724.194324027"
     },
     {
      "pick": "Knicks ML",
@@ -467,10 +111,182 @@
      "sport": "NBA",
      "event": "New York Knicks @ Philadelphia 76ers",
      "start": "Fri 7:40 PM ET",
-     "reason": "The line has moved toward New York (Philadelphia opened as a 3.5-point favorite), and Jaylen Brown is questionable.",
+     "reason": "The line has moved toward New York (Philadelphia opened as a 3.5-point favorite), and Jaylen Brown is questionable (knee).",
      "marketId": "742.194415373",
      "selectionId": "237482",
      "marketIdMD": "724.194554113"
+    }
+   ]
+  },
+  {
+   "name": "West Coast Late Window",
+   "odds": 385,
+   "stake": 10,
+   "payout": 48.52,
+   "reason": "Late games all settled on spreads or moneylines rather than this morning's lines: Lakers and Nuggets spreads, plus the Kent State ML.",
+   "legs": [
+    {
+     "pick": "Lakers -2.5",
+     "market": "Spread",
+     "odds": -118,
+     "sport": "NBA",
+     "event": "Los Angeles Lakers @ Golden State Warriors",
+     "start": "Fri 10:10 PM ET",
+     "reason": "NEWS: Luka Don\u010di\u0107 is off the injury report, and Golden State is without Butler, Moody and Porzi\u0146\u0123is.",
+     "marketId": "742.194415408",
+     "selectionId": "5368712",
+     "marketIdMD": "724.194554145"
+    },
+    {
+     "pick": "Nuggets -4.5",
+     "market": "Spread",
+     "odds": -108,
+     "sport": "NBA",
+     "event": "Denver Nuggets @ Phoenix Suns",
+     "start": "Fri 10:10 PM ET",
+     "reason": "Phoenix lost center Mark Williams to shoulder surgery, so Joki\u0107 should own the paint.",
+     "marketId": "742.194415419",
+     "selectionId": "237492",
+     "marketIdMD": "724.194554157"
+    },
+    {
+     "pick": "Kent State ML",
+     "market": "Moneyline",
+     "odds": -275,
+     "sport": "NCAAF",
+     "event": "Kent State @ Sacramento State",
+     "start": "Fri 10:30 PM ET",
+     "reason": "Projections have Kent winning about 27-20, roughly a 66% win probability, against a 1-7 Sacramento State team.",
+     "marketId": "742.193737593",
+     "selectionId": "2174196",
+     "marketIdMD": "724.193876328"
+    }
+   ]
+  },
+  {
+   "name": "Goalie & Pace Overs",
+   "odds": 599,
+   "stake": 10,
+   "payout": 69.89,
+   "reason": "Three overs: a confirmed bad-form goalie and two NBA games where the numbers lean high.",
+   "legs": [
+    {
+     "pick": "Kraken @ Flames Over 6.5",
+     "market": "Total Goals",
+     "odds": -104,
+     "sport": "NHL",
+     "event": "Seattle Kraken @ Calgary Flames",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Dustin Wolf is CONFIRMED in goal for Calgary (.839 save %, 4.81 GAA) with Devin Cooley hurt. Seattle's starter hasn't been confirmed.",
+     "marketId": "742.194750260",
+     "selectionId": "7017911",
+     "marketIdMD": "724.194889002"
+    },
+    {
+     "pick": "Nuggets @ Suns Over 231.5",
+     "market": "Total Points",
+     "odds": -106,
+     "sport": "NBA",
+     "event": "Denver Nuggets @ Phoenix Suns",
+     "start": "Fri 10:10 PM ET",
+     "reason": "Phoenix has no rim protector with Mark Williams out, and Denver's offense should feast.",
+     "marketId": "742.194812981",
+     "selectionId": "7017823",
+     "marketIdMD": "724.194951720"
+    },
+    {
+     "pick": "Bulls @ Celtics Over 234.5",
+     "market": "Total Points",
+     "odds": -120,
+     "sport": "NBA",
+     "event": "Chicago Bulls @ Boston Celtics",
+     "start": "Fri 7:40 PM ET",
+     "reason": "Chicago can't protect the rim without Claxton, and Boston's offense can push this total on its own.",
+     "marketId": "742.194812220",
+     "selectionId": "7017823",
+     "marketIdMD": "724.194950964"
+    }
+   ]
+  }
+ ],
+ "lottery": [
+  {
+   "name": "Best Shot $500K",
+   "odds": 9876655,
+   "stake": 5,
+   "payout": 493837.77,
+   "reason": "The 'Best Shot $500K' ticket: a $5 bet on 24 of today's highest-probability legs (one per game), combined to roughly 100,000-to-1 so it pays about $500K. NEWS-STRENGTHENED carryovers from the morning: Baylor, Celtics, Panthers, Kraken, Lakers, Villarreal.",
+   "legs": [
+    {
+     "pick": "Villarreal ML",
+     "market": "Moneyline (3-way)",
+     "odds": -270,
+     "sport": "Soccer",
+     "event": "Villarreal v Espanyol",
+     "start": "Fri 4:00 PM ET",
+     "reason": "Carried over from the morning ticket because it's still the strongest leg in that window. Villarreal's confirmed lineup is out (Gueye suspended). Espanyol are in poor form, just changed coaches (Manolo Gonz\u00e1lez out, Sergio Garc\u00eda in), and are missing Kike and Jofre.",
+     "marketId": "742.193952000",
+     "selectionId": "28191",
+     "marketIdMD": "724.194090739"
+    },
+    {
+     "pick": "Nathan Pitts ML",
+     "market": "Moneyline",
+     "odds": -3500,
+     "sport": "Tennis",
+     "event": "Nathan Pitts v Jacob Brisky",
+     "start": "Fri 4:20 PM ET",
+     "reason": "A -3500 favorite in a lower-tier event. The market makes him close to a lock; this one wasn't researched beyond the price.",
+     "marketId": "742.194880994",
+     "selectionId": "61419839"
+    },
+    {
+     "pick": "Leylah Fernandez ML",
+     "market": "Moneyline",
+     "odds": -340,
+     "sport": "Tennis",
+     "event": "Leylah Fernandez v Kamilla Rakhimova",
+     "start": "Fri 11:00 PM ET",
+     "reason": "A -340 favorite. Fernandez is the clearly higher-ranked player; the price is the main evidence here.",
+     "marketId": "742.194865911",
+     "selectionId": "11987709",
+     "marketIdMD": "724.195004649"
+    },
+    {
+     "pick": "Diana Shnaider ML",
+     "market": "Moneyline",
+     "odds": -260,
+     "sport": "Tennis",
+     "event": "Diana Shnaider v Mia Pohankova",
+     "start": "Sat 12:30 AM ET",
+     "reason": "A -260 favorite. Shnaider is the clearly higher-ranked player; the price is the main evidence here.",
+     "marketId": "742.194902123",
+     "selectionId": "41341015",
+     "marketIdMD": "724.195041009"
+    },
+    {
+     "pick": "Panthers ML",
+     "market": "Moneyline",
+     "odds": -235,
+     "sport": "NHL",
+     "event": "Winnipeg Jets @ Florida Panthers",
+     "start": "Fri 7:10 PM ET",
+     "reason": "NEWS STRENGTHENED THIS: Schmid is CONFIRMED in goal for Florida, which beat Winnipeg 5-1 on Tuesday. The Jets are on a 0-5-2 seven-game skid without Josh Morrissey.",
+     "marketId": "742.194756068",
+     "selectionId": "25608",
+     "marketIdMD": "724.194894808"
+    },
+    {
+     "pick": "Devils +1.5",
+     "market": "Puck Line",
+     "odds": -290,
+     "sport": "NHL",
+     "event": "New Jersey Devils @ Vegas Golden Knights",
+     "start": "Fri 6:10 PM ET",
+     "reason": "Vegas is only a modest favorite. +1.5 covers a one-goal Vegas win, and New Jersey may start Hellebuyck (.944).",
+     "marketId": "742.194748486",
+     "selectionId": "25586",
+     "marketIdMD": "724.194887228"
     },
     {
      "pick": "Kraken ML",
@@ -479,127 +295,292 @@
      "sport": "NHL",
      "event": "Seattle Kraken @ Calgary Flames",
      "start": "Fri 8:10 PM ET",
-     "reason": "Seattle is 8-4-1 against a 5-7 Calgary team.",
+     "reason": "NEWS STRENGTHENED THIS: Calgary confirmed Dustin Wolf in goal (.839, 4.81 GAA) with Cooley out. Seattle is 8-4-1 against a 5-7 Calgary team.",
      "marketId": "742.194748574",
      "selectionId": "40119153",
      "marketIdMD": "724.194887318"
     },
     {
-     "pick": "Struff ML",
+     "pick": "Harvard -9.5",
+     "market": "Spread",
+     "odds": -110,
+     "sport": "NCAAF",
+     "event": "Harvard @ Dartmouth",
+     "start": "Fri 7:01 PM ET",
+     "reason": "The line moved from -10.5 to -9.5 since the morning, which gives us a better number on the Ivy favorite (-350 ML).",
+     "marketId": "742.193773767",
+     "selectionId": "20568639",
+     "marketIdMD": "724.193912504"
+    },
+    {
+     "pick": "Kent State -7.5",
+     "market": "Spread",
+     "odds": 100,
+     "sport": "NCAAF",
+     "event": "Kent State @ Sacramento State",
+     "start": "Fri 10:30 PM ET",
+     "reason": "Carried over from the morning ticket. Sacramento State is 1-7, and projections of about 27-20 Kent support the cover.",
+     "marketId": "742.193737595",
+     "selectionId": "2174196",
+     "marketIdMD": "724.193876329"
+    },
+    {
+     "pick": "Baylor ML",
      "market": "Moneyline",
-     "odds": -120,
-     "sport": "Tennis",
-     "event": "Jan-Lennard Struff v Nuno Borges",
-     "start": "Fri 2:10 PM ET",
-     "reason": "Struff's big serve plays well on Basel's indoor hard court.",
-     "marketId": "742.194813382",
-     "selectionId": "8259098",
-     "marketIdMD": "724.194952111"
+     "odds": -132,
+     "sport": "NCAAF",
+     "event": "Baylor @ UCF",
+     "start": "Fri 7:30 PM ET",
+     "reason": "NEWS STRENGTHENED THIS: sharp money has come in on Baylor since the morning.",
+     "marketId": "742.193737520",
+     "selectionId": "2129112",
+     "marketIdMD": "724.193876254"
+    },
+    {
+     "pick": "Celtics -15.5",
+     "market": "Spread",
+     "odds": -104,
+     "sport": "NBA",
+     "event": "Chicago Bulls @ Boston Celtics",
+     "start": "Fri 7:40 PM ET",
+     "reason": "NEWS STRENGTHENED THIS: sharp money is on Boston. Chicago is 1-4 and without Claxton.",
+     "marketId": "742.194415391",
+     "selectionId": "60427",
+     "marketIdMD": "724.194554128"
+    },
+    {
+     "pick": "Pistons @ Nets Under 221.5",
+     "market": "Total Points",
+     "odds": -115,
+     "sport": "NBA",
+     "event": "Detroit Pistons @ Brooklyn Nets",
+     "start": "Fri 7:40 PM ET",
+     "reason": "85% of the money is on the Under from 27% of tickets, and Duren is out.",
+     "marketId": "742.194757104",
+     "selectionId": "7017824",
+     "marketIdMD": "724.194895849"
+    },
+    {
+     "pick": "Heat -7.5",
+     "market": "Spread",
+     "odds": -122,
+     "sport": "NBA",
+     "event": "Indiana Pacers @ Miami Heat",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Indiana is without Haliburton, Zubac, McConnell and Sheppard.",
+     "marketId": "742.194415386",
+     "selectionId": "237486",
+     "marketIdMD": "724.194554124"
+    },
+    {
+     "pick": "Timberwolves -7.5",
+     "market": "Spread",
+     "odds": -105,
+     "sport": "NBA",
+     "event": "Los Angeles Clippers @ Minnesota Timberwolves",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Minnesota is at home, and the Clippers are missing Ingram, Beal, Strus and Miller.",
+     "marketId": "742.194415376",
+     "selectionId": "237478",
+     "marketIdMD": "724.194554115"
+    },
+    {
+     "pick": "Raptors ML",
+     "market": "Moneyline",
+     "odds": -210,
+     "sport": "NBA",
+     "event": "Orlando Magic @ Toronto Raptors",
+     "start": "Fri 7:40 PM ET",
+     "reason": "Orlando is without Banchero, Suggs and Isaac, and Toronto is 3-1 at home.",
+     "marketId": "742.194415368",
+     "selectionId": "237476",
+     "marketIdMD": "724.194554110"
+    },
+    {
+     "pick": "Rockets ML",
+     "market": "Moneyline",
+     "odds": -230,
+     "sport": "NBA",
+     "event": "Houston Rockets @ Dallas Mavericks",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Dallas is without Lively and de Larrea, and Aldama and Biberovic are doubtful. Risk: Sengun and Smart are questionable.",
+     "marketId": "742.194415511",
+     "selectionId": "237488",
+     "marketIdMD": "724.194554241"
     },
     {
      "pick": "Wizards ML",
      "market": "Moneyline",
-     "odds": -118,
+     "odds": -108,
      "sport": "NBA",
      "event": "Charlotte Hornets @ Washington Wizards",
      "start": "Fri 7:10 PM ET",
-     "reason": "Charlotte is without Knueppel, Coby White and Grant Williams, and Schroder is questionable.",
+     "reason": "88-97% of the money is on Washington. Charlotte is missing White, Grant Williams and Knueppel.",
      "marketId": "742.194415372",
      "selectionId": "237485",
      "marketIdMD": "724.194554111"
     },
     {
-     "pick": "Bielefeld ML",
-     "market": "Moneyline (3-way)",
+     "pick": "Knicks @ 76ers Under 227.5",
+     "market": "Total Points",
      "odds": -110,
-     "sport": "Soccer",
-     "event": "Arminia Bielefeld v Braunschweig",
-     "start": "Fri 1:30 PM ET",
-     "reason": "Bielefeld is a strong home side against Braunschweig.",
-     "marketId": "742.193972424",
-     "selectionId": "347829",
-     "marketIdMD": "724.194111170"
+     "sport": "NBA",
+     "event": "New York Knicks @ Philadelphia 76ers",
+     "start": "Fri 7:40 PM ET",
+     "reason": "VSiN's top under projection, and the 76ers are 13-0 to the Under on Fridays.",
+     "marketId": "742.194746466",
+     "selectionId": "7017824",
+     "marketIdMD": "724.194885210"
     },
     {
-     "pick": "Golden Knights ML",
+     "pick": "Lakers ML",
      "market": "Moneyline",
-     "odds": -110,
-     "sport": "NHL",
-     "event": "New Jersey Devils @ Vegas Golden Knights",
-     "start": "Fri 6:10 PM ET",
-     "reason": "Vegas is 9-4-1 at home, and New Jersey's starting goalie is a toss-up.",
-     "marketId": "742.194748483",
-     "selectionId": "13305501",
-     "marketIdMD": "724.194887224"
+     "odds": -146,
+     "sport": "NBA",
+     "event": "Los Angeles Lakers @ Golden State Warriors",
+     "start": "Fri 10:10 PM ET",
+     "reason": "NEWS STRENGTHENED THIS: Luka is officially off the injury report, and the Warriors are missing three rotation players.",
+     "marketId": "742.194415406",
+     "selectionId": "5368712",
+     "marketIdMD": "724.194554143"
+    },
+    {
+     "pick": "Nuggets -4.5",
+     "market": "Spread",
+     "odds": -108,
+     "sport": "NBA",
+     "event": "Denver Nuggets @ Phoenix Suns",
+     "start": "Fri 10:10 PM ET",
+     "reason": "Phoenix lost Mark Williams to shoulder surgery, and Denver should control the paint.",
+     "marketId": "742.194415419",
+     "selectionId": "237492",
+     "marketIdMD": "724.194554157"
+    },
+    {
+     "pick": "\u00c1guilas de Mexicali ML (LMP)",
+     "market": "Moneyline",
+     "odds": -172,
+     "sport": "Baseball",
+     "event": "Aguilas de Mexicali @ Mayos de Navojoa",
+     "start": "Fri 10:30 PM ET",
+     "reason": "Mexicali is 9-5 and Navojoa is 4-10, second-worst in the Mexican Pacific League.",
+     "marketId": "742.194928418",
+     "selectionId": "12034277",
+     "marketIdMD": "724.195067154"
+    },
+    {
+     "pick": "Algodoneros de Guasave ML (LMP)",
+     "market": "Moneyline",
+     "odds": -150,
+     "sport": "Baseball",
+     "event": "Yaquis de Obregon @ Algodonerose Guasave",
+     "start": "Fri 10:30 PM ET",
+     "reason": "Guasave leads the Mexican Pacific League at 11-3, facing 8-6 Obreg\u00f3n.",
+     "marketId": "742.194928829",
+     "selectionId": "61846698",
+     "marketIdMD": "724.195067565"
+    },
+    {
+     "pick": "Naranjeros de Hermosillo ML (LMP)",
+     "market": "Moneyline",
+     "odds": -122,
+     "sport": "Baseball",
+     "event": "Naranjeros de Hermosillo @ Caneros De Los Mochis",
+     "start": "Fri 10:30 PM ET",
+     "reason": "Hermosillo is 9-5, facing 5-9 Los Mochis.",
+     "marketId": "742.194928748",
+     "selectionId": "61846701",
+     "marketIdMD": "724.195067484"
+    },
+    {
+     "pick": "Flamengo ML (NBB Brazil)",
+     "market": "Moneyline",
+     "odds": -2000,
+     "sport": "Basketball",
+     "event": "Flamengo Rio De Janeiro v Caxias do Sul",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Flamengo is a -2000 favorite, a near-certain filler leg. Research is limited, so this relies on the market price.",
+     "marketId": "742.194624968",
+     "selectionId": "9009303",
+     "marketIdMD": "724.194763708"
     }
    ]
   },
   {
-   "name": "NBA/NHL Star Props Lottery",
-   "odds": 11397,
+   "name": "Injury-Usage Props Lottery",
+   "odds": 5830,
    "stake": 5,
-   "payout": 574.84,
-   "reason": "Five plus-money star props spread across five different games.",
+   "payout": 296.51,
+   "reason": "Six player overs where injuries push extra minutes and usage to the player.",
    "legs": [
     {
-     "pick": "Joel Embiid 8+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 8+ Points",
-     "odds": 144,
+     "pick": "Cade Cunningham Over 5.5 Rebounds",
+     "market": "Cade Cunningham - Rebounds",
+     "odds": 106,
+     "sport": "NBA",
+     "event": "Detroit Pistons @ Brooklyn Nets",
+     "start": "Fri 7:40 PM ET",
+     "reason": "Cade averages 5.6 rebounds, and Jalen Duren is out, so more boards are available.",
+     "marketId": "742.194865096",
+     "selectionId": "41536747"
+    },
+    {
+     "pick": "Anthony Davis Over 21.5 Points",
+     "market": "Anthony Davis - Points",
+     "odds": 102,
+     "sport": "NBA",
+     "event": "Charlotte Hornets @ Washington Wizards",
+     "start": "Fri 7:10 PM ET",
+     "reason": "Davis is averaging 21.8 points this season, just above this line, at plus money.",
+     "marketId": "742.194851227",
+     "selectionId": "12260628",
+     "marketIdMD": "724.194989964"
+    },
+    {
+     "pick": "Scottie Barnes Over 7.5 Rebounds",
+     "market": "Scottie Barnes - Rebounds",
+     "odds": 102,
+     "sport": "NBA",
+     "event": "Orlando Magic @ Toronto Raptors",
+     "start": "Fri 7:40 PM ET",
+     "reason": "Barnes averages 7.3 rebounds and carries Toronto with Kawhi out. Orlando is without Banchero and Isaac.",
+     "marketId": "742.194859792",
+     "selectionId": "40221569"
+    },
+    {
+     "pick": "Jaden McDaniels Over 5.5 Rebounds",
+     "market": "Jaden McDaniels - Rebounds",
+     "odds": 100,
+     "sport": "NBA",
+     "event": "Los Angeles Clippers @ Minnesota Timberwolves",
+     "start": "Fri 8:10 PM ET",
+     "reason": "McDaniels averages 6.6 rebounds, and Minnesota is without Edwards and DiVincenzo.",
+     "marketId": "742.194863309",
+     "selectionId": "38988768"
+    },
+    {
+     "pick": "Stephen Curry Over 24.5 Points",
+     "market": "Stephen Curry - Points",
+     "odds": -128,
+     "sport": "NBA",
+     "event": "Los Angeles Lakers @ Golden State Warriors",
+     "start": "Fri 10:10 PM ET",
+     "reason": "Curry averages 28.8 points, and Golden State is without Butler, Moody and Porzi\u0146\u0123is, so his usage goes up.",
+     "marketId": "742.194850413",
+     "selectionId": "12260597",
+     "marketIdMD": "724.194989138"
+    },
+    {
+     "pick": "VJ Edgecombe Over 11.5 Points",
+     "market": "VJ Edgecombe - Points",
+     "odds": -102,
      "sport": "NBA",
      "event": "New York Knicks @ Philadelphia 76ers",
      "start": "Fri 7:40 PM ET",
-     "reason": "If Jaylen Brown (knee) sits, Embiid's early usage spikes.",
-     "marketId": "742.194858878",
-     "selectionId": "8520903",
-     "marketIdMD": "724.194997612"
-    },
-    {
-     "pick": "Kevin Durant 8+ Pts 1st Qtr",
-     "market": "1st Quarter - To Score 8+ Points",
-     "odds": 148,
-     "sport": "NBA",
-     "event": "Houston Rockets @ Dallas Mavericks",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Durant gets even more touches if Sengun is out, and Dallas has lost frontcourt depth.",
-     "marketId": "742.194854064",
-     "selectionId": "2387617",
-     "marketIdMD": "724.194992810"
-    },
-    {
-     "pick": "Jack Eichel 2+ Points",
-     "market": "2+ Points",
-     "odds": 172,
-     "sport": "NHL",
-     "event": "New Jersey Devils @ Vegas Golden Knights",
-     "start": "Fri 6:10 PM ET",
-     "reason": "Vegas' top center is driving their offense on a 9-4-1 start.",
-     "marketId": "742.194871336",
-     "selectionId": "12496383",
-     "marketIdMD": "724.195010076"
-    },
-    {
-     "pick": "Matthew Tkachuk 2+ Points",
-     "market": "2+ Points",
-     "odds": 154,
-     "sport": "NHL",
-     "event": "Winnipeg Jets @ Florida Panthers",
-     "start": "Fri 7:10 PM ET",
-     "reason": "With Barkov and Marchand out, Tkachuk is Florida's focal point, facing a .885 goalie.",
-     "marketId": "742.194819500",
-     "selectionId": "12452414",
-     "marketIdMD": "724.194958236"
-    },
-    {
-     "pick": "Bobby McMann Anytime Goal",
-     "market": "Anytime Goal Scorer",
-     "odds": 175,
-     "sport": "NHL",
-     "event": "Seattle Kraken @ Calgary Flames",
-     "start": "Fri 8:10 PM ET",
-     "reason": "He's the favorite to score in this game, and Calgary's Dustin Wolf has a .839 save percentage.",
-     "marketId": "742.194824090",
-     "selectionId": "51771299",
-     "marketIdMD": "724.194962827"
+     "reason": "Jaylen Brown is questionable, so Edgecombe could be in line for more shots.",
+     "marketId": "742.194858215",
+     "selectionId": "75784960",
+     "marketIdMD": "724.194996977"
     }
    ]
   }
@@ -608,18 +589,90 @@
   "singles": {
    "won": 0,
    "lost": 0,
-   "pending": 5
+   "pending": 11
   },
   "parlays": {
    "won": 0,
    "lost": 0,
-   "pending": 3
+   "pending": 6
   },
   "lottery": {
    "won": 0,
    "lost": 0,
-   "pending": 2
+   "pending": 4
   },
-  "history": []
+  "history": [
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "single",
+    "pick": "Ayo Dosunmu Over 16.5 Points",
+    "odds": 102
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "single",
+    "pick": "Andrew Wiggins Over 13.5 Points",
+    "odds": 100
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "single",
+    "pick": "Jets @ Panthers Over 6.5 Goals",
+    "odds": 110
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "single",
+    "pick": "Tulane -10.5 (Alt Spread)",
+    "odds": 110
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "single",
+    "pick": "Kyrie Irving Over 19.5 Points",
+    "odds": 102
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "parlay",
+    "pick": "Injury-Edge NBA Favorites",
+    "odds": 144
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "parlay",
+    "pick": "Unders Trio",
+    "odds": 527
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "parlay",
+    "pick": "1st-Quarter Scorers",
+    "odds": 128
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "lottery",
+    "pick": "Best Shot $500K",
+    "odds": 10820108,
+    "note": "5 day legs already WON (Shakhtar, Zverev straight sets, PSG, Lehecka, Galatasaray); Al Ahli trailing 1-3 at HT (likely loss, not final); Bodo/Glimt, Struff, Bielefeld, de Minaur not yet verified"
+   },
+   {
+    "result": "pending",
+    "date": "Fri Oct 30 (10:30 AM run)",
+    "type": "lottery",
+    "pick": "NBA/NHL Star Props Lottery",
+    "odds": 11397
+   }
+  ]
  }
 }
