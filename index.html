@@ -1,9 +1,9 @@
-<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!doctype html><html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Claude's Sports Bot</title><style>
 :root{--bg:#0e1116;--card:#171b22;--fg:#e8ecf1;--mut:#8b95a3;--acc:#1493ff;--ok:#2fbf71;--bad:#e5484d;--bd:#262c36}
 [data-theme=light]{--bg:#f5f7fa;--card:#fff;--fg:#141820;--mut:#5b6573;--bd:#dde2e8}
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,sans-serif;background:var(--bg);color:var(--fg)}
-header{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--bd);position:sticky;top:0;background:var(--bg)}
+header{display:flex;justify-content:space-between;align-items:center;padding:14px 18px;border-bottom:1px solid var(--bd);flex-wrap:wrap;gap:8px;position:sticky;top:0;z-index:9;background:var(--bg)}
 h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{margin:22px 0 8px}
 .card{background:var(--card);border:1px solid var(--bd);border-radius:12px;padding:14px;margin:10px 0}
 .row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.odds{font-weight:700;color:var(--ok)}
@@ -11,7 +11,7 @@ h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{m
 #tg{background:var(--card);color:var(--fg);border:1px solid var(--bd)}ol{padding-left:20px}li{margin:6px 0}
 .stat{display:inline-block;margin-right:16px}.w{color:var(--ok)}.l{color:var(--bad)}footer{padding:20px;text-align:center}
 </style></head><body>
-<header><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><button id="st" class="btn" style="margin:0 0 0 6px"></button></header>
+<header><!-- v1529 --><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><span class="st" role="group" aria-label="Betting state"><button type="button" class="btn" data-s="PA" style="margin:0">PA</button><button type="button" class="btn" data-s="MD" style="margin:0 0 0 4px">MD</button></span></header>
 <main><p class="mut" id="upd"></p>
 <h2>Single Legs (+100 or longer)</h2><div id="singles"></div>
 <h2>Parlays</h2><div id="parlays"></div>
@@ -30,10 +30,10 @@ const fmt=o=>o==null?'':(o>0?'+'+o:o);
 function link(legs,fb){const ok=legs.filter(l=>mid(l)&&l.selectionId);
  if(ok.length===legs.length&&ok.length)return 'https://sportsbook.fanduel.com/addToBetslip?'+ok.map((l,i)=>'marketId['+i+']='+encodeURIComponent(mid(l))+'&selectionId['+i+']='+encodeURIComponent(l.selectionId)).join('&');
  return fb||legs.find(l=>l.eventUrl)?.eventUrl||'https://sportsbook.fanduel.com/'}
-function btn(legs,fb,label){const all=legs.every(l=>mid(l)&&l.selectionId);return `<a class="btn" href="${e(link(legs,fb))}">${all?label:'Open game in FanDuel (IDs not verified)'}</a>`}
-function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div>${mid(l)&&l.selectionId?`<a class="btn" style="padding:2px 8px;font-size:.8em" href="${e(link([l]))}">+ Add this leg</a>`:''}</li>`}
+function btn(legs,fb,label){const all=legs.every(l=>mid(l)&&l.selectionId);return `<a class="btn fd" target="_blank" rel="noopener" href="${e(link(legs,fb))}">${all?label:'Open game in FanDuel (IDs not verified)'}</a>`}
+function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div>${mid(l)&&l.selectionId?`<a class="btn fd" target="_blank" rel="noopener" style="padding:2px 8px;font-size:.8em" href="${e(link([l]))}">+ Add this leg</a>`:''}</li>`}
 const empty='<div class="card mut">No picks yet. Picks post around 10:30 AM and 3:00 PM ET.</div>';
-const sb=document.getElementById('st');sb.textContent='📍 '+ST+' (tap for '+(ST==='PA'?'MD':'PA')+')';sb.onclick=()=>{localStorage.csbState=ST==='PA'?'MD':'PA';location.reload()};
+document.querySelectorAll('.st button').forEach(b=>{b.style.opacity=b.dataset.s===ST?1:.45;b.style.fontWeight=b.dataset.s===ST?700:400;b.onclick=()=>{localStorage.csbState=b.dataset.s;location.reload()}});
 fetch('picks.json?'+Date.now()).then(x=>x.json()).then(d=>{
  document.getElementById('upd').textContent=d.updated?('Updated '+d.updated+' · '+(d.run||'')):(d.run||'');
  singles.innerHTML=d.singles.length?d.singles.map(l=>`<div class="card"><div class="row"><div><b>${e(l.pick)}</b> <span class="mut">${e(l.market||'')}</span></div><span class="odds">${fmt(l.odds)}</span></div><div class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</div><p>${e(l.reason)}</p>${btn([l],l.eventUrl,'Add to FanDuel Bet Slip')}</div>`).join(''):empty;
