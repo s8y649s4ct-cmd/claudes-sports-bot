@@ -14,7 +14,7 @@ info={}
 def scan(o):
   for m in ((o.get('attachments') or {}).get('markets') or {}).values():
     if m.get('marketId') in need: info[m['marketId']]=m
-for f in glob.glob('/workspace/*.json')+glob.glob('/workspace/kfsp/.cache/*'):
+for f in glob.glob('/workspace/kfsp/.cache/*')+sorted(glob.glob('/workspace/*.json'),key=__import__('os').path.getmtime):
   try: scan(json.load(open(f)))
   except Exception: pass
 if need-set(info):
