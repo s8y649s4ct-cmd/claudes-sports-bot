@@ -11,7 +11,7 @@ h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{m
 #tg{background:var(--card);color:var(--fg);border:1px solid var(--bd)}ol{padding-left:20px}li{margin:6px 0}
 .stat{display:inline-block;margin-right:16px}.w{color:var(--ok)}.l{color:var(--bad)}footer{padding:20px;text-align:center}
 </style></head><body>
-<header><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button></header>
+<header><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><button id="st" class="btn" style="margin:0 0 0 6px"></button></header>
 <main><p class="mut" id="upd"></p>
 <h2>Single Legs (+100 or longer)</h2><div id="singles"></div>
 <h2>Parlays</h2><div id="parlays"></div>
@@ -20,18 +20,20 @@ h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{m
 <div class="card mut">Picks are research, not guarantees. No model can be 100% accurate, and long parlays lose most of the time. Only bet what you can afford to lose. 21+. Gambling problem? Call <b>1-800-GAMBLER</b>. Buttons open FanDuel Sportsbook and add the legs to your bet slip; you set the stake and confirm. If a FanDuel ID couldn't be verified, the button opens the game page instead.</div>
 </main><footer class="mut">Claude's Sports Bot</footer>
 <script>
+let ST=localStorage.csbState==='MD'?'MD':'PA';const mid=l=>ST==='MD'?l.marketIdMD:l.marketId;
 const r=document.documentElement,tg=document.getElementById('tg');
 function setT(t){r.dataset.theme=t;localStorage.csbTheme=t;tg.textContent=t==='dark'?'☀️ Light':'🌙 Dark'}
 setT(localStorage.csbTheme||(matchMedia('(prefers-color-scheme: light)').matches?'light':'dark'));
 tg.onclick=()=>setT(r.dataset.theme==='dark'?'light':'dark');
 const e=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const fmt=o=>o==null?'':(o>0?'+'+o:o);
-function link(legs,fb){const ok=legs.filter(l=>l.marketId&&l.selectionId);
- if(ok.length===legs.length&&ok.length)return 'https://sportsbook.fanduel.com/addToBetslip?'+ok.map((l,i)=>'marketId['+i+']='+encodeURIComponent(l.marketId)+'&selectionId['+i+']='+encodeURIComponent(l.selectionId)).join('&');
+function link(legs,fb){const ok=legs.filter(l=>mid(l)&&l.selectionId);
+ if(ok.length===legs.length&&ok.length)return 'https://sportsbook.fanduel.com/addToBetslip?'+ok.map((l,i)=>'marketId['+i+']='+encodeURIComponent(mid(l))+'&selectionId['+i+']='+encodeURIComponent(l.selectionId)).join('&');
  return fb||legs.find(l=>l.eventUrl)?.eventUrl||'https://sportsbook.fanduel.com/'}
-function btn(legs,fb,label){const all=legs.every(l=>l.marketId&&l.selectionId);return `<a class="btn" href="${e(link(legs,fb))}">${all?label:'Open game in FanDuel (IDs not verified)'}</a>`}
-function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div>${l.marketId&&l.selectionId?`<a class="btn" style="padding:2px 8px;font-size:.8em" href="${e(link([l]))}">+ Add this leg</a>`:''}</li>`}
+function btn(legs,fb,label){const all=legs.every(l=>mid(l)&&l.selectionId);return `<a class="btn" href="${e(link(legs,fb))}">${all?label:'Open game in FanDuel (IDs not verified)'}</a>`}
+function leg(l){return `<li><b>${e(l.pick)}</b> <span class="odds">${fmt(l.odds)}</span> <span class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</span><div class="mut">${e(l.reason)}</div>${mid(l)&&l.selectionId?`<a class="btn" style="padding:2px 8px;font-size:.8em" href="${e(link([l]))}">+ Add this leg</a>`:''}</li>`}
 const empty='<div class="card mut">No picks yet. Picks post around 10:30 AM and 3:00 PM ET.</div>';
+const sb=document.getElementById('st');sb.textContent='📍 '+ST+' (tap for '+(ST==='PA'?'MD':'PA')+')';sb.onclick=()=>{localStorage.csbState=ST==='PA'?'MD':'PA';location.reload()};
 fetch('picks.json?'+Date.now()).then(x=>x.json()).then(d=>{
  document.getElementById('upd').textContent=d.updated?('Updated '+d.updated+' · '+(d.run||'')):(d.run||'');
  singles.innerHTML=d.singles.length?d.singles.map(l=>`<div class="card"><div class="row"><div><b>${e(l.pick)}</b> <span class="mut">${e(l.market||'')}</span></div><span class="odds">${fmt(l.odds)}</span></div><div class="mut">${e(l.sport)} · ${e(l.event)} · ${e(l.start)}</div><p>${e(l.reason)}</p>${btn([l],l.eventUrl,'Add to FanDuel Bet Slip')}</div>`).join(''):empty;

@@ -11,7 +11,8 @@
    "start": "Fri 8:10 PM ET",
    "reason": "Minnesota is without Anthony Edwards (knee procedure Thursday) and Donte DiVincenzo, so the Wolves' backcourt shots funnel to Dosunmu. The Clippers are also short-handed (Ingram, Beal, Strus out; Hachimura questionable), which keeps the game playable for Minnesota's guards. Plus-money on a line that doesn't fully price the usage bump.",
    "marketId": "742.194863382",
-   "selectionId": "41652478"
+   "selectionId": "41652478",
+   "marketIdMD": "724.195002139"
   },
   {
    "pick": "Andrew Wiggins Over 13.5 Points",
@@ -22,7 +23,8 @@
    "start": "Fri 8:10 PM ET",
    "reason": "The Pacers are missing Tyrese Haliburton and Ivica Zubac, and this game has the highest total on the NBA board (236.5). Miami's Simone Fontecchio is questionable with illness, which would add wing minutes for Wiggins. Even money on a modest line in a fast, high-scoring script.",
    "marketId": "742.194870756",
-   "selectionId": "12257194"
+   "selectionId": "12257194",
+   "marketIdMD": "724.195009493"
   },
   {
    "pick": "Jets @ Panthers Over 6.5 Goals",
@@ -33,7 +35,8 @@
    "start": "Fri 7:10 PM ET",
    "reason": "Both projected starters (Nico Daws for Winnipeg, Akira Schmid for Florida) are sitting around an .885 save percentage. Winnipeg is without top defenseman Josh Morrissey, and both teams are leaking chances. At +110 we're getting plus-money on a game with two below-average goalies.",
    "marketId": "742.194756108",
-   "selectionId": "7017911"
+   "selectionId": "7017911",
+   "marketIdMD": "724.194894850"
   },
   {
    "pick": "Tulane -10.5 (Alt Spread)",
@@ -44,7 +47,8 @@
    "start": "Fri 7:00 PM ET",
    "reason": "Charlotte is 1-6 and has been one of the weakest offenses in the AAC. Tulane is 3-4, but its losses came against much better opponents. The main line is -9.5, and buying a point to -10.5 at +110 is a fair price for a win by two scores against a team this weak.",
    "marketId": "742.193934345",
-   "selectionId": "48857855"
+   "selectionId": "48857855",
+   "marketIdMD": "724.194073080"
   },
   {
    "pick": "Kyrie Irving Over 19.5 Points",
@@ -55,7 +59,8 @@
    "start": "Fri 8:10 PM ET",
    "reason": "Dallas is thin: Dereck Lively II and Sergio de Larrea are out, and Santi Aldama and Tarik Biberovic are doubtful, so the offense runs through Kyrie and Cooper Flagg. Houston may be without Alperen Sengun (back, questionable) and Marcus Smart (questionable), and Smart is their best perimeter defender. A low line at plus-money.",
    "marketId": "742.194853916",
-   "selectionId": "12260613"
+   "selectionId": "12260613",
+   "marketIdMD": "724.194992689"
   }
  ],
  "parlays": [
@@ -75,7 +80,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Indiana is without Haliburton, Zubac, McConnell and Sheppard, so the Heat's frontcourt has a big edge at home.",
      "marketId": "742.194415384",
-     "selectionId": "237486"
+     "selectionId": "237486",
+     "marketIdMD": "724.194554122"
     },
     {
      "pick": "Toronto Raptors ML",
@@ -86,7 +92,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Orlando is gutted: Paolo Banchero, Jalen Suggs and Jonathan Isaac are out. Toronto is 3-1 at home even without Kawhi.",
      "marketId": "742.194415368",
-     "selectionId": "237476"
+     "selectionId": "237476",
+     "marketIdMD": "724.194554110"
     },
     {
      "pick": "Detroit Pistons ML",
@@ -97,7 +104,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Detroit is 4-1 and Brooklyn is 0-4. Jalen Duren's absence is the only knock.",
      "marketId": "742.194415417",
-     "selectionId": "237474"
+     "selectionId": "237474",
+     "marketIdMD": "724.194554156"
     }
    ]
   },
@@ -117,7 +125,8 @@
      "start": "Fri 6:10 PM ET",
      "reason": "Vegas is 9-4-1 with a structured defense, and if New Jersey starts Hellebuyck (.944) goals will be scarce.",
      "marketId": "742.194748487",
-     "selectionId": "7017912"
+     "selectionId": "7017912",
+     "marketIdMD": "724.194887229"
     },
     {
      "pick": "Pistons @ Nets Under 222.5",
@@ -128,7 +137,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Brooklyn has the league's weakest offense so far, and Detroit loses Duren's putbacks. The Pistons will grind this one.",
      "marketId": "742.194757104",
-     "selectionId": "7017824"
+     "selectionId": "7017824",
+     "marketIdMD": "724.194895849"
     },
     {
      "pick": "Baylor @ UCF Under 48.5",
@@ -139,7 +149,8 @@
      "start": "Fri 7:30 PM ET",
      "reason": "Two 4-3 teams in a Friday-night game where both play at a moderate tempo. The market is shading toward the under at -115.",
      "marketId": "742.193737521",
-     "selectionId": "7017917"
+     "selectionId": "7017917",
+     "marketIdMD": "724.193876256"
     }
    ]
   },
@@ -159,7 +170,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Brunson's first-quarter usage is elite, and Alvarado being out tightens the rotation.",
      "marketId": "742.194858885",
-     "selectionId": "21359550"
+     "selectionId": "21359550",
+     "marketIdMD": "724.194997616"
     },
     {
      "pick": "Cooper Flagg 4+ Pts 1st Qtr",
@@ -170,7 +182,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "With Dallas this short-handed, Flagg is the first option out of the gate.",
      "marketId": "742.194853986",
-     "selectionId": "75811215"
+     "selectionId": "75811215",
+     "marketIdMD": "724.194992729"
     },
     {
      "pick": "Giannis 6+ Pts 1st Qtr",
@@ -181,7 +194,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Zubac is out, so Indiana has no size to slow Giannis early.",
      "marketId": "742.194870757",
-     "selectionId": "7582836"
+     "selectionId": "7582836",
+     "marketIdMD": "724.195009489"
     },
     {
      "pick": "Scottie Barnes 4+ Pts 1st Qtr",
@@ -192,7 +206,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Barnes carries the Raptors' offense with Kawhi out.",
      "marketId": "742.194859716",
-     "selectionId": "36981603"
+     "selectionId": "36981603",
+     "marketIdMD": "724.194998434"
     },
     {
      "pick": "Darius Garland 4+ Pts 1st Qtr",
@@ -203,7 +218,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Garland is the Clippers' primary ball-handler with Ingram and Beal out.",
      "marketId": "742.194863313",
-     "selectionId": "23316211"
+     "selectionId": "23316211",
+     "marketIdMD": "724.195002055"
     }
    ]
   }
@@ -225,7 +241,8 @@
      "start": "Fri 12:00 PM ET",
      "reason": "Shakhtar is a massive home favorite over the bottom-table side Obolon.",
      "marketId": "742.194061025",
-     "selectionId": "52495027"
+     "selectionId": "52495027",
+     "marketIdMD": "724.194199765"
     },
     {
      "pick": "Zverev Wins in Straight Sets (Fery to win a set: No)",
@@ -236,7 +253,8 @@
      "start": "Fri 12:30 PM ET",
      "reason": "Zverev is a -950 favorite. Fery rarely takes sets off top-10 players indoors.",
      "marketId": "742.194805208",
-     "selectionId": "39849916"
+     "selectionId": "39849916",
+     "marketIdMD": "724.194943936"
     },
     {
      "pick": "Celtics -15.5",
@@ -247,7 +265,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "Chicago is 1-4 and missing Claxton, with Patrick Williams, Jalen Smith and Tobe Awaka all questionable.",
      "marketId": "742.194415391",
-     "selectionId": "60427"
+     "selectionId": "60427",
+     "marketIdMD": "724.194554128"
     },
     {
      "pick": "Harvard -10.5",
@@ -258,7 +277,8 @@
      "start": "Fri 7:01 PM ET",
      "reason": "Harvard is the Ivy powerhouse and a -375 favorite. Dartmouth's offense is limited.",
      "marketId": "742.193773767",
-     "selectionId": "20568639"
+     "selectionId": "20568639",
+     "marketIdMD": "724.193912504"
     },
     {
      "pick": "PSG ML",
@@ -269,7 +289,8 @@
      "start": "Fri 2:00 PM ET",
      "reason": "Le Havre fights relegation every year, and PSG's depth wins this road game.",
      "marketId": "742.192496345",
-     "selectionId": "489720"
+     "selectionId": "489720",
+     "marketIdMD": "724.192635082"
     },
     {
      "pick": "Jiri Lehecka ML",
@@ -280,7 +301,8 @@
      "start": "Fri 1:00 PM ET",
      "reason": "Lehecka is a big step up in class over qualifier-level Kym in Basel.",
      "marketId": "742.194833682",
-     "selectionId": "13203243"
+     "selectionId": "13203243",
+     "marketIdMD": "724.194972418"
     },
     {
      "pick": "Tulane ML",
@@ -291,7 +313,8 @@
      "start": "Fri 7:00 PM ET",
      "reason": "Charlotte is 1-6.",
      "marketId": "742.193737295",
-     "selectionId": "2137018"
+     "selectionId": "2137018",
+     "marketIdMD": "724.193876031"
     },
     {
      "pick": "Kent State -7.5",
@@ -302,7 +325,8 @@
      "start": "Fri 10:30 PM ET",
      "reason": "Sacramento State is 1-7, and Kent State is a -310 favorite.",
      "marketId": "742.193737595",
-     "selectionId": "2174196"
+     "selectionId": "2174196",
+     "marketIdMD": "724.193876329"
     },
     {
      "pick": "Timberwolves ML",
@@ -313,7 +337,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Even without Edwards, Minnesota is at home against a Clippers team missing Ingram, Beal and Strus.",
      "marketId": "742.194415375",
-     "selectionId": "237478"
+     "selectionId": "237478",
+     "marketIdMD": "724.194554114"
     },
     {
      "pick": "Villarreal ML",
@@ -324,7 +349,8 @@
      "start": "Fri 4:00 PM ET",
      "reason": "Villarreal is a strong home side facing Espanyol, who struggle on the road.",
      "marketId": "742.193952000",
-     "selectionId": "28191"
+     "selectionId": "28191",
+     "marketIdMD": "724.194090739"
     },
     {
      "pick": "Panthers ML",
@@ -335,7 +361,8 @@
      "start": "Fri 7:10 PM ET",
      "reason": "Florida is at home against a Jets team without Morrissey and likely starting backup Daws.",
      "marketId": "742.194756068",
-     "selectionId": "25608"
+     "selectionId": "25608",
+     "marketIdMD": "724.194894808"
     },
     {
      "pick": "de Minaur ML",
@@ -346,7 +373,8 @@
      "start": "Fri 3:00 PM ET",
      "reason": "De Minaur's consistency indoors beats Berrettini's serve-only game.",
      "marketId": "742.194817945",
-     "selectionId": "10706482"
+     "selectionId": "10706482",
+     "marketIdMD": "724.194956679"
     },
     {
      "pick": "Rockets ML",
@@ -357,7 +385,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Houston is 5-0 and Dallas is missing four bigs.",
      "marketId": "742.194415511",
-     "selectionId": "237488"
+     "selectionId": "237488",
+     "marketIdMD": "724.194554241"
     },
     {
      "pick": "Bodo/Glimt ML",
@@ -368,7 +397,8 @@
      "start": "Fri 2:00 PM ET",
      "reason": "Bodo/Glimt is dominant at home on its artificial turf.",
      "marketId": "742.193809900",
-     "selectionId": "373549"
+     "selectionId": "373549",
+     "marketIdMD": "724.193948626"
     },
     {
      "pick": "Nuggets ML",
@@ -379,7 +409,8 @@
      "start": "Fri 10:10 PM ET",
      "reason": "Phoenix lost Mark Williams to shoulder surgery, and Denver is a -186 favorite.",
      "marketId": "742.194415421",
-     "selectionId": "237492"
+     "selectionId": "237492",
+     "marketIdMD": "724.194554158"
     },
     {
      "pick": "Galatasaray ML",
@@ -390,7 +421,8 @@
      "start": "Fri 1:00 PM ET",
      "reason": "Galatasaray is the class of the Turkish league.",
      "marketId": "742.193978041",
-     "selectionId": "2436"
+     "selectionId": "2436",
+     "marketIdMD": "724.194116782"
     },
     {
      "pick": "Lakers ML",
@@ -401,7 +433,8 @@
      "start": "Fri 10:10 PM ET",
      "reason": "Luka is off the injury report, and Golden State is without Butler, Moody and Porzingis.",
      "marketId": "742.194415406",
-     "selectionId": "5368712"
+     "selectionId": "5368712",
+     "marketIdMD": "724.194554143"
     },
     {
      "pick": "Baylor ML",
@@ -412,7 +445,8 @@
      "start": "Fri 7:30 PM ET",
      "reason": "Baylor is the market favorite and has the better quarterback play.",
      "marketId": "742.193737520",
-     "selectionId": "2129112"
+     "selectionId": "2129112",
+     "marketIdMD": "724.193876254"
     },
     {
      "pick": "Al Ahli ML",
@@ -423,7 +457,8 @@
      "start": "Fri 2:00 PM ET",
      "reason": "Al Ahli has the stronger squad.",
      "marketId": "742.194185287",
-     "selectionId": "1252792"
+     "selectionId": "1252792",
+     "marketIdMD": "724.194324027"
     },
     {
      "pick": "Knicks ML",
@@ -434,7 +469,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "The line has moved toward New York (Philadelphia opened as a 3.5-point favorite), and Jaylen Brown is questionable.",
      "marketId": "742.194415373",
-     "selectionId": "237482"
+     "selectionId": "237482",
+     "marketIdMD": "724.194554113"
     },
     {
      "pick": "Kraken ML",
@@ -445,7 +481,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Seattle is 8-4-1 against a 5-7 Calgary team.",
      "marketId": "742.194748574",
-     "selectionId": "40119153"
+     "selectionId": "40119153",
+     "marketIdMD": "724.194887318"
     },
     {
      "pick": "Struff ML",
@@ -456,7 +493,8 @@
      "start": "Fri 2:10 PM ET",
      "reason": "Struff's big serve plays well on Basel's indoor hard court.",
      "marketId": "742.194813382",
-     "selectionId": "8259098"
+     "selectionId": "8259098",
+     "marketIdMD": "724.194952111"
     },
     {
      "pick": "Wizards ML",
@@ -467,7 +505,8 @@
      "start": "Fri 7:10 PM ET",
      "reason": "Charlotte is without Knueppel, Coby White and Grant Williams, and Schroder is questionable.",
      "marketId": "742.194415372",
-     "selectionId": "237485"
+     "selectionId": "237485",
+     "marketIdMD": "724.194554111"
     },
     {
      "pick": "Bielefeld ML",
@@ -478,7 +517,8 @@
      "start": "Fri 1:30 PM ET",
      "reason": "Bielefeld is a strong home side against Braunschweig.",
      "marketId": "742.193972424",
-     "selectionId": "347829"
+     "selectionId": "347829",
+     "marketIdMD": "724.194111170"
     },
     {
      "pick": "Golden Knights ML",
@@ -489,7 +529,8 @@
      "start": "Fri 6:10 PM ET",
      "reason": "Vegas is 9-4-1 at home, and New Jersey's starting goalie is a toss-up.",
      "marketId": "742.194748483",
-     "selectionId": "13305501"
+     "selectionId": "13305501",
+     "marketIdMD": "724.194887224"
     }
    ]
   },
@@ -509,7 +550,8 @@
      "start": "Fri 7:40 PM ET",
      "reason": "If Jaylen Brown (knee) sits, Embiid's early usage spikes.",
      "marketId": "742.194858878",
-     "selectionId": "8520903"
+     "selectionId": "8520903",
+     "marketIdMD": "724.194997612"
     },
     {
      "pick": "Kevin Durant 8+ Pts 1st Qtr",
@@ -520,7 +562,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "Durant gets even more touches if Sengun is out, and Dallas has lost frontcourt depth.",
      "marketId": "742.194854064",
-     "selectionId": "2387617"
+     "selectionId": "2387617",
+     "marketIdMD": "724.194992810"
     },
     {
      "pick": "Jack Eichel 2+ Points",
@@ -531,7 +574,8 @@
      "start": "Fri 6:10 PM ET",
      "reason": "Vegas' top center is driving their offense on a 9-4-1 start.",
      "marketId": "742.194871336",
-     "selectionId": "12496383"
+     "selectionId": "12496383",
+     "marketIdMD": "724.195010076"
     },
     {
      "pick": "Matthew Tkachuk 2+ Points",
@@ -542,7 +586,8 @@
      "start": "Fri 7:10 PM ET",
      "reason": "With Barkov and Marchand out, Tkachuk is Florida's focal point, facing a .885 goalie.",
      "marketId": "742.194819500",
-     "selectionId": "12452414"
+     "selectionId": "12452414",
+     "marketIdMD": "724.194958236"
     },
     {
      "pick": "Bobby McMann Anytime Goal",
@@ -553,7 +598,8 @@
      "start": "Fri 8:10 PM ET",
      "reason": "He's the favorite to score in this game, and Calgary's Dustin Wolf has a .839 save percentage.",
      "marketId": "742.194824090",
-     "selectionId": "51771299"
+     "selectionId": "51771299",
+     "marketIdMD": "724.194962827"
     }
    ]
   }
