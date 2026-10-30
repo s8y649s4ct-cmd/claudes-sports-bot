@@ -1,11 +1,11 @@
 {
- "updated": "Fri Oct 30, 2026 3:13 PM ET",
+ "updated": "Fri Oct 30, 2026 3:14 PM ET",
  "run": "3:00 PM ET run \u00b7 odds verified from FanDuel PA sportsbook data",
  "singles": [
   {
    "pick": "VJ Edgecombe Over 5.5 Rebounds",
    "market": "VJ Edgecombe - Rebounds",
-   "odds": 106,
+   "odds": 108,
    "sport": "NBA",
    "event": "New York Knicks @ Philadelphia 76ers",
    "start": "Fri 7:40 PM ET",
@@ -41,7 +41,7 @@
   {
    "pick": "Knicks @ 76ers Under 225.5 (Alt Total)",
    "market": "Alternate Total Points",
-   "odds": 108,
+   "odds": 110,
    "sport": "NBA",
    "event": "New York Knicks @ Philadelphia 76ers",
    "start": "Fri 7:40 PM ET",
@@ -78,9 +78,9 @@
  "parlays": [
   {
    "name": "Sharp Money Parlay",
-   "odds": 518,
+   "odds": 506,
    "stake": 10,
-   "payout": 61.84,
+   "payout": 60.59,
    "reason": "Three spots where the money from sharp bettors and the betting models point the same way.",
    "legs": [
     {
@@ -110,7 +110,7 @@
     {
      "pick": "Knicks ML",
      "market": "Moneyline",
-     "odds": -126,
+     "odds": -132,
      "sport": "NBA",
      "event": "New York Knicks @ Philadelphia 76ers",
      "start": "Fri 7:40 PM ET",
@@ -198,13 +198,13 @@
      "marketIdMD": "724.194951720"
     },
     {
-     "pick": "Bulls @ Celtics Over 234.5",
+     "pick": "Bulls @ Celtics Over 235.5",
      "market": "Total Points",
      "odds": -120,
      "sport": "NBA",
      "event": "Chicago Bulls @ Boston Celtics",
      "start": "Fri 7:40 PM ET",
-     "reason": "Chicago can't protect the rim without Claxton, and Boston's offense can push this total on its own.",
+     "reason": "Chicago can't protect the rim without Claxton, and Boston's offense can push this total on its own. (The line moved up a point from 234.5, which matches the over lean.)",
      "marketId": "742.194812220",
      "selectionId": "7017823"
     }
@@ -214,9 +214,9 @@
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 9971624,
+   "odds": 10114691,
    "stake": 5,
-   "payout": 498586.21,
+   "payout": 505739.53,
    "reason": "The 'Best Shot $500K' ticket: a $5 bet on 23 of today's highest-probability legs (one per game), combined to roughly 100,000-to-1 so it pays about $500K. NEWS-STRENGTHENED carryovers from the morning: Baylor, Celtics, Panthers, Kraken, Lakers, Villarreal.",
    "legs": [
     {
@@ -366,7 +366,7 @@
     {
      "pick": "Timberwolves -7.5",
      "market": "Spread",
-     "odds": -105,
+     "odds": -102,
      "sport": "NBA",
      "event": "Los Angeles Clippers @ Minnesota Timberwolves",
      "start": "Fri 8:10 PM ET",
@@ -499,9 +499,9 @@
   },
   {
    "name": "Injury-Usage Props Lottery",
-   "odds": 5830,
+   "odds": 5889,
    "stake": 5,
-   "payout": 296.51,
+   "payout": 299.45,
    "reason": "Six player overs where injuries push extra minutes and usage to the player.",
    "legs": [
     {
@@ -567,7 +567,7 @@
     {
      "pick": "VJ Edgecombe Over 11.5 Points",
      "market": "VJ Edgecombe - Points",
-     "odds": -102,
+     "odds": 100,
      "sport": "NBA",
      "event": "New York Knicks @ Philadelphia 76ers",
      "start": "Fri 7:40 PM ET",
