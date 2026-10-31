@@ -8,7 +8,7 @@ Append a new dated section after every grading pass. Read this before building p
 - **singles**: 7-4 (63.6%), profit $33.4 on $110 staked
 - **parlays**: 1-5 (16.7%), profit $9.89 on $60 staked
 - **lottery**: 0-4 (0.0%), profit $-20 on $20 staked
-- legs: 49 hit / 37 miss / 4 pending (LMP x3, Flamengo NBB unverified)
+- legs: 49 hit / 37 miss / 4 pending (LMP x3, Flamengo NBB unverified)  _(updated 10/31 10:30 AM: 50 hit / 37 miss / 0 pending / 3 void)_
 
 ### Top lessons
 1. Coin-flip moneylines (-110 to -150) killed the long tickets: 0-4 in the morning Best Shot. Lottery legs need ~75%+ true probability.
@@ -44,3 +44,21 @@ Append a new dated section after every grading pass. Read this before building p
 - 3:00 PM Pistons @ Nets Under 219.5 (Alt Total) +104: won (204 total). Reasoning held up; keep this angle.
 
 Sources: ESPN box scores & play-by-play (NBA/NHL/NCAAF/soccer/tennis), shakhtar.com (Shakhtar 2-0 Obolon)
+
+## 2026-10-31 10:30 AM ET run
+**Graded this run (open legs from the 10/30 3:00 PM Best Shot, which had already lost):**
+- Flamengo ML (NBB): ✅ HIT. Flamengo won 77-59 vs Caxias do Sul.
+- Mexicali ML, Guasave ML, Hermosillo ML (Mexican winter league): ➖ VOID. All three games were postponed by rain on 10/30. Ticket results and totals don't change.
+- Record unchanged: overall 8-13 (singles 7-4, parlays 1-5, lottery 0-4), +$23.29 on $190. Legs: 50 hit, 37 miss, 3 void.
+
+*New lesson:* Mexican winter-league (and other outdoor winter-league) baseball games get postponed by weather. A postponed leg is voided and only shortens the payout. Prefer leagues with reliable schedules for Best Shot legs.
+
+**How the lessons changed today's picks:**
+1. **No coin-flip moneylines in lotteries (75%+ legs only).** Left out HOU/OKC, PHI/CHA, Oilers -132 and Canadiens -142. The Best Shot uses favorites from -176 to -430, plus spreads around -110 only where research backs the margin (Cal's cross-country noon kickoff, Iowa State's QB depth, Arizona State's 0-2 road ATS record and Keene questionable).
+2. **No NBA spreads of 12 or more.** The biggest NBA spread used is Cavs -10.5, against a 1-4 Bucks team with a -10.8 differential. The other NBA favorites are on the moneyline.
+3. **No leg reuse across tickets.** Every selection appears once across all 11 picks, and each ticket uses one leg per game. Same-event conflicts were removed: the Cincinnati team total came out of the Best Shot because Utah -7.5 is on it, and the Cavs ML came out of the ladder.
+4. **Goalie/pace overs and shots-on-goal props instead of goal props.** The Goalie & Pace Overs parlay uses alternate 5.5 totals against weak goalies. The NHL ladder uses 3+ shots on goal for high-volume shooters instead of goal-scorer props.
+5. **Props only when the line is 1.5+ below the recent average.** Skipped the SGA points prop because the line was above his 26.0 PPG.
+6. **Safe parlays limited to 2-3 legs.** All three parlays have 3 legs.
+7. **CFB unders only in low-scoring, non-blowout games.** Wisconsin/Iowa (both offenses weak, Iowa lost RB Moulton), Ohio State/USC, and the Mississippi State team total. No blowout-game unders.
+8. **Check the underdog's health before backing a favorite.** The QB-Injury parlay (SMU, Michigan, Texas) and the TCU leg (Kansas QB Marshall is questionable) were built from injury reports. Odds were refreshed at 10:22 AM ET, and the Wisconsin/Iowa single moved from Under 35.5 (-113) to Under 34.5 (+100) to keep it at plus money.
