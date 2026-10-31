@@ -81,7 +81,8 @@
      "reason": "Memphis is 5-0. Sacramento is winless and without Keegan Murray, Cardwell, Raynaud and Simmons (we checked the underdog's health). Covers' model rates Memphis 79%+.",
      "marketId": "742.194673457",
      "selectionId": "237491",
-     "marketIdMD": "724.194812197"
+     "marketIdMD": "724.194812197",
+     "eventId": 36253909
     },
     {
      "pick": "Portland Trail Blazers ML",
@@ -93,7 +94,8 @@
      "reason": "Utah is without Jaren Jackson Jr. and Nurkic, and Markkanen is questionable. Covers' simulation makes Portland a 67% winner.",
      "marketId": "742.194673461",
      "selectionId": "237480",
-     "marketIdMD": "724.194812203"
+     "marketIdMD": "724.194812203",
+     "eventId": 36253910
     },
     {
      "pick": "San Antonio Spurs ML",
@@ -105,7 +107,8 @@
      "reason": "Minnesota is without both Anthony Edwards and Donte DiVincenzo. San Antonio is at home with Wembanyama, and the line is -590.",
      "marketId": "742.194673464",
      "selectionId": "237471",
-     "marketIdMD": "724.194812204"
+     "marketIdMD": "724.194812204",
+     "eventId": 36253911
     }
    ]
   },
@@ -126,7 +129,8 @@
      "reason": "Ottawa's Linus Ersson (.849 save percentage) or Ullmark faces a Sharks team that scores at home behind Celebrini. Taking the alt line one goal below the 6.5 main total.",
      "marketId": "742.195049322",
      "selectionId": "8359772",
-     "marketIdMD": "724.195188063"
+     "marketIdMD": "724.195188063",
+     "eventId": 36258919
     },
     {
      "pick": "Maple Leafs @ Canucks Over 5.5 Goals",
@@ -138,7 +142,8 @@
      "reason": "Stolarz (.907) vs Merilainen (.898) and a high-event matchup. The main total is 6.5 with the over juiced to -128, so 5.5 gives us a goal of cushion.",
      "marketId": "742.195048979",
      "selectionId": "8359772",
-     "marketIdMD": "724.195187717"
+     "marketIdMD": "724.195187717",
+     "eventId": 36258921
     },
     {
      "pick": "Hawks @ Pelicans Over 233.5",
@@ -150,7 +155,8 @@
      "reason": "Atlanta plays one of the fastest paces in the league, and New Orleans is without Poole and Missi, losing a defensive anchor. The main total is 240.5, so 233.5 gives us 7 points of cushion.",
      "marketId": "742.195022679",
      "selectionId": "7711875",
-     "marketIdMD": "724.195161421"
+     "marketIdMD": "724.195161421",
+     "eventId": 36253908
     }
    ]
   },
@@ -171,7 +177,8 @@
      "reason": "Syracuse's QB room is in shambles: Amari Odom and Malachi Nelson are out after surgery, and Steve Angeli is questionable.",
      "marketId": "742.193737669",
      "selectionId": "4242049",
-     "marketIdMD": "724.193876403"
+     "marketIdMD": "724.193876403",
+     "eventId": 36236561
     },
     {
      "pick": "Michigan ML",
@@ -183,7 +190,8 @@
      "reason": "Rutgers QB Dylan Lonergan is out with a head injury, so AJ Surace or Sean Ashenfelder (2-of-9 last week) starts.",
      "marketId": "742.193739016",
      "selectionId": "484729",
-     "marketIdMD": "724.193877752"
+     "marketIdMD": "724.193877752",
+     "eventId": 36236580
     },
     {
      "pick": "Texas ML",
@@ -195,7 +203,8 @@
      "reason": "Mississippi State QB Kamario Taylor is out for the season. The offense scored 0 and 15 in Parker Puckett's starts.",
      "marketId": "742.193742412",
      "selectionId": "484725",
-     "marketIdMD": "724.193881146"
+     "marketIdMD": "724.193881146",
+     "eventId": 36236623
     }
    ]
   }
@@ -203,10 +212,10 @@
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 10353993,
+   "odds": 10677942,
    "stake": 5,
-   "payout": 517704.64,
-   "reason": "A $5 ticket on 25 legs, one per game, built to roughly 100,000-to-1 (about $500K). Every leg comes from today's research: short-handed opponents (Pelicans without Poole/Missi, Bucks 1-4), weak goalies (Merilainen, Knight, Talbot, Luukkonen, Sergeev), college QB injuries (Kansas, Iowa State), and a Navy team total under based on Notre Dame's record against the academies. Following lessons.md: no coin-flip moneylines from -110 to -150, no NBA spreads of 12 or more, and no leg reused from any other ticket today. Reaching the 100,000-to-1 target means taking some spreads at about -110 instead of moneylines.",
+   "payout": 533902.09,
+   "reason": "A $5 ticket on 25 legs, one per game, built to roughly 100,000-to-1 (about $500K). Every leg comes from today's research: short-handed opponents (Pelicans without Poole/Missi, Bucks 1-4), weak goalies (Merilainen, Knight, Talbot, Luukkonen, Sergeev), college QB injuries (Kansas, Iowa State), and a Navy team total under based on Notre Dame's record against the academies. Following lessons.md: no coin-flip moneylines from -110 to -150, no NBA spreads of 12 or more, and no leg reused from any other ticket today. Reaching the 100,000-to-1 target means taking some spreads at about -110 instead of moneylines. Fixed at 11:10 AM ET: Zverev (match starting 11:30 AM ET), Colgate (FCS feed) and the Kings team total were swapped out because FanDuel said the legs couldn't be combined.",
    "legs": [
     {
      "pick": "Hawks ML",
@@ -218,7 +227,8 @@
      "reason": "New Orleans is without Poole and Missi. Covers projects Atlanta at 68% vs the 64% implied, and the line has moved toward the Hawks.",
      "marketId": "742.194673400",
      "selectionId": "237490",
-     "marketIdMD": "724.194812140"
+     "marketIdMD": "724.194812140",
+     "eventId": 36253908
     },
     {
      "pick": "Maple Leafs ML",
@@ -230,7 +240,8 @@
      "reason": "Vancouver's Merilainen has a .898 save percentage, and Toronto (-192) has the deeper scoring lineup.",
      "marketId": "742.194922819",
      "selectionId": "25600",
-     "marketIdMD": "724.195061556"
+     "marketIdMD": "724.195061556",
+     "eventId": 36258921
     },
     {
      "pick": "Stars ML",
@@ -242,7 +253,8 @@
      "reason": "Oettinger is at home against Columbus' Talbot (.894).",
      "marketId": "742.194922832",
      "selectionId": "25612",
-     "marketIdMD": "724.195061568"
+     "marketIdMD": "724.195061568",
+     "eventId": 36258924
     },
     {
      "pick": "Bruins ML",
@@ -254,7 +266,8 @@
      "reason": "Chicago's Knight (.897) faces a Bruins team at home (-230).",
      "marketId": "742.194922417",
      "selectionId": "25596",
-     "marketIdMD": "724.195061153"
+     "marketIdMD": "724.195061153",
+     "eventId": 36258911
     },
     {
      "pick": "Roma ML (90 min)",
@@ -266,7 +279,8 @@
      "reason": "Roma is 3rd and unbeaten in Serie A. Udinese is 17th, winless in 6, and missing 5 players including Solet and Bayo (Sports Mole, Gazzetta).",
      "marketId": "742.194226293",
      "selectionId": "56967",
-     "marketIdMD": "724.194365043"
+     "marketIdMD": "724.194365043",
+     "eventId": 36246853
     },
     {
      "pick": "LA Galaxy ML (90 min)",
@@ -278,7 +292,8 @@
      "reason": "The Galaxy are unbeaten in 7 home games, fully fit, and chasing playoff positioning. Austin is out of contention (beIN Sports, Austin FC preview).",
      "marketId": "742.194614412",
      "selectionId": "2658589",
-     "marketIdMD": "724.194753152"
+     "marketIdMD": "724.194753152",
+     "eventId": 36253167
     },
     {
      "pick": "Columbus Crew ML (90 min)",
@@ -290,7 +305,8 @@
      "reason": "Columbus is a -240 home favorite over DC United.",
      "marketId": "742.194614943",
      "selectionId": "171903",
-     "marketIdMD": "724.194753675"
+     "marketIdMD": "724.194753675",
+     "eventId": 36253169
     },
     {
      "pick": "Utah -7.5",
@@ -302,19 +318,21 @@
      "reason": "Utah's defense has allowed 3 first-quarter points all season. Cincinnati is in a letdown spot after a top-10 upset of Texas Tech (NBC Sports).",
      "marketId": "742.193741366",
      "selectionId": "532780",
-     "marketIdMD": "724.193880102"
+     "marketIdMD": "724.193880102",
+     "eventId": 36236607
     },
     {
      "pick": "Texas Tech ML",
      "market": "Moneyline",
-     "odds": -166,
+     "odds": -170,
      "sport": "NCAAF",
      "event": "Arizona @ Texas Tech",
      "start": "Sat 12:00 PM ET",
      "reason": "Texas Tech is 13-3 ATS off a loss since 2022, the best mark in the NCAA (NBC Sports), and plays at home.",
      "marketId": "742.193354161",
      "selectionId": "662040",
-     "marketIdMD": "724.193492897"
+     "marketIdMD": "724.193492897",
+     "eventId": 36226911
     },
     {
      "pick": "Cavaliers -10.5",
@@ -326,7 +344,8 @@
      "reason": "Milwaukee is 1-4 with a -10.8 point differential. The spread is under our 12-point cap.",
      "marketId": "742.194673460",
      "selectionId": "60424",
-     "marketIdMD": "724.194812199"
+     "marketIdMD": "724.194812199",
+     "eventId": 36253912
     },
     {
      "pick": "Avalanche -1.5 Puck Line",
@@ -338,7 +357,8 @@
      "reason": "Colorado is a -430 home favorite, and Calgary's Sergeev is a backup-level goalie. Wins like this tend to come by multiple goals.",
      "marketId": "742.194922845",
      "selectionId": "25602",
-     "marketIdMD": "724.195061581"
+     "marketIdMD": "724.195061581",
+     "eventId": 36258922
     },
     {
      "pick": "BYU -16.5",
@@ -350,19 +370,21 @@
      "reason": "BYU is in a bounce-back spot. Arizona State is 0-2 ATS on the road (28-point losses at Texas A&M and Texas Tech), and QB Keene is questionable (NBC Sports pick).",
      "marketId": "742.193740070",
      "selectionId": "567122",
-     "marketIdMD": "724.193878804"
+     "marketIdMD": "724.193878804",
+     "eventId": 36236593
     },
     {
      "pick": "Navy Team Total Under 13.5 (Alt)",
      "market": "Navy Alternate Total",
-     "odds": -154,
+     "odds": -164,
      "sport": "NCAAF",
      "event": "Notre Dame @ Navy",
      "start": "Sat 12:00 PM ET",
      "reason": "Notre Dame has held the service academies to 41 total points in their last four meetings. The Irish are coming off a bye with an elite defense.",
      "marketId": "742.193934952",
      "selectionId": "14159947",
-     "marketIdMD": "724.194073688"
+     "marketIdMD": "724.194073688",
+     "eventId": 36236572
     },
     {
      "pick": "Duke ML",
@@ -374,7 +396,8 @@
      "reason": "Duke is a -265 home favorite over Boston College.",
      "marketId": "742.193738171",
      "selectionId": "975037",
-     "marketIdMD": "724.193876907"
+     "marketIdMD": "724.193876907",
+     "eventId": 36236573
     },
     {
      "pick": "NC State -9.5",
@@ -386,7 +409,8 @@
      "reason": "NC State is a -320 favorite (ML), and Cal has to travel cross-country for a noon ET kickoff (9 AM body clock).",
      "marketId": "742.193738666",
      "selectionId": "484737",
-     "marketIdMD": "724.193877401"
+     "marketIdMD": "724.193877401",
+     "eventId": 36236575
     },
     {
      "pick": "Nebraska ML",
@@ -398,7 +422,8 @@
      "reason": "Nebraska is a -300 home favorite under the lights.",
      "marketId": "742.193346273",
      "selectionId": "70350",
-     "marketIdMD": "724.193485011"
+     "marketIdMD": "724.193485011",
+     "eventId": 36226804
     },
     {
      "pick": "Memphis ML",
@@ -410,7 +435,8 @@
      "reason": "Memphis' offense should outscore Army's option attack at home.",
      "marketId": "742.193742489",
      "selectionId": "975027",
-     "marketIdMD": "724.193881225"
+     "marketIdMD": "724.193881225",
+     "eventId": 36236629
     },
     {
      "pick": "TCU ML",
@@ -422,7 +448,8 @@
      "reason": "Kansas QB Isaiah Marshall was downgraded to questionable ('banged up'). TCU is at home.",
      "marketId": "742.193740935",
      "selectionId": "567126",
-     "marketIdMD": "724.193879670"
+     "marketIdMD": "724.193879670",
+     "eventId": 36236601
     },
     {
      "pick": "Argonauts ML",
@@ -434,19 +461,21 @@
      "reason": "Toronto is a -210 home favorite over Winnipeg.",
      "marketId": "742.193722995",
      "selectionId": "414029",
-     "marketIdMD": "724.193861729"
+     "marketIdMD": "724.193861729",
+     "eventId": 36236119
     },
     {
-     "pick": "Zverev ML",
+     "pick": "Pittsburgh ML",
      "market": "Moneyline",
-     "odds": -300,
-     "sport": "Tennis",
-     "event": "Alexander Zverev v Alex de Minaur",
-     "start": "Sat 11:30 AM ET",
-     "reason": "Zverev is a -300 favorite over de Minaur on an indoor hard court in Paris.",
-     "marketId": "742.194990222",
-     "selectionId": "19924823",
-     "marketIdMD": "724.195128945"
+     "odds": -295,
+     "sport": "NCAAF",
+     "event": "Georgia Tech @ Pittsburgh",
+     "start": "Sat 7:30 PM ET",
+     "marketId": "742.193742350",
+     "selectionId": "35981654",
+     "reason": "Georgia Tech (2-5) lists 16 players out, including LT Mackenny, LG Peay, LB Efford, RB Hosley and two safeties, and allows 210 rushing yards a game. Pitt gets top RB Damon Ferguson Jr. back. Dry weather (56F, light wind). Pitt is a 7.5-point home favorite.",
+     "eventId": 36236622,
+     "marketIdMD": "724.193881085"
     },
     {
      "pick": "Oklahoma State -9.5",
@@ -458,31 +487,34 @@
      "reason": "Oklahoma State is a -350 favorite (ML). Iowa State's QB depth is thin (backup Moberly is questionable after playing last week).",
      "marketId": "742.193742131",
      "selectionId": "673442",
-     "marketIdMD": "724.193880867"
+     "marketIdMD": "724.193880867",
+     "eventId": 36236617
     },
     {
-     "pick": "Colgate ML (FCS)",
+     "pick": "Ohio State ML",
      "market": "Moneyline",
-     "odds": -480,
+     "odds": -220,
      "sport": "NCAAF",
-     "event": "William & Mary @ Colgate",
-     "start": "Sat 1:01 PM ET",
-     "reason": "Colgate is a -480 home favorite over William & Mary.",
-     "marketId": "742.193773744",
-     "selectionId": "661911",
-     "marketIdMD": "724.193912479"
+     "event": "Ohio State @ USC",
+     "start": "Sat 7:30 PM ET",
+     "marketId": "742.193354403",
+     "selectionId": "484727",
+     "reason": "Ohio State's defense fits the same low-scoring read as the Under 49.5 single; a grind-it-out game favors the deeper roster. Replaces Colgate, whose FCS market is on a separate FanDuel feed that likely blocked the parlay.",
+     "eventId": 36226913,
+     "marketIdMD": "724.193493140"
     },
     {
-     "pick": "Kings Team Total Over 2.5",
-     "market": "Los Angeles Kings Total Goals",
-     "odds": -154,
-     "sport": "NHL",
-     "event": "Buffalo Sabres @ Los Angeles Kings",
-     "start": "Sat 4:10 PM ET",
-     "reason": "Buffalo's Luukkonen has a .866 save percentage. The Kings should get to 3 goals against him.",
-     "marketId": "742.195049207",
-     "selectionId": "7017911",
-     "marketIdMD": "724.195187940"
+     "pick": "Louisiana Tech ML",
+     "market": "Moneyline",
+     "odds": -220,
+     "sport": "NCAAF",
+     "event": "Louisiana Tech @ South Alabama",
+     "start": "Sat 3:00 PM ET",
+     "marketId": "742.193739558",
+     "selectionId": "612809",
+     "reason": "A main-market moneyline, a -220 road favorite. Researched less deeply than the other legs. Replaces the Kings home team-total market, which FanDuel flags as a non-standard market (sgmMarket false).",
+     "eventId": 36236585,
+     "marketIdMD": "724.193878294"
     },
     {
      "pick": "Utah State -8.5",
@@ -494,7 +526,7 @@
      "reason": "Utah State is a -315 home favorite (ML) over Colorado State. The -8.5 spread is in line with that price.",
      "marketId": "742.193740590",
      "selectionId": "602740",
-     "marketIdMD": "724.193879324"
+     "eventId": 36236598
     },
     {
      "pick": "South Florida -7.5",
@@ -506,7 +538,8 @@
      "reason": "South Florida is a -300 home favorite (ML) over UAB. The -7.5 spread is in line with a -300 moneyline.",
      "marketId": "742.193738831",
      "selectionId": "567127",
-     "marketIdMD": "724.193877566"
+     "marketIdMD": "724.193877566",
+     "eventId": 36236578
     }
    ]
   },
@@ -527,7 +560,8 @@
      "reason": "Western Michigan is a -710 home favorite over Bowling Green.",
      "marketId": "742.193738359",
      "selectionId": "1320008",
-     "marketIdMD": "724.193877094"
+     "marketIdMD": "724.193877094",
+     "eventId": 36236574
     },
     {
      "pick": "Indiana ML",
@@ -539,7 +573,8 @@
      "reason": "Indiana is a -2000 home favorite. Hoover is probable, and Minnesota's offense is limited.",
      "marketId": "742.193740991",
      "selectionId": "2039646",
-     "marketIdMD": "724.193879728"
+     "marketIdMD": "724.193879728",
+     "eventId": 36236603
     },
     {
      "pick": "Louisville ML",
@@ -551,7 +586,8 @@
      "reason": "Louisville is a -2000 home favorite over Stanford.",
      "marketId": "742.193739995",
      "selectionId": "602719",
-     "marketIdMD": "724.193878730"
+     "marketIdMD": "724.193878730",
+     "eventId": 36236592
     },
     {
      "pick": "Liberty ML",
@@ -563,7 +599,8 @@
      "reason": "Liberty is a -630 home favorite over FIU.",
      "marketId": "742.193740789",
      "selectionId": "5756646",
-     "marketIdMD": "724.193879522"
+     "marketIdMD": "724.193879522",
+     "eventId": 36236600
     },
     {
      "pick": "New Mexico ML",
@@ -575,7 +612,8 @@
      "reason": "New Mexico is a -780 road favorite over a struggling San Jose State.",
      "marketId": "742.193741530",
      "selectionId": "602744",
-     "marketIdMD": "724.193880263"
+     "marketIdMD": "724.193880263",
+     "eventId": 36236609
     },
     {
      "pick": "Miami Florida ML",
@@ -587,7 +625,8 @@
      "reason": "Miami is a -580 favorite over North Carolina.",
      "marketId": "742.193354200",
      "selectionId": "558823",
-     "marketIdMD": "724.193492937"
+     "marketIdMD": "724.193492937",
+     "eventId": 36226912
     },
     {
      "pick": "UNLV ML",
@@ -599,7 +638,8 @@
      "reason": "UNLV is a -2000 home favorite over Northern Illinois.",
      "marketId": "742.193742752",
      "selectionId": "951149",
-     "marketIdMD": "724.193881487"
+     "marketIdMD": "724.193881487",
+     "eventId": 36236634
     },
     {
      "pick": "Boise State ML",
@@ -611,7 +651,8 @@
      "reason": "Boise State is a -450 home favorite on the blue turf.",
      "marketId": "742.193742698",
      "selectionId": "593420",
-     "marketIdMD": "724.193881433"
+     "marketIdMD": "724.193881433",
+     "eventId": 36236633
     },
     {
      "pick": "Penn State ML",
@@ -623,7 +664,8 @@
      "reason": "Penn State is a -450 home favorite over Purdue.",
      "marketId": "742.193741619",
      "selectionId": "1303222",
-     "marketIdMD": "724.193880353"
+     "marketIdMD": "724.193880353",
+     "eventId": 36236613
     },
     {
      "pick": "Ole Miss ML",
@@ -635,7 +677,8 @@
      "reason": "Ole Miss is a -450 home favorite over Auburn.",
      "marketId": "742.193739137",
      "selectionId": "4385068",
-     "marketIdMD": "724.193877872"
+     "marketIdMD": "724.193877872",
+     "eventId": 36236581
     },
     {
      "pick": "Wake Forest ML",
@@ -647,7 +690,8 @@
      "reason": "Wake Forest is a -490 home favorite over Virginia.",
      "marketId": "742.193741420",
      "selectionId": "2147633",
-     "marketIdMD": "724.193880155"
+     "marketIdMD": "724.193880155",
+     "eventId": 36236608
     },
     {
      "pick": "UCLA ML",
@@ -659,7 +703,8 @@
      "reason": "UCLA is a -3500 home favorite over Nevada.",
      "marketId": "742.193741599",
      "selectionId": "662042",
-     "marketIdMD": "724.193880334"
+     "marketIdMD": "724.193880334",
+     "eventId": 36236611
     },
     {
      "pick": "North Dakota State ML",
@@ -671,7 +716,8 @@
      "reason": "North Dakota State is a -4000 FCS power, and UTEP's QB Colson is questionable.",
      "marketId": "742.193741188",
      "selectionId": "6868752",
-     "marketIdMD": "724.193879923"
+     "marketIdMD": "724.193879923",
+     "eventId": 36236606
     },
     {
      "pick": "Barcelona ML (90 min)",
@@ -683,7 +729,8 @@
      "reason": "Barcelona is a -1000 home favorite over Alaves.",
      "marketId": "742.192497428",
      "selectionId": "52480964",
-     "marketIdMD": "724.192636164"
+     "marketIdMD": "724.192636164",
+     "eventId": 36211804
     },
     {
      "pick": "Real Betis ML (90 min)",
@@ -695,7 +742,8 @@
      "reason": "Betis is a -340 home favorite over Malaga.",
      "marketId": "742.192491726",
      "selectionId": "44507",
-     "marketIdMD": "724.192630462"
+     "marketIdMD": "724.192630462",
+     "eventId": 36211734
     },
     {
      "pick": "Bayern Munich ML (90 min)",
@@ -707,7 +755,8 @@
      "reason": "Bayern is a -340 favorite at home in Der Klassiker.",
      "marketId": "742.193928720",
      "selectionId": "5774350",
-     "marketIdMD": "724.194067456"
+     "marketIdMD": "724.194067456",
+     "eventId": 36241096
     },
     {
      "pick": "Missouri ML",
@@ -719,7 +768,8 @@
      "reason": "Missouri is a -385 favorite over Arkansas.",
      "marketId": "742.193345566",
      "selectionId": "662060",
-     "marketIdMD": "724.193484303"
+     "marketIdMD": "724.193484303",
+     "eventId": 36226799
     },
     {
      "pick": "BC Lions ML",
@@ -731,7 +781,8 @@
      "reason": "BC is a -315 home favorite over Saskatchewan.",
      "marketId": "742.193722996",
      "selectionId": "414028",
-     "marketIdMD": "724.193861734"
+     "marketIdMD": "724.193861734",
+     "eventId": 36236120
     }
    ]
   },
@@ -752,7 +803,8 @@
      "reason": "MacKinnon is the NHL's top shot generator, playing at home against Calgary.",
      "marketId": "742.194982226",
      "selectionId": "12449308",
-     "marketIdMD": "724.195120963"
+     "marketIdMD": "724.195120963",
+     "eventId": 36258922
     },
     {
      "pick": "David Pastrnak 3+ Shots on Goal",
@@ -764,7 +816,8 @@
      "reason": "Pastrnak is Boston's volume shooter, facing a weak Chicago team.",
      "marketId": "742.194950901",
      "selectionId": "12496295",
-     "marketIdMD": "724.195089627"
+     "marketIdMD": "724.195089627",
+     "eventId": 36258911
     },
     {
      "pick": "Auston Matthews 3+ Shots on Goal",
@@ -776,7 +829,8 @@
      "reason": "Matthews is the Leafs' trigger man (his 4+ shots line is priced at -102).",
      "marketId": "742.194970356",
      "selectionId": "11133523",
-     "marketIdMD": "724.195109086"
+     "marketIdMD": "724.195109086",
+     "eventId": 36258921
     },
     {
      "pick": "Jason Robertson 3+ Shots on Goal",
@@ -788,7 +842,8 @@
      "reason": "Robertson is Dallas' top shooter, at home vs Columbus.",
      "marketId": "742.194981415",
      "selectionId": "38764242",
-     "marketIdMD": "724.195120151"
+     "marketIdMD": "724.195120151",
+     "eventId": 36258924
     },
     {
      "pick": "Tage Thompson 3+ Shots on Goal",
@@ -800,7 +855,8 @@
      "reason": "Thompson is Buffalo's volume shooter, facing a Kings team with Forsberg in net.",
      "marketId": "742.194983931",
      "selectionId": "21604085",
-     "marketIdMD": "724.195122666"
+     "marketIdMD": "724.195122666",
+     "eventId": 36258920
     },
     {
      "pick": "Macklin Celebrini 3+ Shots on Goal",
@@ -812,7 +868,8 @@
      "reason": "Celebrini is the Sharks' focal point and leads them in shots.",
      "marketId": "742.194990061",
      "selectionId": "70664823",
-     "marketIdMD": "724.195128797"
+     "marketIdMD": "724.195128797",
+     "eventId": 36258919
     },
     {
      "pick": "Alex DeBrincat 3+ Shots on Goal",
@@ -824,7 +881,8 @@
      "reason": "DeBrincat is Detroit's highest-volume shooter, at home.",
      "marketId": "742.194964644",
      "selectionId": "25990450",
-     "marketIdMD": "724.195103377"
+     "marketIdMD": "724.195103377",
+     "eventId": 36258916
     },
     {
      "pick": "Cole Caufield 3+ Shots on Goal",
@@ -836,7 +894,8 @@
      "reason": "Caufield is Montreal's top shooter, and the Canadiens are going for their 5th straight win.",
      "marketId": "742.194971592",
      "selectionId": "24660529",
-     "marketIdMD": "724.195110326"
+     "marketIdMD": "724.195110326",
+     "eventId": 36258923
     }
    ]
   }
