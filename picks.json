@@ -212,9 +212,9 @@
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 10677942,
+   "odds": 10584602,
    "stake": 5,
-   "payout": 533902.09,
+   "payout": 529235.11,
    "reason": "A $5 ticket on 25 legs, one per game, built to roughly 100,000-to-1 (about $500K). Every leg comes from today's research: short-handed opponents (Pelicans without Poole/Missi, Bucks 1-4), weak goalies (Merilainen, Knight, Talbot, Luukkonen, Sergeev), college QB injuries (Kansas, Iowa State), and a Navy team total under based on Notre Dame's record against the academies. Following lessons.md: no coin-flip moneylines from -110 to -150, no NBA spreads of 12 or more, and no leg reused from any other ticket today. Reaching the 100,000-to-1 target means taking some spreads at about -110 instead of moneylines. Fixed at 11:10 AM ET: Zverev (match starting 11:30 AM ET), Colgate (FCS feed) and the Kings team total were swapped out because FanDuel said the legs couldn't be combined.",
    "legs": [
     {
@@ -517,16 +517,17 @@
      "marketIdMD": "724.193878294"
     },
     {
-     "pick": "Utah State -8.5",
+     "pick": "Utah State -7.5",
      "market": "Spread",
-     "odds": -108,
+     "odds": -110,
      "sport": "NCAAF",
      "event": "Colorado State @ Utah State",
      "start": "Sat 3:30 PM ET",
      "reason": "Utah State is a -315 home favorite (ML) over Colorado State. The -8.5 spread is in line with that price.",
      "marketId": "742.193740590",
      "selectionId": "602740",
-     "eventId": 36236598
+     "eventId": 36236598,
+     "marketIdMD": "724.193879324"
     },
     {
      "pick": "South Florida -7.5",
