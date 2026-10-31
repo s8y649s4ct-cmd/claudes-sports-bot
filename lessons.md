@@ -66,3 +66,22 @@ Sources: ESPN box scores & play-by-play (NBA/NHL/NCAAF/soccer/tennis), shakhtar.
 ## 2026-10-31 11:15 AM ET fix: "Some of your selections can't be combined into a single parlay"
 FanDuel rejected the 25-leg Best Shot. No ticket had two legs from the same event, and every market was open, so the likely causes were: (1) Colgate ML came from FanDuel's separate FCS feed (canTurnInPlay=false on a main moneyline); (2) the Kings home team total is a non-standard market (sgmMarket=false); (3) Zverev's match started at 11:30 AM ET, before the ticket would be placed. They were swapped for Pittsburgh ML, Ohio State ML and Louisiana Tech ML.
 *New lesson:* lottery and parlay legs should be main-feed moneylines, spreads or totals (or player props) for events that start at least 1 hour after the post. No FCS/":01" kickoff feeds, team-total markets flagged sgmMarket=false, or early tennis. `check_tickets.py` now runs inside publish.sh and stops the publish on same-event legs, closed/started markets, inactive selections or restricted feeds.
+
+## 2026-10-31 3:00 PM ET run
+
+### Grades (morning 10:30 AM tickets, as of ~3:15 PM ET)
+- **Notre Dame 1st Quarter -7.5 (+124) — LOST.** ND led Navy only 7-3 after 1Q (final 35-13). Navy's opening FG drive ate the clock; the Irish pulled away after halftime.
+- All other morning tickets are **PENDING** (games in progress or not started) and are logged in results.history with result "pending". Next run: update these pending entries in place (only pending → graded; never touch settled entries).
+  - Legs already settled: Navy TT Under 13.5 HIT (13), Roma ML HIT (5-2), Western Michigan ML HIT (23-10).
+  - Live at ~3:15 PM ET: Iowa 30-0 Wisconsin (1:30 4th, Under 34.5 on track), Michigan 21-21 at Rutgers (11:37 4th, QB-Injury parlay at risk), SMU 27-23 (5:15 4th), TTU 27-23 (4:28 4th), Duke 44-2, NC State 31-10, USF 27-10, Ole Miss 24-15 (3Q), Bruins 2-2 Chicago (3rd), Crew 2-0 (HT), Betis 2-1 (82'), Bayern 2-1 (82'), Argonauts 19-17 (4th, CFL), South Alabama 7-0 La Tech (1Q).
+
+### New lessons
+1. **No 1st-quarter spreads vs service academies/option teams.** Ball-control drives shorten the quarter; a full-game or 1H line captures the talent gap better.
+2. **Early-season CFB favorites trailing/tied late (Michigan 21-21 at Rutgers with a backup QB on the other side)**: a backup-QB opponent doesn't guarantee a margin on the road. Prefer alt spreads with cushion or home favorites for "QB-injury" plays.
+3. **Best Shot math**: reaching ~100,000-to-1 in 25 legs requires an average of about -165 per leg. Bought-down alt spreads/totals in the -150 to -185 range carry more true probability than coin-flip moneylines at the same price, so build from those.
+
+### How lessons changed this run's picks
+- No 1Q/period spreads; singles are alt totals/team totals built on injury lists (NBA unders where both rosters are depleted; team-total unders vs injured/inexperienced QBs).
+- Safe parlays are 2-3 legs; NBA "dogs" get points rather than coin-flip MLs; CFB favorites are bought down 4-6 points below the main spread.
+- Best Shot uses 25 different events, mostly alt lines from -146 to -235, with no repeat of any morning selection and no leg reused from another ticket in this run. There are no coin-flip moneylines, and the only ML is a -205 UFC favorite.
+- UFC ladder uses only favorites the prediction market rates at ~64%+ (most at 70-87%), skipping the -126 main event.
