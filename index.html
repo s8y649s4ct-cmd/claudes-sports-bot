@@ -9,14 +9,14 @@ h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{m
 .row{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.odds{font-weight:700;color:var(--ok)}
 .mut{color:var(--mut);font-size:.88rem}.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;padding:9px 14px;border-radius:8px;font-weight:600;margin-top:8px;border:0;cursor:pointer}
 #tg{background:var(--card);color:var(--fg);border:1px solid var(--bd)}ol{padding-left:20px}li{margin:6px 0}
-.stat{display:inline-block;margin-right:16px}.w{color:var(--ok)}.l{color:var(--bad)}footer{padding:20px;text-align:center}
+.hit{color:var(--ok)}.miss{color:var(--bad)}.pend{color:var(--mut)}details summary{cursor:pointer}.stat{display:inline-block;margin-right:16px}.w{color:var(--ok)}.l{color:var(--bad)}footer{padding:20px;text-align:center}
 </style></head><body>
-<header><!-- v1529 --><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><span class="st" role="group" aria-label="Betting state"><button type="button" class="btn" data-s="PA" style="margin:0">PA</button><button type="button" class="btn" data-s="MD" style="margin:0 0 0 4px">MD</button></span></header>
+<header><!-- v1530 --><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><span class="st" role="group" aria-label="Betting state"><button type="button" class="btn" data-s="PA" style="margin:0">PA</button><button type="button" class="btn" data-s="MD" style="margin:0 0 0 4px">MD</button></span></header>
 <main><p class="mut" id="upd"></p>
 <h2>Single Legs (+100 or longer)</h2><div id="singles"></div>
 <h2>Parlays</h2><div id="parlays"></div>
 <h2>Sport Lottery (+1000 or longer, up to 25 legs)</h2><div id="lottery"></div>
-<h2>Results Tracker</h2><div class="card" id="results"></div>
+<h2 id="record">Record &amp; Lessons</h2><div class="card" id="results"></div><div id="lessons"></div><div id="hist"></div>
 <div class="card mut">Picks are research, not guarantees. No model can be 100% accurate, and long parlays lose most of the time. Only bet what you can afford to lose. 21+. Gambling problem? Call <b>1-800-GAMBLER</b>. Buttons open FanDuel Sportsbook and add the legs to your bet slip; you set the stake and confirm. If a FanDuel ID couldn't be verified, the button opens the game page instead.</div>
 </main><footer class="mut">Claude's Sports Bot</footer>
 <script>
@@ -40,7 +40,13 @@ fetch('picks.json?'+Date.now()).then(x=>x.json()).then(d=>{
  const multi=p=>`<div class="card"><div class="row"><b>${e(p.name)}</b><span class="odds">${fmt(p.odds)}${p.payout?` · $${e(p.stake||1)} pays $${Number(p.payout).toLocaleString()}`:''}</span></div><p class="mut">${e(p.reason||'')}</p><ol>${p.legs.map(leg).join('')}</ol>${btn(p.legs,null,'Add all '+p.legs.length+' legs to FanDuel')}</div>`;
  parlays.innerHTML=d.parlays.length?d.parlays.map(multi).join(''):empty;
  lottery.innerHTML=d.lottery.length?d.lottery.map(multi).join(''):empty;
- const R=d.results||{},s=k=>{const o=R[k]||{};return `<span class="stat">${k}: <span class="w">${o.won||0}W</span>-<span class="l">${o.lost||0}L</span> (${o.pending||0} pending)</span>`};
- results.innerHTML=s('singles')+s('parlays')+s('lottery')+((R.history||[]).length?'<ol>'+R.history.slice(-40).reverse().map(h=>`<li><span class="${h.result==='won'?'w':h.result==='lost'?'l':'mut'}">${e(h.result)}</span> ${e(h.date)} · ${e(h.type)} · ${e(h.pick)} ${fmt(h.odds)}</li>`).join('')+'</ol>':'<p class="mut">No graded picks yet.</p>');
+ const R=d.results||{},T=R.totals||R,money=v=>(v<0?'-$':'$')+Math.abs(v||0).toFixed(2);
+ const s=(k,lab)=>{const o=T[k]||{};return `<div class="stat"><b>${lab}</b>: <span class="w">${o.won||0}W</span>-<span class="l">${o.lost||0}L</span>${o.pending?` (${o.pending} pending)`:''} · ${o.winPct??'–'}% · <span class="${(o.profit||0)>=0?'w':'l'}">${money(o.profit)}</span></div>`};
+ const lg=T.legs||{};
+ results.innerHTML=s('overall','Overall')+s('singles','Singles')+s('parlays','Parlays')+s('lottery','Lottery')+`<div class="mut">Individual legs: ${lg.hit||0} hit · ${lg.miss||0} miss · ${lg.pending||0} pending. Profit assumes the listed stakes (singles tracked at $10). ${e(R.updated?'Graded '+R.updated:'')}${R.sources?' · Sources: '+e(R.sources):''}</div>`;
+ lessons.innerHTML=(R.topLessons||[]).length?`<div class="card"><b>What I learned</b><ol>${R.topLessons.map(x=>`<li>${e(x)}</li>`).join('')}</ol></div>`:'';
+ const H=(R.history||[]).slice().reverse(),cls=r=>r==='won'||r==='hit'?'hit':r==='lost'||r==='miss'?'miss':'pend',ic=r=>r==='hit'?'✅':r==='miss'?'❌':'⏳';
+ const multi2=H.filter(h=>h.type!=='single'),sing=H.filter(h=>h.type==='single');
+ hist.innerHTML=(multi2.map(h=>`<div class="card"><div class="row"><b>${e(h.name)}</b><span><span class="${cls(h.result)}">${e(String(h.result).toUpperCase())}</span> · ${fmt(h.odds)} · $${e(h.stake)} · <span class="${h.profit>=0?'w':'l'}">${money(h.profit)}</span></span></div><div class="mut">${e(h.date)} · ${e(h.run)} run · ${e(h.type)} · ${(h.legs||[]).filter(x=>x.result==='hit').length}/${(h.legs||[]).length} legs hit</div><p><b>Why:</b> ${e(h.whyExplanation)}</p><p><b>Lesson:</b> ${e(h.lesson)}</p><details><summary>Legs</summary><ol>${(h.legs||[]).map(x=>`<li class="${cls(x.result)}">${ic(x.result)} ${e(x.pick)} ${fmt(x.odds)} <span class="mut">— ${e(x.actual)}</span></li>`).join('')}</ol></details></div>`).join('')+(sing.length?`<div class="card"><b>Singles</b><ol>${sing.map(h=>`<li><span class="${cls(h.result)}">${ic(h.result==='won'?'hit':h.result==='lost'?'miss':'')} ${e(h.name)}</span> ${fmt(h.odds)} <span class="mut">${e(h.date)} ${e(h.run)} · ${e(h.legs?.[0]?.actual)} · ${money(h.profit)}</span><div class="mut">${e(h.lesson)}</div></li>`).join('')}</ol></div>`:''))||'<p class="mut">No graded picks yet.</p>';
 }).catch(()=>singles.innerHTML='<div class="card">Could not load picks.</div>');
 </script></body></html>
