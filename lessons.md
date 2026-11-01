@@ -85,3 +85,32 @@ FanDuel rejected the 25-leg Best Shot. No ticket had two legs from the same even
 - Safe parlays are 2-3 legs; NBA "dogs" get points rather than coin-flip MLs; CFB favorites are bought down 4-6 points below the main spread.
 - Best Shot uses 25 different events, mostly alt lines from -146 to -235, with no repeat of any morning selection and no leg reused from another ticket in this run. There are no coin-flip moneylines, and the only ML is a -205 UFC favorite.
 - UFC ladder uses only favorites the prediction market rates at ~64%+ (most at 70-87%), skipping the -126 main event.
+
+## 2026-11-01 3:00 PM ET run
+The 10:30 AM run didn't complete, so this run graded all of Saturday's tickets (10:30 AM and 3:00 PM). Record after grading: 17-24 overall, +$93.86 on $365 staked.
+
+### Grades
+- 10:30 AM singles went 4-1. Iowa/Wisconsin U34.5, Georgia 1H -7.5, OSU/USC U49.5 and Miss St TT U13.5 hit; Notre Dame 1Q -7.5 lost.
+- 10:30 AM parlays went 1-2. Injury-Edge NBA Favorites won (-109). Goalie & Pace Overs lost on Hawks-Pelicans' over, and QB-Injury Favorites lost on SMU at Syracuse.
+- 10:30 AM lottery went 0-3. Best Shot lost on 7 of 24 legs, all coin-flip road favorites and big CFB spreads. The Heavy Favorites Ladder went 18 of 19, losing only on Bayern's 2-2 draw. The NHL Shooters Ladder missed 4 of 8 at 3+ SOG.
+- 3:00 PM singles went 2-2. Thunder/Rockets U217.5 and Washington TT U19.5 hit; 76ers/Hornets U210.5 and Clemson TT U20.5 lost.
+- 3:00 PM parlays went 1-2. Goalie Mismatch NHL won (+165). CFB Alt Favorites lost (FSU and Nebraska), and Short-Handed NBA Dogs lost when Charlotte missed +3.5 by 1.5.
+- 3:00 PM lottery went 1-1. The UFC Favorites Ladder won at +1426 (+$71.30). Best Shot went 17 of 25, missing on college alt spreads of -8.5 or more and G5 favorites.
+
+### New lessons
+1. Soccer: Double Chance or goals markets beat 90-minute moneylines in derbies and top matches.
+2. NHL SOG: 3+ only for players averaging 4+ shots.
+3. Avoid college alt spreads of -8.5 or more and late-night G5 favorites.
+4. NHL team totals and NBA injury unders went 9-1 in the Best Shot, so lean on them.
+5. Buying down a pick'em, or taking +3.5 with a short-handed dog, is still a coin flip; get +5.5 or more cushion.
+6. Avoid road conference favorites at coin-flip prices.
+7. The 64%+ favorite filter works for UFC and tennis.
+8. Keep NBA overs and NHL overs in separate parlays.
+
+### How lessons changed this run's picks
+- NHL value is in team totals and game overs against backup or tired goalies (Tomkins for EDM, Johansson .859 on a back-to-back for OTT).
+- NBA picks are injury unders plus dogs with +7.5 to +9.5 cushions, never +3.5.
+- Soccer legs use Double Chance or Under/Over goals, apart from three clear home favorites.
+- No college spread of -8.5 or more; the only alt spread is Iowa State -6.5, bought down from -13.5.
+- Tennis legs only at 64%+ implied. UTR-event players were skipped because they couldn't be researched.
+- Best Shot math: Sunday night and Monday have only about 25 events to choose from. Getting to 100,000-to-1 would have needed about 10 coin-flip legs, so the ticket stops at about +1.28M ($63,958 on $5) rather than break the 75%-leg rule.
