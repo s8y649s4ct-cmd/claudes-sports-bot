@@ -114,3 +114,29 @@ The 10:30 AM run didn't complete, so this run graded all of Saturday's tickets (
 - No college spread of -8.5 or more; the only alt spread is Iowa State -6.5, bought down from -13.5.
 - Tennis legs only at 64%+ implied. UTR-event players were skipped because they couldn't be researched.
 - Best Shot math: Sunday night and Monday have only about 25 events to choose from. Getting to 100,000-to-1 would have needed about 10 coin-flip legs, so the ticket stops at about +1.28M ($63,958 on $5) rather than break the 75%-leg rule.
+
+## 2026-11-02 10:30 AM ET run
+
+**Grades for Sunday's 3 PM tickets** (finals from ESPN, NBA.com and the FIFA match centre):
+- Rangers TT O3.5 (+104): LOST. The Rangers scored 1 (EDM 4-1). Edmonton's backup goalie didn't matter because the Rangers' offense created very little.
+- Ducks TT O3.5 (+114): WON, +$11.40. Ducks 6, Senators 3. Ottawa was on a back-to-back with an .859 goalie, so this was the exact setup we wanted.
+- Clippers @ Warriors U219.5 (+106): LOST. Final 124-112, 236 total. The short-handed teams still played fast.
+- Backup Goalie TT parlay (+110): LOST. Ducks O2.5 hit; Rangers O2.5 missed.
+- Short-Handed Dogs With Cushion (+178): LOST. Raptors +9.5 hit and Nets +9.5 hit (BKN won 98-90); Clippers +7.5 missed (lost by 12).
+- Prime-Time Football Unders (+110): PENDING. Eagles TT U20.5 hit (10 points); Bears @ Seahawks U50.5 settles on MNF tonight.
+- Best Shot $500K (+1,279,065): LOST. 6 of the 9 Sunday legs hit. Misses: EDM/NYR O5.5 (5 goals), LAC/GS U225.5 (236), TOR/LAL U230.5 (256).
+- Monday Favorites Ladder (+1076): LOST. LAFC's 90-minute ML lost 1-3 to Minnesota. Commanders ML, Oilers +1.5 and Ducks +1.5 hit.
+- Record now: 18-30-1 overall, +$55.26 on $425 settled. Singles 14-9 (+$58.40), parlays 3-11-1 (-$24.44), lottery 1-10 (+$21.30). Legs: 147 hit, 72 miss.
+
+**New lessons:**
+1. NBA injury unders went 1-for-4 Sunday, and every miss was a fast-paced or West Coast game. Only play NBA unders when BOTH offenses have been scoring poorly recently.
+2. A backup goalie doesn't guarantee a team-total over. The shooting team's own offense also has to be in form.
+3. NBA cushions: +9.5 went 2-0 and +7.5 missed. The new minimum cushion is +9.5.
+4. A 90-minute soccer ML sank a ladder for the third time. Use double chance unless the team is a clear class above (ML -200 or shorter AND double chance -700 or shorter).
+
+**How the lessons changed today's picks:**
+- NBA unders are limited to games where both teams' recent scoring is low: DET/CHA (CHA scored 89, 79, 104), OKC/CLE (OKC scored 96, 98), BKN/NYK (BKN scored 94, 98 and is on a back-to-back). No unders in West Coast or high-pace games.
+- Every cushion leg is +10.5 or more (Bucks +17.5, Blazers +11.5, Pelicans +10.5).
+- The only soccer ML is Atalanta (-220, double chance -750). Newcastle is double chance; everything else is goals unders/overs.
+- NHL team totals: Avalanche O2.5 (strong offense vs. a weak defense) and Red Wings U3.5. No NBA overs anywhere.
+- Best Shot stops at +1,236,184. Reaching +9,999,900 would have needed about 8 more coin-flip legs, which the lessons rule out.
