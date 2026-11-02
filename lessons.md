@@ -140,3 +140,9 @@ The 10:30 AM run didn't complete, so this run graded all of Saturday's tickets (
 - The only soccer ML is Atalanta (-220, double chance -750). Newcastle is double chance; everything else is goals unders/overs.
 - NHL team totals: Avalanche O2.5 (strong offense vs. a weak defense) and Red Wings U3.5. No NBA overs anywhere.
 - Best Shot stops at +1,236,184. Reaching +9,999,900 would have needed about 8 more coin-flip legs, which the lessons rule out.
+
+## 2026-11-02 3:00 PM run
+- No ticket fully settled since the 10:30 AM run. On the morning ladder, Sassuolo v Fiorentina Over 1.5 already hit (final 2-4). All other morning legs play tonight.
+- Applied this run: big late-day line moves driven by confirmed rest or injury news (Indiana resting Siakam and Nesmith; Boston resting Paul George on a back-to-back; New Orleans without Poole; sharp money on Toronto) are the strongest new signal. We buy points below the new number (Hawks -5.5 and -7.5 against a -9.5 market) instead of laying the full spread.
+- Kyrie Irving being doubtful weakened Dallas (-430 to -335), so we bought Dallas down to -2.5 rather than reusing this morning's -5.5.
+- Still enforced: cushions of +9.5 or more, no coin-flip lottery legs, no NBA spreads of -12 or more, and one leg per event.
