@@ -1,116 +1,197 @@
 {
- "updated": "Tue Nov 3, 2026 3:10 PM ET",
- "run": "3:00 PM ET run. Morning grades so far: Shelton 2-0 WON (+$10). Both morning lottery tickets LOST early (Stuttgart blanked, Shakhtar-Sporting 0-1, Gea lost in straight sets). The Hurricanes single and both morning parlays are still pending. Tonight's slate: 10 NHL games, MACtion (Ohio-Akron, Buffalo-Miami) and college basketball openers. No NBA (Election Day). Win probability came first, so Best Shot falls far short of $500K.",
+ "updated": "Wed Nov 4, 2026 10:30 AM ET",
+ "run": "10:30 AM ET run (Wednesday). All of Tuesday's tickets are graded: 4 parlays won (College Opening Night Locks 13/13, Champions League Safety Net, MACtion + Bolts, Home Ice +1.5 Trio). The Hurricanes -1.5 and Ohio -14.5 singles lost, and all 3 lottery tickets lost, mostly on correlated NHL unders and both-4+ No in DAL/WSH and WPG/MTL shootouts. Today's slate: UCL (12:45 and 3 PM ET), EFL, Brazil, 14 NBA games, 4 NHL, MACtion and NCAAB. Every leg starts 12:45 PM ET or later.",
  "singles": [
   {
-   "pick": "Ohio -14.5 (Alt Spread)",
+   "pick": "Rockets -8.5 (Alt Spread)",
    "market": "Alternate Spread",
-   "odds": 106,
-   "sport": "NCAAF",
-   "event": "Ohio @ Akron",
-   "start": "Tue 7:00 PM ET",
-   "reason": "Ohio is 6-2, unbeaten in the MAC and 6-0 as a favorite. Akron is 1-7, 0-7 as an underdog, allows a MAC-worst 5.7 yards per carry, and has turned it over 13 times in six games. Ohio runs the ball and controls the clock, and analysts say the 13.5 line undersells the gap. Price: +106.",
-   "marketId": "742.195256466",
-   "selectionId": "49892654",
-   "eventId": 36248772,
+   "odds": 104,
+   "sport": "NBA",
+   "event": "Minnesota Timberwolves @ Houston Rockets",
+   "start": "Wed 8:40 PM ET",
+   "reason": "Minnesota is without Anthony Edwards and Donte DiVincenzo (both OUT on the 8:45 AM NBA report), and Terrence Shannon Jr. is questionable. Houston is rested at home after beating Boston by 16 on Monday and is 7-1. The main line is -7.5; -8.5 pays plus money (+104) and Houston's home wins this season have mostly been by double digits.",
+   "marketId": "742.195790835",
+   "selectionId": "7891605",
+   "eventId": 36266782,
    "stake": 10,
-   "marketIdMD": "724.195395188"
+   "marketIdMD": "724.195929575"
   }
  ],
  "parlays": [
   {
-   "name": "MACtion + Bolts",
-   "odds": 118,
+   "name": "Double-Digit Dog Cushions",
+   "odds": 128,
    "stake": 10,
-   "payout": 21.76,
-   "reason": "Three cushioned favorites from different games. Lesson applied: safe parlays stay at 2-3 legs, and none of these lay a moved number.",
+   "payout": 22.78,
+   "reason": "Three underdogs with 11.5 to 20.5 points of cushion. Lesson applied: double-digit NBA cushions are now 8-1 and stay the backbone, and every leg is at least 11.5.",
    "legs": [
     {
-     "pick": "Ohio -3.5 (Alt Spread)",
+     "pick": "Cavaliers +11.5",
      "market": "Alternate Spread",
-     "odds": -370,
-     "sport": "NCAAF",
-     "event": "Ohio @ Akron",
-     "start": "Tue 7:00 PM ET",
-     "reason": "Ohio only needs to win by 4 against a winless MAC team that keeps turning the ball over.",
-     "marketId": "742.195256466",
-     "selectionId": "49892716",
-     "eventId": 36248772,
-     "marketIdMD": "724.195395188"
+     "odds": -320,
+     "sport": "NBA",
+     "event": "Cleveland Cavaliers @ Oklahoma City Thunder",
+     "start": "Wed 8:10 PM ET",
+     "reason": "OKC is only -3.5 and is missing Chet Holmgren and Jalen Williams. Cleveland would have to lose by 12 or more.",
+     "marketId": "742.195790536",
+     "selectionId": "7888808",
+     "eventId": 36266773,
+     "marketIdMD": "724.195929275"
     },
     {
-     "pick": "Miami (OH) +3.5 (Alt Spread)",
+     "pick": "Raptors +11.5",
      "market": "Alternate Spread",
-     "odds": -390,
-     "sport": "NCAAF",
-     "event": "Buffalo @ Miami Ohio",
-     "start": "Tue 8:00 PM ET",
-     "reason": "Miami is a -225 home favorite against Buffalo. With +3.5, the RedHawks can lose by up to 3 and this still wins.",
-     "marketId": "742.195278540",
-     "selectionId": "50105059",
-     "eventId": 36248775,
-     "marketIdMD": "724.195417250"
+     "odds": -310,
+     "sport": "NBA",
+     "event": "Toronto Raptors @ Denver Nuggets",
+     "start": "Wed 9:10 PM ET",
+     "reason": "Denver is -4.5 at home and Toronto is without Kawhi Leonard, but 11.5 points covers a normal Nuggets win with 7 points to spare.",
+     "marketId": "742.195791160",
+     "selectionId": "7913116",
+     "eventId": 36266780,
+     "marketIdMD": "724.195929884"
     },
     {
-     "pick": "Lightning Moneyline",
-     "market": "Moneyline",
-     "odds": -275,
-     "sport": "NHL",
-     "event": "Detroit Red Wings @ Tampa Bay Lightning",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Detroit plays the second night of a back-to-back with John Gibson in net, and Vasilevskiy starts at home for Tampa (8-3-2).",
-     "marketId": "742.194950840",
-     "selectionId": "25609",
-     "eventId": 36260043,
-     "marketIdMD": "724.195089573"
+     "pick": "Bucks +20.5",
+     "market": "Alternate Spread",
+     "odds": -320,
+     "sport": "NBA",
+     "event": "Milwaukee Bucks @ Boston Celtics",
+     "start": "Wed 7:40 PM ET",
+     "reason": "Boston is -11.5, and Tatum (rest) and Pritchard are questionable. That would weaken Boston, which helps the Bucks. Milwaukee has to lose by 21+ for this to miss.",
+     "marketId": "742.195790422",
+     "selectionId": "7912701",
+     "eventId": 36266778,
+     "marketIdMD": "724.195929161"
     }
    ]
   },
   {
-   "name": "Home Ice +1.5 Trio",
-   "odds": -134,
+   "name": "UCL Class-Gap Safety Net",
+   "odds": -160,
    "stake": 10,
-   "payout": 17.45,
-   "reason": "Three home teams that are either favored or are hot in their own building, each given a one-goal cushion. Lesson applied: NHL cushions are used the same way as the 6-0 double-digit NBA cushions.",
+   "payout": 16.26,
+   "reason": "Only legs from clear class-gap matchups. Lesson applied: big-gap UCL legs went 4-for-4 yesterday, while tight away goal props lost. No over/under props on even matches.",
    "legs": [
     {
-     "pick": "Devils +1.5 (Alt Puck Line)",
-     "market": "Alternate Puck Line",
-     "odds": -450,
-     "sport": "NHL",
-     "event": "Edmonton Oilers @ New Jersey Devils",
-     "start": "Tue 7:40 PM ET",
-     "reason": "New Jersey has won 5 of its last 6 and Hellebuyck starts. The Devils only need to avoid losing by 2 or more.",
-     "marketId": "742.195600413",
-     "selectionId": "7000413",
-     "eventId": 36260046,
-     "marketIdMD": "724.195739146"
+     "pick": "Arsenal to score (Away Over 0.5)",
+     "market": "Away Team Over/Under 0.5 Goals",
+     "odds": -2000,
+     "sport": "Soccer",
+     "event": "Slavia Prague v Arsenal",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Arsenal is -450 at Slavia and has one of Europe's most productive set-piece attacks.",
+     "marketId": "742.193156914",
+     "selectionId": "7044482",
+     "eventId": 36223231
     },
     {
-     "pick": "Canadiens +1.5 (Alt Puck Line)",
+     "pick": "Man City to score (Away Over 0.5)",
+     "market": "Away Team Over/Under 0.5 Goals",
+     "odds": -3000,
+     "sport": "Soccer",
+     "event": "RB Leipzig v Man City",
+     "start": "Wed 3:00 PM ET",
+     "reason": "City is -195 at Leipzig, and the match total is 3.5 (Over 2.5 -355). City is blanked very rarely.",
+     "marketId": "742.193159913",
+     "selectionId": "7044482",
+     "eventId": 36223259
+    },
+    {
+     "pick": "Liverpool or Draw",
+     "market": "Double Chance",
+     "odds": -800,
+     "sport": "Soccer",
+     "event": "Fenerbahce v Liverpool",
+     "start": "Wed 12:45 PM ET",
+     "reason": "Liverpool is -230 to win outright at Fenerbahce. The double chance also wins on a draw.",
+     "marketId": "742.193157732",
+     "selectionId": "13472693",
+     "eventId": 36223248
+    },
+    {
+     "pick": "Dortmund or Draw",
+     "market": "Double Chance",
+     "odds": -550,
+     "sport": "Soccer",
+     "event": "Dortmund v Betis",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Dortmund is -150 at home, where it is strong, against a Betis team on the road.",
+     "marketId": "742.193159706",
+     "selectionId": "21904289",
+     "eventId": 36223262
+    },
+    {
+     "pick": "Flamengo or Draw",
+     "market": "Double Chance",
+     "odds": -4000,
+     "sport": "Soccer",
+     "event": "Flamengo v Gremio",
+     "start": "Wed 5:30 PM ET",
+     "reason": "Flamengo is -900 at the Maracana against Gremio.",
+     "marketId": "742.193864288",
+     "selectionId": "13758600",
+     "eventId": 36239714
+    },
+    {
+     "pick": "Viking or Draw",
+     "market": "Double Chance",
+     "odds": -1000,
+     "sport": "Soccer",
+     "event": "Viking v FC Sabah",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Viking is -290 at home against Azerbaijani side FC Sabah.",
+     "marketId": "742.193158895",
+     "selectionId": "14202212",
+     "eventId": 36223260
+    }
+   ]
+  },
+  {
+   "name": "Home Ice & Memphis Cushion",
+   "odds": -107,
+   "stake": 10,
+   "payout": 19.32,
+   "reason": "Three home teams that are favored, each given a cushion. Lesson applied: NHL +1.5 on favorites went 3-for-3 last night.",
+   "legs": [
+    {
+     "pick": "Kings +1.5 (Alt Puck Line)",
      "market": "Alternate Puck Line",
      "odds": -480,
      "sport": "NHL",
-     "event": "Winnipeg Jets @ Montreal Canadiens",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Montreal is 9-3-2. Winnipeg is 4-8-3 and missing Morrissey, Bjugstad and Namestnikov.",
-     "marketId": "742.195599510",
-     "selectionId": "7000411",
-     "eventId": 36260038,
-     "marketIdMD": "724.195738241"
+     "event": "San Jose Sharks @ Los Angeles Kings",
+     "start": "Wed 10:10 PM ET",
+     "reason": "LA is -166 at home against a rebuilding Sharks team. The Kings win this if they win or lose by one.",
+     "marketId": "742.195818828",
+     "selectionId": "7000409",
+     "eventId": 36260055,
+     "marketIdMD": "724.195957582"
     },
     {
-     "pick": "Wild +1.5 (Alt Puck Line)",
+     "pick": "Kraken +1.5 (Alt Puck Line)",
      "market": "Alternate Puck Line",
-     "odds": -550,
+     "odds": -350,
      "sport": "NHL",
-     "event": "Minnesota Wild @ Philadelphia Flyers",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Minnesota is a -178 favorite in Philadelphia with Wallstedt starting, so a loss by 2+ is unlikely.",
-     "marketId": "742.195599622",
-     "selectionId": "7000410",
-     "eventId": 36260039,
-     "marketIdMD": "724.195738360"
+     "event": "Calgary Flames @ Seattle Kraken",
+     "start": "Wed 10:10 PM ET",
+     "reason": "Seattle is -134 at home. This total (6.5, Under -134) is the lowest-scoring game on the board, so there is less blowout risk.",
+     "marketId": "742.195818798",
+     "selectionId": "53201162",
+     "eventId": 36260054,
+     "marketIdMD": "724.195957536"
+    },
+    {
+     "pick": "Grizzlies +5.5",
+     "market": "Alternate Spread",
+     "odds": -410,
+     "sport": "NBA",
+     "event": "Indiana Pacers @ Memphis Grizzlies",
+     "start": "Wed 8:10 PM ET",
+     "reason": "Memphis is -6.5 at home, and Indiana is without Haliburton, McConnell and Zubac, with Toppin questionable. This gives Memphis 12 points of room.",
+     "marketId": "742.195790665",
+     "selectionId": "7890749",
+     "eventId": 36266785,
+     "marketIdMD": "724.195929404"
     }
    ]
   }
@@ -118,485 +199,608 @@
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 205,
+   "odds": 3119,
    "stake": 5,
-   "payout": 15.24,
-   "reason": "Win probability comes first. All 21 legs are -700 or shorter (FanDuel-implied about 88-99% each), one per event. Reaching $500K would need about 10 coin-flip legs, which the lessons forbid, so this ticket intentionally falls far short: about +205, paying about $15 on $5.",
+   "payout": 160.97,
+   "reason": "A $5, 25-leg ticket built from the most likely outcome in every game: double-digit NBA cushions (all -375 to -670), NHL heavy cushions or both-teams-4+ No in low-scoring matchups only, and Over 1.5 goals only in UCL games with totals of 3+. Honest note: it pays about $160.97, far short of the $5K target. Reaching $5K on $5 needs about 1000x, which would mean about 40 legs at these prices or swapping in coin flips. Our lessons rule both out.",
    "legs": [
     {
-     "pick": "Tennessee ML",
-     "market": "Moneyline",
-     "odds": -20000,
-     "sport": "NCAAB",
-     "event": "Wofford @ Tennessee",
-     "start": "Tue 6:00 PM ET",
-     "reason": "Tennessee is -20000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195484439",
-     "selectionId": "366629",
-     "eventId": 36273507,
-     "marketIdMD": "724.195623177"
-    },
-    {
-     "pick": "LSU ML",
-     "market": "Moneyline",
-     "odds": -30000,
-     "sport": "NCAAB",
-     "event": "New Orleans @ LSU",
-     "start": "Tue 8:00 PM ET",
-     "reason": "LSU is -30000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485221",
-     "selectionId": "352409",
-     "eventId": 36273562,
-     "marketIdMD": "724.195623959"
-    },
-    {
-     "pick": "Missouri ML",
-     "market": "Moneyline",
-     "odds": -30000,
-     "sport": "NCAAB",
-     "event": "Cleveland State @ Missouri",
-     "start": "Tue 8:00 PM ET",
-     "reason": "Missouri is -30000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485238",
-     "selectionId": "332649",
-     "eventId": 36273563,
-     "marketIdMD": "724.195623976"
-    },
-    {
-     "pick": "Iowa ML",
-     "market": "Moneyline",
-     "odds": -10000,
-     "sport": "NCAAB",
-     "event": "Lipscomb @ Iowa",
-     "start": "Tue 8:00 PM ET",
-     "reason": "Iowa is -10000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485188",
-     "selectionId": "664419",
-     "eventId": 36273557,
-     "marketIdMD": "724.195623926"
-    },
-    {
-     "pick": "UNLV ML",
-     "market": "Moneyline",
-     "odds": -8000,
-     "sport": "NCAAB",
-     "event": "Northern Arizona @ UNLV",
-     "start": "Tue 10:00 PM ET",
-     "reason": "UNLV is -8000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485666",
-     "selectionId": "702239",
-     "eventId": 36273575,
-     "marketIdMD": "724.195624404"
-    },
-    {
-     "pick": "Boston College ML",
-     "market": "Moneyline",
-     "odds": -4500,
-     "sport": "NCAAB",
-     "event": "Wagner @ Boston College",
-     "start": "Tue 7:00 PM ET",
-     "reason": "Boston College is -4500 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195484639",
-     "selectionId": "671868",
-     "eventId": 36273515,
-     "marketIdMD": "724.195623377"
-    },
-    {
-     "pick": "Rhode Island ML",
-     "market": "Moneyline",
-     "odds": -4500,
-     "sport": "NCAAB",
-     "event": "Holy Cross @ Rhode Island",
-     "start": "Tue 7:00 PM ET",
-     "reason": "Rhode Island is -4500 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485031",
-     "selectionId": "721613",
-     "eventId": 36273554,
-     "marketIdMD": "724.195623769"
-    },
-    {
-     "pick": "South Carolina ML",
-     "market": "Moneyline",
-     "odds": -4000,
-     "sport": "NCAAB",
-     "event": "Stetson @ South Carolina",
-     "start": "Tue 7:00 PM ET",
-     "reason": "South Carolina is -4000 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195484699",
-     "selectionId": "705560",
-     "eventId": 36273518,
-     "marketIdMD": "724.195623437"
-    },
-    {
-     "pick": "San Diego State ML",
-     "market": "Moneyline",
-     "odds": -1800,
-     "sport": "NCAAB",
-     "event": "CSU Fullerton @ San Diego State",
-     "start": "Tue 10:00 PM ET",
-     "reason": "San Diego State is -1800 on FanDuel, priced as roughly a 95%+ season-opener win against a low-major opponent. Lesson applied: college moneylines only at -1800 or longer.",
-     "marketId": "742.195485536",
-     "selectionId": "711057",
-     "eventId": 36273571,
-     "marketIdMD": "724.195624274"
-    },
-    {
-     "pick": "Ohio +3.5 (Alt Spread)",
+     "pick": "Hawks +9.5",
      "market": "Alternate Spread",
-     "odds": -1200,
-     "sport": "NCAAF",
-     "event": "Ohio @ Akron",
-     "start": "Tue 7:00 PM ET",
-     "reason": "Ohio (6-2) can lose by 3 and still win this leg against 1-7 Akron.",
-     "marketId": "742.195256466",
-     "selectionId": "48218762",
-     "eventId": 36248772,
-     "marketIdMD": "724.195395188"
+     "odds": -480,
+     "sport": "NBA",
+     "event": "Atlanta Hawks @ Washington Wizards",
+     "start": "Wed 7:10 PM ET",
+     "reason": "Atlanta is -2.5 at Washington, which is missing Beekman, Champagnie, Vukcevic and Watkins. That leaves 12 points of room.",
+     "marketId": "742.195788698",
+     "selectionId": "7891067",
+     "eventId": 36266784,
+     "marketIdMD": "724.195927436"
     },
     {
-     "pick": "Miami (OH) +10.5 (Alt Spread)",
+     "pick": "76ers +12.5",
      "market": "Alternate Spread",
-     "odds": -1200,
-     "sport": "NCAAF",
-     "event": "Buffalo @ Miami Ohio",
-     "start": "Tue 8:00 PM ET",
-     "reason": "The home favorite gets 10.5 points. Buffalo would need to win by two scores.",
-     "marketId": "742.195278540",
-     "selectionId": "50105039",
-     "eventId": 36248775,
-     "marketIdMD": "724.195417250"
+     "odds": -500,
+     "sport": "NBA",
+     "event": "Philadelphia 76ers @ Detroit Pistons",
+     "start": "Wed 7:10 PM ET",
+     "reason": "PHI is only +2.5, with Embiid off the injury report, and Detroit is without Jalen Duren.",
+     "marketId": "742.195788900",
+     "selectionId": "7888529",
+     "eventId": 36266779,
+     "marketIdMD": "724.195927641"
     },
     {
-     "pick": "Stars/Capitals: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -1600,
-     "sport": "NHL",
-     "event": "Dallas Stars @ Washington Capitals",
-     "start": "Tue 7:08 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome. Oettinger and Thompson both start.",
-     "marketId": "742.195598170",
-     "selectionId": "7017915",
-     "eventId": 36260037,
-     "marketIdMD": "724.195736904"
+     "pick": "Bulls +24.5",
+     "market": "Alternate Spread",
+     "odds": -500,
+     "sport": "NBA",
+     "event": "Chicago Bulls @ New York Knicks",
+     "start": "Wed 7:40 PM ET",
+     "reason": "The Knicks are -12.5 and Josh Hart is questionable. Chicago only has to lose by 24 or less.",
+     "marketId": "742.195790191",
+     "selectionId": "7901136",
+     "eventId": 36266776,
+     "marketIdMD": "724.195928930"
     },
     {
-     "pick": "Blues/Rangers: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -1600,
-     "sport": "NHL",
-     "event": "St. Louis Blues @ New York Rangers",
-     "start": "Tue 7:09 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome.",
-     "marketId": "742.195598688",
-     "selectionId": "7017915",
-     "eventId": 36260041,
-     "marketIdMD": "724.195737439"
+     "pick": "Nets +14.5",
+     "market": "Alternate Spread",
+     "odds": -500,
+     "sport": "NBA",
+     "event": "Charlotte Hornets @ Brooklyn Nets",
+     "start": "Wed 7:40 PM ET",
+     "reason": "Charlotte is only -3.5 on the road. That leaves 11 points of room.",
+     "marketId": "742.195790312",
+     "selectionId": "7888759",
+     "eventId": 36266781,
+     "marketIdMD": "724.195929050"
     },
     {
-     "pick": "Jets/Canadiens: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -1800,
-     "sport": "NHL",
-     "event": "Winnipeg Jets @ Montreal Canadiens",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome. Winnipeg is depleted.",
-     "marketId": "742.195599495",
-     "selectionId": "7017915",
-     "eventId": 36260038,
-     "marketIdMD": "724.195738232"
+     "pick": "Mavericks +24.5",
+     "market": "Alternate Spread",
+     "odds": -500,
+     "sport": "NBA",
+     "event": "Dallas Mavericks @ San Antonio Spurs",
+     "start": "Wed 9:40 PM ET",
+     "reason": "The Spurs are -12.5, and Kyrie Irving is back for Dallas.",
+     "marketId": "742.195791296",
+     "selectionId": "7941590",
+     "eventId": 36266774,
+     "marketIdMD": "724.195930030"
     },
     {
-     "pick": "Wild +2.5 (Alt Puck Line)",
+     "pick": "Kings +24.5",
+     "market": "Alternate Spread",
+     "odds": -550,
+     "sport": "NBA",
+     "event": "Los Angeles Lakers @ Sacramento Kings",
+     "start": "Wed 10:10 PM ET",
+     "reason": "The Lakers are -11.5. A Lakers win by 25 or more is rare.",
+     "marketId": "742.195787779",
+     "selectionId": "7913538",
+     "eventId": 36266772,
+     "marketIdMD": "724.195926517"
+    },
+    {
+     "pick": "Timberwolves +18.5",
+     "market": "Alternate Spread",
+     "odds": -460,
+     "sport": "NBA",
+     "event": "Minnesota Timberwolves @ Houston Rockets",
+     "start": "Wed 8:40 PM ET",
+     "reason": "Houston is -7.5. Even without Edwards, an 11-point cushion beyond the spread.",
+     "marketId": "742.195790835",
+     "selectionId": "7927659",
+     "eventId": 36266782,
+     "marketIdMD": "724.195929575"
+    },
+    {
+     "pick": "Clippers +15.5",
+     "market": "Alternate Spread",
+     "odds": -480,
+     "sport": "NBA",
+     "event": "Miami Heat @ Los Angeles Clippers",
+     "start": "Wed 10:40 PM ET",
+     "reason": "Miami is -4.5 on the road. That leaves 11 points of room.",
+     "marketId": "742.195788087",
+     "selectionId": "7884533",
+     "eventId": 36266783,
+     "marketIdMD": "724.195926820"
+    },
+    {
+     "pick": "Suns +14.5",
+     "market": "Alternate Spread",
+     "odds": -560,
+     "sport": "NBA",
+     "event": "Portland Trail Blazers @ Phoenix Suns",
+     "start": "Wed 9:10 PM ET",
+     "reason": "Portland is -3.5 at Phoenix and is missing Sharpe. That leaves 11 points of room.",
+     "marketId": "742.195791206",
+     "selectionId": "7889916",
+     "eventId": 36266775,
+     "marketIdMD": "724.195929946"
+    },
+    {
+     "pick": "Pelicans +5.5",
+     "market": "Alternate Spread",
+     "odds": -375,
+     "sport": "NBA",
+     "event": "Utah Jazz @ New Orleans Pelicans",
+     "start": "Wed 8:10 PM ET",
+     "reason": "New Orleans is -5.5 at home, and Utah is without Jaren Jackson Jr. and Nurkic. This gives 11 points of room.",
+     "marketId": "742.195790711",
+     "selectionId": "7978304",
+     "eventId": 36266777,
+     "marketIdMD": "724.195929453"
+    },
+    {
+     "pick": "Pacers +17.5",
+     "market": "Alternate Spread",
+     "odds": -480,
+     "sport": "NBA",
+     "event": "Indiana Pacers @ Memphis Grizzlies",
+     "start": "Wed 8:10 PM ET",
+     "reason": "Memphis is -6.5. Indiana is short-handed, but losing by 18+ would be needed for a miss. Lesson: depleted teams often compete.",
+     "marketId": "742.195790665",
+     "selectionId": "7949621",
+     "eventId": 36266785,
+     "marketIdMD": "724.195929404"
+    },
+    {
+     "pick": "Thunder +9.5",
+     "market": "Alternate Spread",
+     "odds": -520,
+     "sport": "NBA",
+     "event": "Cleveland Cavaliers @ Oklahoma City Thunder",
+     "start": "Wed 8:10 PM ET",
+     "reason": "OKC is the home favorite (-3.5). This covers unless Cleveland wins by 10+.",
+     "marketId": "742.195790536",
+     "selectionId": "7890436",
+     "eventId": 36266773,
+     "marketIdMD": "724.195929275"
+    },
+    {
+     "pick": "Nuggets +8.5",
+     "market": "Alternate Spread",
+     "odds": -560,
+     "sport": "NBA",
+     "event": "Toronto Raptors @ Denver Nuggets",
+     "start": "Wed 9:10 PM ET",
+     "reason": "Denver is -4.5 at home against a Toronto team without Kawhi. This covers unless Toronto wins by 9+.",
+     "marketId": "742.195791160",
+     "selectionId": "7889495",
+     "eventId": 36266780,
+     "marketIdMD": "724.195929884"
+    },
+    {
+     "pick": "Celtics +2.5",
+     "market": "Alternate Spread",
+     "odds": -670,
+     "sport": "NBA",
+     "event": "Milwaukee Bucks @ Boston Celtics",
+     "start": "Wed 7:40 PM ET",
+     "reason": "Boston is -11.5. Even if Tatum rests, Boston only has to avoid losing by 3+.",
+     "marketId": "742.195790422",
+     "selectionId": "7927478",
+     "eventId": 36266778,
+     "marketIdMD": "724.195929161"
+    },
+    {
+     "pick": "Panthers +1.5 (Alt Puck Line)",
      "market": "Alternate Puck Line",
-     "odds": -1300,
+     "odds": -900,
      "sport": "NHL",
-     "event": "Minnesota Wild @ Philadelphia Flyers",
-     "start": "Tue 7:10 PM ET",
-     "reason": "The -178 favorite gets 2.5 goals.",
-     "marketId": "742.195599622",
-     "selectionId": "7742232",
-     "eventId": 36260039,
-     "marketIdMD": "724.195738360"
+     "event": "Chicago Blackhawks @ Florida Panthers",
+     "start": "Wed 7:40 PM ET",
+     "reason": "Florida is -250 at home against Chicago.",
+     "marketId": "742.195818614",
+     "selectionId": "7000408",
+     "eventId": 36260053,
+     "marketIdMD": "724.195957320"
     },
     {
-     "pick": "Red Wings/Lightning: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -1600,
+     "pick": "Sabres +2.5 (Alt Puck Line)",
+     "market": "Alternate Puck Line",
+     "odds": -650,
      "sport": "NHL",
-     "event": "Detroit Red Wings @ Tampa Bay Lightning",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome. Detroit 4+ against Vasilevskiy is unlikely.",
-     "marketId": "742.195600180",
-     "selectionId": "7017915",
-     "eventId": 36260043,
-     "marketIdMD": "724.195738923"
+     "event": "Ottawa Senators @ Buffalo Sabres",
+     "start": "Wed 7:39 PM ET",
+     "reason": "Buffalo is the home favorite (-122). This only misses if Ottawa wins by 3+.",
+     "marketId": "742.195818705",
+     "selectionId": "7737355",
+     "eventId": 36260052,
+     "marketIdMD": "724.195957441"
     },
     {
-     "pick": "Avalanche/Blue Jackets: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -1100,
-     "sport": "NHL",
-     "event": "Colorado Avalanche @ Columbus Blue Jackets",
-     "start": "Tue 7:09 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome.",
-     "marketId": "742.195598823",
-     "selectionId": "7017915",
-     "eventId": 36260042,
-     "marketIdMD": "724.195737559"
-    },
-    {
-     "pick": "Golden Knights/Penguins: both teams 4+ goals - No",
-     "market": "Both Teams to Score 4+ Goals",
-     "odds": -800,
-     "sport": "NHL",
-     "event": "Vegas Golden Knights @ Pittsburgh Penguins",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome.",
-     "marketId": "742.195600288",
-     "selectionId": "7017915",
-     "eventId": 36260045,
-     "marketIdMD": "724.195739034"
-    },
-    {
-     "pick": "Oilers/Devils: both teams 4+ goals - No",
+     "pick": "Flames/Kraken: both teams 4+ goals - No",
      "market": "Both Teams to Score 4+ Goals",
      "odds": -1200,
      "sport": "NHL",
-     "event": "Edmonton Oilers @ New Jersey Devils",
-     "start": "Tue 7:40 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome. Jarry has back-to-back shutouts, and Hellebuyck is in the other net.",
-     "marketId": "742.195600376",
+     "event": "Calgary Flames @ Seattle Kraken",
+     "start": "Wed 10:10 PM ET",
+     "reason": "This is the lowest total on the board (6.5, Under -134), between two low-octane offenses. Lesson applied: the No only goes in non-shootout matchups.",
+     "marketId": "742.195818763",
      "selectionId": "7017915",
-     "eventId": 36260046,
-     "marketIdMD": "724.195739118"
+     "eventId": 36260054,
+     "marketIdMD": "724.195957500"
     },
     {
-     "pick": "Hurricanes/Predators: both teams 4+ goals - No",
+     "pick": "Sharks/Kings: both teams 4+ goals - No",
      "market": "Both Teams to Score 4+ Goals",
      "odds": -1400,
      "sport": "NHL",
-     "event": "Carolina Hurricanes @ Nashville Predators",
-     "start": "Tue 8:10 PM ET",
-     "reason": "Both teams scoring 4+ goals is rare (it needs 8+ total goals split evenly). Starting goalies and defensive form make this a 93%+ outcome. Kochetkov (.929) vs. Saros.",
-     "marketId": "742.195600500",
+     "event": "San Jose Sharks @ Los Angeles Kings",
+     "start": "Wed 10:10 PM ET",
+     "reason": "LA's defensive structure plus San Jose's weak attack.",
+     "marketId": "742.195818858",
      "selectionId": "7017915",
-     "eventId": 36260049,
-     "marketIdMD": "724.195739239"
+     "eventId": 36260055,
+     "marketIdMD": "724.195957587"
     },
     {
-     "pick": "Mammoth +2.5 (Alt Puck Line)",
-     "market": "Alternate Puck Line",
-     "odds": -700,
-     "sport": "NHL",
-     "event": "Utah Mammoth @ Toronto Maple Leafs",
-     "start": "Tue 7:09 PM ET",
-     "reason": "Utah is the -142 favorite in Toronto, so it would have to lose by 3+ for this to miss.",
-     "marketId": "742.195598042",
-     "selectionId": "86696246",
-     "eventId": 36260035,
-     "marketIdMD": "724.195736779"
+     "pick": "Leipzig vs Man City Over 1.5 Goals",
+     "market": "Over/Under 1.5 Goals",
+     "odds": -1600,
+     "sport": "Soccer",
+     "event": "RB Leipzig v Man City",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Total of 3.5 (Over 2.5 -355). Two attacking sides.",
+     "marketId": "742.193159831",
+     "selectionId": "1221386",
+     "eventId": 36223259
+    },
+    {
+     "pick": "AEK vs Real Madrid Over 1.5 Goals",
+     "market": "Over/Under 1.5 Goals",
+     "odds": -1500,
+     "sport": "Soccer",
+     "event": "AEK Athens v Real Madrid",
+     "start": "Wed 12:45 PM ET",
+     "reason": "Real Madrid is -550 and the total is 3.5. Madrid can clear this by itself.",
+     "marketId": "742.193011753",
+     "selectionId": "1221386",
+     "eventId": 36220990
+    },
+    {
+     "pick": "PSV vs Club Brugge Over 1.5 Goals",
+     "market": "Over/Under 1.5 Goals",
+     "odds": -1200,
+     "sport": "Soccer",
+     "event": "PSV v Club Brugge",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Over 2.5 is -290. Both teams score often, and PSV is home in Eindhoven.",
+     "marketId": "742.193157318",
+     "selectionId": "1221386",
+     "eventId": 36223236
+    },
+    {
+     "pick": "Fenerbahce vs Liverpool Over 1.5 Goals",
+     "market": "Over/Under 1.5 Goals",
+     "odds": -1250,
+     "sport": "Soccer",
+     "event": "Fenerbahce v Liverpool",
+     "start": "Wed 12:45 PM ET",
+     "reason": "Over 2.5 is -310 in a hostile, open-game stadium.",
+     "marketId": "742.193157683",
+     "selectionId": "1221386",
+     "eventId": 36223248
+    },
+    {
+     "pick": "Cardiff vs West Ham Over 1.5 Goals",
+     "market": "Over/Under 1.5 Goals",
+     "odds": -1200,
+     "sport": "Soccer",
+     "event": "Cardiff v West Ham",
+     "start": "Wed 2:45 PM ET",
+     "reason": "Over 2.5 is -280 in the Championship.",
+     "marketId": "742.194650462",
+     "selectionId": "1221386",
+     "eventId": 36253507
+    },
+    {
+     "pick": "Botafogo or Draw",
+     "market": "Double Chance",
+     "odds": -650,
+     "sport": "Soccer",
+     "event": "Botafogo FR v Atletico MG",
+     "start": "Wed 7:30 PM ET",
+     "reason": "Botafogo is home in Rio (-650 double chance).",
+     "marketId": "742.193864479",
+     "selectionId": "76786595",
+     "eventId": 36239720
+    },
+    {
+     "pick": "Toledo ML",
+     "market": "Moneyline",
+     "odds": -3500,
+     "sport": "NCAAF",
+     "event": "Toledo @ Sacramento State",
+     "start": "Wed 7:00 PM ET",
+     "reason": "Toledo is -3500 against FBS newcomer Sacramento State (24.5-point line).",
+     "marketId": "742.194363631",
+     "selectionId": "532781",
+     "eventId": 36248785,
+     "marketIdMD": "724.194502372"
     }
    ]
   },
   {
-   "name": "NHL Unders & Cushions Ladder",
-   "odds": 1110,
+   "name": "College Locks & Unders Ladder",
+   "odds": 1071,
    "stake": 5,
-   "payout": 60.48,
-   "reason": "11 legs priced -330 to -500 (about 77-83% each), one per game, aiming at +1000. Lesson applied: no team-total unders and no coin flips. Full-game Under 7.5 leaves a cushion of 1-2 goals over the main totals.",
+   "payout": 58.54,
+   "reason": "A $5 ladder of college moneylines at -1700 or longer and big-cushion unders in matches with low totals, built to clear +1000. Lesson applied: college MLs at -1800 or longer went 13-for-13, and every leg here is -375 or longer.",
    "legs": [
     {
-     "pick": "Stars @ Capitals Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -450,
-     "sport": "NHL",
-     "event": "Dallas Stars @ Washington Capitals",
-     "start": "Tue 7:08 PM ET",
-     "reason": "The main total is 5.5. Oettinger and Thompson are both strong starters.",
-     "marketId": "742.195598137",
-     "selectionId": "8359780",
-     "eventId": 36260037,
-     "marketIdMD": "724.195736872"
+     "pick": "Santa Clara ML",
+     "market": "Moneyline",
+     "odds": -3500,
+     "sport": "NCAAB",
+     "event": "Milwaukee @ Santa Clara",
+     "start": "Wed 10:00 PM ET",
+     "reason": "Santa Clara is -3500 at home against Milwaukee.",
+     "marketId": "742.195715792",
+     "selectionId": "708789",
+     "eventId": 36277727,
+     "marketIdMD": "724.195854530"
     },
     {
-     "pick": "Blues @ Rangers Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -430,
-     "sport": "NHL",
-     "event": "St. Louis Blues @ New York Rangers",
-     "start": "Tue 7:09 PM ET",
-     "reason": "The main total is 5.5 and both teams are mid-table at 7-7.",
-     "marketId": "742.195598762",
-     "selectionId": "8359780",
-     "eventId": 36260041,
-     "marketIdMD": "724.195737503"
+     "pick": "California ML",
+     "market": "Moneyline",
+     "odds": -2300,
+     "sport": "NCAAB",
+     "event": "Radford @ California",
+     "start": "Wed 9:00 PM ET",
+     "reason": "Cal is -2300 at home against Radford.",
+     "marketId": "742.195745111",
+     "selectionId": "352410",
+     "eventId": 36277981,
+     "marketIdMD": "724.195883849"
     },
     {
-     "pick": "Avalanche +1.5 (Alt Puck Line)",
-     "market": "Alternate Puck Line",
-     "odds": -350,
-     "sport": "NHL",
-     "event": "Colorado Avalanche @ Columbus Blue Jackets",
-     "start": "Tue 7:09 PM ET",
-     "reason": "Colorado is a -128 road favorite, and +1.5 covers any one-goal loss.",
-     "marketId": "742.195598822",
-     "selectionId": "7000403",
-     "eventId": 36260042,
-     "marketIdMD": "724.195737557"
+     "pick": "Wichita State ML",
+     "market": "Moneyline",
+     "odds": -1700,
+     "sport": "NCAAB",
+     "event": "CSU Northridge @ Wichita State",
+     "start": "Wed 7:30 PM ET",
+     "reason": "Wichita State is -1700 at home against CSUN.",
+     "marketId": "742.195714625",
+     "selectionId": "697639",
+     "eventId": 36277718,
+     "marketIdMD": "724.195853363"
     },
     {
-     "pick": "Golden Knights @ Penguins Under 8.5",
-     "market": "Alternate Total Goals",
-     "odds": -430,
-     "sport": "NHL",
-     "event": "Vegas Golden Knights @ Pittsburgh Penguins",
-     "start": "Tue 7:10 PM ET",
-     "reason": "The main total is 6.5, so this gives 2 goals of cushion with Hill in net.",
-     "marketId": "742.195600281",
-     "selectionId": "8359782",
-     "eventId": 36260045,
-     "marketIdMD": "724.195739020"
+     "pick": "Dortmund to score (Home Over 0.5)",
+     "market": "Home Team Over/Under 0.5 Goals",
+     "odds": -1400,
+     "sport": "Soccer",
+     "event": "Dortmund v Betis",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Dortmund is -150 at home, where it is a high-scoring side. Betis concedes freely on the road.",
+     "marketId": "742.193159787",
+     "selectionId": "7044482",
+     "eventId": 36223262
     },
     {
-     "pick": "Mammoth +1.5 (Alt Puck Line)",
-     "market": "Alternate Puck Line",
-     "odds": -370,
-     "sport": "NHL",
-     "event": "Utah Mammoth @ Toronto Maple Leafs",
-     "start": "Tue 7:09 PM ET",
-     "reason": "Utah is the favorite, and +1.5 also covers a one-goal or overtime loss.",
-     "marketId": "742.195598042",
-     "selectionId": "86696255",
-     "eventId": 36260035,
-     "marketIdMD": "724.195736779"
-    },
-    {
-     "pick": "Red Wings @ Lightning Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -330,
-     "sport": "NHL",
-     "event": "Detroit Red Wings @ Tampa Bay Lightning",
-     "start": "Tue 7:10 PM ET",
-     "reason": "Detroit is on a back-to-back and tired legs limit its offense. The main total is 6.5.",
-     "marketId": "742.195600210",
-     "selectionId": "8359780",
-     "eventId": 36260043,
-     "marketIdMD": "724.195738943"
-    },
-    {
-     "pick": "Hurricanes @ Predators Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -350,
-     "sport": "NHL",
-     "event": "Carolina Hurricanes @ Nashville Predators",
-     "start": "Tue 8:10 PM ET",
-     "reason": "Kochetkov (.929) vs. Saros, and Nashville has struggled to score.",
-     "marketId": "742.195600440",
-     "selectionId": "8359780",
-     "eventId": 36260049,
-     "marketIdMD": "724.195739179"
-    },
-    {
-     "pick": "Jets @ Canadiens Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -430,
-     "sport": "NHL",
-     "event": "Winnipeg Jets @ Montreal Canadiens",
-     "start": "Tue 7:10 PM ET",
-     "reason": "The main total is 5.5 and Winnipeg is missing top players.",
-     "marketId": "742.195599558",
-     "selectionId": "8359780",
-     "eventId": 36260038,
-     "marketIdMD": "724.195738295"
-    },
-    {
-     "pick": "Wild @ Flyers Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -410,
-     "sport": "NHL",
-     "event": "Minnesota Wild @ Philadelphia Flyers",
-     "start": "Tue 7:10 PM ET",
-     "reason": "The main total is 5.5. Wallstedt and Vladar start.",
-     "marketId": "742.195599628",
-     "selectionId": "8359780",
-     "eventId": 36260039,
-     "marketIdMD": "724.195738357"
-    },
-    {
-     "pick": "Oilers @ Devils Under 7.5",
-     "market": "Alternate Total Goals",
-     "odds": -340,
-     "sport": "NHL",
-     "event": "Edmonton Oilers @ New Jersey Devils",
-     "start": "Tue 7:40 PM ET",
-     "reason": "Jarry has two straight shutouts and Hellebuyck starts for New Jersey.",
-     "marketId": "742.195600404",
-     "selectionId": "8359780",
-     "eventId": 36260046,
-     "marketIdMD": "724.195739145"
-    },
-    {
-     "pick": "Buffalo +17.5 (Alt Spread)",
+     "pick": "Massachusetts +12.5 (Alt Spread)",
      "market": "Alternate Spread",
-     "odds": -500,
+     "odds": -950,
      "sport": "NCAAF",
-     "event": "Buffalo @ Miami Ohio",
-     "start": "Tue 8:00 PM ET",
-     "reason": "The main line is 6.5. Miami's offense is built to grind, so a margin of 18+ is unlikely.",
-     "marketId": "742.195278540",
-     "selectionId": "49892665",
-     "eventId": 36248775,
-     "marketIdMD": "724.195417250"
+     "event": "Ball State @ Massachusetts",
+     "start": "Wed 7:00 PM ET",
+     "reason": "UMass is the -166 home favorite. This only misses if Ball State wins by 13+.",
+     "marketId": "742.195354804",
+     "selectionId": "49921608",
+     "eventId": 36248776,
+     "marketIdMD": "724.195493540"
+    },
+    {
+     "pick": "Bristol City vs Wolves Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -950,
+     "sport": "Soccer",
+     "event": "Bristol City v Wolves",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Total of 2.5 with Under -115. A tight Championship match.",
+     "marketId": "742.194650494",
+     "selectionId": "1222347",
+     "eventId": 36253508
+    },
+    {
+     "pick": "Porto vs Napoli Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -800,
+     "sport": "Soccer",
+     "event": "Porto v Napoli",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Total of 2.5 (Under +100) between two well-organized defenses.",
+     "marketId": "742.193010818",
+     "selectionId": "1222347",
+     "eventId": 36220974
+    },
+    {
+     "pick": "Athletico-PR vs Vasco Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -750,
+     "sport": "Soccer",
+     "event": "Athletico-PR v Vasco Da Gama",
+     "start": "Wed 5:30 PM ET",
+     "reason": "Brazilian Serie A, Under 3.5 is -260.",
+     "marketId": "742.193857998",
+     "selectionId": "1222347",
+     "eventId": 36239606
+    },
+    {
+     "pick": "Sao Paulo vs Corinthians Under 3.5 Goals",
+     "market": "Over/Under 3.5 Goals",
+     "odds": -500,
+     "sport": "Soccer",
+     "event": "Sao Paulo v Corinthians",
+     "start": "Wed 7:30 PM ET",
+     "reason": "A classic low-scoring derby: Under 2.5 is -170.",
+     "marketId": "742.193864856",
+     "selectionId": "1222344",
+     "eventId": 36239721
+    },
+    {
+     "pick": "Slavia vs Arsenal Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -600,
+     "sport": "Soccer",
+     "event": "Slavia Prague v Arsenal",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Arsenal's elite defense. Under 3.5 is -220.",
+     "marketId": "742.193156908",
+     "selectionId": "1222347",
+     "eventId": 36223231
+    },
+    {
+     "pick": "Wrexham vs Middlesbrough Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -520,
+     "sport": "Soccer",
+     "event": "Wrexham v Middlesbrough",
+     "start": "Wed 2:45 PM ET",
+     "reason": "Under 3.5 is -192.",
+     "marketId": "742.194650144",
+     "selectionId": "1222347",
+     "eventId": 36253490
+    },
+    {
+     "pick": "Lens vs Como Under 4.5 Goals",
+     "market": "Over/Under 4.5 Goals",
+     "odds": -480,
+     "sport": "Soccer",
+     "event": "Lens v Como",
+     "start": "Wed 3:00 PM ET",
+     "reason": "Under 3.5 is -188.",
+     "marketId": "742.193158437",
+     "selectionId": "1222347",
+     "eventId": 36223251
+    },
+    {
+     "pick": "Pistons +7.5",
+     "market": "Alternate Spread",
+     "odds": -335,
+     "sport": "NBA",
+     "event": "Philadelphia 76ers @ Detroit Pistons",
+     "start": "Wed 7:10 PM ET",
+     "reason": "Detroit is the -2.5 home favorite. This only misses if PHI wins by 8+.",
+     "marketId": "742.195788900",
+     "selectionId": "7890088",
+     "eventId": 36266779,
+     "marketIdMD": "724.195927641"
+    },
+    {
+     "pick": "Knicks -2.5",
+     "market": "Alternate Spread",
+     "odds": -385,
+     "sport": "NBA",
+     "event": "Chicago Bulls @ New York Knicks",
+     "start": "Wed 7:40 PM ET",
+     "reason": "The Knicks are -12.5 at home. Even with Hart questionable, they only need to win by 3.",
+     "marketId": "742.195790191",
+     "selectionId": "7889688",
+     "eventId": 36266776,
+     "marketIdMD": "724.195928930"
+    },
+    {
+     "pick": "Spurs -2.5",
+     "market": "Alternate Spread",
+     "odds": -400,
+     "sport": "NBA",
+     "event": "Dallas Mavericks @ San Antonio Spurs",
+     "start": "Wed 9:40 PM ET",
+     "reason": "The Spurs are -12.5. Christie is out for Dallas, and San Antonio only needs to win by 3.",
+     "marketId": "742.195791296",
+     "selectionId": "7890734",
+     "eventId": 36266774,
+     "marketIdMD": "724.195930030"
+    },
+    {
+     "pick": "Lakers -2.5",
+     "market": "Alternate Spread",
+     "odds": -375,
+     "sport": "NBA",
+     "event": "Los Angeles Lakers @ Sacramento Kings",
+     "start": "Wed 10:10 PM ET",
+     "reason": "The Lakers are -11.5 at home against the Kings and only need to win by 3.",
+     "marketId": "742.195787779",
+     "selectionId": "2660048",
+     "eventId": 36266772,
+     "marketIdMD": "724.195926517"
+    },
+    {
+     "pick": "Real Madrid ML",
+     "market": "Moneyline (3-way)",
+     "odds": -550,
+     "sport": "Soccer",
+     "event": "AEK Athens v Real Madrid",
+     "start": "Wed 12:45 PM ET",
+     "reason": "Real Madrid is -550 at AEK, the biggest class gap of the 12:45 UCL window.",
+     "marketId": "742.193011382",
+     "selectionId": "2426",
+     "eventId": 36220990,
+     "marketIdMD": "724.193150118"
     }
    ]
   }
  ],
  "results": {
-  "updated": "Tue Nov 3, 2026 3:10 PM ET",
-  "sources": "ESPN scoreboards and box scores (NBA/NHL/NFL/NCAAB/soccer); odds and IDs from the FanDuel PA sportsbook public feed",
+  "updated": "Wed Nov 4, 2026 10:30 AM ET",
+  "sources": "ESPN scoreboards, box scores and injury reports (NBA/NHL/NCAAF/NCAAB/soccer); odds and IDs from the FanDuel PA sportsbook public feed",
   "totals": {
    "singles": {
     "won": 18,
-    "lost": 13,
-    "pending": 1,
-    "winPct": 58.1,
-    "staked": 310,
-    "profit": 60.0,
-    "roiPct": 19.4
+    "lost": 15,
+    "pending": 0,
+    "winPct": 54.5,
+    "staked": 330,
+    "profit": 40.0,
+    "roiPct": 12.1
    },
    "parlays": {
-    "won": 4,
+    "won": 8,
     "lost": 15,
-    "pending": 2,
-    "winPct": 21.1,
-    "staked": 190,
-    "profit": -48.74,
-    "roiPct": -25.7
+    "pending": 0,
+    "winPct": 34.8,
+    "staked": 230,
+    "profit": -24.85,
+    "roiPct": -10.8
    },
    "lottery": {
     "won": 1,
-    "lost": 16,
+    "lost": 18,
     "pending": 0,
-    "winPct": 5.9,
-    "staked": 85,
-    "profit": -8.7,
-    "roiPct": -10.2
+    "winPct": 5.3,
+    "staked": 95,
+    "profit": -18.7,
+    "roiPct": -19.7
    },
    "overall": {
-    "won": 23,
-    "lost": 44,
-    "pending": 3,
-    "winPct": 34.3,
-    "staked": 585,
-    "profit": 2.56,
-    "roiPct": 0.4
+    "won": 27,
+    "lost": 48,
+    "pending": 0,
+    "winPct": 36.0,
+    "staked": 655,
+    "profit": -3.55,
+    "roiPct": -0.5
    },
    "legs": {
-    "hit": 227,
-    "miss": 110,
-    "pending": 72,
+    "hit": 305,
+    "miss": 123,
+    "pending": 20,
     "void": 3
-   }
+   },
+   "won": 27,
+   "lost": 48,
+   "pending": 0,
+   "winPct": 36.0,
+   "staked": 655,
+   "profit": -3.55,
+   "roiPct": -0.5
   },
   "singles": {
    "won": 18,
@@ -4014,50 +4218,50 @@
       "pick": "Barcelona 2+ goals (Home Over 1.5)",
       "odds": -770,
       "event": "Barcelona v Aston Villa",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "BAR 3-0 Villa"
      },
      {
       "pick": "PSG or Draw",
       "odds": -500,
       "event": "Villarreal v Paris St-G",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "PSG won 6-0"
      },
      {
       "pick": "Atletico vs Bayern Over 1.5 Goals",
       "odds": -700,
       "event": "Atletico Madrid v Bayern Munich",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Bayern won 2-0 (2 goals)"
      },
      {
       "pick": "Inter or Draw",
       "odds": -350,
       "event": "Feyenoord v Inter",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Inter won 3-0"
      },
      {
       "pick": "Bodo/Glimt vs Lille Over 1.5 Goals",
       "odds": -900,
       "event": "Bodo Glimt v Lille",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "0-0"
      },
      {
       "pick": "LASK or Draw",
       "odds": -1000,
       "event": "Lask Linz v Slovan Bratislava",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "LASK 4-0"
      },
      {
       "pick": "Man Utd to score (Home Over 0.5)",
       "odds": -700,
       "event": "Man Utd v Roma",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "MUN 3-2 Roma"
      },
      {
       "pick": "Stuttgart to score (Away Over 0.5)",
@@ -4084,22 +4288,22 @@
       "pick": "Blackburn vs Stoke Under 4.5 Goals",
       "odds": -1300,
       "event": "Blackburn v Stoke",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Stoke 2-1 (3)"
      },
      {
       "pick": "Watford vs Lincoln Under 4.5 Goals",
       "odds": -1050,
       "event": "Watford v Lincoln",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "WAT 1-0"
      },
      {
       "pick": "Preston vs Sheff Utd Under 4.5 Goals",
       "odds": -800,
       "event": "Preston v Sheff Utd",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "Sheff Utd 3-2 (5 goals)"
      },
      {
       "pick": "Shelton to win at least 1 set",
@@ -4112,8 +4316,8 @@
       "pick": "Jodar to win at least 1 set",
       "odds": -550,
       "event": "Casper Ruud v Rafael Jodar",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "Ruud won 6-3, 6-4"
      },
      {
       "pick": "Lehecka to win at least 1 set",
@@ -4126,68 +4330,68 @@
       "pick": "Stars @ Capitals Under 8.5 Goals",
       "odds": -800,
       "event": "Dallas Stars @ Washington Capitals",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "DAL 6-5 (11 goals)"
      },
      {
       "pick": "Blues @ Rangers Under 8.5 Goals",
       "odds": -750,
       "event": "St. Louis Blues @ New York Rangers",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "NYR 3-1"
      },
      {
       "pick": "Mammoth +2.5",
       "odds": -700,
       "event": "Utah Mammoth @ Toronto Maple Leafs",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "UTA won 3-2"
      },
      {
       "pick": "Devils +2.5",
       "odds": -950,
       "event": "Edmonton Oilers @ New Jersey Devils",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "NJD won 4-3 SO"
      },
      {
       "pick": "Wild +2.5",
       "odds": -1400,
       "event": "Minnesota Wild @ Philadelphia Flyers",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "MIN won 4-2"
      },
      {
       "pick": "Ohio ML",
       "odds": -630,
       "event": "Ohio @ Akron",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Ohio 28-20"
      },
      {
       "pick": "Georgia Tech ML",
       "odds": -1800,
       "event": "Hampton @ Georgia Tech",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "GT 75-55"
      },
      {
       "pick": "San Diego State ML",
       "odds": -3000,
       "event": "CSU Fullerton @ San Diego State",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "SDSU 102-78"
      },
      {
       "pick": "Boston College ML",
       "odds": -4000,
       "event": "Wagner @ Boston College",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "BC 76-50"
      }
     ],
-    "whyExplanation": "Lost: 2 early legs missed (Stuttgart to score (Away Over 0.5); Shakhtar vs Sporting Over 1.5 Goals). Stuttgart was shut out 2-0 at Galatasaray and Shakhtar-Sporting ended 0-1.",
-    "lesson": "Champions League road teams 'to score' and 'Over 1.5' in tight European away matches are not -500+ safe: two misses came from the 12:45 PM UCL games. Use those only when the team is a clear class above the opponent."
+    "whyExplanation": "Lost: Stuttgart to score and Shakhtar/Sporting O1.5 missed earlier; Bodo/Lille O1.5 (0-0), Preston/Sheff Utd U4.5 (5 goals), Jodar a set (lost 3-6, 4-6) and Stars/Caps U8.5 (11 goals) also missed.",
+    "lesson": "Soccer goal overs in tight away/neutral matchups and EFL U4.5 still lose; tennis underdog set props are unreliable."
    },
    {
     "date": "2026-11-03",
@@ -4203,85 +4407,85 @@
       "pick": "Jets @ Canadiens Under 8.5",
       "odds": -800,
       "event": "Winnipeg Jets @ Montreal Canadiens",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "WPG 5-4 OT (9 goals)"
      },
      {
       "pick": "Avalanche +2.5",
       "odds": -700,
       "event": "Colorado Avalanche @ Columbus Blue Jackets",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "miss",
+      "actual": "CBJ won 7-2"
      },
      {
       "pick": "Red Wings @ Lightning Under 8.5",
       "odds": -600,
       "event": "Detroit Red Wings @ Tampa Bay Lightning",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "TB 4-2 (6)"
      },
      {
       "pick": "Golden Knights +2.5",
       "odds": -550,
       "event": "Vegas Golden Knights @ Pittsburgh Penguins",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "VGK won 3-2"
      },
      {
       "pick": "Hurricanes @ Predators Under 8.5",
       "odds": -600,
       "event": "Carolina Hurricanes @ Nashville Predators",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "NSH 4-1 (5)"
      },
      {
       "pick": "Derby vs Norwich Under 4.5",
       "odds": -650,
       "event": "Derby v Norwich",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Norwich 4-0 (4)"
      },
      {
       "pick": "Charlton vs Bolton Under 4.5",
       "odds": -750,
       "event": "Charlton v Bolton",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Bolton 1-0"
      },
      {
       "pick": "Birmingham vs Millwall Under 4.5",
       "odds": -700,
       "event": "Birmingham v Millwall",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "BIR 3-0"
      },
      {
       "pick": "QPR vs Burnley Under 4.5",
       "odds": -600,
       "event": "QPR v Burnley",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "1-1"
      },
      {
       "pick": "Huddersfield vs Luton Under 4.5",
       "odds": -590,
       "event": "Huddersfield v Luton",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "1-1"
      },
      {
       "pick": "Wigan vs Mansfield Under 4.5",
       "odds": -620,
       "event": "Wigan v Mansfield",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "0-0"
      },
      {
       "pick": "Miami (OH) +3.5",
       "odds": -400,
       "event": "Buffalo @ Miami Ohio",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Buffalo won 34-31 OT (by 3)"
      },
      {
       "pick": "Gea to win at least 1 set",
@@ -4294,15 +4498,15 @@
       "pick": "Portsmouth vs Swansea Under 4.5",
       "odds": -1600,
       "event": "Portsmouth v Swansea",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "POR 3-1 (4)"
      },
      {
       "pick": "West Brom vs Southampton Under 4.5",
       "odds": -900,
       "event": "West Brom v Southampton",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "1-1"
      },
      {
       "pick": "Lyngby vs Randers Under 4.5",
@@ -4319,8 +4523,8 @@
       "actual": "Sirius 2-0"
      }
     ],
-    "whyExplanation": "Lost: Gea to win at least 1 set missed. Gea lost 7-6, 6-3 to Struff, so he won no sets.",
-    "lesson": "'Win at least 1 set' on a young underdog against a big server is weaker than the price suggests; one tiebreak decides it. Use that market only when the player is the favorite or close to it."
+    "whyExplanation": "Lost: Gea won no sets; Jets/Canadiens U8.5 (9 goals in OT) and Avalanche +2.5 (lost 7-2) also missed. Lyngby/Randers not verified.",
+    "lesson": "NHL U8.5 lost twice on a high-scoring night; NHL alt unders are less safe than they look."
    },
    {
     "date": "2026-11-03",
@@ -4329,19 +4533,19 @@
     "name": "Hurricanes -1.5 (Puck Line)",
     "odds": 118,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "lost",
+    "profit": -10,
     "legs": [
      {
       "pick": "Hurricanes -1.5 (Puck Line)",
       "odds": 118,
       "event": "Carolina Hurricanes @ Nashville Predators",
-      "result": "pending",
-      "actual": "plays 8:10 PM ET"
+      "result": "miss",
+      "actual": "NSH won 4-1"
      }
     ],
-    "whyExplanation": "Pending: tonight.",
-    "lesson": ""
+    "whyExplanation": "Lost: Nashville won 4-1. Carolina scored only once.",
+    "lesson": "Road puck lines at plus money need a weak opposing goalie; Nashville at home was not that."
    },
    {
     "date": "2026-11-03",
@@ -4350,40 +4554,40 @@
     "name": "Champions League Safety Net",
     "odds": -268,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 3.73,
     "legs": [
      {
       "pick": "Barcelona or Draw (Double Chance)",
       "odds": -1500,
       "event": "Barcelona v Aston Villa",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "BAR 3-0 Villa"
      },
      {
       "pick": "LASK vs Slovan Over 1.5 Goals",
       "odds": -1300,
       "event": "Lask Linz v Slovan Bratislava",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "LASK 4-0 (4 goals)"
      },
      {
       "pick": "Inter to score (Away Over 0.5)",
       "odds": -1100,
       "event": "Feyenoord v Inter",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Inter won 3-0 at Feyenoord"
      },
      {
       "pick": "Villarreal vs PSG Over 1.5 Goals",
       "odds": -1050,
       "event": "Villarreal v Paris St-G",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "PSG won 6-0 (6 goals)"
      }
     ],
-    "whyExplanation": "Pending: legs in progress or tonight. Will be graded next run.",
-    "lesson": ""
+    "whyExplanation": "Won: all 4 legs hit (Barcelona 3-0, LASK 4-0, Inter 3-0, PSG 6-0).",
+    "lesson": "Big class-gap UCL legs (clear favorites, -1000 or longer) are reliable; this is where soccer legs belong."
    },
    {
     "date": "2026-11-03",
@@ -4392,115 +4596,457 @@
     "name": "College Opening Night Locks",
     "odds": -1109,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 0.9,
     "legs": [
      {
       "pick": "Kentucky ML",
       "odds": -100000,
       "event": "Manhattan @ Kentucky",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "UK 85-57"
      },
      {
       "pick": "Virginia Tech ML",
       "odds": -100000,
       "event": "Coppin State @ Virginia Tech",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "VT 88-54"
      },
      {
       "pick": "Virginia ML",
       "odds": -100000,
       "event": "Drexel @ Virginia",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "UVA 89-60"
      },
      {
       "pick": "Arkansas ML",
       "odds": -100000,
       "event": "Arkansas-Pine Bluff @ Arkansas",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "ARK 106-61"
      },
      {
       "pick": "Texas A&M ML",
       "odds": -100000,
       "event": "Alabama State @ Texas A&M",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "TAMU 97-66"
      },
      {
       "pick": "LSU ML",
       "odds": -30000,
       "event": "New Orleans @ LSU",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "LSU 100-57"
      },
      {
       "pick": "Missouri ML",
       "odds": -30000,
       "event": "Cleveland State @ Missouri",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "MIZ 111-50"
      },
      {
       "pick": "Alabama ML",
       "odds": -30000,
       "event": "Sam Houston State @ Alabama",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "BAMA 96-74"
      },
      {
       "pick": "Tennessee ML",
       "odds": -20000,
       "event": "Wofford @ Tennessee",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "TENN 90-59"
      },
      {
       "pick": "Iowa ML",
       "odds": -10000,
       "event": "Lipscomb @ Iowa",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "IOWA 76-54"
      },
      {
       "pick": "UNLV ML",
       "odds": -8000,
       "event": "Northern Arizona @ UNLV",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "UNLV 89-77"
      },
      {
       "pick": "South Carolina ML",
       "odds": -4500,
       "event": "Stetson @ South Carolina",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "SC 81-55"
      },
      {
       "pick": "Rhode Island ML",
       "odds": -4500,
       "event": "Holy Cross @ Rhode Island",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "URI 103-59"
      }
     ],
-    "whyExplanation": "Pending: legs in progress or tonight. Will be graded next run.",
-    "lesson": ""
+    "whyExplanation": "Won: all 13 power-conference home favorites won, the closest by 12 (UNLV).",
+    "lesson": "College moneylines at -1800 or longer against low-major visitors went 13-for-13; keep this as the lottery backbone."
+   },
+   {
+    "date": "2026-11-03",
+    "run": "3:00 PM",
+    "type": "single",
+    "name": "Ohio -14.5 (Alt Spread)",
+    "odds": 106,
+    "stake": 10,
+    "result": "lost",
+    "profit": -10,
+    "legs": [
+     {
+      "pick": "Ohio -14.5 (Alt Spread)",
+      "odds": 106,
+      "event": "Ohio @ Akron",
+      "result": "miss",
+      "actual": "Ohio won 28-20 (by 8)"
+     }
+    ],
+    "whyExplanation": "Lost: Ohio won by only 8 (28-20).",
+    "lesson": "MAC road favorites rarely blow teams out; don't lay two touchdowns in MACtion."
+   },
+   {
+    "date": "2026-11-03",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "MACtion + Bolts",
+    "odds": 118,
+    "stake": 10,
+    "result": "won",
+    "profit": 11.8,
+    "legs": [
+     {
+      "pick": "Ohio -3.5 (Alt Spread)",
+      "odds": -370,
+      "event": "Ohio @ Akron",
+      "result": "hit",
+      "actual": "Ohio won by 8"
+     },
+     {
+      "pick": "Miami (OH) +3.5 (Alt Spread)",
+      "odds": -390,
+      "event": "Buffalo @ Miami Ohio",
+      "result": "hit",
+      "actual": "Lost 34-31 in OT (by 3)"
+     },
+     {
+      "pick": "Lightning Moneyline",
+      "odds": -275,
+      "event": "Detroit Red Wings @ Tampa Bay Lightning",
+      "result": "hit",
+      "actual": "TB 4-2"
+     }
+    ],
+    "whyExplanation": "Won: Ohio -3.5 (by 8), Miami +3.5 (lost by 3 in OT, just enough), Lightning ML (4-2).",
+    "lesson": "Cushioned favorites worked, but Miami +3.5 survived by half a point; give more cushion where cheap."
+   },
+   {
+    "date": "2026-11-03",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Home Ice +1.5 Trio",
+    "odds": -134,
+    "stake": 10,
+    "result": "won",
+    "profit": 7.46,
+    "legs": [
+     {
+      "pick": "Devils +1.5 (Alt Puck Line)",
+      "odds": -450,
+      "event": "Edmonton Oilers @ New Jersey Devils",
+      "result": "hit",
+      "actual": "NJD won 4-3 SO"
+     },
+     {
+      "pick": "Canadiens +1.5 (Alt Puck Line)",
+      "odds": -480,
+      "event": "Winnipeg Jets @ Montreal Canadiens",
+      "result": "hit",
+      "actual": "Lost 5-4 in OT (by 1)"
+     },
+     {
+      "pick": "Wild +1.5 (Alt Puck Line)",
+      "odds": -550,
+      "event": "Minnesota Wild @ Philadelphia Flyers",
+      "result": "hit",
+      "actual": "MIN won 4-2"
+     }
+    ],
+    "whyExplanation": "Won: Devils won in a shootout, Canadiens lost by 1 in OT, Wild won.",
+    "lesson": "NHL +1.5 on evenly matched teams covered three times, and OT losses still cash."
+   },
+   {
+    "date": "2026-11-03",
+    "run": "3:00 PM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": 205,
+    "stake": 5,
+    "result": "lost",
+    "profit": -5,
+    "legs": [
+     {
+      "pick": "Tennessee ML",
+      "odds": -20000,
+      "event": "Wofford @ Tennessee",
+      "result": "hit",
+      "actual": "TENN 90-59"
+     },
+     {
+      "pick": "LSU ML",
+      "odds": -30000,
+      "event": "New Orleans @ LSU",
+      "result": "hit",
+      "actual": "LSU 100-57"
+     },
+     {
+      "pick": "Missouri ML",
+      "odds": -30000,
+      "event": "Cleveland State @ Missouri",
+      "result": "hit",
+      "actual": "MIZ 111-50"
+     },
+     {
+      "pick": "Iowa ML",
+      "odds": -10000,
+      "event": "Lipscomb @ Iowa",
+      "result": "hit",
+      "actual": "IOWA 76-54"
+     },
+     {
+      "pick": "UNLV ML",
+      "odds": -8000,
+      "event": "Northern Arizona @ UNLV",
+      "result": "hit",
+      "actual": "UNLV 89-77"
+     },
+     {
+      "pick": "Boston College ML",
+      "odds": -4500,
+      "event": "Wagner @ Boston College",
+      "result": "hit",
+      "actual": "BC 76-50"
+     },
+     {
+      "pick": "Rhode Island ML",
+      "odds": -4500,
+      "event": "Holy Cross @ Rhode Island",
+      "result": "hit",
+      "actual": "URI 103-59"
+     },
+     {
+      "pick": "South Carolina ML",
+      "odds": -4000,
+      "event": "Stetson @ South Carolina",
+      "result": "hit",
+      "actual": "SC 81-55"
+     },
+     {
+      "pick": "San Diego State ML",
+      "odds": -1800,
+      "event": "CSU Fullerton @ San Diego State",
+      "result": "hit",
+      "actual": "SDSU 102-78"
+     },
+     {
+      "pick": "Ohio +3.5 (Alt Spread)",
+      "odds": -1200,
+      "event": "Ohio @ Akron",
+      "result": "hit",
+      "actual": "Ohio won by 8"
+     },
+     {
+      "pick": "Miami (OH) +10.5 (Alt Spread)",
+      "odds": -1200,
+      "event": "Buffalo @ Miami Ohio",
+      "result": "hit",
+      "actual": "Lost by 3"
+     },
+     {
+      "pick": "Stars/Capitals: both teams 4+ goals - No",
+      "odds": -1600,
+      "event": "Dallas Stars @ Washington Capitals",
+      "result": "miss",
+      "actual": "DAL 6-5, both scored 4+"
+     },
+     {
+      "pick": "Blues/Rangers: both teams 4+ goals - No",
+      "odds": -1600,
+      "event": "St. Louis Blues @ New York Rangers",
+      "result": "hit",
+      "actual": "NYR 3-1"
+     },
+     {
+      "pick": "Jets/Canadiens: both teams 4+ goals - No",
+      "odds": -1800,
+      "event": "Winnipeg Jets @ Montreal Canadiens",
+      "result": "miss",
+      "actual": "WPG 5-4 OT, both scored 4+"
+     },
+     {
+      "pick": "Wild +2.5 (Alt Puck Line)",
+      "odds": -1300,
+      "event": "Minnesota Wild @ Philadelphia Flyers",
+      "result": "hit",
+      "actual": "MIN won 4-2"
+     },
+     {
+      "pick": "Red Wings/Lightning: both teams 4+ goals - No",
+      "odds": -1600,
+      "event": "Detroit Red Wings @ Tampa Bay Lightning",
+      "result": "hit",
+      "actual": "TB 4-2"
+     },
+     {
+      "pick": "Avalanche/Blue Jackets: both teams 4+ goals - No",
+      "odds": -1100,
+      "event": "Colorado Avalanche @ Columbus Blue Jackets",
+      "result": "hit",
+      "actual": "CBJ 7-2"
+     },
+     {
+      "pick": "Golden Knights/Penguins: both teams 4+ goals - No",
+      "odds": -800,
+      "event": "Vegas Golden Knights @ Pittsburgh Penguins",
+      "result": "hit",
+      "actual": "VGK 3-2"
+     },
+     {
+      "pick": "Oilers/Devils: both teams 4+ goals - No",
+      "odds": -1200,
+      "event": "Edmonton Oilers @ New Jersey Devils",
+      "result": "hit",
+      "actual": "NJD 4-3 SO"
+     },
+     {
+      "pick": "Hurricanes/Predators: both teams 4+ goals - No",
+      "odds": -1400,
+      "event": "Carolina Hurricanes @ Nashville Predators",
+      "result": "hit",
+      "actual": "NSH 4-1"
+     },
+     {
+      "pick": "Mammoth +2.5 (Alt Puck Line)",
+      "odds": -700,
+      "event": "Utah Mammoth @ Toronto Maple Leafs",
+      "result": "hit",
+      "actual": "UTA won 3-2"
+     }
+    ],
+    "whyExplanation": "Lost: 19 of 21 hit. Misses: Stars/Capitals and Jets/Canadiens \"both teams 4+: No\" (6-5 and 5-4).",
+    "lesson": "\"Both teams 4+ goals: No\" fails when two high-octane offenses meet; skip it for DAL, WSH, WPG, MTL-type games."
+   },
+   {
+    "date": "2026-11-03",
+    "run": "3:00 PM",
+    "type": "lottery",
+    "name": "NHL Unders & Cushions Ladder",
+    "odds": 1110,
+    "stake": 5,
+    "result": "lost",
+    "profit": -5,
+    "legs": [
+     {
+      "pick": "Stars @ Capitals Under 7.5",
+      "odds": -450,
+      "event": "Dallas Stars @ Washington Capitals",
+      "result": "miss",
+      "actual": "11 goals"
+     },
+     {
+      "pick": "Blues @ Rangers Under 7.5",
+      "odds": -430,
+      "event": "St. Louis Blues @ New York Rangers",
+      "result": "hit",
+      "actual": "4 goals"
+     },
+     {
+      "pick": "Avalanche +1.5 (Alt Puck Line)",
+      "odds": -350,
+      "event": "Colorado Avalanche @ Columbus Blue Jackets",
+      "result": "miss",
+      "actual": "CBJ won 7-2"
+     },
+     {
+      "pick": "Golden Knights @ Penguins Under 8.5",
+      "odds": -430,
+      "event": "Vegas Golden Knights @ Pittsburgh Penguins",
+      "result": "hit",
+      "actual": "5 goals"
+     },
+     {
+      "pick": "Mammoth +1.5 (Alt Puck Line)",
+      "odds": -370,
+      "event": "Utah Mammoth @ Toronto Maple Leafs",
+      "result": "hit",
+      "actual": "UTA won 3-2"
+     },
+     {
+      "pick": "Red Wings @ Lightning Under 7.5",
+      "odds": -330,
+      "event": "Detroit Red Wings @ Tampa Bay Lightning",
+      "result": "hit",
+      "actual": "6 goals"
+     },
+     {
+      "pick": "Hurricanes @ Predators Under 7.5",
+      "odds": -350,
+      "event": "Carolina Hurricanes @ Nashville Predators",
+      "result": "hit",
+      "actual": "5 goals"
+     },
+     {
+      "pick": "Jets @ Canadiens Under 7.5",
+      "odds": -430,
+      "event": "Winnipeg Jets @ Montreal Canadiens",
+      "result": "miss",
+      "actual": "9 goals (OT)"
+     },
+     {
+      "pick": "Wild @ Flyers Under 7.5",
+      "odds": -410,
+      "event": "Minnesota Wild @ Philadelphia Flyers",
+      "result": "hit",
+      "actual": "6 goals"
+     },
+     {
+      "pick": "Oilers @ Devils Under 7.5",
+      "odds": -340,
+      "event": "Edmonton Oilers @ New Jersey Devils",
+      "result": "hit",
+      "actual": "7 goals incl. SO winner"
+     },
+     {
+      "pick": "Buffalo +17.5 (Alt Spread)",
+      "odds": -500,
+      "event": "Buffalo @ Miami Ohio",
+      "result": "hit",
+      "actual": "Buffalo won 34-31 OT"
+     }
+    ],
+    "whyExplanation": "Lost: 8 of 11 hit. Misses: Stars/Caps U7.5 (11), Jets/Canadiens U7.5 (9), Avalanche +1.5 (lost by 5).",
+    "lesson": "Same two shootout games sank both NHL tickets. Correlated NHL unders on one night are a single point of failure; limit how many go on one ticket."
    }
   ],
   "topLessons": [
-   "Big cushions win: double-digit NBA cushions are 6-0. Use 3-goal NHL cushions and double chances the same way.",
-   "Fading depleted teams after big line moves went 0-3. Don't lay the moved number.",
-   "-150 to -250 favorites are only about 60-70% likely. Keep them out of big tickets.",
-   "College moneyline ladder legs only at -800 or longer. Early-season Ivy/MAAC games are volatile.",
-   "Team-total unders and unders in blowout mismatches failed. NFL alt totals need more than a one-score cushion.",
-   "NBA unders only when BOTH offenses are struggling.",
-   "NBA cushions must be +9.5 or more; +7.5 has failed.",
-   "No coin-flip legs (-110 to -150) in lottery tickets; aim for about 75%+ true probability per leg.",
-   "UCL road 'to score' / Over 1.5 legs and underdog 'win a set' legs both missed Tuesday. Keep lottery legs to clear class gaps."
+   "Class-gap UCL legs (-1000 or longer) and college MLs at -1800 or longer are near-locks: 13/13 and 4/4 on Nov 3.",
+   "Limit correlated NHL unders and both-4+ No. Use them only in low-total, low-octane matchups, never in DAL/WSH/WPG/MTL types.",
+   "Don't lay two touchdowns in MAC games; buy cushion instead.",
+   "NHL +1.5 on home favorites went 3-0; give extra cushion where it's cheap.",
+   "No tennis underdog set props.",
+   "Class-gap UCL legs (-1000 or longer) and college MLs at -1800 or longer are near-locks: 13/13 and 4/4 on Nov 3.",
+   "Limit correlated NHL unders and both-4+ No. Use them only in low-total, low-octane matchups, never in DAL/WSH/WPG/MTL types.",
+   "Don't lay two touchdowns in MAC games; buy cushion instead."
   ]
  }
 }
