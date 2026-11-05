@@ -172,3 +172,22 @@ The 10:30 AM run didn't complete, so this run graded all of Saturday's tickets (
 - Wednesday went 1-11. Only Home Ice & Memphis Cushion won (+$9.35). 10:30 Best Shot went 24/25 (Bulls +24.5 missed; NYK won by 30). 3 PM Best Shot went 23/25 (IND/MEM O214.5 finished at 210, LAL/SAC O219.5 at 219). Toronto lost by 19 at Denver, which killed two parlays (+11.5 and +14.5). Lakers -13.5 won by exactly 13. Hornets +9.5 lost by 10; Rockets +3.5 lost by 10; Spurs -2.5 won by 1. College misses: High Point -26.5 (won by 14), LMU +0.5 (lost by 1), EMU +12.5 (lost by 28). UCL U4.5 missed twice (Como 9-1 Lens; Porto/Napoli).
 - Lessons: never take road dogs at Denver; don't buy past moved double-digit numbers; NBA alt overs need 18+ points of cushion; no college alt spreads of -20 or more and no pick'em college legs; no NBA -2.5 favorites (use +1.5); no soccer U4.5 in attacking games; extreme NBA dog cushions still fail in blowouts; no Rockets legs; no alt-spread favorite singles laying more than 6. NHL home +1.5 (9-0) and college MLs at -1800 or longer (16-0) remain the core.
 - How it changed today's picks: NHL home +1.5/+2.5 heavy; the only NBA alt over is 18 points below the main line; no NBA dog cushions past single digits; college legs are MLs at -3500 or longer, or football cushions of 10+ points; soccer is DC/to-score/O1.5 only for class gaps (no unders). Best Shot +1889 ($99 on $5) is short of $5K rather than padded.
+
+## Thu Nov 5, 2026 3:00 PM ET run
+
+### Grades
+- **Europa Class-Gap Favorites (10:30 AM, -174) — LOST.** Atalanta drew 1-1 at home with Kairat Almaty (ML miss). Crvena Zvezda won 2-1. Benfica/Copenhagen/Lugano were still in progress at grade time.
+- **Best Shot $500K (10:30 AM, +1889) — LOST.** Dead on early soccer: AC Milan or Draw missed (Ferencvaros won 2-0 in Milan) and Hajduk Split or Draw missed (Lincoln Red Imps won 1-0). Several other soccer legs hit (Anderlecht O1.5, Bournemouth to score, Palace to score, Sociedad to score, Midtjylland/Ajax O1.5, Thun/Hearts O1.5). NHL/NBA/NCAAF/NCAAB legs still pending tonight.
+- **Other 10:30 tickets — PENDING** (TNF, NHL home +1.5 trio, Prime-Time Cushions, College Locks Ladder, singles).
+- Also cleaned 16 stale pending legs from Nov 1–2 already-lost tickets (Serie A/Ligue 1/EPL/NHL/NFL/NCAAB finals). Lyngby/Randers, Basavareddy, Shevchenko, and VCU remain unverified pending.
+
+### New lessons
+1. Away European "or Draw" / short class-gap MLs failed again in one window (Milan home to Ferencvaros; Hajduk at Lincoln; Atalanta 1-1 Kairat). Prefer home double chance or team-to-score unless the gap is extreme.
+2. When the morning card already consumes most Thu NHL/NBA/NFL eventIds, the afternoon Best Shot cannot honestly reach a $5K/$5 target without coin-flip padding — stop short and say so.
+
+### How lessons shaped this card
+- No reuse of any morning pick or eventId.
+- NHL home +1.5 board was fully used at 10:30; afternoon uses only Friday SOG player props (restricted-feed exception).
+- College legs are MLs at -1800+ (Friday Locks parlay) or bought-down cushions under the -20 alt-spread ban.
+- Best Shot uses ~75%+ legs only and stays short of $5K rather than pad.
+- Singles are plus-money NFL dog cushions only.
