@@ -223,3 +223,19 @@ Overall **31-65** (−$111.49 on $835). Singles 19-18 (+$19.80). Parlays 11-23 (
 - Campus Alt Favorites buys points under the main number for a real payout instead of a −4000 chalk ticket.
 - Singles are plus-money only (Kings +15.5, VT +4.5, Nevada +8.5).
 - Best Shot lands around +7584 (~$384 on $5), **short of the $5K target** — slate can't reach $5K honestly after NHL/campus events are used on safer tickets and without padding coin-flips.
+
+## Fri Nov 6, 2026 3:00 PM ET run
+
+### Grades
+- No new settles this window. All Friday night tickets (morning 10:30 singles/parlays/Best Shot) remain **pending**. Sunday NFL singles/parlay legs (Jets, Raiders, Cards, Lions) stay pending.
+- Europa Benfica/Copenhagen/Lugano leftovers were already marked hit in the 10:30 build (ticket previously lost on Atalanta). History consistent — no rewrite of settled results.
+
+### Record (unchanged — nothing new graded)
+Overall **31-65** (−$111.49 on $835). Singles 19-18 (+$19.80). Parlays 11-23 (−$82.59). Lottery 1-24 (−$48.70). Legs 455 hit / 162 miss / pending elevated after appending morning+afternoon tickets / 3 void.
+
+### New lessons / how the slate forced the card
+1. **Morning event burn is real.** Fri NBA (all 9), Fri NHL (all 3), and most Power NCAAB MLs were already used at 10:30. Afternoon cannot honestly reach a $5K/$5 Best Shot without coin-flip padding — stop short and say so (~$1.5K on $5).
+2. **Suspended chalk MLs (-100000) are unusable.** Baylor/Virginia/Villanova/etc. had OPEN spreads of -27.5 to -41.5 but suspended moneylines. Buy down under the **-20 alt ban** (WVU -18.5, TAMU -18.5) or skip.
+3. **Saturday NHL home +1.5** replaces the burned Friday home-ice board (Leafs/Wild/Islanders on the safe parlay; Kraken/Sens on Best Shot). Still prefer average-or-better home clubs after PIT.
+4. **Plus-money singles** moved to Sat CFB (MSU +13.5) and Sun NFL dog cushions (Raiders +6.5, Cards +7.5) — no morning event reuse.
+5. **Keep win-prob first:** Best Shot uses OPEN Power MLs (Stanford/Northwestern/K-State), NHL home cushions/heavy MLs, and NFL/CFB bought-down cushions — no Elon/UIC mid-majors, no -20 college alts, no coin-flip pad.
