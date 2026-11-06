@@ -1,423 +1,128 @@
 {
- "updated": "Thu Nov 5, 2026 3:00 PM ET",
- "run": "3:00 PM ET run (Thursday). Graded Europa Class-Gap Favorites L (Atalanta 1-1 Kairat) and morning Best Shot L (Milan lost at home; Hajduk lost at Lincoln Red Imps); other morning tickets pending tonight. Afternoon: Jets/Raiders plus-money cushions; Friday -1800+ college locks; Cardinals/Lions/Utah cushions; campus ML trio. Best Shot (20 legs, +2934, ~$152 on $5) is short of the $5K target \u2014 most Thu NHL/NBA events already used this morning; no coin-flip padding. Lessons enforced: no -20 college alt spreads, no event/leg reuse, ~75%+ lottery legs only.",
+ "updated": "Fri Nov 6, 2026 10:30 AM ET",
+ "run": "10:30 AM ET Friday. Graded Thu: Fagnano U0.5 TD W; Prime-Time Cushions W (+108); College Locks Ladder W (11/11); JAX/BAL Under L; Home Ice Trio L (PIT); Campus Moneyline Trio L (Tulane); PM Best Shot L (PSU/Merrimack/IW/Saint Peter's). Today: NHL home +1.5; Friday college locks; campus alt favorites; plus-money Kings/VT/Nevada; Best Shot = NBA +9.5 cushions + college MLs/alts + NCAAF. Lessons: win-prob first, college ML -1800+ 27-0, no mid-major short favs, NBA cushions \u2265+9.5, no -20 college alts, no event reuse, no coin-flip pad.",
  "singles": [
   {
-   "pick": "New York Jets +8.5",
+   "pick": "Sacramento Kings +15.5",
    "market": "Alternate Spread",
    "odds": 102,
-   "sport": "NFL",
-   "event": "New York Jets @ Kansas City Chiefs",
-   "start": "Sun 1:01 PM ET",
-   "reason": "Main Jets +9.5; +8.5 at plus money vs a public Chiefs side.",
-   "marketId": "742.195449252",
-   "selectionId": "12194301",
-   "eventId": 36244871,
+   "sport": "NBA",
+   "event": "San Antonio Spurs @ Sacramento Kings",
+   "start": "Fri 10:10 PM ET",
+   "reason": "Kings missing Murray/Simmons/Raynaud; +15.5 cushion at plus money vs Spurs.",
+   "marketId": "742.196228367",
+   "selectionId": "7889488",
+   "eventId": 36279170,
    "stake": 10,
-   "marketIdMD": "724.195587991"
+   "marketIdMD": "724.196367103"
   },
   {
-   "pick": "Las Vegas Raiders +7.5",
+   "pick": "Virginia Tech +4.5",
    "market": "Alternate Spread",
-   "odds": 114,
-   "sport": "NFL",
-   "event": "Las Vegas Raiders @ San Francisco 49ers",
-   "start": "Sun 4:06 PM ET",
-   "reason": "Main Raiders +9.5; +7.5 keeps TD+ cushion at plus money.",
-   "marketId": "742.195451814",
-   "selectionId": "35903732",
-   "eventId": 36244875,
+   "odds": 102,
+   "sport": "NCAAF",
+   "event": "Virginia Tech @ SMU",
+   "start": "Fri 7:00 PM ET",
+   "reason": "VT +4.5 road at SMU at plus money.",
+   "marketId": "742.195355208",
+   "selectionId": "48628910",
+   "eventId": 36244602,
    "stake": 10,
-   "marketIdMD": "724.195590551"
+   "marketIdMD": "724.195493941"
+  },
+  {
+   "pick": "Nevada +8.5",
+   "market": "Alternate Spread",
+   "odds": 100,
+   "sport": "NCAAF",
+   "event": "New Mexico @ Nevada",
+   "start": "Fri 9:00 PM ET",
+   "reason": "Nevada home +8.5 at even money vs New Mexico.",
+   "marketId": "742.195355428",
+   "selectionId": "48659231",
+   "eventId": 36260456,
+   "stake": 10,
+   "marketIdMD": "724.195494164"
   }
  ],
  "parlays": [
   {
-   "name": "Friday College Locks",
-   "odds": -2821,
+   "name": "Home Ice +1.5 Trio",
+   "odds": -140,
    "stake": 10,
-   "payout": 10.35,
-   "reason": "College MLs at -1800 or longer are 16-0. Four Friday power-conference locks vs overmatched visitors.",
    "legs": [
     {
-     "pick": "Alabama ML",
-     "market": "Moneyline",
-     "odds": -20000,
-     "sport": "NCAAB",
-     "event": "Arkansas State @ Alabama",
-     "start": "Fri 7:30 PM ET",
-     "reason": "Alabama -20000 Friday vs Arkansas State.",
-     "marketId": "742.196176057",
-     "selectionId": "332212",
-     "eventId": 36285288,
-     "marketIdMD": "724.196314794"
+     "pick": "Buffalo Sabres +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -550,
+     "sport": "NHL",
+     "event": "Columbus Blue Jackets @ Buffalo Sabres",
+     "start": "Fri 7:10 PM ET",
+     "reason": "NHL home +1.5.",
+     "marketId": "742.196265701",
+     "selectionId": "7000399",
+     "eventId": 36260073,
+     "marketIdMD": "724.196404448"
     },
     {
-     "pick": "North Carolina ML",
-     "market": "Moneyline",
-     "odds": -10000,
-     "sport": "NCAAB",
-     "event": "Wofford @ North Carolina",
-     "start": "Fri 7:00 PM ET",
-     "reason": "UNC -10000 Friday vs Wofford.",
-     "marketId": "742.196166609",
-     "selectionId": "332652",
-     "eventId": 36285174,
-     "marketIdMD": "724.196305346"
+     "pick": "Minnesota Wild +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -700,
+     "sport": "NHL",
+     "event": "San Jose Sharks @ Minnesota Wild",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Wild home +1.5.",
+     "marketId": "742.196266676",
+     "selectionId": "7000410",
+     "eventId": 36260085,
+     "marketIdMD": "724.196405412"
     },
+    {
+     "pick": "Calgary Flames +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -370,
+     "sport": "NHL",
+     "event": "Anaheim Ducks @ Calgary Flames",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Flames home +1.5.",
+     "marketId": "742.196266212",
+     "selectionId": "7000400",
+     "eventId": 36260074,
+     "marketIdMD": "724.196404948"
+    }
+   ],
+   "reason": "NHL home +1.5 backbone."
+  },
+  {
+   "name": "Friday College Locks",
+   "odds": -5425,
+   "stake": 10,
+   "legs": [
     {
      "pick": "Ohio State ML",
      "market": "Moneyline",
-     "odds": -10000,
+     "odds": -20000,
      "sport": "NCAAB",
      "event": "Youngstown St @ Ohio State",
      "start": "Fri 6:30 PM ET",
-     "reason": "Ohio State -10000 Friday vs Youngstown State.",
+     "reason": "Ohio State -1800+ home lock.",
      "marketId": "742.196164867",
      "selectionId": "284245",
      "eventId": 36285153,
      "marketIdMD": "724.196303604"
     },
     {
-     "pick": "Kentucky ML",
+     "pick": "Alabama ML",
      "market": "Moneyline",
-     "odds": -10000,
+     "odds": -30000,
      "sport": "NCAAB",
-     "event": "James Madison @ Kentucky",
-     "start": "Fri 7:00 PM ET",
-     "reason": "Kentucky -10000 Friday vs James Madison.",
-     "marketId": "742.196172219",
-     "selectionId": "332189",
-     "eventId": 36285241,
-     "marketIdMD": "724.196310956"
-    }
-   ]
-  },
-  {
-   "name": "Sunday Cushions + Utah",
-   "odds": 204,
-   "stake": 10,
-   "payout": 30.43,
-   "reason": "Cardinals +7.5 and Lions +1.5 are huge NFL cushions; Utah +1.5 is a home favorite getting points.",
-   "legs": [
-    {
-     "pick": "Arizona Cardinals +7.5",
-     "market": "Alternate Spread",
-     "odds": 102,
-     "sport": "NFL",
-     "event": "Arizona Cardinals @ Seattle Seahawks",
-     "start": "Sun 4:26 PM ET",
-     "reason": "Main +8.5; +7.5 at plus money on the road in Seattle.",
-     "marketId": "742.195451614",
-     "selectionId": "12215364",
-     "eventId": 36244878,
-     "marketIdMD": "724.195590352"
-    },
-    {
-     "pick": "Detroit Lions +1.5",
-     "market": "Alternate Spread",
-     "odds": -430,
-     "sport": "NFL",
-     "event": "Detroit Lions @ Miami Dolphins",
-     "start": "Sun 1:01 PM ET",
-     "reason": "Lions ~-7 at Miami; +1.5 is a massive cushion.",
-     "marketId": "742.195450651",
-     "selectionId": "12248275",
-     "eventId": 36244872,
-     "marketIdMD": "724.195589389"
-    },
-    {
-     "pick": "Utah +1.5",
-     "market": "Alternate Spread 6",
-     "odds": -450,
-     "sport": "NCAAB",
-     "event": "Towson @ Utah",
-     "start": "Thu 9:00 PM ET",
-     "reason": "Utah favorite vs Towson getting points.",
-     "marketId": "742.196098289",
-     "selectionId": "13119",
-     "eventId": 36281115,
-     "marketIdMD": "724.196237040"
-    }
-   ]
-  },
-  {
-   "name": "Campus Moneyline Trio",
-   "odds": -398,
-   "stake": 10,
-   "payout": 12.51,
-   "reason": "Three college moneylines at -950 to -1700 \u2014 ML anchors instead of forbidden -20 alt spreads.",
-   "legs": [
-    {
-     "pick": "Tulsa ML",
-     "market": "Moneyline",
-     "odds": -1450,
-     "sport": "NCAAB",
-     "event": "Northern Illinois @ Tulsa",
-     "start": "Thu 8:00 PM ET",
-     "reason": "Tulsa -1450 home vs NIU.",
-     "marketId": "742.195944249",
-     "selectionId": "711056",
-     "eventId": 36281148,
-     "marketIdMD": "724.196082986"
-    },
-    {
-     "pick": "Tulane ML",
-     "market": "Moneyline",
-     "odds": -950,
-     "sport": "NCAAB",
-     "event": "Jackson State @ Tulane",
-     "start": "Thu 7:30 PM ET",
-     "reason": "Tulane -950 home vs Jackson State.",
-     "marketId": "742.195973060",
-     "selectionId": "728305",
-     "eventId": 36281366,
-     "marketIdMD": "724.196111798"
-    },
-    {
-     "pick": "Oregon ML",
-     "market": "Moneyline",
-     "odds": -1700,
-     "sport": "NCAAB",
-     "event": "Eastern Washington @ Oregon",
-     "start": "Fri 6:00 PM ET",
-     "reason": "Oregon -1700 Friday vs EWU.",
-     "marketId": "742.196163657",
-     "selectionId": "332209",
-     "eventId": 36285142,
-     "marketIdMD": "724.196302394"
-    }
-   ]
-  }
- ],
- "lottery": [
-  {
-   "name": "Best Shot $500K",
-   "odds": 2934,
-   "stake": 5,
-   "payout": 151.7,
-   "reason": "20 high-probability legs (NCAAB cushions ~-300 to -480, Friday MLs at -1800+, NHL SOG props). Target $5K\u2013$50K on $5; pays ~$152 on $5 (+2934). Short of $5K because Thu NHL/NBA boards were used at 10:30 and we will not add coin-flip legs. Nothing guaranteed.",
-   "legs": [
-    {
-     "pick": "Penn State -5.5",
-     "market": "Alternate Spread 5",
-     "odds": -360,
-     "sport": "NCAAB",
-     "event": "Chattanooga @ Penn State",
-     "start": "Thu 6:00 PM ET",
-     "reason": "Bought down from ~-12.5 vs Chattanooga.",
-     "marketId": "742.196096501",
-     "selectionId": "29838",
-     "eventId": 36280970,
-     "marketIdMD": "724.196235237"
-    },
-    {
-     "pick": "Charlotte -5.5",
-     "market": "Alternate Spread 5",
-     "odds": -320,
-     "sport": "NCAAB",
-     "event": "Georgia State @ Charlotte",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Bought down from ~-11.5 vs Georgia State.",
-     "marketId": "742.196098522",
-     "selectionId": "13110",
-     "eventId": 36280983,
-     "marketIdMD": "724.196237236"
-    },
-    {
-     "pick": "Michigan State -17.5",
-     "market": "Alternate Spread 6",
-     "odds": -480,
-     "sport": "NCAAB",
-     "event": "Toledo @ Michigan State",
-     "start": "Thu 8:00 PM ET",
-     "reason": "Under -20 ban; huge MSU favorite vs Toledo.",
-     "marketId": "742.196099606",
-     "selectionId": "29834",
-     "eventId": 36281162,
-     "marketIdMD": "724.196238338"
-    },
-    {
-     "pick": "North Texas +8.5",
-     "market": "Alternate Spread 5",
-     "odds": -310,
-     "sport": "NCAAB",
-     "event": "McNeese @ North Texas",
-     "start": "Thu 5:00 PM ET",
-     "reason": "NTX +8.5 home cushion vs McNeese.",
-     "marketId": "742.196095440",
-     "selectionId": "731890",
-     "eventId": 36281323,
-     "marketIdMD": "724.196234172"
-    },
-    {
-     "pick": "Merrimack -3.5",
-     "market": "Alternate Spread 5",
-     "odds": -335,
-     "sport": "NCAAB",
-     "event": "UMass Lowell @ Merrimack",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Bought down from ~-9.5 vs UML.",
-     "marketId": "742.196097658",
-     "selectionId": "26808803",
-     "eventId": 36281338,
-     "marketIdMD": "724.196236391"
-    },
-    {
-     "pick": "Iona -3.5",
-     "market": "Alternate Spread 5",
-     "odds": -330,
-     "sport": "NCAAB",
-     "event": "NJIT @ Iona",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Bought down from ~-9.5 vs NJIT.",
-     "marketId": "742.196097567",
-     "selectionId": "662739",
-     "eventId": 36281337,
-     "marketIdMD": "724.196236291"
-    },
-    {
-     "pick": "DePaul -0.5",
-     "market": "Alternate Spread 5",
-     "odds": -305,
-     "sport": "NCAAB",
-     "event": "South Florida @ DePaul",
-     "start": "Thu 8:30 PM ET",
-     "reason": "DePaul favorite vs USF.",
-     "marketId": "742.196098776",
-     "selectionId": "715477",
-     "eventId": 36281173,
-     "marketIdMD": "724.196237513"
-    },
-    {
-     "pick": "Incarnate Word -2.5",
-     "market": "Alternate Spread 5",
-     "odds": -320,
-     "sport": "NCAAB",
-     "event": "Chicago State @ Incarnate Word",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Bought down from ~-8.5 vs Chicago State.",
-     "marketId": "742.196097991",
-     "selectionId": "10535251",
-     "eventId": 36281343,
-     "marketIdMD": "724.196236730"
-    },
-    {
-     "pick": "South Alabama +3.5",
-     "market": "Alternate Spread 6",
-     "odds": -355,
-     "sport": "NCAAB",
-     "event": "Jacksonville State @ South Alabama",
-     "start": "Thu 8:00 PM ET",
-     "reason": "Favorite getting points vs Jax State.",
-     "marketId": "742.196099727",
-     "selectionId": "719430",
-     "eventId": 36281169,
-     "marketIdMD": "724.196238444"
-    },
-    {
-     "pick": "Marist +4.5",
-     "market": "Alternate Spread 6",
-     "odds": -370,
-     "sport": "NCAAB",
-     "event": "UMBC @ Marist",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Favorite getting points vs UMBC.",
-     "marketId": "742.196100590",
-     "selectionId": "692687",
-     "eventId": 36281346,
-     "marketIdMD": "724.196239322"
-    },
-    {
-     "pick": "Quinnipiac ML",
-     "market": "Moneyline",
-     "odds": -285,
-     "sport": "NCAAB",
-     "event": "Bryant @ Quinnipiac",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Quinnipiac home vs Bryant.",
-     "marketId": "742.195970184",
-     "selectionId": "4571309",
-     "eventId": 36281334,
-     "marketIdMD": "724.196108922"
-    },
-    {
-     "pick": "Saint Peter's ML",
-     "market": "Moneyline",
-     "odds": -330,
-     "sport": "NCAAB",
-     "event": "Binghamton @ Saint Peter's",
-     "start": "Thu 7:00 PM ET",
-     "reason": "Saint Peter's home vs Binghamton.",
-     "marketId": "742.195970331",
-     "selectionId": "41651977",
-     "eventId": 36281335,
-     "marketIdMD": "724.196109069"
-    },
-    {
-     "pick": "Purdue ML",
-     "market": "Moneyline",
-     "odds": -4000,
-     "sport": "NCAAB",
-     "event": "Valparaiso @ Purdue",
-     "start": "Fri 6:30 PM ET",
-     "reason": "Purdue -4000 Friday vs Valpo.",
-     "marketId": "742.196167225",
-     "selectionId": "697628",
-     "eventId": 36285183,
-     "marketIdMD": "724.196305962"
-    },
-    {
-     "pick": "Florida State ML",
-     "market": "Moneyline",
-     "odds": -4000,
-     "sport": "NCAAB",
-     "event": "Troy @ Florida State",
-     "start": "Fri 7:00 PM ET",
-     "reason": "FSU -4000 Friday vs Troy.",
-     "marketId": "742.196169010",
-     "selectionId": "697689",
-     "eventId": 36285203,
-     "marketIdMD": "724.196307747"
-    },
-    {
-     "pick": "Xavier ML",
-     "market": "Moneyline",
-     "odds": -4500,
-     "sport": "NCAAB",
-     "event": "Eastern Michigan @ Xavier",
-     "start": "Fri 7:00 PM ET",
-     "reason": "Xavier -4500 Friday vs EMU.",
-     "marketId": "742.196175446",
-     "selectionId": "351829",
-     "eventId": 36285273,
-     "marketIdMD": "724.196314183"
-    },
-    {
-     "pick": "NC State ML",
-     "market": "Moneyline",
-     "odds": -1800,
-     "sport": "NCAAB",
-     "event": "East Tennessee State @ NC State",
-     "start": "Fri 7:00 PM ET",
-     "reason": "NC State -1800 Friday vs ETSU.",
-     "marketId": "742.196171690",
-     "selectionId": "332650",
-     "eventId": 36285236,
-     "marketIdMD": "724.196310427"
-    },
-    {
-     "pick": "Georgia Tech ML",
-     "market": "Moneyline",
-     "odds": -1800,
-     "sport": "NCAAB",
-     "event": "Georgia Southern @ Georgia Tech",
-     "start": "Fri 7:00 PM ET",
-     "reason": "GT -1800 Friday vs Georgia Southern.",
-     "marketId": "742.196172688",
-     "selectionId": "690519",
-     "eventId": 36285243,
-     "marketIdMD": "724.196311425"
+     "event": "Arkansas State @ Alabama",
+     "start": "Fri 7:30 PM ET",
+     "reason": "Alabama -1800+ home lock.",
+     "marketId": "742.196176057",
+     "selectionId": "332212",
+     "eventId": 36285288,
+     "marketIdMD": "724.196314794"
     },
     {
      "pick": "Wisconsin ML",
@@ -426,121 +131,478 @@
      "sport": "NCAAB",
      "event": "Delaware @ Wisconsin",
      "start": "Fri 7:30 PM ET",
-     "reason": "Wisconsin -10000 Friday vs Delaware.",
+     "reason": "Wisconsin -1800+ home lock.",
      "marketId": "742.196177709",
      "selectionId": "352166",
      "eventId": 36285309,
      "marketIdMD": "724.196316446"
-    },
-    {
-     "pick": "Tage Thompson 2+ Shots on Goal",
-     "market": "2+ Shots on Goal",
-     "odds": -1800,
-     "sport": "NHL",
-     "event": "Columbus Blue Jackets @ Buffalo Sabres",
-     "start": "Fri 7:00 PM ET",
-     "reason": "High-volume BUF SOG prop.",
-     "marketId": "742.196169116",
-     "selectionId": "21604085",
-     "eventId": 36260073,
-     "marketIdMD": "724.196307854"
-    },
-    {
-     "pick": "Leo Carlsson 1+ Shots on Goal",
-     "market": "1+ Shots on Goal",
-     "odds": -2000,
-     "sport": "NHL",
-     "event": "Anaheim Ducks @ Calgary Flames",
-     "start": "Fri 8:00 PM ET",
-     "reason": "Carlsson 1+ SOG prop.",
-     "marketId": "742.196174419",
-     "selectionId": "51950508",
-     "eventId": 36260074,
-     "marketIdMD": "724.196313151"
     }
-   ]
+   ],
+   "reason": "Three Power hosts at -1800+ (27-0 college ML rule)."
+  },
+  {
+   "name": "Campus Alt Favorites",
+   "odds": 148,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Kentucky -19.5",
+     "market": "Alternate Spread 5",
+     "odds": -280,
+     "sport": "NCAAB",
+     "event": "James Madison @ Kentucky",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Kentucky bought down to -19.5.",
+     "marketId": "742.196273151",
+     "selectionId": "332189",
+     "eventId": 36285241,
+     "marketIdMD": "724.196411888"
+    },
+    {
+     "pick": "Purdue -13.5",
+     "market": "Alternate Spread 5",
+     "odds": -280,
+     "sport": "NCAAB",
+     "event": "Valparaiso @ Purdue",
+     "start": "Fri 6:30 PM ET",
+     "reason": "Purdue bought down to -13.5.",
+     "marketId": "742.196270457",
+     "selectionId": "697628",
+     "eventId": 36285183,
+     "marketIdMD": "724.196409168"
+    },
+    {
+     "pick": "UAB -10.5",
+     "market": "Alternate Spread 5",
+     "odds": -290,
+     "sport": "NCAAB",
+     "event": "Nicholls @ UAB",
+     "start": "Fri 7:30 PM ET",
+     "reason": "UAB bought down to -10.5.",
+     "marketId": "742.196270268",
+     "selectionId": "715471",
+     "eventId": 36285793,
+     "marketIdMD": "724.196409018"
+    }
+   ],
+   "reason": "Bought-down alts under the -20 ban for a real payout vs chalk MLs."
+  }
+ ],
+ "lottery": [
+  {
+   "name": "Best Shot $500K",
+   "odds": 7584,
+   "stake": 5,
+   "legs": [
+    {
+     "pick": "Charlotte Hornets +11.5",
+     "market": "Alternate Spread",
+     "odds": -180,
+     "sport": "NBA",
+     "event": "Boston Celtics @ Charlotte Hornets",
+     "start": "Fri 7:10 PM ET",
+     "reason": "Charlotte Hornets \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196227923",
+     "selectionId": "12234860",
+     "eventId": 36279168,
+     "marketIdMD": "724.196366660"
+    },
+    {
+     "pick": "Washington Wizards +11.5",
+     "market": "Alternate Spread",
+     "odds": -186,
+     "sport": "NBA",
+     "event": "Washington Wizards @ Atlanta Hawks",
+     "start": "Fri 7:10 PM ET",
+     "reason": "Washington Wizards \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196228785",
+     "selectionId": "7890340",
+     "eventId": 36279175,
+     "marketIdMD": "724.196367519"
+    },
+    {
+     "pick": "Milwaukee Bucks +10.5",
+     "market": "Alternate Spread",
+     "odds": -180,
+     "sport": "NBA",
+     "event": "Toronto Raptors @ Milwaukee Bucks",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Milwaukee Bucks \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196228037",
+     "selectionId": "7889808",
+     "eventId": 36279176,
+     "marketIdMD": "724.196366780"
+    },
+    {
+     "pick": "Utah Jazz +10.5",
+     "market": "Alternate Spread",
+     "odds": -170,
+     "sport": "NBA",
+     "event": "Utah Jazz @ Dallas Mavericks",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Utah Jazz \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196228188",
+     "selectionId": "7890514",
+     "eventId": 36279169,
+     "marketIdMD": "724.196366926"
+    },
+    {
+     "pick": "Memphis Grizzlies +9.5",
+     "market": "Alternate Spread",
+     "odds": -230,
+     "sport": "NBA",
+     "event": "Oklahoma City Thunder @ Memphis Grizzlies",
+     "start": "Fri 8:10 PM ET",
+     "reason": "Memphis Grizzlies \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196228245",
+     "selectionId": "7890690",
+     "eventId": 36279172,
+     "marketIdMD": "724.196366982"
+    },
+    {
+     "pick": "New Orleans Pelicans +9.5",
+     "market": "Alternate Spread",
+     "odds": -225,
+     "sport": "NBA",
+     "event": "Minnesota Timberwolves @ New Orleans Pelicans",
+     "start": "Fri 8:10 PM ET",
+     "reason": "New Orleans Pelicans \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196229024",
+     "selectionId": "7978361",
+     "eventId": 36279173,
+     "marketIdMD": "724.196367761"
+    },
+    {
+     "pick": "Cleveland Cavaliers +9.5",
+     "market": "Alternate Spread",
+     "odds": -275,
+     "sport": "NBA",
+     "event": "Philadelphia 76ers @ Cleveland Cavaliers",
+     "start": "Fri 7:40 PM ET",
+     "reason": "Cleveland Cavaliers \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196205630",
+     "selectionId": "7888718",
+     "eventId": 36279171,
+     "marketIdMD": "724.196344363"
+    },
+    {
+     "pick": "Portland Trail Blazers +9.5",
+     "market": "Alternate Spread",
+     "odds": -260,
+     "sport": "NBA",
+     "event": "Portland Trail Blazers @ Los Angeles Lakers",
+     "start": "Fri 10:10 PM ET",
+     "reason": "Portland Trail Blazers \u2265+9.5 cushion (lesson minimum).",
+     "marketId": "742.196226002",
+     "selectionId": "7890043",
+     "eventId": 36279174,
+     "marketIdMD": "724.196364738"
+    },
+    {
+     "pick": "Florida State ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "Troy @ Florida State",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Florida State -1800+ ML.",
+     "marketId": "742.196169010",
+     "selectionId": "697689",
+     "eventId": 36285203,
+     "marketIdMD": "724.196307747"
+    },
+    {
+     "pick": "Xavier ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "Eastern Michigan @ Xavier",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Xavier -1800+ ML.",
+     "marketId": "742.196175446",
+     "selectionId": "351829",
+     "eventId": 36285273,
+     "marketIdMD": "724.196314183"
+    },
+    {
+     "pick": "Georgia ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "Presbyterian @ Georgia",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Georgia -1800+ ML.",
+     "marketId": "742.196215952",
+     "selectionId": "332210",
+     "eventId": 36285789,
+     "marketIdMD": "724.196354689"
+    },
+    {
+     "pick": "Rutgers ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "New Haven @ Rutgers",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Rutgers -1800+ ML.",
+     "marketId": "742.196295627",
+     "selectionId": "715475",
+     "eventId": 36287449,
+     "marketIdMD": "724.196434363"
+    },
+    {
+     "pick": "North Carolina ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "Wofford @ North Carolina",
+     "start": "Fri 7:00 PM ET",
+     "reason": "North Carolina -1800+ ML.",
+     "marketId": "742.196166609",
+     "selectionId": "332652",
+     "eventId": 36285174,
+     "marketIdMD": "724.196305346"
+    },
+    {
+     "pick": "Georgia Tech ML",
+     "market": "Moneyline",
+     "odds": -4000,
+     "sport": "NCAAB",
+     "event": "Georgia Southern @ Georgia Tech",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Georgia Tech -1800+ ML.",
+     "marketId": "742.196172688",
+     "selectionId": "690519",
+     "eventId": 36285243,
+     "marketIdMD": "724.196311425"
+    },
+    {
+     "pick": "NC State ML",
+     "market": "Moneyline",
+     "odds": -3500,
+     "sport": "NCAAB",
+     "event": "East Tennessee State @ NC State",
+     "start": "Fri 7:00 PM ET",
+     "reason": "NC State -1800+ ML.",
+     "marketId": "742.196171690",
+     "selectionId": "332650",
+     "eventId": 36285236,
+     "marketIdMD": "724.196310427"
+    },
+    {
+     "pick": "Clemson ML",
+     "market": "Moneyline",
+     "odds": -3000,
+     "sport": "NCAAB",
+     "event": "American @ Clemson",
+     "start": "Fri 7:00 PM ET",
+     "reason": "Clemson -1800+ ML.",
+     "marketId": "742.196204227",
+     "selectionId": "671869",
+     "eventId": 36285628,
+     "marketIdMD": "724.196342965"
+    },
+    {
+     "pick": "Oregon ML",
+     "market": "Moneyline",
+     "odds": -3000,
+     "sport": "NCAAB",
+     "event": "Eastern Washington @ Oregon",
+     "start": "Fri 6:00 PM ET",
+     "reason": "Oregon -1800+ ML.",
+     "marketId": "742.196163657",
+     "selectionId": "332209",
+     "eventId": 36285142,
+     "marketIdMD": "724.196302394"
+    },
+    {
+     "pick": "TCU ML",
+     "market": "Moneyline",
+     "odds": -20000,
+     "sport": "NCAAB",
+     "event": "Southern University @ TCU",
+     "start": "Fri 8:00 PM ET",
+     "reason": "TCU -1800+ ML.",
+     "marketId": "742.196294358",
+     "selectionId": "711186",
+     "eventId": 36287413,
+     "marketIdMD": "724.196433094"
+    },
+    {
+     "pick": "Ole Miss ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "Central Arkansas @ Ole Miss",
+     "start": "Fri 8:30 PM ET",
+     "reason": "Ole Miss -1800+ ML.",
+     "marketId": "742.196161665",
+     "selectionId": "5991319",
+     "eventId": 36285127,
+     "marketIdMD": "724.196300402"
+    },
+    {
+     "pick": "Arizona State ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "Northern Colorado @ Arizona State",
+     "start": "Fri 9:00 PM ET",
+     "reason": "Arizona State -1800+ ML.",
+     "marketId": "742.196160867",
+     "selectionId": "712840",
+     "eventId": 36285119,
+     "marketIdMD": "724.196299604"
+    },
+    {
+     "pick": "Oklahoma State ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "Queen's University @ Oklahoma State",
+     "start": "Fri 9:00 PM ET",
+     "reason": "Oklahoma State -1800+ ML.",
+     "marketId": "742.196218939",
+     "selectionId": "284196",
+     "eventId": 36285809,
+     "marketIdMD": "724.196357676"
+    },
+    {
+     "pick": "Oregon State ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "California Baptist @ Oregon State",
+     "start": "Fri 9:30 PM ET",
+     "reason": "Oregon State -1800+ ML.",
+     "marketId": "742.196158768",
+     "selectionId": "697700",
+     "eventId": 36285084,
+     "marketIdMD": "724.196297505"
+    },
+    {
+     "pick": "Colorado State ML",
+     "market": "Moneyline",
+     "odds": -2800,
+     "sport": "NCAAB",
+     "event": "Idaho @ Colorado State",
+     "start": "Fri 9:00 PM ET",
+     "reason": "Colorado State -1800+ ML.",
+     "marketId": "742.196159982",
+     "selectionId": "702240",
+     "eventId": 36285100,
+     "marketIdMD": "724.196298719"
+    },
+    {
+     "pick": "TCU +9.5",
+     "market": "Alternate Spread",
+     "odds": -156,
+     "sport": "NCAAF",
+     "event": "TCU @ Arizona",
+     "start": "Fri 10:15 PM ET",
+     "reason": "TCU +9.5 at Arizona.",
+     "marketId": "742.195355503",
+     "selectionId": "48092716",
+     "eventId": 36260458,
+     "marketIdMD": "724.195494240"
+    },
+    {
+     "pick": "Illinois +8.5",
+     "market": "Alternate Spread",
+     "odds": -205,
+     "sport": "NCAAF",
+     "event": "Nebraska @ Illinois",
+     "start": "Fri 8:00 PM ET",
+     "reason": "Illinois +8.5 vs Nebraska.",
+     "marketId": "742.195355349",
+     "selectionId": "48315208",
+     "eventId": 36260455,
+     "marketIdMD": "724.195494087"
+    }
+   ],
+   "reason": "25 legs: NBA \u2265+9.5 dog cushions, college -1800+ MLs / bought-down alts, NCAAF cushions. Win-prob first. $5 \u2192 ~$384.19. Short of $5K \u2014 will not pad with coin-flips."
   }
  ],
  "results": {
-  "updated": "Thu Nov 5, 2026 3:00 PM ET",
-  "sources": "ESPN scoreboards/box scores (UEFA Europa/Conference, Serie A, Ligue 1, EPL, NHL, NFL, NCAAB); FanDuel PA public odds feed",
+  "updated": "Fri Nov 6, 2026 10:30 AM ET",
+  "sources": "ESPN scoreboards/box scores; public sources for leftover Nov 1\u20133 legs; FanDuel PA public odds",
   "totals": {
    "singles": {
-    "won": 18,
-    "lost": 17,
+    "won": 19,
+    "lost": 18,
     "pending": 2,
-    "staked": 350,
-    "profit": 20.0,
+    "staked": 370,
+    "profit": 19.8,
     "winPct": 51.4,
-    "roiPct": 5.7
+    "roiPct": 5.4
    },
    "parlays": {
-    "won": 9,
-    "lost": 21,
-    "pending": 3,
-    "staked": 300,
-    "profit": -75.5,
-    "winPct": 30.0,
-    "roiPct": -25.2
+    "won": 11,
+    "lost": 23,
+    "pending": 2,
+    "staked": 340,
+    "profit": -82.59,
+    "winPct": 32.4,
+    "roiPct": -24.3
    },
    "lottery": {
     "won": 1,
-    "lost": 23,
+    "lost": 24,
     "pending": 0,
-    "staked": 120,
-    "profit": -43.7,
-    "winPct": 4.2,
-    "roiPct": -36.4
+    "staked": 125,
+    "profit": -48.7,
+    "winPct": 4.0,
+    "roiPct": -39.0
    },
    "overall": {
-    "won": 28,
-    "lost": 61,
-    "pending": 5,
-    "staked": 770,
-    "profit": -99.2,
-    "winPct": 31.5,
-    "roiPct": -12.9
+    "won": 31,
+    "lost": 65,
+    "pending": 4,
+    "staked": 835,
+    "profit": -111.49,
+    "winPct": 32.3,
+    "roiPct": -13.4
    },
    "legs": {
-    "hit": 407,
-    "miss": 151,
-    "pending": 44,
+    "hit": 455,
+    "miss": 162,
+    "pending": 17,
     "void": 3
    },
-   "won": 28,
-   "lost": 61,
-   "pending": 5,
-   "winPct": 31.5,
-   "staked": 770,
-   "profit": -99.2,
-   "roiPct": -12.9
+   "won": 31,
+   "lost": 65,
+   "pending": 4,
+   "winPct": 32.3,
+   "staked": 835,
+   "profit": -111.49,
+   "roiPct": -13.4
   },
   "singles": {
-   "won": 18,
-   "lost": 17,
+   "won": 19,
+   "lost": 18,
    "pending": 2,
-   "staked": 350,
-   "profit": 20.0,
+   "staked": 370,
+   "profit": 19.8,
    "winPct": 51.4,
-   "roiPct": 5.7
+   "roiPct": 5.4
   },
   "parlays": {
-   "won": 9,
-   "lost": 21,
-   "pending": 3,
-   "staked": 300,
-   "profit": -75.5,
-   "winPct": 30.0,
-   "roiPct": -25.2
+   "won": 11,
+   "lost": 23,
+   "pending": 2,
+   "staked": 340,
+   "profit": -82.59,
+   "winPct": 32.4,
+   "roiPct": -24.3
   },
   "lottery": {
    "won": 1,
-   "lost": 23,
+   "lost": 24,
    "pending": 0,
-   "staked": 120,
-   "profit": -43.7,
-   "winPct": 4.2,
-   "roiPct": -36.4
+   "staked": 125,
+   "profit": -48.7,
+   "winPct": 4.0,
+   "roiPct": -39.0
   },
   "history": [
    {
@@ -2839,22 +2901,22 @@
       "pick": "Basavareddy ML",
       "odds": -310,
       "event": "Nishesh Basavareddy v Milos Karol",
-      "result": "pending",
-      "actual": "Monday game \u2014 ticket already lost; not graded"
+      "result": "hit",
+      "actual": "Basavareddy def. Karol 6-3, 6-3 (Bratislava Challenger)"
      },
      {
       "pick": "Shevchenko ML",
       "odds": -210,
       "event": "Luka Pavlovic v Aleksandr Shevchenko",
-      "result": "pending",
-      "actual": "Monday game \u2014 ticket already lost; not graded"
+      "result": "miss",
+      "actual": "Pavlovic def. Shevchenko 6-3, 4-6, 6-4"
      },
      {
       "pick": "VCU ML",
       "odds": -7000,
       "event": "Little Rock @ VCU",
-      "result": "pending",
-      "actual": "Monday game \u2014 ticket already lost; not graded"
+      "result": "hit",
+      "actual": "VCU 82, Little Rock 72"
      }
     ],
     "whyExplanation": "LOST. Six of the nine Sunday legs hit. Three missed: Oilers/Rangers Over 5.5 (5 goals, one short), Clippers/Warriors Under 225.5 (236), and Raptors/Lakers Under 230.5 (256). The 16 Monday legs no longer matter.",
@@ -4225,8 +4287,8 @@
       "pick": "Lyngby vs Randers Under 4.5",
       "odds": -450,
       "event": "Lyngby v Randers",
-      "result": "pending",
-      "actual": "in progress / tonight"
+      "result": "hit",
+      "actual": "Lyngby 1-0 Randers (1 goal)"
      },
      {
       "pick": "Sirius vs Halmstads Over 1.5",
@@ -5674,22 +5736,22 @@
       "pick": "Benfica ML",
       "odds": -1000,
       "event": "Benfica v Lech Poznan",
-      "result": "pending",
-      "actual": "in progress at 3 PM grade"
+      "result": "hit",
+      "actual": "Benfica 3-1 Lech Poznan"
      },
      {
       "pick": "FC Copenhagen ML",
       "odds": -900,
       "event": "FC Copenhagen v FC Iberia 1999",
-      "result": "pending",
-      "actual": "in progress at 3 PM grade"
+      "result": "hit",
+      "actual": "Copenhagen 2-1 Iberia 1999"
      },
      {
       "pick": "Lugano ML",
       "odds": -800,
       "event": "Lugano v FK Kauno Zalgiris",
-      "result": "pending",
-      "actual": "in progress at 3 PM grade"
+      "result": "hit",
+      "actual": "Lugano 3-0 Kauno Zalgiris"
      }
     ],
     "whyExplanation": "LOST. Atalanta drew 1-1 at home with Kairat Almaty, so the moneyline missed. Crvena Zvezda won 2-1. Benfica/Copenhagen/Lugano were still in progress but the ticket was already dead.",
@@ -5709,64 +5771,64 @@
       "pick": "New York Rangers +1.5",
       "odds": -410,
       "event": "Philadelphia Flyers @ New York Rangers",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Rangers 3, Flyers 2"
      },
      {
       "pick": "New York Islanders +2.5",
       "odds": -320,
       "event": "Carolina Hurricanes @ New York Islanders",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Hurricanes 5, Islanders 3 (lost by 2)"
      },
      {
       "pick": "New Jersey Devils +1.5",
       "odds": -600,
       "event": "St. Louis Blues @ New Jersey Devils",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Devils 5, Blues 4 (OT)"
      },
      {
       "pick": "Detroit Red Wings +2.5",
       "odds": -400,
       "event": "Vegas Golden Knights @ Detroit Red Wings",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Golden Knights 2, Red Wings 1 (lost by 1)"
      },
      {
       "pick": "Tampa Bay Lightning +1.5",
       "odds": -1450,
       "event": "Chicago Blackhawks @ Tampa Bay Lightning",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Lightning 4, Blackhawks 1"
      },
      {
       "pick": "Winnipeg Jets +1.5",
       "odds": -650,
       "event": "Vancouver Canucks @ Winnipeg Jets",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Jets 6, Canucks 2"
      },
      {
       "pick": "Magic @ Suns Over 205.5",
       "odds": -700,
       "event": "Orlando Magic @ Phoenix Suns",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Magic 104, Suns 117 (221)"
      },
      {
       "pick": "UTSA +3.5",
       "odds": -460,
       "event": "UTSA @ Florida Atlantic",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "miss",
+      "actual": "FAU 60, UTSA 29 (lost by 31)"
      },
      {
       "pick": "James Madison +1.5",
       "odds": -620,
       "event": "James Madison @ Southern Miss",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "JMU 54, Southern Miss 23"
      },
      {
       "pick": "AC Milan or Draw",
@@ -5779,29 +5841,29 @@
       "pick": "Panathinaikos or Draw",
       "odds": -1250,
       "event": "Panathinaikos v CSKA Sofia",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Panathinaikos 2-1 CSKA Sofia"
      },
      {
       "pick": "Leverkusen or Draw",
       "odds": -1500,
       "event": "Leverkusen v Marseille",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "miss",
+      "actual": "Leverkusen 0-1 Marseille"
      },
      {
       "pick": "Universitatea Craiova or Draw",
       "odds": -1500,
       "event": "Universitatea Craiova v Egnatia Rrogozhine",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "CSU Craiova 2-0 Egnatia"
      },
      {
       "pick": "Sunderland or Draw",
       "odds": -900,
       "event": "Sunderland v Dinamo Zagreb",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "miss",
+      "actual": "Sunderland 0-2 Dinamo Zagreb"
      },
      {
       "pick": "Bournemouth to score (Away Over 0.5)",
@@ -5821,15 +5883,15 @@
       "pick": "Monaco or Draw",
       "odds": -700,
       "event": "Monaco v FC Nordsjaelland",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Monaco 2-0 Nordsjaelland"
      },
      {
       "pick": "Brighton or Draw",
       "odds": -700,
       "event": "Getafe v Brighton",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Brighton 1-0 Getafe"
      },
      {
       "pick": "Midtjylland vs Ajax Over 1.5 Goals",
@@ -5842,15 +5904,15 @@
       "pick": "Sint Truiden vs Brann Over 1.5 Goals",
       "odds": -1200,
       "event": "Sint Truiden v Brann",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Sint-Truiden 1-1 Brann (2 goals)"
      },
      {
       "pick": "Celtic vs Besiktas Over 1.5 Goals",
       "odds": -850,
       "event": "Celtic v Besiktas",
-      "result": "pending",
-      "actual": "in progress or plays tonight"
+      "result": "hit",
+      "actual": "Celtic 3-2 Besiktas"
      },
      {
       "pick": "Real Sociedad to score (Home Over 0.5)",
@@ -5881,7 +5943,7 @@
       "actual": "Thun 3-1 Hearts"
      }
     ],
-    "whyExplanation": "LOST. Dead on early soccer: AC Milan or Draw missed (Ferencvaros 2-0 in Milan) and Hajduk Split or Draw missed (Lincoln Red Imps 1-0). Settled soccer 6 hit / 2 miss; NHL/NBA/NCAAF/NCAAB still pending tonight.",
+    "whyExplanation": "LOST. Dead early on AC Milan or Draw and Hajduk Split or Draw. Final settled soccer/NHL/NBA/NCAAF: 20 hit / 5 miss. Late misses also included Leverkusen or Draw (0-1 Marseille), Sunderland or Draw (0-2 Dinamo Zagreb), and UTSA +3.5 (lost by 31).",
     "lesson": "Away European 'or Draw' double chances failed twice in one window (Milan home to Ferencvaros; Hajduk at Lincoln Red Imps). Awkward away venues can upset 'class-gap' frames \u2014 prefer home double chance or team-to-score."
    },
    {
@@ -5891,19 +5953,19 @@
     "name": "Jaguars @ Ravens Under 38.5",
     "odds": 102,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "lost",
+    "profit": -10,
     "legs": [
      {
       "pick": "Jaguars @ Ravens Under 38.5",
       "odds": 102,
       "event": "Jacksonville Jaguars @ Baltimore Ravens",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "miss",
+      "actual": "Jaguars 33, Ravens 10 (43 total)"
      }
     ],
-    "whyExplanation": "Pending \u2014 TNF tonight.",
-    "lesson": ""
+    "whyExplanation": "LOST. JAX 33 BAL 10 \u2014 43 total cleared 38.5. Backup QB game still went over as Jacksonville scored freely.",
+    "lesson": "TNF unders with a backup QB need more than a soft total if the other offense is healthy and motivated."
    },
    {
     "date": "2026-11-05",
@@ -5912,19 +5974,19 @@
     "name": "Joe Fagnano Under 0.5 Passing TDs",
     "odds": -102,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 9.8,
     "legs": [
      {
       "pick": "Joe Fagnano Under 0.5 Passing TDs",
       "odds": -102,
       "event": "Jacksonville Jaguars @ Baltimore Ravens",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Fagnano 0 passing TDs (10/18, 60 yds, 2 INT)"
      }
     ],
-    "whyExplanation": "Pending \u2014 TNF tonight.",
-    "lesson": ""
+    "whyExplanation": "WON. Joe Fagnano threw 0 TD passes (10/18, 60 yards, 2 INT) in Baltimore's 33-10 loss.",
+    "lesson": "Backup QB under 0.5 pass TD held when the offense was overmatched. Keep for true backups in bad matchups."
    },
    {
     "date": "2026-11-05",
@@ -5933,33 +5995,33 @@
     "name": "Home Ice +1.5 Trio",
     "odds": 166,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "lost",
+    "profit": -10,
     "legs": [
      {
       "pick": "Pittsburgh Penguins +1.5",
       "odds": -270,
       "event": "Boston Bruins @ Pittsburgh Penguins",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "miss",
+      "actual": "Bruins 6, Penguins 2 (lost by 4)"
      },
      {
       "pick": "Montreal Canadiens +1.5",
       "odds": -270,
       "event": "Utah Mammoth @ Montreal Canadiens",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Canadiens 5, Mammoth 4 (OT)"
      },
      {
       "pick": "Columbus Blue Jackets +1.5",
       "odds": -240,
       "event": "Dallas Stars @ Columbus Blue Jackets",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Blue Jackets 2, Stars 1 (SO)"
      }
     ],
-    "whyExplanation": "Pending \u2014 games tonight.",
-    "lesson": ""
+    "whyExplanation": "LOST. Penguins got blown out 6-2 by Boston; Canadiens and Blue Jackets both covered +1.5.",
+    "lesson": "NHL home +1.5 remains strong (2/3 here) but a true mismatch/home team in freefall (PIT) can still get run. Prefer +1.5 when the home side is at least average."
    },
    {
     "date": "2026-11-05",
@@ -5968,40 +6030,40 @@
     "name": "Prime-Time Cushions",
     "odds": 108,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 10.8,
     "legs": [
      {
       "pick": "Jacksonville Jaguars -2.5",
       "odds": -430,
       "event": "Jacksonville Jaguars @ Baltimore Ravens",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Jaguars 33, Ravens 10 (won by 23)"
      },
      {
       "pick": "Golden State Warriors +4.5",
       "odds": -450,
       "event": "Miami Heat @ Golden State Warriors",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Warriors 120, Heat 100"
      },
      {
       "pick": "Colorado Avalanche +1.5",
       "odds": -600,
       "event": "Nashville Predators @ Colorado Avalanche",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Predators 3, Avalanche 2 (OT) \u2014 covered +1.5"
      },
      {
       "pick": "Edmonton Oilers +1.5",
       "odds": -550,
       "event": "Anaheim Ducks @ Edmonton Oilers",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Ducks 5, Oilers 4 \u2014 covered +1.5"
      }
     ],
-    "whyExplanation": "Pending \u2014 games tonight.",
-    "lesson": ""
+    "whyExplanation": "WON at +108. All four cushions hit: JAX -2.5 by 23, GS +4.5 win, COL +1.5 and EDM +1.5 each lost by 1.",
+    "lesson": "Mixed-sport cushion parlays with real points (NFL -2.5 mismatch, NBA +4.5, NHL +1.5) paid. NHL +1.5 home/road cushions continue to cash."
    },
    {
     "date": "2026-11-05",
@@ -6010,97 +6072,405 @@
     "name": "College Locks Ladder",
     "odds": -473,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 2.11,
     "legs": [
      {
       "pick": "Vanderbilt ML",
       "odds": -4000,
       "event": "Wake Forest @ Vanderbilt",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Vanderbilt 74, Wake Forest 51"
      },
      {
       "pick": "Seton Hall ML",
       "odds": -3500,
       "event": "Long Island University @ Seton Hall",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Seton Hall 67, LIU 60"
      },
      {
       "pick": "Virginia Tech ML",
       "odds": -7000,
       "event": "Mercer @ Virginia Tech",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Virginia Tech 96, Mercer 67"
      },
      {
       "pick": "Notre Dame ML",
       "odds": -7000,
       "event": "Mercyhurst @ Notre Dame",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Notre Dame 83, Mercyhurst 56"
      },
      {
       "pick": "Cincinnati ML",
       "odds": -20000,
       "event": "Green Bay @ Cincinnati",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Cincinnati 81, Green Bay 64"
      },
      {
       "pick": "Syracuse ML",
       "odds": -10000,
       "event": "Central Connecticut @ Syracuse",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Syracuse 102, Central Connecticut 49"
      },
      {
       "pick": "Pittsburgh ML",
       "odds": -4000,
       "event": "Buffalo @ Pittsburgh",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Pittsburgh 80, Buffalo 61"
      },
      {
       "pick": "Fordham ML",
       "odds": -4500,
       "event": "Stonehill @ Fordham",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Fordham 83, Stonehill 63"
      },
      {
       "pick": "Mississippi State ML",
       "odds": -7000,
       "event": "NW State @ Mississippi State",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Mississippi State 82, Northwestern State 44"
      },
      {
       "pick": "Loyola Chicago ML",
       "odds": -4000,
       "event": "West Georgia @ Loyola Chicago",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "Loyola Chicago 76, West Georgia 53"
      },
      {
       "pick": "SMU ML",
       "odds": -10000,
       "event": "VMI @ SMU",
-      "result": "pending",
-      "actual": "plays tonight"
+      "result": "hit",
+      "actual": "SMU 95, VMI 70"
      }
     ],
-    "whyExplanation": "Pending \u2014 games tonight.",
+    "whyExplanation": "WON at -473. All 11 college moneylines at -3500 or longer hit. Seton Hall was the closest (67-60).",
+    "lesson": "College MLs at -1800 or longer are now 27-0 when followed. Keep as the Best Shot / ladder backbone."
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "single",
+    "name": "New York Jets +8.5",
+    "odds": 102,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "New York Jets +8.5",
+      "odds": 102,
+      "event": "New York Jets @ Kansas City Chiefs",
+      "result": "pending",
+      "actual": "plays Sunday"
+     }
+    ],
+    "whyExplanation": "Pending \u2014 Sunday NFL.",
     "lesson": ""
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "single",
+    "name": "Las Vegas Raiders +7.5",
+    "odds": 114,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Las Vegas Raiders +7.5",
+      "odds": 114,
+      "event": "Las Vegas Raiders @ San Francisco 49ers",
+      "result": "pending",
+      "actual": "plays Sunday"
+     }
+    ],
+    "whyExplanation": "Pending \u2014 Sunday NFL.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Campus Moneyline Trio",
+    "odds": -398,
+    "stake": 10,
+    "result": "lost",
+    "profit": -10,
+    "legs": [
+     {
+      "pick": "Tulsa ML",
+      "odds": -1450,
+      "event": "Northern Illinois @ Tulsa",
+      "result": "hit",
+      "actual": "Tulsa 94, Northern Illinois 75"
+     },
+     {
+      "pick": "Tulane ML",
+      "odds": -950,
+      "event": "Jackson State @ Tulane",
+      "result": "miss",
+      "actual": "Jackson State 87, Tulane 85"
+     },
+     {
+      "pick": "Oregon ML",
+      "odds": -1700,
+      "event": "Eastern Washington @ Oregon",
+      "result": "pending",
+      "actual": "plays Friday"
+     }
+    ],
+    "whyExplanation": "LOST. Tulane fell 87-85 at home to Jackson State. Tulsa won 94-75; Oregon still plays Friday.",
+    "lesson": "Even -950 college home favorites can lose opening-week games to mid-majors. Prefer -1800+ only, and be wary of G5 hosts vs motivated SWAC/MEAC visitors."
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Sunday Cushions + Utah",
+    "odds": 204,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Arizona Cardinals +7.5",
+      "odds": 102,
+      "event": "Arizona Cardinals @ Seattle Seahawks",
+      "result": "pending",
+      "actual": "plays Sunday"
+     },
+     {
+      "pick": "Detroit Lions +1.5",
+      "odds": -430,
+      "event": "Detroit Lions @ Miami Dolphins",
+      "result": "pending",
+      "actual": "plays Sunday"
+     },
+     {
+      "pick": "Utah +1.5",
+      "odds": -450,
+      "event": "Towson @ Utah",
+      "result": "hit",
+      "actual": "Utah 67, Towson 57"
+     }
+    ],
+    "whyExplanation": "Pending \u2014 Utah hit (67-57); Cardinals and Lions play Sunday.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Friday College Locks",
+    "odds": -2821,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Alabama ML",
+      "odds": -20000,
+      "event": "Arkansas State @ Alabama",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "North Carolina ML",
+      "odds": -10000,
+      "event": "Wofford @ North Carolina",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Ohio State ML",
+      "odds": -10000,
+      "event": "Youngstown St @ Ohio State",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Kentucky ML",
+      "odds": -10000,
+      "event": "James Madison @ Kentucky",
+      "result": "pending",
+      "actual": "plays Friday"
+     }
+    ],
+    "whyExplanation": "Pending \u2014 all four play Friday night.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-05",
+    "run": "3:00 PM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": 2934,
+    "stake": 5,
+    "result": "lost",
+    "profit": -5,
+    "legs": [
+     {
+      "pick": "Penn State -5.5",
+      "odds": -360,
+      "event": "Chattanooga @ Penn State",
+      "result": "miss",
+      "actual": "Penn State 97, Chattanooga 93 (won by 4)"
+     },
+     {
+      "pick": "Charlotte -5.5",
+      "odds": -320,
+      "event": "Georgia State @ Charlotte",
+      "result": "hit",
+      "actual": "Charlotte 77, Georgia State 67 (won by 10)"
+     },
+     {
+      "pick": "Michigan State -17.5",
+      "odds": -480,
+      "event": "Toledo @ Michigan State",
+      "result": "hit",
+      "actual": "Michigan State 91, Toledo 61 (won by 30)"
+     },
+     {
+      "pick": "North Texas +8.5",
+      "odds": -310,
+      "event": "McNeese @ North Texas",
+      "result": "hit",
+      "actual": "North Texas 77, McNeese 67"
+     },
+     {
+      "pick": "Merrimack -3.5",
+      "odds": -335,
+      "event": "UMass Lowell @ Merrimack",
+      "result": "miss",
+      "actual": "UMass Lowell 71, Merrimack 61"
+     },
+     {
+      "pick": "Iona -3.5",
+      "odds": -330,
+      "event": "NJIT @ Iona",
+      "result": "hit",
+      "actual": "Iona 72, NJIT 49"
+     },
+     {
+      "pick": "DePaul -0.5",
+      "odds": -305,
+      "event": "South Florida @ DePaul",
+      "result": "hit",
+      "actual": "DePaul 82, South Florida 80"
+     },
+     {
+      "pick": "Incarnate Word -2.5",
+      "odds": -320,
+      "event": "Chicago State @ Incarnate Word",
+      "result": "miss",
+      "actual": "Chicago State 66, Incarnate Word 54"
+     },
+     {
+      "pick": "South Alabama +3.5",
+      "odds": -355,
+      "event": "Jacksonville State @ South Alabama",
+      "result": "hit",
+      "actual": "South Alabama 83, Jacksonville State 80 (2OT)"
+     },
+     {
+      "pick": "Marist +4.5",
+      "odds": -370,
+      "event": "UMBC @ Marist",
+      "result": "hit",
+      "actual": "Marist 88, UMBC 80"
+     },
+     {
+      "pick": "Quinnipiac ML",
+      "odds": -285,
+      "event": "Bryant @ Quinnipiac",
+      "result": "hit",
+      "actual": "Quinnipiac 66, Bryant 56"
+     },
+     {
+      "pick": "Saint Peter's ML",
+      "odds": -330,
+      "event": "Binghamton @ Saint Peter's",
+      "result": "miss",
+      "actual": "Binghamton 58, Saint Peter's 55"
+     },
+     {
+      "pick": "Purdue ML",
+      "odds": -4000,
+      "event": "Valparaiso @ Purdue",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Florida State ML",
+      "odds": -4000,
+      "event": "Troy @ Florida State",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Xavier ML",
+      "odds": -4500,
+      "event": "Eastern Michigan @ Xavier",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "NC State ML",
+      "odds": -1800,
+      "event": "East Tennessee State @ NC State",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Georgia Tech ML",
+      "odds": -1800,
+      "event": "Georgia Southern @ Georgia Tech",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Wisconsin ML",
+      "odds": -10000,
+      "event": "Delaware @ Wisconsin",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Tage Thompson 2+ Shots on Goal",
+      "odds": -1800,
+      "event": "Columbus Blue Jackets @ Buffalo Sabres",
+      "result": "pending",
+      "actual": "plays Friday"
+     },
+     {
+      "pick": "Leo Carlsson 1+ Shots on Goal",
+      "odds": -2000,
+      "event": "Anaheim Ducks @ Calgary Flames",
+      "result": "pending",
+      "actual": "plays Friday"
+     }
+    ],
+    "whyExplanation": "LOST. Thursday NCAAB killed it: Penn State -5.5 won by only 4, Merrimack lost outright, Incarnate Word lost outright, Saint Peter's lost at home. Settled 8 hit / 4 miss; Friday legs moot.",
+    "lesson": "Small-school / mid-major alt spreads and short home MLs (Merrimack -3.5, IW -2.5, Saint Peter's ML, PSU -5.5) are not 75% legs. Stick to Power-conference -1800+ MLs and big cushions only."
    }
   ],
   "topLessons": [
-   "NHL home +1.5 is 9-0 and college MLs at -1800 or longer are 16-0 \u2014 keep building around these.",
-   "Away European 'or Draw' / short class-gap MLs failed again (Milan, Hajduk, Atalanta) \u2014 prefer home DC or to-score unless the gap is extreme.",
-   "No coin-flip lottery legs (~75%+ only); no NBA -12 spreads or -2.5 favorite spreads; no Rockets; no road dogs at Denver.",
-   "NBA alt overs need 18+ points of cushion; no college alt spreads of -20 or more vs weak foes; no pick'em college legs.",
-   "Morning slate burned most Thu NHL/NBA/NFL events \u2014 afternoon Best Shot leans NCAAB cushions + Friday -1800 MLs and stays short of $5K rather than pad coin-flips."
+   "College MLs at -1800+ are 27-0 (11/11 Thursday) \u2014 keep as locks/Best Shot anchors.",
+   "NHL home +1.5 failed once (PIT 6-2 blowout); still the best hockey backbone when the home club is average-or-better.",
+   "Mid-major short favorites (Merrimack -3.5, IW -2.5, Saint Peter's ML, Tulane -950) are not 75% legs.",
+   "Away European or Draw failed again (Leverkusen, Sunderland); prefer home DC / team-to-score.",
+   "NBA dog cushions \u2265+9.5 and college alts under -20 keep win-prob first without killing Best Shot math."
   ]
  }
 }

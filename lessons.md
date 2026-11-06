@@ -191,3 +191,35 @@ The 10:30 AM run didn't complete, so this run graded all of Saturday's tickets (
 - College legs are MLs at -1800+ (Friday Locks parlay) or bought-down cushions under the -20 alt-spread ban.
 - Best Shot uses ~75%+ legs only and stays short of $5K rather than pad.
 - Singles are plus-money NFL dog cushions only.
+
+## Fri Nov 6, 2026 10:30 AM ET run: grading Nov 5
+
+### Grades
+- **Joe Fagnano Under 0.5 Passing TDs (10:30 AM) — WON** (+$9.80). Fagnano 0 pass TDs (10/18, 60 yds, 2 INT) in BAL's 33-10 loss.
+- **Prime-Time Cushions (10:30 AM, +108) — WON** (+$10.80). JAX -2.5 (won by 23), GS +4.5 (120-100), COL +1.5 (lost 2-3 OT), EDM +1.5 (lost 4-5) — all covered.
+- **College Locks Ladder (10:30 AM, -473) — WON** (+$2.11). 11/11 at -3500 or longer (Vandy, Seton Hall, VT, ND, Cincy, Syracuse, Pitt, Fordham, Miss St, Loyola Chi, SMU). College MLs at -1800+ now **27-0**.
+- **Jaguars @ Ravens Under 38.5 — LOST**. Final 43 (JAX 33 BAL 10).
+- **Home Ice +1.5 Trio — LOST**. PIT +1.5 missed (BOS 6-2); MTL and CBJ covered.
+- **Campus Moneyline Trio (3 PM) — LOST**. Tulane fell 87-85 at home to Jackson State; Tulsa won; Oregon still Friday.
+- **Best Shot $500K (3 PM, +2934) — LOST**. Penn State -5.5 won by only 4; Merrimack lost outright; Incarnate Word lost outright; Saint Peter's lost at home 55-58.
+- **Best Shot $500K (10:30 AM) — already L**; cleaned leftovers: Leverkusen or Draw miss (0-1 Marseille), Sunderland or Draw miss (0-2 Dinamo Zagreb), UTSA +3.5 miss (lost by 31). Most NHL home cushions and remaining soccer hit.
+- Also cleaned: Basavareddy ML hit, Shevchenko ML miss, VCU ML hit, Lyngby/Randers U4.5 hit (1-0). Europa Benfica/Copenhagen/Lugano all hit (ticket already dead on Atalanta).
+- Still pending: Jets +8.5, Raiders +7.5, Sunday Cushions + Utah (Utah already hit), afternoon Friday College Locks.
+
+### Record after grading
+Overall **31-65** (−$111.49 on $835). Singles 19-18 (+$19.80). Parlays 11-23 (−$82.59). Lottery 1-24 (−$48.70). Legs 455 hit / 162 miss / 17 pending / 3 void.
+
+### New lessons
+1. **College MLs at -1800+ are 27-0** after another clean 11/11 ladder — keep as the locks/Best Shot backbone.
+2. **NHL home +1.5** remains elite but is not immune to blowouts (PIT 6-2). Prefer average-or-better home clubs.
+3. **Mid-major short favorites / tiny alt spreads are not 75% legs** — Merrimack -3.5, IW -2.5, Saint Peter's ML, and Tulane -950 all lost in one night.
+4. **Away European or Draw** failed again (Leverkusen, Sunderland). Prefer home DC or team-to-score unless the gap is extreme.
+5. **TNF unders** with a backup QB still went over when the other offense scored freely — need more cushion than a soft total.
+
+### How lessons changed today's picks
+- Best Shot uses NBA dog cushions ≥+9.5, college -1800+ MLs, bought-down campus alts (under the -20 ban), and NCAAF cushions — no mid-major short favorites, no coin-flip MLs, no -20 college alts.
+- Home Ice +1.5 Trio kept as the hockey backbone (BUF/MIN/CGY).
+- Friday College Locks are Power hosts only at -1800+.
+- Campus Alt Favorites buys points under the main number for a real payout instead of a −4000 chalk ticket.
+- Singles are plus-money only (Kings +15.5, VT +4.5, Nevada +8.5).
+- Best Shot lands around +7584 (~$384 on $5), **short of the $5K target** — slate can't reach $5K honestly after NHL/campus events are used on safer tickets and without padding coin-flips.
