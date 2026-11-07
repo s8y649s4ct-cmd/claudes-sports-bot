@@ -1,6 +1,6 @@
 {
  "updated": "Sat Nov 7, 2026 3:00 PM ET",
- "run": "3:00 PM ET Saturday. Graded: Sat AM Best Shot L (Morehead +41.5, Tulane +10.5, UConn +11.5 blown out); CFB Bought-Down PENDING. Lessons shaped card: dog cushions only on healthy quality dogs, fade backup-QB teams (NW, Boise bought down), no giant-spread dog cushions or moved-number buys, MLS goals not MLs, UFC 64%+ filter. No NBA/NHL (all burned). Best Shot 23 legs ~$947 on $5 \u2014 short of $5K, no coin-flip pad.",
+ "run": "3:00 PM ET Saturday. Graded: Sat AM Best Shot L (Morehead +41.5, Tulane +10.5, UConn +11.5 blown out); CFB Bought-Down WON; Texas -3.5 WON. Lessons shaped card: dog cushions only on healthy quality dogs, fade backup-QB teams (NW, Boise bought down), no giant-spread dog cushions or moved-number buys, MLS goals not MLs, UFC 64%+ filter. No NBA/NHL (all burned). Best Shot 23 legs ~$947 on $5 \u2014 short of $5K, no coin-flip pad.",
  "singles": [
   {
    "pick": "Iowa -3.5",
@@ -155,7 +155,8 @@
      "reason": "Davidson -11.5 main / -780 ML at home vs Mercer; -2.5 alt just needs a 3+ point home win (9 points of cushion off the main).",
      "marketId": "742.196462584",
      "selectionId": "705251",
-     "eventId": 36289008
+     "eventId": 36289008,
+     "marketIdMD": "724.196601342"
     },
     {
      "pick": "UC San Diego -1.5",
@@ -167,7 +168,8 @@
      "reason": "UCSD -10.5 main / -610 ML at home vs Fresno State; -1.5 = any home win by 2+.",
      "marketId": "742.196466705",
      "selectionId": "41651551",
-     "eventId": 36289039
+     "eventId": 36289039,
+     "marketIdMD": "724.196605435"
     },
     {
      "pick": "High Point ML",
@@ -384,7 +386,8 @@
      "reason": "Furman is the -4.5 home favorite vs Northern Iowa; +4.5 covers any Furman win or a loss by 4 or fewer (9 points of cushion).",
      "marketId": "742.196458404",
      "selectionId": "718730",
-     "eventId": 36288990
+     "eventId": 36288990,
+     "marketIdMD": "724.196597149"
     },
     {
      "pick": "Providence +11.5",
@@ -396,7 +399,8 @@
      "reason": "Providence is only +2.5 at Nebraska; +11.5 is 9 extra points (NBA/NCAAB cushion rule).",
      "marketId": "742.196457279",
      "selectionId": "701620",
-     "eventId": 36288737
+     "eventId": 36288737,
+     "marketIdMD": "724.196596020"
     },
     {
      "pick": "Georgetown +12.5",
@@ -408,7 +412,8 @@
      "reason": "Georgetown is +3.5 at home vs Maryland; +12.5 adds 9 points of cushion.",
      "marketId": "742.196462250",
      "selectionId": "701612",
-     "eventId": 36288757
+     "eventId": 36288757,
+     "marketIdMD": "724.196600981"
     },
     {
      "pick": "UC Irvine -1.5",
@@ -420,7 +425,8 @@
      "reason": "UC Irvine -7.5 / -360 at home vs San Jose State; -1.5 = home win by 2+.",
      "marketId": "742.196465303",
      "selectionId": "734340",
-     "eventId": 36289035
+     "eventId": 36289035,
+     "marketIdMD": "724.196604044"
     },
     {
      "pick": "Seokhyeon Ko ML",
@@ -432,7 +438,8 @@
      "reason": "Ko is -720/-750 everywhere vs Wellington Turman (CBS card). UFC 64%+ favorite filter (ladder 1-0 at +1426).",
      "marketId": "742.195493314",
      "selectionId": "73307397",
-     "eventId": 36273712
+     "eventId": 36273712,
+     "marketIdMD": "724.195632052"
     },
     {
      "pick": "Austin Bashi ML",
@@ -444,7 +451,8 @@
      "reason": "Bashi -590 vs Carlos Calderon; heavy favorite well past the 64% filter.",
      "marketId": "742.195999996",
      "selectionId": "73375019",
-     "eventId": 36281795
+     "eventId": 36281795,
+     "marketIdMD": "724.196138734"
     },
     {
      "pick": "Keiichiro Nakamura ML",
@@ -456,7 +464,8 @@
      "reason": "Nakamura -360 vs Ollie Schmid (~78% implied).",
      "marketId": "742.195491017",
      "selectionId": "94348100",
-     "eventId": 36273676
+     "eventId": 36273676,
+     "marketIdMD": "724.195629755"
     },
     {
      "pick": "Lucas Fernando ML",
@@ -468,7 +477,8 @@
      "reason": "Fernando (14-3) -340 vs Billy Elekana; consensus -325 to -340 across books.",
      "marketId": "742.195493198",
      "selectionId": "59085263",
-     "eventId": 36273711
+     "eventId": 36273711,
+     "marketIdMD": "724.195631936"
     },
     {
      "pick": "Lipscomb ML",
@@ -501,7 +511,8 @@
      "reason": "Unbeaten-in-UFC Elijah Smith (10-1, 3-0 UFC) -330 vs 18-8 veteran Davey Grant.",
      "marketId": "742.195493448",
      "selectionId": "73894514",
-     "eventId": 36273717
+     "eventId": 36273717,
+     "marketIdMD": "724.195632186"
     },
     {
      "pick": "Nina Milosevic ML",
@@ -513,7 +524,8 @@
      "reason": "Milosevic (9-1) -500 vs Priscila Cachoeira (5-9 UFC).",
      "marketId": "742.195490304",
      "selectionId": "101074303",
-     "eventId": 36273671
+     "eventId": 36273671,
+     "marketIdMD": "724.195629042"
     },
     {
      "pick": "Kondratavicius v Petroski: Fight Does Not Go the Distance",
@@ -525,7 +537,8 @@
      "reason": "Market prices \"No\" at -590: Kondratavicius is -295 with -220 to win by finish. Safer than his ML.",
      "marketId": "742.195928707",
      "selectionId": "7675406",
-     "eventId": 36273698
+     "eventId": 36273698,
+     "marketIdMD": "724.196067447"
     },
     {
      "pick": "Cortes Acosta v Walker: Fight Does Not Go the Distance",
@@ -537,7 +550,8 @@
      "reason": "Heavyweights; Walker just won by first-round flying knee and is a KO-or-get-KO'd fighter, Cortes Acosta has 10 finishes. Over 1.5 rounds is -220, but a finish at some point is -430.",
      "marketId": "742.195863111",
      "selectionId": "7675406",
-     "eventId": 36273720
+     "eventId": 36273720,
+     "marketIdMD": "724.196001849"
     },
     {
      "pick": "Suarez v Jandiroba: Fight Goes the Distance",
@@ -549,7 +563,8 @@
      "reason": "Two elite grapplers who neutralize each other (books: over 2.5 rounds -370); Jandiroba went the distance vs Dern and Ricci.",
      "marketId": "742.195917694",
      "selectionId": "7156226",
-     "eventId": 36273719
+     "eventId": 36273719,
+     "marketIdMD": "724.196056434"
     },
     {
      "pick": "Marcos Degli ML",
@@ -561,7 +576,8 @@
      "reason": "Degli (15-3) -225/-238 vs Mitch Raposo (2-2 UFC). 64%+ filter.",
      "marketId": "742.195491365",
      "selectionId": "103058810",
-     "eventId": 36273681
+     "eventId": 36273681,
+     "marketIdMD": "724.195630103"
     },
     {
      "pick": "Jose Souza ML",
@@ -573,7 +589,8 @@
      "reason": "Souza -225 vs Jonny Parsons. 64%+ filter.",
      "marketId": "742.195489052",
      "selectionId": "104635402",
-     "eventId": 36273654
+     "eventId": 36273654,
+     "marketIdMD": "724.195627790"
     },
     {
      "pick": "Karine Silva ML",
@@ -585,7 +602,8 @@
      "reason": "Karine Silva -220 vs Gabriella Fernandes; submission threat (-170 to win by sub or points).",
      "marketId": "742.195491584",
      "selectionId": "41476836",
-     "eventId": 36273684
+     "eventId": 36273684,
+     "marketIdMD": "724.195630322"
     },
     {
      "pick": "Thomas Petersen ML",
@@ -597,7 +615,8 @@
      "reason": "Petersen -164 vs Gabriel Lorenco. Weakest leg on the ticket (62%) \u2014 included only to reach the +1000 lottery floor.",
      "marketId": "742.195491792",
      "selectionId": "59920260",
-     "eventId": 36273688
+     "eventId": 36273688,
+     "marketIdMD": "724.195630530"
     }
    ],
    "reason": "UFC 64%+ favorites plus \"distance\" props where the market is stronger than the ML (UFC ladder pattern 1-0). Sport lottery at +1000 or longer."
@@ -608,22 +627,22 @@
   "sources": "FanDuel PA public odds (event-page API, pulled at build); ESPN scoreboards (NCAAF/NCAAB/NHL/NBA 11/7); injury/availability reports (ESPN Thamel, SEC/Big Ten availability, CBS/DK UFC previews, MLSsoccer.com Decision Day scenarios); lessons.md",
   "totals": {
    "singles": {
-    "won": 20,
+    "won": 21,
     "lost": 20,
-    "pending": 11,
-    "staked": 400,
-    "profit": 10.0,
-    "winPct": 50.0,
-    "roiPct": 2.5
+    "pending": 10,
+    "staked": 410,
+    "profit": 20.6,
+    "winPct": 51.2,
+    "roiPct": 5.0
    },
    "parlays": {
-    "won": 14,
+    "won": 15,
     "lost": 25,
-    "pending": 9,
-    "staked": 390,
-    "profit": -88.56,
-    "winPct": 35.9,
-    "roiPct": -22.7
+    "pending": 8,
+    "staked": 400,
+    "profit": -47.46,
+    "winPct": 37.5,
+    "roiPct": -11.9
    },
    "lottery": {
     "won": 1,
@@ -635,45 +654,45 @@
     "roiPct": -43.5
    },
    "overall": {
-    "won": 35,
+    "won": 37,
     "lost": 71,
-    "pending": 23,
-    "staked": 925,
-    "profit": -137.26,
-    "winPct": 33.0,
-    "roiPct": -14.8
+    "pending": 21,
+    "staked": 945,
+    "profit": -85.56,
+    "winPct": 34.3,
+    "roiPct": -9.1
    },
    "legs": {
-    "hit": 505,
+    "hit": 507,
     "miss": 176,
-    "pending": 100,
+    "pending": 98,
     "void": 3
    },
-   "won": 35,
+   "won": 37,
    "lost": 71,
-   "pending": 23,
-   "winPct": 33.0,
-   "staked": 925,
-   "profit": -137.26,
-   "roiPct": -14.8
+   "pending": 21,
+   "winPct": 34.3,
+   "staked": 945,
+   "profit": -85.56,
+   "roiPct": -9.1
   },
   "singles": {
-   "won": 20,
+   "won": 21,
    "lost": 20,
-   "pending": 11,
-   "staked": 400,
-   "profit": 10.0,
-   "winPct": 50.0,
-   "roiPct": 2.5
+   "pending": 10,
+   "staked": 410,
+   "profit": 20.6,
+   "winPct": 51.2,
+   "roiPct": 5.0
   },
   "parlays": {
-   "won": 14,
+   "won": 15,
    "lost": 25,
-   "pending": 9,
-   "staked": 390,
-   "profit": -88.56,
-   "winPct": 35.9,
-   "roiPct": -22.7
+   "pending": 8,
+   "staked": 400,
+   "profit": -47.46,
+   "winPct": 37.5,
+   "roiPct": -11.9
   },
   "lottery": {
    "won": 1,
@@ -7272,19 +7291,19 @@
     "name": "Texas -3.5",
     "odds": 106,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 10.6,
     "legs": [
      {
       "pick": "Texas -3.5",
       "odds": 106,
       "event": "Texas @ Missouri",
-      "result": "pending",
-      "actual": "plays Saturday/Sunday"
+      "result": "hit",
+      "actual": "Texas 34, Missouri 20 (won by 14)"
      }
     ],
-    "whyExplanation": "Pending \u2014 Saturday 10:30 AM card.",
-    "lesson": ""
+    "whyExplanation": "WON. Texas 34, Missouri 20.",
+    "lesson": "Bought-down road favorite at plus money cashed \u2014 keep -3.5 buys on Power favorites."
    },
    {
     "date": "2026-11-07",
@@ -7363,15 +7382,15 @@
     "name": "Saturday CFB Bought-Down",
     "odds": 411,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 41.1,
     "legs": [
      {
       "pick": "Baylor -7.5",
       "odds": -142,
       "event": "Iowa State @ Baylor",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "Baylor 42, Iowa State 31 (won by 11)"
      },
      {
       "pick": "Utah -3.5",
@@ -7388,8 +7407,8 @@
       "actual": "Florida State 31, Boston College 24 (won by 7)"
      }
     ],
-    "whyExplanation": "Pending \u2014 Utah -3.5 (28-20) and FSU -3.5 (31-24) already hit; Baylor -7.5 still in progress at grade time.",
-    "lesson": ""
+    "whyExplanation": "WON at +411. Baylor 42-31 vs Iowa State, Utah 28-20 vs BYU, FSU 31-24 at BC \u2014 all three bought-down favorites covered.",
+    "lesson": "Power-conference favorites bought down to a field goal / one score (-3.5 to -7.5) all covered: buying below the main number on healthy favorites remains the best CFB parlay structure."
    },
    {
     "date": "2026-11-07",

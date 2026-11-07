@@ -290,3 +290,8 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - Skipped New Mexico -19.5 after the line moved (-27.5 to -28.5). That follows the no-buying-past-moved-numbers rule, and it also means no Northern Arizona +33.5 dog cushion.
 - MLS Decision Day uses goals markets only, in games where at least one side must win (soccer ML lesson). UFC uses the 64%+ filter plus "goes the distance" props where those are stronger than the ML.
 - Every NBA and NHL event tonight is already on a pending ticket, so the afternoon card uses none. The Best Shot stops at 23 legs, about $947 on $5. That's short of $5K, and the only way to get there was 60-70% legs.
+
+### Update ~3:50 PM ET (same run): late finals
+- **Saturday CFB Bought-Down (+411): WON** (+$41.10). Baylor -7.5 HIT (42-31 vs Iowa State, by 11), Utah -3.5 HIT (28-20), FSU -3.5 HIT (31-24). Buying healthy Power favorites down to a field goal or one score went 3/3.
+- **Texas -3.5 (+106): WON** (+$10.60). Texas 34, Missouri 20. Buying a road favorite down 1 point at plus money cashed.
+- Record now: see picks.json totals (overall 37-71).
