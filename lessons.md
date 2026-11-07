@@ -269,3 +269,24 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - Singles are plus-money only with real cushion or bought-down favorites (Arkansas +9.5, Broncos -3.5, Texas -3.5).
 - Safe parlays: Saturday College Locks (-1800+ MLs), NBA Big Cushions (+12.5/+14.5), CFB Bought-Down (Baylor/Utah/FSU).
 - Best Shot mixes -1800+ MLs, NHL +1.5 / Avs ML, fat NBA dog cushions, CFB/NFL cushions — no pending-event reuse, no -20 college fav alts, no mid-major short favs. Lands ~$12.1K on $5 (inside $5K–$50K) without coin-flip padding.
+
+## Sat Nov 7, 2026 3:00 PM ET run: grading the Sat 10:30 AM card (as of ~3:35 PM ET)
+
+### Grades
+- **Best Shot $500K (Sat 10:30 AM, +142459): LOST.** Three college dog cushions died early. Morehead State +41.5 missed (Louisville won 107-57), Tulane +10.5 missed (Tulsa won 60-10) and UConn +11.5 missed (UNC won 38-21). Hits so far: Panthers +1.5 (lost 4-3 at WSH) and Clemson +1.5 (won 18-13 at Syracuse). K-State +11.5 (QB Avery Johnson out) trailed 49-14 and NC State +10.5 trailed 38-3, so even a clean early run would have failed.
+- **Saturday CFB Bought-Down (Sat 10:30 AM, +411): still PENDING at grade time.** Utah -3.5 HIT (28-20 vs BYU) and FSU -3.5 HIT (31-24 at BC). Baylor -7.5 led Iowa State 42-29 with 1:45 left.
+- **Texas -3.5 (+106): still PENDING** (Texas led Missouri 27-20 with 1:44 left). Arkansas +9.5, Broncos -3.5, the College Locks, NBA Big Cushions and the Fri PM / Sunday NFL tickets are all still to play.
+- Record after grading: overall **35-71** (-$137.26 on $925). Singles 20-20, parlays 13-25, lottery 1-26. Exact totals are in picks.json.
+
+### New lessons
+1. **Dog cushions need a healthy dog of real quality.** Tulane (+10.5), UConn (+11.5) and Morehead (+41.5) lost by 50, 17 and 50. K-State got +11.5 with its starting QB out, and that was knowable before kickoff. Before backing a dog on points, check its QB status and current form.
+2. **Giant-spread dog cushions (+30 or more) against Power hosts aren't 75% legs.** They're priced around -170, and early-season hosts run up the score. Skip them.
+3. **Fade backup-QB teams rather than back them.** Back the side facing the backup QB, or buy a favorite down when its own QB is out but the matchup is still lopsided.
+4. **NHL road +1.5 in a pick'em held up again** (FLA lost 4-3 and covered).
+
+### How lessons changed this card
+- Dog cushions only on healthy, quality dogs: Kentucky +14.5 (No. 6, 7-1, starters back), Georgia +7.5 (No. 2) and Texas State +14.5 (elite QB). No cushions on teams with a backup QB.
+- Backup-QB fades: Iowa -3.5 (+102) vs a Northwestern QB with zero 2026 pass attempts, and Boise bought down to -6.5 (QB Madsen out) against the worst defense in FBS.
+- Skipped New Mexico -19.5 after the line moved (-27.5 to -28.5). That follows the no-buying-past-moved-numbers rule, and it also means no Northern Arizona +33.5 dog cushion.
+- MLS Decision Day uses goals markets only, in games where at least one side must win (soccer ML lesson). UFC uses the 64%+ filter plus "goes the distance" props where those are stronger than the ML.
+- Every NBA and NHL event tonight is already on a pending ticket, so the afternoon card uses none. The Best Shot stops at 23 legs, about $947 on $5. That's short of $5K, and the only way to get there was 60-70% legs.
