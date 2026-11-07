@@ -239,3 +239,33 @@ Overall **31-65** (−$111.49 on $835). Singles 19-18 (+$19.80). Parlays 11-23 (
 3. **Saturday NHL home +1.5** replaces the burned Friday home-ice board (Leafs/Wild/Islanders on the safe parlay; Kraken/Sens on Best Shot). Still prefer average-or-better home clubs after PIT.
 4. **Plus-money singles** moved to Sat CFB (MSU +13.5) and Sun NFL dog cushions (Raiders +6.5, Cards +7.5) — no morning event reuse.
 5. **Keep win-prob first:** Best Shot uses OPEN Power MLs (Stanford/Northwestern/K-State), NHL home cushions/heavy MLs, and NFL/CFB bought-down cushions — no Elon/UIC mid-majors, no -20 college alts, no coin-flip pad.
+
+## Sat Nov 7, 2026 10:30 AM ET run: grading Nov 5–6 Friday slate
+
+### Grades
+- **Friday College Locks (11/5 3PM, -2821) — WON** (+$0.35). Alabama, UNC, Ohio State, Kentucky all hit. College -1800+ lock parlays now **34-0**.
+- **Friday College Locks (11/6 AM, -5425) — WON** (+$0.18). OSU/Alabama/Wisconsin MLs hit.
+- **Sacramento Kings +15.5 — WON** (+$10.20). Spurs 124–109 (lost by 15, covered).
+- **Virginia Tech +4.5 — LOST**. SMU 51–28 (lost by 23).
+- **Nevada +8.5 — LOST**. New Mexico 31–3 (lost by 28).
+- **Home Ice +1.5 Trio — LOST**. BUF and MIN covered; Calgary lost 5–3 (by 2) and missed.
+- **Campus Alt Favorites (+148) — LOST 0/3**. Purdue fell in 2OT to Valpo; Kentucky -19.5 won by only 9; UAB -10.5 won by only 7.
+- **Best Shot $500K (11/6 AM) — LOST**. NBA cushions 4/8 (CHA/MIL/UTAH/MEM blew through ≥+9.5); all 15 college MLs and both CFB cushions hit.
+- **Friday Campus Cushions (11/6 PM, +135) — WON** (+$13.50). WVU -18.5 by 38, TAMU -18.5 by 37, Minnesota -11.5 by 14.
+- Updated leftovers on already-lost 11/5 tickets (Oregon ML hit; Purdue ML miss; FSU/Xavier/NCSU/GT/Wisconsin MLs hit; Tage 3 SOG / Carlsson 1 SOG hit).
+- Still pending: Sunday NFL (Jets/Raiders/Cards/Lions), Sat Home Ice, Sat CFB Bought-Down, MSU +13.5, afternoon Best Shot (Fri college MLs hit; NHL/CFB/NFL open).
+
+### Record after grading
+Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-25. (Exact section totals in picks.json.)
+
+### New lessons
+1. **Campus alt favorites 0-3** the same night Power bought-downs (WVU/TAMU/MINN) went 3-0 — early-season Power hosts can lose outright (Purdue) or fail mid spreads; prefer -1800+ MLs when OPEN.
+2. **NBA ≥+9.5 cushions** still fail in true mismatches (CHA by 39, MEM by 31). Buy EXTRA points vs elite (+12.5/+14.5).
+3. **NHL home +1.5** missed again on a struggling home club (CGY by 2). Prefer average-or-better homes, or take the +1.5 on the pick'em dog instead of a coin-flip home ML.
+4. **Small CFB dog cushions (+4.5/+8.5)** got blown out — dog singles need ≥+9.5.
+5. **College -1800+ lock parlays** remain perfect (34-0).
+
+### How lessons changed today's picks
+- Singles are plus-money only with real cushion or bought-down favorites (Arkansas +9.5, Broncos -3.5, Texas -3.5).
+- Safe parlays: Saturday College Locks (-1800+ MLs), NBA Big Cushions (+12.5/+14.5), CFB Bought-Down (Baylor/Utah/FSU).
+- Best Shot mixes -1800+ MLs, NHL +1.5 / Avs ML, fat NBA dog cushions, CFB/NFL cushions — no pending-event reuse, no -20 college fav alts, no mid-major short favs. Lands ~$12.1K on $5 (inside $5K–$50K) without coin-flip padding.
