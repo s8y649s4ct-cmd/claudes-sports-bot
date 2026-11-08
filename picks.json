@@ -1,6 +1,6 @@
 {
- "updated": "Sun Nov 8, 2026 7:30 AM ET",
- "run": "Sunday 2-leg special at Ferdinand's request: four 2-leg parlays, every leg 9-11 points (or 1.5 goals at home) beyond the main. Graded Saturday: Hoops Bought-Down, Iowa -3.5, OU/UF Under, Arkansas +9.5, MSU +13.5 won; Best Shot hit 20/23.",
+ "updated": "Sun Nov 8, 2026 10:30 AM ET",
+ "run": "Sunday 10:30 AM: six new 2-leg parlays (every leg 9-10+ points or 1.5 goals beyond the main) added to this morning's four, plus a 12-leg Best Shot. No singles cleared the edge bar. Nothing new settled since 7:30 AM.",
  "singles": [],
  "parlays": [
   {
@@ -138,11 +138,331 @@
     }
    ],
    "reason": "Big NBA dog cushions (lesson: +9.5 off the main or more), no elite opponents."
+  },
+  {
+   "name": "Bears Home Cushion + Devils Road Ice",
+   "odds": -220,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Chicago Bears +3.5",
+     "market": "Alternate Spread",
+     "odds": -590,
+     "sport": "NFL",
+     "event": "Tampa Bay Buccaneers @ Chicago Bears",
+     "start": "Sun 8:21 PM ET",
+     "reason": "Chicago is the -6.5 home favorite on Sunday Night Football; +3.5 is 10 points of cushion and crosses the key number 3, so the Bears only lose this leg if Tampa wins by 4+ in Chicago. Bucs are without edge rusher Yaya Diaby; Chicago has no inactives of note.",
+     "marketId": "742.195451367",
+     "selectionId": "12213353",
+     "eventId": 36244879,
+     "marketIdMD": "724.195590102"
+    },
+    {
+     "pick": "New Jersey Devils +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -410,
+     "sport": "NHL",
+     "event": "New Jersey Devils @ Toronto Maple Leafs",
+     "start": "Sun 7:09 PM ET",
+     "reason": "NJ is the -154 road favorite at Toronto, and the Leafs are on the second night of a back-to-back after losing 4-2 at home to Montreal Saturday. +1.5 covers any Devils win or one-goal loss.",
+     "marketId": "742.196572387",
+     "selectionId": "7000413",
+     "eventId": 36291491,
+     "marketIdMD": "724.196711125"
+    }
+   ],
+   "reason": "Home NFL favorite bought to +3.5 plus a road NHL favorite at +1.5 against a tired team. Both legs need a multi-score upset to lose."
+  },
+  {
+   "name": "Texans Bought-Down + Sabres Home Ice",
+   "odds": -162,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Houston Texans +4.5",
+     "market": "Alternate Spread",
+     "odds": -520,
+     "sport": "NFL",
+     "event": "Houston Texans @ Los Angeles Chargers",
+     "start": "Sun 4:06 PM ET",
+     "reason": "Houston is -5.5 at the Chargers, whose offensive line is gutted (Slater, Pipkins, Biadasz, Penning on IR) and whose secondary is missing Derwin James, Deane Leonard and Kendall Williamson. +4.5 is 10 points off the main: Houston can lose by up to 4.",
+     "marketId": "742.195451503",
+     "selectionId": "12213316",
+     "eventId": 36244874,
+     "marketIdMD": "724.195590242"
+    },
+    {
+     "pick": "Buffalo Sabres +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -280,
+     "sport": "NHL",
+     "event": "Vegas Golden Knights @ Buffalo Sabres",
+     "start": "Sun 3:40 PM ET",
+     "reason": "Pick'em game (-106) at home; +1.5 means Buffalo only fails if it loses by 2+ on home ice. Lessons say pick'em +1.5 legs hold up far better than coin-flip MLs.",
+     "marketId": "742.196572536",
+     "selectionId": "7000399",
+     "eventId": 36291493,
+     "marketIdMD": "724.196711282"
+    }
+   ],
+   "reason": "Bought-down road favorite against a depleted roster plus home pick'em +1.5."
+  },
+  {
+   "name": "Eagles Big Home Cushion + Saints Home Cushion",
+   "odds": -241,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Philadelphia Eagles +13.5",
+     "market": "Alternate Spread",
+     "odds": -560,
+     "sport": "NFL",
+     "event": "New York Giants @ Philadelphia Eagles",
+     "start": "Sun 1:01 PM ET",
+     "reason": "Eagles are only +3 at home vs the Giants (total 38.5, a low-scoring script), so +13.5 is 10.5 points beyond the main and past both 7 and 10. Philly is missing DeVonta Smith, but a 14+ point home loss in a 38.5-total divisional game is rare.",
+     "marketId": "742.195451027",
+     "selectionId": "12248266",
+     "eventId": 36244873,
+     "marketIdMD": "724.195589763"
+    },
+    {
+     "pick": "New Orleans Saints +6.5",
+     "market": "Alternate Spread",
+     "odds": -500,
+     "sport": "NFL",
+     "event": "Cleveland Browns @ New Orleans Saints",
+     "start": "Sun 1:01 PM ET",
+     "reason": "Saints are -3.5 home favorites vs Cleveland in a 42.5-total game; +6.5 gives 10 points of cushion. Lesson: bought-down home favorites with 9+ points of cushion keep cashing.",
+     "marketId": "742.195448886",
+     "selectionId": "12215007",
+     "eventId": 36244869,
+     "marketIdMD": "724.195587621"
+    }
+   ],
+   "reason": "Two home NFL teams with 10+ points of cushion in low-total games."
+  },
+  {
+   "name": "Patriots Home Cushion + Rams Bought-Down",
+   "odds": -242,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "New England Patriots +6.5",
+     "market": "Alternate Spread",
+     "odds": -480,
+     "sport": "NFL",
+     "event": "Green Bay Packers @ New England Patriots",
+     "start": "Sun 4:26 PM ET",
+     "reason": "NE is -3 at home and Green Bay is short-handed: Micah Parsons, Zaire Franklin, starting OL Rhyan and Glover all out. +6.5 is 9.5 points of cushion (A.J. Brown out for NE is the risk).",
+     "marketId": "742.195442667",
+     "selectionId": "15742395",
+     "eventId": 36244877,
+     "marketIdMD": "724.195581403"
+    },
+    {
+     "pick": "Los Angeles Rams +5.5",
+     "market": "Alternate Spread",
+     "odds": -590,
+     "sport": "NFL",
+     "event": "Los Angeles Rams @ Washington Commanders",
+     "start": "Sun 1:01 PM ET",
+     "reason": "Rams are -4.5 at 2-4-1 Washington, which is missing WRs Dyami Brown and Treylon Burks. +5.5 is 10 points of cushion: the Rams can lose by up to 5.",
+     "marketId": "742.195451315",
+     "selectionId": "12235568",
+     "eventId": 36244876,
+     "marketIdMD": "724.195590055"
+    }
+   ],
+   "reason": "Home favorite and road favorite, both bought 9.5-10 points off the main."
+  },
+  {
+   "name": "Cowboys Bought-Down + Lightning Road Ice",
+   "odds": -221,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Dallas Cowboys +5.5",
+     "market": "Alternate Spread",
+     "odds": -620,
+     "sport": "NFL",
+     "event": "Dallas Cowboys @ Indianapolis Colts",
+     "start": "Sun 1:01 PM ET",
+     "reason": "Dallas is -4.5 at 2-6 Indianapolis; +5.5 is 10 points of cushion. Colts are missing LB Davis-Gaither, CB Walley and S Haulcy.",
+     "marketId": "742.195451684",
+     "selectionId": "12290991",
+     "eventId": 36244868,
+     "marketIdMD": "724.195590421"
+    },
+    {
+     "pick": "Tampa Bay Lightning +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -400,
+     "sport": "NHL",
+     "event": "Tampa Bay Lightning @ Winnipeg Jets",
+     "start": "Sun 6:10 PM ET",
+     "reason": "TB is the -142 road favorite at Winnipeg; +1.5 covers any win or one-goal loss.",
+     "marketId": "742.196572455",
+     "selectionId": "7000420",
+     "eventId": 36291492,
+     "marketIdMD": "724.196711171"
+    }
+   ],
+   "reason": "Bought-down road favorite plus road NHL favorite at +1.5."
+  },
+  {
+   "name": "Hoops Bought-Down Hosts II",
+   "odds": -264,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "South Carolina -8.5",
+     "market": "Alternate Spread 6",
+     "odds": -560,
+     "sport": "NCAAB",
+     "event": "SE Missouri St @ South Carolina",
+     "start": "Sun 1:00 PM ET",
+     "reason": "SEC host is -17.5 vs SE Missouri State (ML -3500); -8.5 leaves 9 points of cushion. Bought-down home favorites with 9+ cushion went 3/3 Saturday.",
+     "marketId": "742.196611017",
+     "selectionId": "705560",
+     "eventId": 36293099
+    },
+    {
+     "pick": "Drake -4.5",
+     "market": "Alternate Spread 6",
+     "odds": -590,
+     "sport": "NCAAB",
+     "event": "Southern University @ Drake",
+     "start": "Sun 3:00 PM ET",
+     "reason": "Drake is -13.5 at home vs SWAC Southern (ML -1250); -4.5 leaves 9 points of cushion.",
+     "marketId": "742.196611708",
+     "selectionId": "735897",
+     "eventId": 36293113
+    }
+   ],
+   "reason": "Repeat of Saturday's winning pattern: big home favorites bought down 9 points."
   }
  ],
- "lottery": [],
+ "lottery": [
+  {
+   "name": "Best Shot $500K",
+   "odds": 1080,
+   "stake": 5,
+   "legs": [
+    {
+     "pick": "Houston -10.5",
+     "market": "Alternate Spread 1",
+     "odds": -490,
+     "sport": "NCAAB",
+     "event": "Houston @ California",
+     "start": "Sun 8:30 PM ET",
+     "reason": "Houston (ML -4500) is -19.5 at Cal; -10.5 gives 9 points of cushion for an elite defense.",
+     "marketId": "742.196612719",
+     "selectionId": "13123",
+     "eventId": 36293174
+    },
+    {
+     "pick": "William & Mary -3.5",
+     "market": "Alternate Spread 5",
+     "odds": -335,
+     "sport": "NCAAB",
+     "event": "Norfolk State @ William & Mary",
+     "start": "Sun 6:00 PM ET",
+     "reason": "W&M is -9.5 at home vs Norfolk State (ML -520); -3.5 leaves 6 points of cushion.",
+     "marketId": "742.196612432",
+     "selectionId": "4532870",
+     "eventId": 36293164
+    },
+    {
+     "pick": "St Thomas -2.5",
+     "market": "Alternate Spread 5",
+     "odds": -310,
+     "sport": "NCAAB",
+     "event": "Green Bay @ St Thomas",
+     "start": "Sun 2:00 PM ET",
+     "reason": "St Thomas is -8.5 at home vs Green Bay (ML -385); -2.5 leaves 6 points of cushion.",
+     "marketId": "742.196611333",
+     "selectionId": "50026764",
+     "eventId": 36293109
+    },
+    {
+     "pick": "Hawai'i -2.5",
+     "market": "Alternate Spread 5",
+     "odds": -290,
+     "sport": "NCAAB",
+     "event": "UT Arlington @ Hawai'i",
+     "start": "Sun 10:00 PM ET",
+     "reason": "Hawaii is -8.5 at home (ML -360) and UT Arlington makes the long trip; -2.5 leaves 6 points of cushion.",
+     "marketId": "742.196612966",
+     "selectionId": "42154131",
+     "eventId": 36293175
+    },
+    {
+     "pick": "Air Force ML (-0.5)",
+     "market": "Alternate Spread 5",
+     "odds": -295,
+     "sport": "NCAAB",
+     "event": "Idaho State @ Air Force",
+     "start": "Sun 3:00 PM ET",
+     "reason": "Air Force -6.5 at home at altitude vs Idaho State.",
+     "marketId": "742.196612030",
+     "selectionId": "704641",
+     "eventId": 36293112
+    },
+    {
+     "pick": "Western Michigan +0.5",
+     "market": "Alternate Spread 5",
+     "odds": -250,
+     "sport": "NCAAB",
+     "event": "Campbell @ Western Michigan",
+     "start": "Sun 2:00 PM ET",
+     "reason": "WMU -5.5 at home vs Campbell; needs a win.",
+     "marketId": "742.196609101",
+     "selectionId": "712832",
+     "eventId": 36293106
+    },
+    {
+     "pick": "Lehigh +0.5",
+     "market": "Alternate Spread 5",
+     "odds": -250,
+     "sport": "NCAAB",
+     "event": "Brown @ Lehigh",
+     "start": "Sun 2:00 PM ET",
+     "reason": "Lehigh -5.5 at home vs Brown; needs a win.",
+     "marketId": "742.196611237",
+     "selectionId": "707386",
+     "eventId": 36293108
+    },
+    {
+     "pick": "Pittsburgh +7.5",
+     "market": "Alternate Spread 1",
+     "odds": -450,
+     "sport": "NCAAB",
+     "event": "Pittsburgh @ Penn State",
+     "start": "Sun 8:00 PM ET",
+     "reason": "Pitt is -2.5 at Penn State; +7.5 is 10 points of cushion.",
+     "marketId": "742.196612617",
+     "selectionId": "284246",
+     "eventId": 36293171
+    },
+    {
+     "pick": "Philadelphia Flyers +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -310,
+     "sport": "NHL",
+     "event": "Philadelphia Flyers @ Calgary Flames",
+     "start": "Sun 7:10 PM ET",
+     "reason": "Road pick'em +1.5 (lessons: road +1.5 in a pick'em holds up; avoid the struggling-Calgary home side).",
+     "marketId": "742.196572204",
+     "selectionId": "7000415",
+     "eventId": 36291490,
+     "marketIdMD": "724.196710941"
+    }
+   ],
+   "reason": "Highest-probability legs left after the 2-leg card: home college favorites (mostly just needing to win), one 10-point road cushion plus one pick'em +1.5. Stops at 9 legs (four more home favorites are on a restricted FanDuel feed that cannot be parlayed): adding more would mean 60-65% legs, so it is far short of the $5K target."
+  }
+ ],
  "results": {
-  "updated": "Sun Nov 8, 2026 7:30 AM ET",
+  "updated": "Sun Nov 8, 2026 10:30 AM ET",
   "sources": "FanDuel PA public odds (event-page API, pulled at build); ESPN scoreboards (NCAAF/NCAAB/NHL/NBA 11/7); injury/availability reports (ESPN Thamel, SEC/Big Ten availability, CBS/DK UFC previews, MLSsoccer.com Decision Day scenarios); lessons.md",
   "totals": {
    "singles": {
@@ -157,7 +477,7 @@
    "parlays": {
     "won": 16,
     "lost": 31,
-    "pending": 5,
+    "pending": 11,
     "staked": 470,
     "profit": -102.43,
     "winPct": 34.0,
@@ -166,7 +486,7 @@
    "lottery": {
     "won": 1,
     "lost": 29,
-    "pending": 0,
+    "pending": 1,
     "staked": 150,
     "profit": -73.7,
     "winPct": 3.3,
@@ -175,7 +495,7 @@
    "overall": {
     "won": 42,
     "lost": 81,
-    "pending": 10,
+    "pending": 17,
     "staked": 1080,
     "profit": -124.53,
     "winPct": 34.1,
@@ -184,12 +504,12 @@
    "legs": {
     "hit": 559,
     "miss": 189,
-    "pending": 41,
+    "pending": 62,
     "void": 3
    },
    "won": 42,
    "lost": 81,
-   "pending": 10,
+   "pending": 17,
    "winPct": 34.1,
    "staked": 1080,
    "profit": -124.53,
@@ -207,7 +527,7 @@
   "parlays": {
    "won": 16,
    "lost": 31,
-   "pending": 5,
+   "pending": 11,
    "staked": 470,
    "profit": -102.43,
    "winPct": 34.0,
@@ -216,7 +536,7 @@
   "lottery": {
    "won": 1,
    "lost": 29,
-   "pending": 0,
+   "pending": 1,
    "staked": 150,
    "profit": -73.7,
    "winPct": 3.3,
@@ -7627,6 +7947,251 @@
      }
     ],
     "whyExplanation": "Pending \u2014 Sunday 2-leg special.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Bears Home Cushion + Devils Road Ice",
+    "odds": -220,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Chicago Bears +3.5",
+      "odds": -590,
+      "event": "Tampa Bay Buccaneers @ Chicago Bears",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "New Jersey Devils +1.5",
+      "odds": -410,
+      "event": "New Jersey Devils @ Toronto Maple Leafs",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Texans Bought-Down + Sabres Home Ice",
+    "odds": -162,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Houston Texans +4.5",
+      "odds": -520,
+      "event": "Houston Texans @ Los Angeles Chargers",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Buffalo Sabres +1.5",
+      "odds": -280,
+      "event": "Vegas Golden Knights @ Buffalo Sabres",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Eagles Big Home Cushion + Saints Home Cushion",
+    "odds": -241,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Philadelphia Eagles +13.5",
+      "odds": -560,
+      "event": "New York Giants @ Philadelphia Eagles",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "New Orleans Saints +6.5",
+      "odds": -500,
+      "event": "Cleveland Browns @ New Orleans Saints",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Patriots Home Cushion + Rams Bought-Down",
+    "odds": -242,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "New England Patriots +6.5",
+      "odds": -480,
+      "event": "Green Bay Packers @ New England Patriots",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Los Angeles Rams +5.5",
+      "odds": -590,
+      "event": "Los Angeles Rams @ Washington Commanders",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Cowboys Bought-Down + Lightning Road Ice",
+    "odds": -221,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Dallas Cowboys +5.5",
+      "odds": -620,
+      "event": "Dallas Cowboys @ Indianapolis Colts",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Tampa Bay Lightning +1.5",
+      "odds": -400,
+      "event": "Tampa Bay Lightning @ Winnipeg Jets",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Hoops Bought-Down Hosts II",
+    "odds": -264,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "South Carolina -8.5",
+      "odds": -560,
+      "event": "SE Missouri St @ South Carolina",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Drake -4.5",
+      "odds": -590,
+      "event": "Southern University @ Drake",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-08",
+    "run": "10:30 AM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": 1080,
+    "stake": 5,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Houston -10.5",
+      "odds": -490,
+      "event": "Houston @ California",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "William & Mary -3.5",
+      "odds": -335,
+      "event": "Norfolk State @ William & Mary",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "St Thomas -2.5",
+      "odds": -310,
+      "event": "Green Bay @ St Thomas",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Hawai'i -2.5",
+      "odds": -290,
+      "event": "UT Arlington @ Hawai'i",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Air Force ML (-0.5)",
+      "odds": -295,
+      "event": "Idaho State @ Air Force",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Western Michigan +0.5",
+      "odds": -250,
+      "event": "Campbell @ Western Michigan",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Lehigh +0.5",
+      "odds": -250,
+      "event": "Brown @ Lehigh",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Pittsburgh +7.5",
+      "odds": -450,
+      "event": "Pittsburgh @ Penn State",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Philadelphia Flyers +1.5",
+      "odds": -310,
+      "event": "Philadelphia Flyers @ Calgary Flames",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
     "lesson": ""
    }
   ],

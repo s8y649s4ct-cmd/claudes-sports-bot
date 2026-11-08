@@ -304,3 +304,12 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 2. Top-10 vs top-10 CFB favorites and double-digit CFB spreads in shootouts are not safe legs.
 3. Bought-down home favorites with 9+ points of cushion keep cashing (3/3).
 4. Soccer Over 2.5 fails when neither side has stakes; UFC -225 favorites are the ladder weak spot.
+
+## Sun Nov 8, 2026 10:30 AM ET run
+- Grading: nothing new settled since the 7:30 AM special (all pending tickets play today). Record unchanged: overall 42-81 (−$124.53 on $1,080); singles 25-21, parlays 16-31, lottery 1-29.
+### How lessons changed this card
+- Ferdinand's new 2-leg focus: six new 2-leg parlays, every NFL leg bought 9.5-10.5 points off the main (Bears +3.5, Texans +4.5, Eagles +13.5, Saints +6.5, Patriots +6.5, Rams +5.5, Cowboys +5.5), crossing 3 and 7 where possible.
+- "Bought-down home favorites with 9+ cushion" (3/3 Saturday) repeated: South Carolina -8.5, Drake -4.5.
+- NHL: no Calgary home +1.5 (struggling-home-club lesson) and no Toronto (back-to-back); used road favorites at +1.5 (Devils, Lightning), home pick'em +1.5 (Sabres), road pick'em +1.5 (Flyers).
+- No dog cushions on bad teams (Colts +14.5, Commanders +14.5 skipped); no singles because nothing at plus money had a real edge.
+- Restricted-feed college MLs (Vermont, Binghamton, UTEP, Dartmouth: canTurnInPlay=false) can't be parlayed; Best Shot stops at 9 legs, +1080 (~$59 on $5), far short of $5K.
