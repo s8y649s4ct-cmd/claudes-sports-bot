@@ -295,3 +295,12 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - **Saturday CFB Bought-Down (+411): WON** (+$41.10). Baylor -7.5 HIT (42-31 vs Iowa State, by 11), Utah -3.5 HIT (28-20), FSU -3.5 HIT (31-24). Buying healthy Power favorites down to a field goal or one score went 3/3.
 - **Texas -3.5 (+106): WON** (+$10.60). Texas 34, Missouri 20. Buying a road favorite down 1 point at plus money cashed.
 - Record now: see picks.json totals (overall 37-71).
+
+## Sun Nov 8, 2026 2-leg special (~7:30 AM ET): grading Saturday
+- WON: MSU +13.5, Arkansas +9.5, Iowa -3.5 (backup-QB fade), OU/UF Under 43.5, Hoops Bought-Down Hosts (3/3).
+- LOST: Home Ice (TOR lost by 2), CFB Bought-Down (TTU/HOU double-digit spreads in shootouts), Fri Best Shot (Ohio State -4.5 vs Oregon), College Locks (Dayton OT loss), NBA Big Cushions (WAS +14.5 at OKC, lost by 39), AF/Army Under, MLS Goals (SD-SKC 0-1), Night SEC Cushions (KY +14.5 lost by 28), Sat PM Best Shot 20/23 (UNLV +5.5, Austin O2.5, Nakamura), UFC ladder 8/9 (Degli).
+### Lessons
+1. No dog cushions vs OKC or for teams on a back-to-back.
+2. Top-10 vs top-10 CFB favorites and double-digit CFB spreads in shootouts are not safe legs.
+3. Bought-down home favorites with 9+ points of cushion keep cashing (3/3).
+4. Soccer Over 2.5 fails when neither side has stakes; UFC -225 favorites are the ladder weak spot.
