@@ -10,12 +10,14 @@ h1{font-size:1.25rem;margin:0}main{max-width:900px;margin:auto;padding:14px}h2{m
 .mut{color:var(--mut);font-size:.88rem}.btn{display:inline-block;background:var(--acc);color:#fff;text-decoration:none;padding:9px 14px;border-radius:8px;font-weight:600;margin-top:8px;border:0;cursor:pointer}
 #tg{background:var(--card);color:var(--fg);border:1px solid var(--bd)}ol{padding-left:20px}li{margin:6px 0}
 .hit{color:var(--ok)}.miss{color:var(--bad)}.pend{color:var(--mut)}details summary{cursor:pointer}.stat{display:inline-block;margin-right:16px}.w{color:var(--ok)}.l{color:var(--bad)}footer{padding:20px;text-align:center}
+.tw{overflow-x:auto;-webkit-overflow-scrolling:touch}table{width:100%;border-collapse:collapse;font-size:.92rem;margin-top:8px}th,td{padding:7px 8px;border-bottom:1px solid var(--bd);text-align:right;white-space:nowrap}th:first-child,td:first-child{text-align:left}th{color:var(--mut);font-weight:600}.kp{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0}.kp>div{flex:1 1 90px;background:var(--bg);border:1px solid var(--bd);border-radius:10px;padding:10px;text-align:center;color:var(--mut);font-size:.85rem}.big{display:block;font-size:1.5rem;font-weight:700;color:var(--fg)}.big.w{color:var(--ok)}.big.l{color:var(--bad)}.big.pend{color:var(--mut)}
 </style></head><body>
-<header><!-- v1530 --><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><span class="st" role="group" aria-label="Betting state"><button type="button" class="btn" data-s="PA" style="margin:0">PA</button><button type="button" class="btn" data-s="MD" style="margin:0 0 0 4px">MD</button></span></header>
+<header><!-- v1600 --><h1>Claude's Sports Bot</h1><button id="tg" class="btn" style="margin:0">☀️ Light</button><span class="st" role="group" aria-label="Betting state"><button type="button" class="btn" data-s="PA" style="margin:0">PA</button><button type="button" class="btn" data-s="MD" style="margin:0 0 0 4px">MD</button></span></header>
 <main><p class="mut" id="upd"></p>
 <h2>Single Legs (+100 or longer)</h2><div id="singles"></div>
 <h2>Parlays</h2><div id="parlays"></div>
 <h2>Sport Lottery (+1000 or longer, up to 25 legs)</h2><div id="lottery"></div>
+<h2 id="alltime-h">All-Time Record</h2><div id="alltime"></div>
 <h2 id="record">Record &amp; Lessons</h2><div class="card" id="results"></div><div id="lessons"></div><div id="hist"></div>
 <div class="card mut">Picks are research, not guarantees. No model can be 100% accurate, and long parlays lose most of the time. Only bet what you can afford to lose. 21+. Gambling problem? Call <b>1-800-GAMBLER</b>. Buttons open FanDuel Sportsbook and add the legs to your bet slip; you set the stake and confirm. If a FanDuel ID couldn't be verified, the button opens the game page instead.</div>
 </main><footer class="mut">Claude's Sports Bot</footer>
@@ -44,9 +46,40 @@ fetch('picks.json?'+Date.now()).then(x=>x.json()).then(d=>{
  const s=(k,lab)=>{const o=T[k]||{};return `<div class="stat"><b>${lab}</b>: <span class="w">${o.won||0}W</span>-<span class="l">${o.lost||0}L</span>${o.pending?` (${o.pending} pending)`:''} · ${o.winPct??'–'}% · <span class="${(o.profit||0)>=0?'w':'l'}">${money(o.profit)}</span></div>`};
  const lg=T.legs||{};
  results.innerHTML=s('overall','Overall')+s('singles','Singles')+s('parlays','Parlays')+s('lottery','Lottery')+`<div class="mut">Individual legs: ${lg.hit||0} hit · ${lg.miss||0} miss · ${lg.pending||0} pending${lg.void?' · '+lg.void+' void (postponed)':''}. Profit assumes the listed stakes (singles tracked at $10). ${e(R.updated?'Graded '+R.updated:'')}${R.sources?' · Sources: '+e(R.sources):''}</div>`;
+ try{renderRecord(R)}catch(x){console.error(x)}
  lessons.innerHTML=(R.topLessons||[]).length?`<div class="card"><b>What I learned</b><ol>${R.topLessons.map(x=>`<li>${e(x)}</li>`).join('')}</ol></div>`:'';
  const H=(R.history||[]).slice().reverse(),cls=r=>r==='won'||r==='hit'?'hit':r==='lost'||r==='miss'?'miss':'pend',ic=r=>r==='hit'?'✅':r==='miss'?'❌':r==='void'?'➖':'⏳';
  const multi2=H.filter(h=>h.type!=='single'),sing=H.filter(h=>h.type==='single');
  hist.innerHTML=(multi2.map(h=>`<div class="card"><div class="row"><b>${e(h.name)}</b><span><span class="${cls(h.result)}">${e(String(h.result).toUpperCase())}</span> · ${fmt(h.odds)} · $${e(h.stake)} · <span class="${h.profit>=0?'w':'l'}">${money(h.profit)}</span></span></div><div class="mut">${e(h.date)} · ${e(h.run)} run · ${e(h.type)} · ${(h.legs||[]).filter(x=>x.result==='hit').length}/${(h.legs||[]).length} legs hit</div><p><b>Why:</b> ${e(h.whyExplanation)}</p><p><b>Lesson:</b> ${e(h.lesson)}</p><details><summary>Legs</summary><ol>${(h.legs||[]).map(x=>`<li class="${cls(x.result)}">${ic(x.result)} ${e(x.pick)} ${fmt(x.odds)} <span class="mut">— ${e(x.actual)}</span></li>`).join('')}</ol></details></div>`).join('')+(sing.length?`<div class="card"><b>Singles</b><ol>${sing.map(h=>`<li><span class="${cls(h.result)}">${ic(h.result==='won'?'hit':h.result==='lost'?'miss':'')} ${e(h.name)}</span> ${fmt(h.odds)} <span class="mut">${e(h.date)} ${e(h.run)} · ${e(h.legs?.[0]?.actual)} · ${money(h.profit)}</span><div class="mut">${e(h.lesson)}</div></li>`).join('')}</ol></div>`:''))||'<p class="mut">No graded picks yet.</p>';
 }).catch(()=>singles.innerHTML='<div class="card">Could not load picks.</div>');
-</script></body></html>
+</script><script>
+/* All-time record: computed live from picks.json results.history */
+const TEN=/Zverev|Lehecka|Berrettini|de Minaur|Struff|Fernandez v|Shnaider|Basavareddy|Shevchenko|Shelton|Ruud|Michelsen|Gea\b|\bset\b/i;
+const CFL=/Roughriders|BC Lions|British Columbia Lions|Blue Bombers|Argonauts|Alouettes|Tiger-Cats|Redblacks|Stampeders|Elks/;
+const NBAt=/(Hawks|Celtics|Nets|Hornets|Bulls|Cavaliers|Mavericks|Nuggets|Pistons|Warriors|Rockets|Pacers|Clippers|Lakers|Grizzlies|Heat|Bucks|Timberwolves|Pelicans|Knicks|Thunder|Magic|76ers|Suns|Trail Blazers|Sacramento Kings|Spurs|Raptors|Jazz|Wizards)$/;
+const NHLt=/(Ducks|Bruins|Sabres|Flames|Hurricanes|Blackhawks|Avalanche|Blue Jackets|Stars|Red Wings|Oilers|Florida Panthers|Los Angeles Kings|Wild|Canadiens|Predators|Devils|Islanders|Rangers|Senators|Flyers|Penguins|Sharks|Kraken|Blues|Lightning|Maple Leafs|Mammoth|Canucks|Golden Knights|Capitals|Winnipeg Jets)$/;
+const NFLt=/(Cardinals|Falcons|Ravens|Bills|Carolina Panthers|Bears|Bengals|Browns|Cowboys|Broncos|Detroit Lions|Packers|Texans|Colts|Jaguars|Chiefs|Raiders|Chargers|Rams|Dolphins|Vikings|Patriots|Saints|Giants|New York Jets|Eagles|Steelers|49ers|Seahawks|Buccaneers|Titans|Commanders)$/;
+function sportOf(l){const ev=l.event||'',p=l.pick||'';
+ if(/NBB/.test(p))return 'Other';
+ if(/ v /.test(ev)){if(TEN.test(ev+' '+p))return 'Tennis';
+  const ppl=ev.split(' v ').every(s=>/^[A-Z][\w'.-]+( [A-Z][\w'.-]+){1,2}$/.test(s.trim()));
+  if(/Fight|Distance/.test(p)||ppl&&!/Goals|Draw|score|90 min|FC|Utd|City|Munich|Madrid|Bielefeld|Glimt|Timbers|Dynamo|Brom|Athens|Zvezda/.test(ev+p))return 'UFC';return 'Soccer'}
+ if(/ @ /.test(ev)){const t=ev.split(' @ ').map(s=>s.trim());
+  if(CFL.test(ev))return 'CFL';if(t.some(x=>NHLt.test(x)))return 'NHL';if(t.some(x=>NFLt.test(x)))return 'NFL';if(t.some(x=>NBAt.test(x)))return 'NBA';
+  if(/Aguilas|Yaquis|Naranjeros|Mayos|Caneros|Algodoneros/.test(ev))return 'Other';return 'College'}
+ return 'Other'}
+function renderRecord(R){const H=R.history||[],el=document.getElementById('alltime');if(!el)return;
+ const m=v=>(v<0?'−$':'$')+Math.abs(v||0).toFixed(2),pc=(w,l)=>w+l?(100*w/(w+l)).toFixed(1)+'%':'–',sg=v=>`<span class="${v>=0?'w':'l'}">${v>=0?'+':''}${m(v)}</span>`;
+ const L={hit:0,miss:0,void:0,pending:0},bs={};H.forEach(h=>(h.legs||[]).forEach(x=>{const r=x.result in L?x.result:'pending';L[r]++;const s=sportOf(x);(bs[s]=bs[s]||{hit:0,miss:0,void:0,pending:0})[r]++}));
+ const tk=f=>{const a=H.filter(f),o={n:a.length,w:0,l:0,p:0,st:0,pr:0};a.forEach(h=>{if(h.result==='won')o.w++;else if(h.result==='lost')o.l++;else o.p++;if(h.result==='won'||h.result==='lost'){o.st+=+h.stake||0;o.pr+=+h.profit||0}});return o};
+ const isBS=h=>/best shot/i.test(h.name||'');
+ const rows=[['Overall',tk(()=>1)],['Singles',tk(h=>h.type==='single')],['Parlays',tk(h=>h.type==='parlay')],['Lottery (all)',tk(h=>h.type==='lottery')],['↳ Best Shot',tk(h=>h.type==='lottery'&&isBS(h))],['↳ Other lottery',tk(h=>h.type==='lottery'&&!isBS(h))]];
+ const runs={};H.forEach(h=>{const k=h.date+'|'+h.run;const o=runs[k]=runs[k]||{d:h.date,r:h.run,w:0,l:0,p:0,st:0,pr:0,lh:0,lm:0};if(h.result==='won')o.w++;else if(h.result==='lost')o.l++;else o.p++;if(h.result!=='pending'){o.st+=+h.stake||0;o.pr+=+h.profit||0}(h.legs||[]).forEach(x=>{if(x.result==='hit')o.lh++;else if(x.result==='miss')o.lm++})});
+ let cum=0;const RR=Object.values(runs).sort((a,b)=>(a.d+(a.r.includes('AM')?'0':'1')).localeCompare(b.d+(b.r.includes('AM')?'0':'1'))).map(o=>(cum+=o.pr,{...o,cum}));
+ const first=RR[0]?.d||'';
+ el.innerHTML=`<div class="card"><b>Legs since ${e(first)}</b><div class="kp"><div><span class="big w">${L.hit}</span>won</div><div><span class="big l">${L.miss}</span>lost</div><div><span class="big">${L.void}</span>push/void</div><div><span class="big pend">${L.pending}</span>pending</div><div><span class="big">${pc(L.hit,L.miss)}</span>hit rate</div></div>
+ <div class="tw"><table><thead><tr><th>Sport</th><th>Won</th><th>Lost</th><th>Void</th><th>Pend</th><th>Hit %</th></tr></thead><tbody>${Object.entries(bs).sort((a,b)=>(b[1].hit+b[1].miss)-(a[1].hit+a[1].miss)).map(([s,o])=>`<tr><td>${s}</td><td class="w">${o.hit}</td><td class="l">${o.miss}</td><td>${o.void}</td><td>${o.pending}</td><td>${pc(o.hit,o.miss)}</td></tr>`).join('')}</tbody></table></div><div class="mut">Sport is inferred from team/event names in the history. Hit rate excludes voids and pending legs.</div></div>
+ <div class="card"><b>Tickets</b><div class="tw"><table><thead><tr><th>Type</th><th>W-L</th><th>Pend</th><th>Win %</th><th>Staked*</th><th>Net</th><th>ROI</th></tr></thead><tbody>${rows.map(([n,o])=>`<tr${n==='Overall'?' style="font-weight:700"':''}><td>${n}</td><td><span class="w">${o.w}</span>-<span class="l">${o.l}</span></td><td>${o.p}</td><td>${pc(o.w,o.l)}</td><td>${m(o.st)}</td><td>${sg(o.pr)}</td><td>${o.st?(100*o.pr/o.st).toFixed(1)+'%':'–'}</td></tr>`).join('')}</tbody></table></div><div class="mut">*Staked counts settled tickets only, at the listed stakes.</div></div>
+ <details class="card"><summary><b>By run</b> (${RR.length} runs)</summary><div class="tw"><table><thead><tr><th>Date</th><th>Run</th><th>Tickets W-L</th><th>Legs</th><th>Net</th><th>Running</th></tr></thead><tbody>${RR.slice().reverse().map(o=>`<tr><td>${e(o.d.slice(5))}</td><td>${e(o.r)}</td><td><span class="w">${o.w}</span>-<span class="l">${o.l}</span>${o.p?` <span class="pend">(${o.p}⏳)</span>`:''}</td><td>${o.lh}/${o.lh+o.lm}</td><td>${sg(o.pr)}</td><td>${sg(o.cum)}</td></tr>`).join('')}</tbody></table></div></details>`}
+</script>
+</body></html>
