@@ -313,3 +313,21 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - NHL: no Calgary home +1.5 (struggling-home-club lesson) and no Toronto (back-to-back); used road favorites at +1.5 (Devils, Lightning), home pick'em +1.5 (Sabres), road pick'em +1.5 (Flyers).
 - No dog cushions on bad teams (Colts +14.5, Commanders +14.5 skipped); no singles because nothing at plus money had a real edge.
 - Restricted-feed college MLs (Vermont, Binghamton, UTEP, Dartmouth: canTurnInPlay=false) can't be parlayed; Best Shot stops at 9 legs, +1080 (~$59 on $5), far short of $5K.
+
+## Mon Nov 9, 2026 10:30 AM ET run: grading Sunday Nov 8 (ESPN finals)
+### Grades
+- WON (2-leg): Sixers +1.5 / Bruins +1.5, Celtics -2.5 / Ducks +1.5, Heat +1.5 / Jazz +21.5, Bears +3.5 / Devils +1.5, Eagles +13.5 / Saints +6.5, Cowboys +5.5 / Lightning +1.5, South Carolina -8.5 / Drake -4.5. Single Broncos -3.5 (+116) WON (26-21).
+- LOST: Nets +18.5 / Pelicans +10.5 (BKN by 37, NOP by 16), Texans +4.5 / Sabres +1.5 (BUF lost 4-1 at home), Patriots +6.5 / Rams +5.5 (GB 45-27 at NE). Singles Jets +8.5 (KC 35-12), Raiders +7.5 and +6.5 (SF 38-17), Cardinals +7.5 (SEA 17-3). Sunday Cushions + Utah lost on Cardinals +7.5. Best Shot 7/9: St Thomas -2.5 (lost by 9) and Lehigh +0.5 (lost by 10) missed.
+- Record: overall 50-90 (-$162.44 on $1,245). Singles 26-25, parlays 23-35, lottery 1-30. 2-leg parlays were 7-3 Sunday.
+### New lessons
+1. Dog cushions on bad teams fail across sports: Jets, Raiders, Cardinals, Nets and Pelicans all lost by 14+. Only take points with a team that is the favorite or clearly the better side.
+2. Bought-down favorites with 9-10 points of cushion: NFL road favorites 4/4 (DAL, LAR, HOU, DET), college home favorites 5/5 (SC, Drake, Houston, W&M, Hawaii).
+3. NHL home pick'em +1.5 lost (Sabres vs Vegas). Use +1.5 only on the favorite; road favorites at +1.5 keep covering (NJ, TB).
+4. Mid-major short favorites (-385 to -520) lost outright again (St Thomas, Lehigh); keep them out of tickets.
+5. A bought-down home favorite must actually be the better team (Patriots -3 vs Green Bay lost by 18).
+### How lessons changed today's card
+- Every 2-leg parlay leg is a favorite or the better team with 8-12 points (or 1.5 goals) of cushion: Bills +6.5 vs backup QB Wentz, Spurs/Cavs/Warriors/Pistons +1.5, Islanders and Oilers +1.5, college hosts bought 8-9 down.
+- No dog cushions anywhere. No NHL pick'em +1.5; Canucks +1.5 only because Philadelphia is on a back-to-back.
+- Back-to-back fades: Warriors +1.5 vs a Pelicans team that played last night; Pistons (also on a back-to-back) get +1.5 instead of a minus line.
+- No mid-major short favorites; Bowling Green and Columbia only as -1100/-1200 moneylines in the Best Shot.
+- Best Shot stops at 12 legs, +1260 (about $68 on $5). Reaching $5K would need 60-65% legs.
