@@ -20,6 +20,11 @@ for f in glob.glob('/workspace/kfsp/.cache/*')+sorted(glob.glob('/workspace/*.js
 if need-set(info):
   for pg in ['nba','nhl','ncaaf','nfl','soccer','tennis','ncaab','mlb']:
     scan(get(f'https://sbapi.pa.sportsbook.fanduel.com/api/content-managed-page?page=CUSTOM&customPageId={pg}&_ak={K}&timezone=America/New_York'))
+if need-set(info):   # leftovers (alt spreads/totals, tennis): fetch PA event pages by the leg's eventId
+  for e in {l['eventId'] for l in legs if l.get('eventId') and l.get('marketId') not in info}:
+    for tab in ['','popular','alternates']:
+      scan(get(f'https://sbapi.pa.sportsbook.fanduel.com/api/event-page?_ak={K}&eventId={e}'+(f'&tab={tab}' if tab else '')))
+      if not (need-set(info)): break
 # event pages on PA for leftovers need eventIds; take them from MD tabs below
 evs={}
 for m in info.values(): evs.setdefault(m['eventId'],set())
