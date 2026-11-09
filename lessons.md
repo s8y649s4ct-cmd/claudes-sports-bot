@@ -331,3 +331,15 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - Back-to-back fades: Warriors +1.5 vs a Pelicans team that played last night; Pistons (also on a back-to-back) get +1.5 instead of a minus line.
 - No mid-major short favorites; Bowling Green and Columbia only as -1100/-1200 moneylines in the Best Shot.
 - Best Shot stops at 12 legs, +1260 (about $68 on $5). Reaching $5K would need 60-65% legs.
+
+## Mon Nov 9, 2026 3:00 PM ET run
+- Grading: nothing new settled since 10:30 AM. Every morning ticket plays tonight (first leg 6:00 PM ET). Record unchanged: overall 50-90 (-$162.44 on $1,245); singles 26-25, parlays 23-35, lottery 1-30. 13 tickets pending.
+### How lessons changed this card
+- The morning card used 8 of 10 NBA games, all 3 NHL games, MNF and 19 college games, and we don't repeat events. That left 2 NBA games and about 10 usable college games.
+- Bought-down home favorites with 8-9 points of cushion (5/5 Sunday): Texas -28.5, Tennessee -21.5, UConn -30.5, Northwestern -5.5, UAB -9.5, Miami -28.5. Seton Hall +4.5 (home favorite, 9 of cushion).
+- Back-to-back handling: Dallas is on a back-to-back but at home with no travel, so it gets +5.5 (9 of cushion) instead of the spread. Lakers-Hawks skipped as a side: Luka returns for the 9-2 Lakers, so Atlanta is not clearly the better team (no cushions unless it's the favorite and the better side). Used the total with 9 points of cushion instead.
+- Georgia's -13.5 alt was rejected after early-season tape (won by only 14 and 16 vs weak teams); moneyline only.
+- No mid-major short favorites (Penn -260, Towson -330, Hawaii -385 skipped). No restricted feeds (UMKC/Jacksonville, Coastal, women's games). No singles: nothing at plus money had a real edge.
+- Best Shot: with no repeated events, the leftovers price at only -125. Even every afternoon leg combined would be about +950. Ferdinand prefers falling short over coin-flip padding, so it stays short.
+### New lesson
+1. When the morning card uses most of the evening slate, the 3 PM Best Shot can't reach +1000 without repeating events. Plan the split at 10:30 AM: hold back a few high-probability evening legs for the 3 PM Best Shot, or build one day-long Best Shot in the morning.

@@ -1,402 +1,227 @@
 {
- "updated": "Mon Nov 9, 2026 10:30 AM ET",
- "run": "Monday 10:30 AM: Sunday graded (2-leg parlays went 7-3). Seven new 2-leg parlays, every leg 8-12 points or 1.5 goals beyond the main, plus a 12-leg Best Shot. No singles cleared the edge bar.",
+ "updated": "Mon Nov 9, 2026 3:00 PM ET",
+ "run": "Monday 3:00 PM: nothing new settled (the whole 10:30 AM card plays tonight). Four new 2-leg parlays from the events the morning card did not use, every leg 8-9 points beyond the main, plus a short Best Shot. No singles cleared the edge bar. The morning tickets are still live; see the record below.",
  "singles": [],
  "parlays": [
   {
-   "name": "Bills Bought-Down + Spurs Cushion",
-   "odds": -188,
+   "name": "Longhorns + Vols Bought-Down Hosts",
+   "odds": -184,
    "stake": 10,
    "legs": [
     {
-     "pick": "Buffalo Bills +6.5",
-     "market": "Alternate Spread",
-     "odds": -500,
-     "sport": "NFL",
-     "event": "Buffalo Bills @ Minnesota Vikings",
-     "start": "Mon 8:16 PM ET",
-     "reason": "Buffalo is -3 at Minnesota, and the Vikings start backup QB Carson Wentz (Kyler Murray out, plus RB Claiborne and WR Jennings out). +6.5 is 9.5 points off the main and crosses 3 and 4: the Bills only lose this leg if the Wentz-led Vikings win by 7+. Fade-the-backup-QB and bought-down NFL road favorites (4/4 Sunday) both point here.",
-     "marketId": "742.195450832",
-     "selectionId": "12213280",
-     "eventId": 36244880,
-     "marketIdMD": "724.195589570"
+     "pick": "Texas -28.5",
+     "market": "Alternate Spread 6",
+     "odds": -380,
+     "sport": "NCAAB",
+     "event": "Grambling @ Texas",
+     "start": "Mon 7:00 PM ET",
+     "reason": "Texas is -37.5 at home vs Grambling (ML -100000) and has won its first two games by 50 (Chicago State) and 48 (Gardner-Webb). -28.5 leaves 9 points of cushion against a SWAC team.",
+     "marketId": "742.196762411",
+     "selectionId": "332193",
+     "eventId": 36297648
     },
     {
-     "pick": "San Antonio Spurs +1.5",
-     "market": "Alternate Spread",
-     "odds": -360,
-     "sport": "NBA",
-     "event": "San Antonio Spurs @ Phoenix Suns",
-     "start": "Mon 9:10 PM ET",
-     "reason": "Spurs (8-2) are -8.5 at 3-5 Phoenix, which is missing Mark Williams and Jordan Goodwin. +1.5 gives 10 points of cushion; San Antonio only fails if it loses by 2+.",
-     "marketId": "742.196700814",
-     "selectionId": "7890823",
-     "eventId": 36290201,
-     "marketIdMD": "724.196839554"
+     "pick": "Tennessee -21.5",
+     "market": "Alternate Spread 6",
+     "odds": -450,
+     "sport": "NCAAB",
+     "event": "Radford @ Tennessee",
+     "start": "Mon 7:00 PM ET",
+     "reason": "Tennessee is -30.5 at home vs Radford (ML -100000); the Vols beat Wofford by 31, and Radford already lost by 14 at San Francisco and by 14 at Cal. -21.5 leaves 9 points of cushion.",
+     "marketId": "742.196762737",
+     "selectionId": "366629",
+     "eventId": 36297645
     }
    ],
-   "reason": "Two good teams bought 9.5-10 points off the main against weaker or short-handed opponents."
+   "reason": "Two elite home favorites bought 9 points off huge main spreads; both have been winning openers by 30-50."
   },
   {
-   "name": "Islanders Road Ice + Cavs Cushion",
-   "odds": -154,
+   "name": "Huskies + Wildcats Bought-Down Hosts",
+   "odds": -201,
    "stake": 10,
    "legs": [
     {
-     "pick": "New York Islanders +1.5",
-     "market": "Alternate Puck Line",
+     "pick": "UConn -30.5",
+     "market": "Alternate Spread 6",
      "odds": -370,
-     "sport": "NHL",
-     "event": "New York Islanders @ San Jose Sharks",
-     "start": "Mon 10:10 PM ET",
-     "reason": "NYI is the -142 road favorite at San Jose; +1.5 covers any Islanders win or one-goal loss. Road favorites at +1.5 keep cashing (TB lost by 1 Sunday and still covered).",
-     "marketId": "742.196706524",
-     "selectionId": "7745647",
-     "eventId": 36296139,
-     "marketIdMD": "724.196845265"
-    },
-    {
-     "pick": "Cleveland Cavaliers +1.5",
-     "market": "Alternate Spread",
-     "odds": -335,
-     "sport": "NBA",
-     "event": "Cleveland Cavaliers @ Charlotte Hornets",
-     "start": "Mon 7:10 PM ET",
-     "reason": "Cleveland is -8.5 at Charlotte; +1.5 is 10 points of cushion for the better team.",
-     "marketId": "742.196699947",
-     "selectionId": "7888712",
-     "eventId": 36290200,
-     "marketIdMD": "724.196838681"
-    }
-   ],
-   "reason": "Road NHL favorite at +1.5 plus an NBA favorite bought 10 points down."
-  },
-  {
-   "name": "Oilers Home Ice + Warriors Cushion",
-   "odds": -185,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Edmonton Oilers +1.5",
-     "market": "Alternate Puck Line",
-     "odds": -450,
-     "sport": "NHL",
-     "event": "New York Rangers @ Edmonton Oilers",
-     "start": "Mon 8:10 PM ET",
-     "reason": "Edmonton is the -156 home favorite vs the Rangers; +1.5 means the Oilers only lose this leg if they lose by 2+ at home. Lesson: use +1.5 on the better team or the favorite, not a pick'em home side.",
-     "marketId": "742.196706627",
-     "selectionId": "7000407",
-     "eventId": 36296137,
-     "marketIdMD": "724.196845363"
-    },
-    {
-     "pick": "Golden State Warriors +1.5",
-     "market": "Alternate Spread",
-     "odds": -385,
-     "sport": "NBA",
-     "event": "New Orleans Pelicans @ Golden State Warriors",
-     "start": "Mon 10:10 PM ET",
-     "reason": "Warriors are -9.5 at home and New Orleans is on the second night of a back-to-back after losing by 16 at the Clippers Sunday. Golden State is short-handed (Butler, Porzingis, Moody, Richard out), which is why we take 11 points of cushion instead of the spread.",
-     "marketId": "742.196699789",
-     "selectionId": "7889087",
-     "eventId": 36290202,
-     "marketIdMD": "724.196838526"
-    }
-   ],
-   "reason": "Home favorite +1.5 in hockey plus a home NBA favorite bought 11 points down against a tired team."
-  },
-  {
-   "name": "Pistons Cushion + Buckeyes Bought-Down",
-   "odds": -206,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Detroit Pistons +1.5",
-     "market": "Alternate Spread",
-     "odds": -500,
-     "sport": "NBA",
-     "event": "Washington Wizards @ Detroit Pistons",
-     "start": "Mon 7:10 PM ET",
-     "reason": "Detroit (6-3) is -10.5 at home vs 4-6 Washington, which is missing Watkins, Vukcevic, Beekman and Champagnie. Detroit is on a back-to-back, so we take +1.5 (12 points of cushion) rather than a bought-down minus line.",
-     "marketId": "742.196700040",
-     "selectionId": "7890344",
-     "eventId": 36290198,
-     "marketIdMD": "724.196838778"
-    },
-    {
-     "pick": "Ohio State -16.5",
-     "market": "Alternate Spread 6",
-     "odds": -420,
      "sport": "NCAAB",
-     "event": "Marshall @ Ohio State",
-     "start": "Mon 6:00 PM ET",
-     "reason": "Ohio State is -25.5 at home vs Marshall (ML -20000); -16.5 leaves 9 points of cushion. Bought-down home favorites with 9+ cushion are 5/5.",
-     "marketId": "742.196745135",
-     "selectionId": "284245",
-     "eventId": 36297638
-    }
-   ],
-   "reason": "Home NBA favorite with 12 points of cushion plus a big college home favorite bought 9 points down."
-  },
-  {
-   "name": "Sooners + Tigers Bought-Down Hosts",
-   "odds": -194,
-   "stake": 10,
-   "legs": [
+     "event": "Wagner @ Connecticut",
+     "start": "Mon 7:00 PM ET",
+     "reason": "UConn is -39.5 at home vs Wagner (ML -100000). UConn beat Gardner-Webb by 40 and won at Michigan; Wagner lost by 26 at Boston College and by 26 at Miami. -30.5 leaves 9 points of cushion.",
+     "marketId": "742.196763034",
+     "selectionId": "332194",
+     "eventId": 36297665
+    },
     {
-     "pick": "Oklahoma -18.5",
+     "pick": "Northwestern -5.5",
      "market": "Alternate Spread 6",
-     "odds": -450,
+     "odds": -560,
      "sport": "NCAAB",
-     "event": "North Alabama @ Oklahoma",
+     "event": "Boston University @ Northwestern",
      "start": "Mon 8:00 PM ET",
-     "reason": "Oklahoma is -27.5 at home vs North Alabama (ML -50000); -18.5 leaves 9 points of cushion.",
-     "marketId": "742.196740210",
-     "selectionId": "332191",
-     "eventId": 36297540
-    },
-    {
-     "pick": "Auburn -15.5",
-     "market": "Alternate Spread 6",
-     "odds": -415,
-     "sport": "NCAAB",
-     "event": "Appalachian State @ Auburn",
-     "start": "Mon 9:00 PM ET",
-     "reason": "Auburn is -23.5 at home vs App State (ML -10000); -15.5 leaves 8 points of cushion.",
-     "marketId": "742.196741225",
-     "selectionId": "356182",
-     "eventId": 36297581
+     "reason": "Northwestern is -14.5 at home vs Boston University (ML -1600) after wins by 26 and 13. -5.5 leaves 9 points of cushion for the Big Ten host over a Patriot League visitor.",
+     "marketId": "742.196768712",
+     "selectionId": "715472",
+     "eventId": 36297560
     }
    ],
-   "reason": "Two SEC hosts bought 8-9 points off huge main spreads."
+   "reason": "A national-title-level host and a Big Ten host, each bought 9 points down."
   },
   {
-   "name": "Flames + Tigers Bought-Down Hosts",
-   "odds": -206,
+   "name": "Blazers + Pirates Home Cushions",
+   "odds": -202,
    "stake": 10,
    "legs": [
     {
-     "pick": "UIC -10.5",
-     "market": "Alternate Spread 6",
-     "odds": -500,
-     "sport": "NCAAB",
-     "event": "UNC Greensboro @ UIC",
-     "start": "Mon 7:00 PM ET",
-     "reason": "UIC is -19.5 at home vs UNC Greensboro (ML -4500); -10.5 leaves 9 points of cushion.",
-     "marketId": "742.196748002",
-     "selectionId": "42324447",
-     "eventId": 36297671
-    },
-    {
-     "pick": "Clemson -13.5",
-     "market": "Alternate Spread 6",
-     "odds": -420,
-     "sport": "NCAAB",
-     "event": "North Dakota @ Clemson",
-     "start": "Mon 7:00 PM ET",
-     "reason": "Clemson is -21.5 at home vs North Dakota (ML -10000); -13.5 leaves 8 points of cushion.",
-     "marketId": "742.196740291",
-     "selectionId": "671869",
-     "eventId": 36297656
-    }
-   ],
-   "reason": "Two home favorites bought 8-9 points down."
-  },
-  {
-   "name": "West Coast Bought-Down Hosts",
-   "odds": -240,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Stanford -9.5",
+     "pick": "UAB -9.5",
      "market": "Alternate Spread 6",
      "odds": -520,
      "sport": "NCAAB",
-     "event": "Rice @ Stanford",
-     "start": "Mon 10:00 PM ET",
-     "reason": "Stanford is -18.5 at home vs Rice (ML -4000); -9.5 leaves 9 points of cushion.",
-     "marketId": "742.196740870",
-     "selectionId": "29831",
-     "eventId": 36297628
+     "event": "Florida A&M @ UAB",
+     "start": "Mon 7:30 PM ET",
+     "reason": "UAB is -18.5 at home vs Florida A&M (ML -4000). FAMU lost by 43 at Florida State and lost at home to Division II Fort Valley State. -9.5 leaves 9 points of cushion.",
+     "marketId": "742.196768490",
+     "selectionId": "715471",
+     "eventId": 36297535
     },
     {
-     "pick": "Oregon State -7.5",
+     "pick": "Seton Hall +4.5",
      "market": "Alternate Spread 6",
-     "odds": -530,
+     "odds": -395,
      "sport": "NCAAB",
-     "event": "Eastern Washington @ Oregon State",
-     "start": "Mon 9:30 PM ET",
-     "reason": "Oregon State is -16.5 at home vs Eastern Washington (ML -2800); -7.5 leaves 9 points of cushion.",
-     "marketId": "742.196748417",
-     "selectionId": "697700",
-     "eventId": 36297585
+     "event": "Charlotte @ Seton Hall",
+     "start": "Mon 9:00 PM ET",
+     "reason": "Seton Hall is the -205 home favorite (-4.5) vs Charlotte and is 2-0 (beat Saint Peter's by 24). +4.5 gives 9 points of cushion: the Pirates only fail by losing at home by 5+. Better team, home, favorite: the profile that has kept cashing.",
+     "marketId": "742.196753879",
+     "selectionId": "696997",
+     "eventId": 36297591
     }
    ],
-   "reason": "Two late home favorites bought 9 points down."
+   "reason": "A big home favorite bought 9 down plus a Big East home favorite moved to +4.5."
+  },
+  {
+   "name": "Mavs Cushion + Hurricanes Bought-Down",
+   "odds": -146,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Dallas Mavericks +5.5",
+     "market": "Alternate Spread",
+     "odds": -300,
+     "sport": "NBA",
+     "event": "Indiana Pacers @ Dallas Mavericks",
+     "start": "Mon 8:10 PM ET",
+     "reason": "Dallas (6-4) is -3.5 at home vs 3-7 Indiana, which is without Tyrese Haliburton, Sheppard and Furphy (McConnell questionable). Kyrie Irving and Cooper Flagg are both off the injury report. Dallas is on a back-to-back but played at home last night (no travel, beat Brooklyn by 37 with starters resting in the 4th). That back-to-back is why we take +5.5 (9 points of cushion) instead of the spread.",
+     "marketId": "742.196700563",
+     "selectionId": "7891382",
+     "eventId": 36290199,
+     "marketIdMD": "724.196839303"
+    },
+    {
+     "pick": "Miami -28.5",
+     "market": "Alternate Spread 6",
+     "odds": -380,
+     "sport": "NCAAB",
+     "event": "North Florida @ Miami",
+     "start": "Mon 7:00 PM ET",
+     "reason": "Miami is -36.5 at home vs North Florida (ML -100000). UNF lost by 51 at UCLA; Miami beat Wagner by 26. -28.5 leaves 8 points of cushion, and FanDuel prices Miami's team total at 100.5.",
+     "marketId": "742.196765917",
+     "selectionId": "13109",
+     "eventId": 36297682
+    }
+   ],
+   "reason": "Better NBA team at home with 9 points of cushion, plus a big college host bought 8 points down."
   }
  ],
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": 1260,
+   "odds": -125,
    "stake": 5,
    "legs": [
     {
-     "pick": "Notre Dame -20.5",
-     "market": "Alternate Spread 6",
-     "odds": -395,
-     "sport": "NCAAB",
-     "event": "Eastern Illinois @ Notre Dame",
-     "start": "Mon 7:00 PM ET",
-     "reason": "Notre Dame is -28.5 at home vs Eastern Illinois (ML -100000); -20.5 leaves 8 points of cushion.",
-     "marketId": "742.196741013",
-     "selectionId": "332195",
-     "eventId": 36297669
-    },
-    {
-     "pick": "Alabama -23.5",
-     "market": "Alternate Spread 6",
-     "odds": -415,
-     "sport": "NCAAB",
-     "event": "Oakland @ Alabama",
-     "start": "Mon 7:30 PM ET",
-     "reason": "Alabama is -32.5 at home vs Oakland (ML -100000); -23.5 leaves 9 points of cushion.",
-     "marketId": "742.196749321",
-     "selectionId": "332212",
-     "eventId": 36297672
-    },
-    {
-     "pick": "LSU -20.5",
-     "market": "Alternate Spread 6",
-     "odds": -415,
-     "sport": "NCAAB",
-     "event": "Louisiana Tech @ LSU",
-     "start": "Mon 8:00 PM ET",
-     "reason": "LSU is -29.5 at home vs Louisiana Tech (ML -100000); -20.5 leaves 9 points of cushion.",
-     "marketId": "742.196739945",
-     "selectionId": "352409",
-     "eventId": 36297561
-    },
-    {
-     "pick": "Missouri -22.5",
-     "market": "Alternate Spread 6",
-     "odds": -415,
-     "sport": "NCAAB",
-     "event": "SIU-Edwardsville @ Missouri",
-     "start": "Mon 8:00 PM ET",
-     "reason": "Missouri is -31.5 at home vs SIU-Edwardsville (ML -100000); -22.5 leaves 9 points of cushion.",
-     "marketId": "742.196748277",
-     "selectionId": "332649",
-     "eventId": 36297570
-    },
-    {
-     "pick": "Purdue -6.5",
-     "market": "Alternate Spread 6",
-     "odds": -560,
-     "sport": "NCAAB",
-     "event": "Illinois State @ Purdue",
-     "start": "Mon 8:30 PM ET",
-     "reason": "Purdue is -15.5 at home vs Illinois State (ML -2100); -6.5 leaves 9 points of cushion.",
-     "marketId": "742.196740691",
-     "selectionId": "697628",
-     "eventId": 36297571
-    },
-    {
-     "pick": "Indiana +3.5",
-     "market": "Alternate Spread 6",
-     "odds": -395,
-     "sport": "NCAAB",
-     "event": "Syracuse @ Indiana",
-     "start": "Mon 6:30 PM ET",
-     "reason": "Indiana is -5.5 at home vs Syracuse; +3.5 means the Hoosiers only fail if they lose by 4+ at home.",
-     "marketId": "742.196745422",
-     "selectionId": "13116",
-     "eventId": 36297640
-    },
-    {
-     "pick": "Cincinnati +1.5",
-     "market": "Alternate Spread 6",
-     "odds": -380,
-     "sport": "NCAAB",
-     "event": "Minnesota @ Cincinnati",
-     "start": "Mon 7:00 PM ET",
-     "reason": "Cincinnati is -6.5 at home vs Minnesota; +1.5 covers any win or a one-point loss.",
-     "marketId": "742.196739446",
-     "selectionId": "332214",
-     "eventId": 36297655
-    },
-    {
-     "pick": "Bowling Green ML",
-     "market": "Moneyline",
-     "odds": -1200,
-     "sport": "NCAAB",
-     "event": "Cleveland State @ Bowling Green",
-     "start": "Mon 7:00 PM ET",
-     "reason": "Bowling Green is -12.5 at home vs Cleveland State; only needs to win.",
-     "marketId": "742.196678619",
-     "selectionId": "721753",
-     "eventId": 36297650,
-     "marketIdMD": "724.196817357"
-    },
-    {
-     "pick": "Columbia ML",
-     "market": "Moneyline",
-     "odds": -1100,
-     "sport": "NCAAB",
-     "event": "Stonehill @ Columbia",
-     "start": "Mon 7:00 PM ET",
-     "reason": "Columbia is -12.5 at home vs Stonehill; only needs to win.",
-     "marketId": "742.196679641",
-     "selectionId": "4876311",
-     "eventId": 36297663,
-     "marketIdMD": "724.196818379"
-    },
-    {
-     "pick": "Houston Rockets +1.5",
-     "market": "Alternate Spread",
-     "odds": -375,
-     "sport": "NBA",
-     "event": "Denver Nuggets @ Houston Rockets",
-     "start": "Mon 8:40 PM ET",
-     "reason": "Houston is -8.5 at home, and Denver lists Jokic, Murray, Gordon, Johnson, DeRozan and Braun as questionable. +1.5 gives 10 points of cushion.",
-     "marketId": "742.196700661",
-     "selectionId": "7891572",
-     "eventId": 36290203,
-     "marketIdMD": "724.196839399"
-    },
-    {
-     "pick": "Vancouver Canucks +1.5",
-     "market": "Alternate Puck Line",
-     "odds": -225,
-     "sport": "NHL",
-     "event": "Philadelphia Flyers @ Vancouver Canucks",
-     "start": "Mon 9:40 PM ET",
-     "reason": "Philadelphia played in Calgary last night (OT) and is on a back-to-back; the home Canucks at +1.5 only fail on a 2+ goal loss.",
-     "marketId": "742.196706698",
-     "selectionId": "7000422",
-     "eventId": 36296138,
-     "marketIdMD": "724.196845440"
-    },
-    {
-     "pick": "Toronto Raptors +4.5",
-     "market": "Alternate Spread",
+     "pick": "Lakers/Hawks Over 226.5",
+     "market": "Alternate Total Points",
      "odds": -245,
      "sport": "NBA",
-     "event": "Memphis Grizzlies @ Toronto Raptors",
-     "start": "Mon 7:40 PM ET",
-     "reason": "Toronto is the -3.5 home favorite vs Memphis; +4.5 gives 8 points of cushion.",
-     "marketId": "742.196700357",
-     "selectionId": "7889227",
-     "eventId": 36290205,
-     "marketIdMD": "724.196839094"
+     "event": "Los Angeles Lakers @ Atlanta Hawks",
+     "start": "Mon 7:10 PM ET",
+     "reason": "The main total is 235.5; 226.5 leaves 9 points of cushion. Atlanta leads the NBA in shot volume and has scored 120+ three straight games; the Lakers are No. 1 in offense, Luka Doncic (40.1 ppg) returns, and LA is on the second night of a back-to-back with a No. 18 defense. A total instead of a side because Luka's return makes the spread a coin flip.",
+     "marketId": "742.196700134",
+     "selectionId": "7711004",
+     "eventId": 36290204,
+     "marketIdMD": "724.196838872"
+    },
+    {
+     "pick": "Georgia ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "Florida Gulf Coast @ Georgia",
+     "start": "Mon 7:00 PM ET",
+     "reason": "Georgia is -22.5 at home vs FGCU (ML -10000) and is 2-0. Moneyline only: Georgia has won by just 14 and 16 so far, so the -13.5 alt was not safe enough.",
+     "marketId": "742.196677848",
+     "selectionId": "332210",
+     "eventId": 36297644,
+     "marketIdMD": "724.196816586"
+    },
+    {
+     "pick": "Mississippi State ML",
+     "market": "Moneyline",
+     "odds": -10000,
+     "sport": "NCAAB",
+     "event": "Jackson State @ Mississippi State",
+     "start": "Mon 7:30 PM ET",
+     "reason": "Mississippi State is -23.5 at home vs Jackson State (ML -10000) after wins by 18 and 38; no alt spreads offered, so moneyline only.",
+     "marketId": "742.196680975",
+     "selectionId": "332211",
+     "eventId": 36297673,
+     "marketIdMD": "724.196819713"
+    },
+    {
+     "pick": "DePaul ML",
+     "market": "Moneyline",
+     "odds": -20000,
+     "sport": "NCAAB",
+     "event": "Alabama A&M @ DePaul",
+     "start": "Mon 9:00 PM ET",
+     "reason": "DePaul is -24.5 at home vs Alabama A&M (ML -20000); 2-0 including a win over South Florida.",
+     "marketId": "742.196675283",
+     "selectionId": "715477",
+     "eventId": 36297573,
+     "marketIdMD": "724.196814021"
+    },
+    {
+     "pick": "Christopher O'Connell ML",
+     "market": "Moneyline",
+     "odds": -1600,
+     "sport": "Tennis",
+     "event": "Moerani Bouzige v Christopher O'Connell",
+     "start": "Mon 8:10 PM ET",
+     "reason": "ATP Challenger Brisbane R32: O'Connell (ATP No. 117, career-high 53) vs Moerani Bouzige (No. 461), who needed three sets to beat a No. 986 player in qualifying.",
+     "marketId": "742.196721847",
+     "selectionId": "8942164",
+     "eventId": 36298123
+    },
+    {
+     "pick": "Juncheng Shang ML",
+     "market": "Moneyline",
+     "odds": -580,
+     "sport": "Tennis",
+     "event": "Jake Delaney v Juncheng Shang",
+     "start": "Mon 8:10 PM ET",
+     "reason": "ATP Challenger Brisbane R32: Shang (career-high top 50 on the ATP Tour) is -580 against Australian Jake Delaney, ranked far below him.",
+     "marketId": "742.196446538",
+     "selectionId": "38901959",
+     "eventId": 36291165
     }
    ],
-   "reason": "Built from the legs left after the 2-leg card: big college home favorites bought 8-9 points down, home favorites that only need to win, and NBA/NHL home favorites with extra cushion. It stops at 12 legs because the rest of the slate is coin-flip territory, so it lands far short of the $5K target."
+   "reason": "Every high-probability evening event was already used by the morning card or by the four 2-leg parlays above, and we do not repeat events across tickets. What is left: one NBA total with 9 points of cushion, three college moneylines at -10000 or shorter, and two Challenger favorites. Adding anything else would mean coin-flip legs, so this Best Shot is far short of +1000 and of the $5K target."
   }
  ],
  "results": {
-  "updated": "Mon Nov 9, 2026 10:30 AM ET",
-  "sources": "FanDuel PA public odds (event-page API, pulled at build); ESPN scoreboards 11/8 (NFL/NBA/NHL/NCAAB finals); ESPN NBA injuries, iHeart/FantasyDailies Nov 9 injury reports, Bills/Vikings official injury reports; lessons.md",
+  "updated": "Mon Nov 9, 2026 3:00 PM ET",
+  "sources": "FanDuel PA public odds (event-page API, pulled ~3:15 PM ET); ESPN scoreboards Nov 2-8 (NBA/NCAAB results), ESPN NBA injuries, NBA 2 PM injury report via Heavy/Lakers Nation/Yahoo/VSiN, Tennis.com/Sportradar (Brisbane Challenger); lessons.md",
   "totals": {
    "singles": {
     "won": 26,
@@ -410,7 +235,7 @@
    "parlays": {
     "won": 23,
     "lost": 35,
-    "pending": 7,
+    "pending": 11,
     "staked": 580,
     "profit": -106.94,
     "winPct": 39.7,
@@ -419,7 +244,7 @@
    "lottery": {
     "won": 1,
     "lost": 30,
-    "pending": 1,
+    "pending": 2,
     "staked": 155,
     "profit": -78.7,
     "winPct": 3.2,
@@ -428,7 +253,7 @@
    "overall": {
     "won": 50,
     "lost": 90,
-    "pending": 8,
+    "pending": 13,
     "staked": 1245,
     "profit": -162.44,
     "winPct": 35.7,
@@ -437,12 +262,12 @@
    "legs": {
     "hit": 584,
     "miss": 200,
-    "pending": 52,
+    "pending": 66,
     "void": 3
    },
    "won": 50,
    "lost": 90,
-   "pending": 8,
+   "pending": 13,
    "winPct": 35.7,
    "staked": 1245,
    "profit": -162.44,
@@ -460,7 +285,7 @@
   "parlays": {
    "won": 23,
    "lost": 35,
-   "pending": 7,
+   "pending": 11,
    "staked": 580,
    "profit": -106.94,
    "winPct": 39.7,
@@ -469,7 +294,7 @@
   "lottery": {
    "won": 1,
    "lost": 30,
-   "pending": 1,
+   "pending": 2,
    "staked": 155,
    "profit": -78.7,
    "winPct": 3.2,
@@ -8414,6 +8239,174 @@
       "pick": "Toronto Raptors +4.5",
       "odds": -245,
       "event": "Memphis Grizzlies @ Toronto Raptors",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-09",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Longhorns + Vols Bought-Down Hosts",
+    "odds": -184,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Texas -28.5",
+      "odds": -380,
+      "event": "Grambling @ Texas",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Tennessee -21.5",
+      "odds": -450,
+      "event": "Radford @ Tennessee",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-09",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Huskies + Wildcats Bought-Down Hosts",
+    "odds": -201,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "UConn -30.5",
+      "odds": -370,
+      "event": "Wagner @ Connecticut",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Northwestern -5.5",
+      "odds": -560,
+      "event": "Boston University @ Northwestern",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-09",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Blazers + Pirates Home Cushions",
+    "odds": -202,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "UAB -9.5",
+      "odds": -520,
+      "event": "Florida A&M @ UAB",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Seton Hall +4.5",
+      "odds": -395,
+      "event": "Charlotte @ Seton Hall",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-09",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Mavs Cushion + Hurricanes Bought-Down",
+    "odds": -146,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Dallas Mavericks +5.5",
+      "odds": -300,
+      "event": "Indiana Pacers @ Dallas Mavericks",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Miami -28.5",
+      "odds": -380,
+      "event": "North Florida @ Miami",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-09",
+    "run": "3:00 PM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": -125,
+    "stake": 5,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Lakers/Hawks Over 226.5",
+      "odds": -245,
+      "event": "Los Angeles Lakers @ Atlanta Hawks",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Georgia ML",
+      "odds": -10000,
+      "event": "Florida Gulf Coast @ Georgia",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Mississippi State ML",
+      "odds": -10000,
+      "event": "Jackson State @ Mississippi State",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "DePaul ML",
+      "odds": -20000,
+      "event": "Alabama A&M @ DePaul",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Christopher O'Connell ML",
+      "odds": -1600,
+      "event": "Moerani Bouzige v Christopher O'Connell",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Juncheng Shang ML",
+      "odds": -580,
+      "event": "Jake Delaney v Juncheng Shang",
       "result": "pending",
       "actual": "pending"
      }
