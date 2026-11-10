@@ -343,3 +343,23 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - Best Shot: with no repeated events, the leftovers price at only -125. Even every afternoon leg combined would be about +950. Ferdinand prefers falling short over coin-flip padding, so it stays short.
 ### New lesson
 1. When the morning card uses most of the evening slate, the 3 PM Best Shot can't reach +1000 without repeating events. Plan the split at 10:30 AM: hold back a few high-probability evening legs for the 3 PM Best Shot, or build one day-long Best Shot in the morning.
+
+## Tue Nov 10, 2026 10:30 AM ET run: grading Monday Nov 9 (ESPN/ATP finals)
+### Grades
+- WON (2-leg, 7): Bills +6.5 / Spurs +1.5 (BUF 23-6, SA by 26), Oilers +1.5 / Warriors +1.5 (EDM 3-1, GSW by 51), Stanford -9.5 / Oregon State -7.5 (by 18 and 10), Texas -28.5 / Tennessee -21.5 (by 31 and 23), UConn -30.5 / Northwestern -5.5 (by 42 and 17), UAB -9.5 / Seton Hall +4.5 (by 28 and 6), Mavs +5.5 / Miami -28.5 (DAL by 3, Miami by 38).
+- LOST (2-leg, 4): Islanders +1.5 / Cavs +1.5 (NYI lost in SO and covered; CLE lost by 12 at CHA), Pistons +1.5 / Ohio State -16.5 (OSU won by 10), Oklahoma -18.5 / Auburn -15.5 (OU won by 9), UIC -10.5 / Clemson -13.5 (UIC won by exactly 10).
+- 10:30 AM Best Shot (+1260) LOST 9/12: Cincinnati +1.5 (lost by 2), Canucks +1.5 (lost 3-1), Raptors +4.5 (lost by 16) missed; all 7 college buy-downs and the Rockets hit.
+- 3:00 PM Best Shot (-125) WON 6/6 (+$4.00).
+- Record: overall 58-95 (-$166.33 on $1,365). Singles 26-25 (+$23.20), parlays 30-39 (-$109.83), lottery 2-31 (-$79.70).
+### New lessons
+1. Buy-downs only vs truly bottom-tier visitors (SWAC/MEAC/NEC/low Big South, teams already blown out). Against competent mid-majors (Marshall, North Alabama, UNCG), 8-9 points off a -20 to -27 line failed three times.
+2. No buy-downs in mid-major vs mid-major games (UIC -19.5 main was inflated).
+3. NBA road favorites at +1.5 need a form check; Cleveland (1-4 on the road) lost by 12 at Charlotte.
+4. The Best Shot's only misses were pick'em-game cushions (-225 to -380). Build it only from low-major buy-downs and -1000+ moneylines.
+5. A 6-leg Best Shot of near-locks cashes, but at -125 it pays almost nothing, which is why the split has to be planned.
+### How lessons changed today's card
+- Every college buy-down is vs a visitor that has already lost by 14-61 or is SWAC/MEAC/low-major: Iowa State, Xavier, NC State, Ole Miss, Rutgers, Wake, Providence (2-leg); Georgetown, UCF, GT, UNC, SLU, Wisconsin, Villanova, TCU, Arizona, BYU (Best Shot).
+- Skipped: Dayton (lost at home to NIU), Davidson/Bradley, Iowa/VT (near pick'em), mid-major short favorites (MTSU, Tulane, Kennesaw -490 to -550), restricted feeds (Kansas/Kentucky, Illinois/Texas Tech), Duke/Michigan State (top-vs-top).
+- NBA: only favorites vs depleted 1-9 teams (Heat +1.5 at Utah, Knicks -6.5 vs Milwaukee). NHL: road favorites at +1.5 only (Avalanche, Devils; Devils have backup Jake Allen in net, so +1.5 not ML). No NHL pick'em +1.5.
+- Split plan: this morning card builds a DAY-LONG Best Shot (15 legs, +1090, about $54.50 on $5; still far short of $5K). Held back for 3 PM: NBA OKC/POR, ORL/SAC, LAC/PHX (PHX on a back-to-back); NHL MIN/MTL, WSH/OTT, FLA/CBJ, DET/STL, NSH/LAK; NCAAB Utah State, New Mexico, Utah, Colorado, San Francisco, Arizona State, Fresno State, Creighton/K-State, Davidson, Dayton, Fordham, Iowa/VT, MTSU, Tulane, Kennesaw.
+- No singles: nothing at plus money had a real edge.
