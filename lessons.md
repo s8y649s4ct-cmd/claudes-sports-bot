@@ -363,3 +363,18 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - NBA: only favorites vs depleted 1-9 teams (Heat +1.5 at Utah, Knicks -6.5 vs Milwaukee). NHL: road favorites at +1.5 only (Avalanche, Devils; Devils have backup Jake Allen in net, so +1.5 not ML). No NHL pick'em +1.5.
 - Split plan: this morning card builds a DAY-LONG Best Shot (15 legs, +1090, about $54.50 on $5; still far short of $5K). Held back for 3 PM: NBA OKC/POR, ORL/SAC, LAC/PHX (PHX on a back-to-back); NHL MIN/MTL, WSH/OTT, FLA/CBJ, DET/STL, NSH/LAK; NCAAB Utah State, New Mexico, Utah, Colorado, San Francisco, Arizona State, Fresno State, Creighton/K-State, Davidson, Dayton, Fordham, Iowa/VT, MTSU, Tulane, Kennesaw.
 - No singles: nothing at plus money had a real edge.
+
+## Tue Nov 10, 2026 3:00 PM ET run
+- Grading: nothing new settled since 10:30 AM. Every morning ticket plays tonight (first leg 6:00 PM ET). Record unchanged: overall 58-95 (-$166.33 on $1,365); singles 26-25 (+$23.20), parlays 30-39 (-$109.83), lottery 2-31 (-$79.70). 11 tickets pending (7 from the morning, 4 from this run).
+### How lessons changed this card
+- Buy-downs only vs truly bottom-tier visitors: Virginia -29.5 vs Bucknell (KenPom 344, lost by 29 and 20) made a 2-leg. Utah State -16.5 vs Utah Tech and New Mexico -13.5 vs Little Rock were dropped after research. Previews project an 11-point USU win (USU is missing two bigs), and Little Rock is KenPom ~217 and lost by only 10 at VCU. New Mexico went into the Best Shot as a moneyline instead; Utah State is not used.
+- Competent mid-major visitors (Yale, Hofstra, Weber State, Memphis, San Diego) get moneylines only, no buy-downs.
+- No mid-major short favorites or mid vs mid: Davidson, MTSU, Tulane, Kennesaw, Fordham, San Francisco, Dayton (lost at home to NIU) skipped.
+- NHL: +1.5 only on favorites with the goalie edge: Wild (Wallstedt, road favorite) and Blues (Hofer vs Gibson, back from injury). Skipped Panthers +1.5 (near pick'em, Markstrom struggling, Talbot 4-0 recently), Kings +1.5 (2-5 at home, Forsberg 0-4-1, Nashville on a 4-game win streak) and Caps/Sens (pick'em).
+- NBA: no sides. Phoenix is on a back-to-back (fade). Orlando failed the road-favorite form check (lost by 30 and 13 on the road, Banchero/Suggs/Isaac out). Clippers would be a dog cushion. OKC is short-handed and only -1.5. Used big-cushion totals instead: Magic/Kings Over 209.5 (13 points; every Kings game this year went over 214) and Clippers/Suns Over 210.5 (14 points). Skipped Thunder/Blazers Over because 3 of OKC's 10 games went under 212.
+- Pick'em skipped: Ohio/Miami (OH) CFB moved to Ohio -1.5, so no Ohio buy-down. Duke/Michigan State (top vs top) skipped.
+- No singles: nothing at plus money had a real edge. No +1000 lottery: it would need coin-flip legs.
+- Best Shot: 5 home moneylines (-1000 to -10000), -493 (about $1.01 on $5). It is nowhere near $5K. The morning card holds the day-long Best Shot (+1090), as planned in Monday's split lesson.
+### New lessons
+1. Check previews and models before using a buy-down even when the main line is -20 or more. Projected margins from KenPom-style models (Utah State by ~11, New Mexico by ~18) can sit well under the market line. If the projected margin isn't at least the buy-down number plus about 5, skip the leg.
+2. NBA totals with 13-14 points of cushion are the safest NBA leg when sides fail the back-to-back or form checks. Confirm with game logs that both teams rarely finish under the alt number.
