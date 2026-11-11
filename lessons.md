@@ -378,3 +378,24 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 ### New lessons
 1. Check previews and models before using a buy-down even when the main line is -20 or more. Projected margins from KenPom-style models (Utah State by ~11, New Mexico by ~18) can sit well under the market line. If the projected margin isn't at least the buy-down number plus about 5, skip the leg.
 2. NBA totals with 13-14 points of cushion are the safest NBA leg when sides fail the back-to-back or form checks. Confirm with game logs that both teams rarely finish under the alt number.
+
+## Wed Nov 11, 2026 10:30 AM ET run: grading Tuesday Nov 10 (ESPN finals)
+### Grades
+- WON (2-leg, 7): Heat +1.5 / Avalanche +1.5 (MIA by 6 at UTA, COL 6-3), Cyclones -26.5 / Musketeers -26.5 (by 37 and 45), NC State -10.5 / Ole Miss -17.5 (by 34 and 40), Western Michigan -4.5 / Rutgers -14.5 (42-14, by 37), Wake -9.5 / Providence -22.5 (by 18 and 23; Providence covered by half a point), Wild +1.5 / Blues +1.5 (MIN 2-1 OT, STL 3-2), Vanderbilt ML / Clippers-Suns Over 210.5 (by 24; 243 total).
+- LOST (2-leg, 2): Knicks -6.5 / Devils +1.5 (NYK by 32; NJ lost 4-2 at WPG with backup Jake Allen), Virginia -29.5 / Magic-Kings Over 209.5 (UVA by 34; 107-100 = 207).
+- 10:30 AM day-long Best Shot (+1090) LOST 12/15: Georgetown -19.5 (won by 5 vs Delaware State), TCU -25.5 (won by 8 in 2OT vs UL Monroe), BYU -19.5 (won by 16 vs Queens) missed.
+- 3:00 PM Best Shot (-493) WON 5/5 (+$1.01).
+- Record: overall 66-98 (-$154.92 on $1,465). Singles 26-25 (+$23.20), parlays 37-41 (-$94.43), lottery 3-32 (-$83.69).
+### New lessons
+1. Mega-spread buy-downs are high-variance. From main lines of -27.5 or more, 8-9 point buy-downs went 4/7 (Georgetown, TCU, BYU missed). From -19.5 to -26.5 they went 10/10. Use moneylines in -27+ games, or skip.
+2. "NHL +1.5 only with the goalie edge" includes the favorite's own goalie. A favorite starting its backup (Devils/Allen) fails the rule even on a road favorite.
+3. A big-cushion NBA total is not safe when a team is missing 2+ primary scorers and has already gone under the alt number in 30% of its games (Orlando 207). Require ~90% of both teams' games to clear the alt.
+4. Buy-downs of 9 off a -31.5 line can cover by half a point (Providence). Prefer main lines of -15 to -26 for buy-downs.
+### How lessons changed today's card
+- Buy-downs only where the main line is -11.5 to -17.5 and a Torvik-style projection clears the buy-down + 5: Tulsa -8.5 (proj ~16.5) vs short-handed ORU, UC Davis -2.5 (proj ~12) vs 0-3 UIW (Torvik ~346).
+- Mega-spread games (Notre Dame -26.5, South Carolina -22.5 vs bottom-tier) get moneylines only. Houston -36.5, Arkansas -31.5, St. John's -29.5, Oregon -36.5, UCLA -45.5, VCU -33.5 and Nebraska -34.5 are skipped: no moneyline is posted, and their 9-point buy-downs fail the projection test.
+- NBA: Lakers -4.5 at 1-10 Milwaukee (Bucks on a back-to-back, Herro out) and Spurs -5.5 at 1-8 Chicago both passed the form/rest check. Knicks are on a back-to-back at home, so they get +6.5 (11 cushion) instead of the spread. Celtics are skipped (road back-to-back). Big-cushion totals are skipped tonight because game logs show too many games under the alt numbers (NYK, BKN, DEN, WSH, OKC).
+- NHL: Lightning +1.5 skipped (3-4-2 on the road; Vasilevskiy .883 vs Luukkonen .878 is no real goalie edge). Rangers skipped (backup Korpisalo, 2-6-1 on the road). Oilers, Vegas and Anaheim are held for 3 PM.
+- CFB: Toledo (lost to Buffalo, beat Sac State by 3) and Central Michigan (4-5) skipped; UMass is 5-4 and beat Rutgers.
+- Split plan: the morning card uses the 2-8 PM games plus a day-long Best Shot of -2800 to -20000 moneylines (-816, about $0.61 on $5, far short). Held back for 3 PM: GCU -9.5, Oilers +1.5, Vegas/Anaheim, late NBA (GSW/HOU, ORL/UTA, OKC/POR, DEN/MEM), Cal Baptist, USC/Cal.
+- No singles: nothing at plus money had a real edge. No +1000 lottery without coin-flip legs.
