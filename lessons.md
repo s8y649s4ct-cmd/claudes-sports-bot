@@ -399,3 +399,18 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 - CFB: Toledo (lost to Buffalo, beat Sac State by 3) and Central Michigan (4-5) skipped; UMass is 5-4 and beat Rutgers.
 - Split plan: the morning card uses the 2-8 PM games plus a day-long Best Shot of -2800 to -20000 moneylines (-816, about $0.61 on $5, far short). Held back for 3 PM: GCU -9.5, Oilers +1.5, Vegas/Anaheim, late NBA (GSW/HOU, ORL/UTA, OKC/POR, DEN/MEM), Cal Baptist, USC/Cal.
 - No singles: nothing at plus money had a real edge. No +1000 lottery without coin-flip legs.
+
+## Wed Nov 11, 2026 3:00 PM ET run
+- Grading: nothing new settled since 10:30 AM. Every morning ticket finishes tonight: UC Davis -2.5 tipped at 2 PM, but each of its parlays has a leg starting at 7 PM or later. Record unchanged: overall 66-98 (-$154.92 on $1,465); singles 26-25 (+$23.20), parlays 37-41 (-$94.43), lottery 3-32 (-$83.69). 8 tickets pending (4 from the morning, 4 from this run).
+### How lessons changed this card
+- NHL +1.5 only with the goalie edge, including the favorite's starter: Oilers (Jarry .898 vs Vladar .880; EDM 13-3-3 vs PHI 2-6-2 on the road) and Vegas (Hart .900 vs Cossa .873) made 2-legs. Skipped: Penguins (Murashov .878, 2-7-1 on the road), Rangers (backup Korpisalo vs Cooley .913), Lightning/Sabres (no goalie edge), Ducks +1.5 (Brossoit .877 is no edge). The Ducks only went into the Best Shot at +2.5, vs a Nashville team on a back-to-back starting backup Annunen.
+- Back-to-back rule: Boston (road back-to-back, George out) gets +7.5 (13 of cushion) instead of the spread, only because Toronto is missing Barnes, Jackson-Davis and Leonard. Orlando (back-to-back, depleted) gets +12.5 vs 1-10 Utah (also on a back-to-back), in the Best Shot only. OKC/POR was skipped: OKC is short-handed and lost there by 20 last night.
+- NBA road-favorite form/rest check: Denver passed (rested, losses only to playoff-level teams, Memphis missing Pippen and Post), so it gets +7.5 (11 cushion). Houston +3.5 (10 cushion) as a rested 5-1 home favorite vs a Warriors team opening a road trip without 5 rotation players. Pelicans +7.5 vs 2-8 Brooklyn: only points with the favorite.
+- NBA totals: every candidate failed the ~90% game-log test (DEN 4/9 under 217, WSH/BKN/BOS/ORL/OKC all have several games under the alt), so no totals tonight.
+- GCU: the -9.5 buy-down held back this morning was dropped. Cal Poly is T-Rank ~165 and scored 84 at Arizona: a competent mid-major (Tuesday lesson). GCU is moneyline only, in the Best Shot.
+- Skipped: Cal Baptist (0-2 under a new coach, lost at home to North Florida; BetMGM model only 79% vs the -880 price), USC at Cal (model projects USC by ~4 vs -8.5), mega lines with no moneyline (Houston, Arkansas, St. John's, UCLA, Oregon, Nebraska, VCU), San Diego State (restricted feed), MAC CFB (Toledo, CMU, per the morning).
+- No singles: nothing at plus money had a real edge. No +1000 lottery without coin-flip legs. Best Shot: 3 legs, -345 (about $1.45 profit on $5), nowhere near $5K. The morning's day-long Best Shot (-816) is still live.
+### New lessons
+1. Check last night's scoreboard for back-to-backs on both sides before every NBA/NHL leg. Tonight that caught Boston, Orlando, Utah, OKC, Portland and Nashville.
+2. A "held back for 3 PM" leg is not pre-approved. Re-run it through the current rules with fresh results; GCU -9.5 failed the competent-mid-major test.
+3. When the afternoon slate is mostly NBA/NHL with few bottom-tier college visitors, the best 2-leg material is goalie-edge +1.5 and 10-13 point NBA cushions on favorites. The Best Shot will be short-priced. Say so rather than pad it.
