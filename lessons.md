@@ -441,3 +441,18 @@ Overall **70-102** (-$172.90 on $1,535). Singles 26-25 (+$23.20). Parlays 40-44 
 - Every moneyline (Towson and the six Best Shot legs) has a clear tier gap vs a bottom-tier visitor (lesson 1). Bradley (1-2, lost at home to Pacific) skipped despite -850. Indiana/Minnesota/Penn State/High Point stay moneyline only (projections fail the buy-down rule or the visitor is competent).
 - Small NBA favorites (Mavs/Wolves -5.5 with Edwards out) not used; 76ers -8.5 (Embiid/LeBron day-to-day vs a Raptors team on a back-to-back) and Suns -6.5 vs a depleted Charlotte are held for 3 PM injury news (lesson 2).
 - No singles (no plus-money edge). No +1000 lottery without coin-flip legs. Best Shot: 6 moneylines at -971 (about $0.51 on $5), nowhere near $5K; stated rather than padded.
+
+## Thu Nov 12, 2026 3:00 PM ET run
+- Grading: nothing new settled since 10:30 AM. George Mason (3:00 PM tip) was in progress and every other morning leg plays tonight. Record unchanged: overall 70-102 (-$172.90 on $1,535); singles 26-25 (+$23.20), parlays 40-44 (-$108.86), lottery 4-33 (-$87.24); legs 666 hit / 216 miss. 7 tickets now pending (3 morning + 4 new).
+### How lessons changed this card (held legs re-checked, not pre-approved)
+- Devils +1.5: held this morning for the goalie; Hellebuyck (.913) is now confirmed vs Thompson (.891). Passes the goalie-edge rule, so it's in (with Senators +1.5, Ullmark .945 vs Wedgewood .867).
+- 76ers -7.5 dropped: LeBron is out, Embiid is questionable ("no idea"), the line fell from -10.5 to -7.5, and Philly's +1.0 differential (8 clutch wins, 22nd in offense) is not "clearly better" even against a Raptors team on a back-to-back without Barnes/Kawhi.
+- Suns -6.5 used as +4.5 (11 points of cushion): -6.5 home favorite, Charlotte confirmed without Miller, Knueppel and Schroder, with a -11.6 differential and 1-3 on the road. The cushion is bigger than usual because Phoenix's defense ranks 28th.
+- Back-to-backs from last night's scoreboard: Utah (lost at Vegas), Tampa Bay and Buffalo. Blues +1.5 (rested, Hofer .920 vs Vejmelka .866) targets the tired Utah team; Sabres (backup Lyon) and Lightning/Blue Jackets (no goalie edge) were skipped, as were Bruins/Canadiens (Swayman vs Fowler, no edge).
+- Islanders +1.5 at 2-6-at-home LA: Sorokin .914 vs Kuemper .877 (near pick'em, like Vegas Wednesday).
+- Road favorites on the plus side: Blues +1.5, Louisiana +3.5 (not -10.5 or the ML).
+- Tier-gap rule: West Virginia ML (top-50 Big 12 vs Mercer ~244) passes. BYU (Montana State ~126, not sub-200) and Bradley (1-2, lost at home to Pacific) were skipped.
+- No singles (no plus-money edge). No +1000 lottery without coin-flip legs. Best Shot is -297 (WVU ML, Panthers +1.5, Louisiana +3.5); it can't reach $5K without padding, so it stays short.
+### New lessons
+1. When a held leg's key player is ruled out and the line drops 3 points during the day, treat that as the market saying the edge is gone. Drop the leg instead of buying a bigger cushion.
+2. Check point differential, not just record, for "clearly better": a 9-3 team at +1.0 is a coin-flip team that won close games.
