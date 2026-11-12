@@ -414,3 +414,30 @@ Overall **35-70** (−$132.26 on $920). Singles 20-20. Parlays 13-25. Lottery 1-
 1. Check last night's scoreboard for back-to-backs on both sides before every NBA/NHL leg. Tonight that caught Boston, Orlando, Utah, OKC, Portland and Nashville.
 2. A "held back for 3 PM" leg is not pre-approved. Re-run it through the current rules with fresh results; GCU -9.5 failed the competent-mid-major test.
 3. When the afternoon slate is mostly NBA/NHL with few bottom-tier college visitors, the best 2-leg material is goalie-edge +1.5 and 10-13 point NBA cushions on favorites. The Best Shot will be short-priced. Say so rather than pad it.
+
+## Thu Nov 12, 2026 10:30 AM ET run: grading Wednesday Nov 11
+### Grades
+- **Lakers + Golden Hurricane Bought-Down (-208): WON** (+$4.81). Lakers won by 11 at MIL (needed 5); Tulsa won by 9 (needed 9, covered by zero).
+- **Spurs Bought-Down + Aggies Cushion (-216): LOST**. UC Davis by 12 hit; Spurs won only 124-119 at 1-8 Chicago, so -5.5 missed by half a point (Bulls led 41-29 after one).
+- **Knicks Home Cushion + Paladins ML (-223): LOST**. Furman won by 13; Cleveland won 115-107 at NY (Harden 32), Knicks +6.5 missed by 1.5. Josh Hart, listed out, played.
+- **Best Shot $500K (Wed AM, -816): LOST**. Notre Dame, South Carolina, Boise State, Colorado State hit; Seattle (-3000) lost 86-59 at home to UTSA.
+- **Oilers Home Ice + Rockets Home Cushion (-185): WON** (+$5.41). EDM 3-2 OT; HOU won by 7.
+- **Golden Knights Home Ice + Celtics Big Cushion (-187): WON** (+$5.35). VGK 5-3; BOS won by 5 at TOR.
+- **Nuggets + Pelicans Cushions (-169): LOST**. Denver won by 5 at MEM; Brooklyn routed New Orleans 145-111 (Demin returned), Pelicans +7.5 missed by 26.
+- **Best Shot $500K (Wed PM, -345): WON** (+$1.45). GCU by 28, Magic by 15 at UTA, Ducks lost by 2 (+2.5 held).
+- 2-leg parlays 3-3 on the day; Best Shots 1-1. Legs 17/20.
+### Record after grading
+Overall **70-102** (-$172.90 on $1,535). Singles 26-25 (+$23.20). Parlays 40-44 (-$108.86). Lottery 4-33 (-$87.24). All-time legs 666 hit / 216 miss.
+### New lessons
+1. **A -3000 moneyline is not a lock without a tier gap.** Seattle lost by 27 to UTSA, an AAC visitor priced off one weak opener. First loss on a -1800+ college moneyline. Require the visitor to be from a lower league tier and T-Rank ~290+, or a Power/top-100 host vs a sub-200 visitor.
+2. **Small NBA favorites are not "the better team".** Pelicans (-3.5 vs 2-8 BKN) lost by 34; Knicks (-4.5, back-to-back, vs a deep Cavs roster) lost by 8. NBA cushions only on favorites of -6.5 or more that are clearly better; check day-of returns (Demin) and injury-report accuracy.
+3. **NBA road favorites: cushion on the plus side.** Spurs -5.5 (from -14.5) missed by 0.5 at 1-8 Chicago. Road favorites get +1.5 or better, never a minus alt line. (Lakers -4.5 hit, but the margin pattern says plus side is safer.)
+4. **Goalie-edge NHL +1.5 keeps working** (Oilers, Vegas 2-0; Ducks +2.5 vs a backup on a back-to-back also held).
+5. **Model margins vs low-majors run hot in November**: Tulsa (projected +16.5) won by 9 and covered -8.5 by zero. Keep the buy-down+5 rule and prefer projections that clear it by 4+.
+### How lessons changed today's card
+- Pistons +1.5 (not a minus alt) as a 10.5-point, rested, 4-1 road favorite vs a Wizards team on a back-to-back: plus-side cushion for road favorites (lesson 3).
+- George Mason -7.5: model ~16.5 clears the 12.5 bar by 4; UMKC (T-Rank ~274) is on its third game in five days (lesson 5).
+- Wild +1.5: goalie edge incl. Minnesota's own starter (Wallstedt .924 vs Stolarz .907) vs a Leafs team on a 4-game skid. Devils held for 3 PM until Hellebuyck is confirmed.
+- Every moneyline (Towson and the six Best Shot legs) has a clear tier gap vs a bottom-tier visitor (lesson 1). Bradley (1-2, lost at home to Pacific) skipped despite -850. Indiana/Minnesota/Penn State/High Point stay moneyline only (projections fail the buy-down rule or the visitor is competent).
+- Small NBA favorites (Mavs/Wolves -5.5 with Edwards out) not used; 76ers -8.5 (Embiid/LeBron day-to-day vs a Raptors team on a back-to-back) and Suns -6.5 vs a depleted Charlotte are held for 3 PM injury news (lesson 2).
+- No singles (no plus-money edge). No +1000 lottery without coin-flip legs. Best Shot: 6 moneylines at -971 (about $0.51 on $5), nowhere near $5K; stated rather than padded.
