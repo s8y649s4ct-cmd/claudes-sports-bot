@@ -456,3 +456,29 @@ Overall **70-102** (-$172.90 on $1,535). Singles 26-25 (+$23.20). Parlays 40-44 
 ### New lessons
 1. When a held leg's key player is ruled out and the line drops 3 points during the day, treat that as the market saying the edge is gone. Drop the leg instead of buying a bigger cushion.
 2. Check point differential, not just record, for "clearly better": a 9-3 team at +1.0 is a coin-flip team that won close games.
+
+## Fri Nov 13, 2026 10:30 AM ET run: grading Thursday Nov 12 (ESPN finals)
+### Grades
+- **Pistons Road Cushion + Patriots Bought-Down (-232): WON** (+$4.31). Detroit won 144-140 in 2OT at Washington (+1.5 not needed); George Mason beat UMKC 76-68 (-7.5 covered by half a point).
+- **Wild Road Ice + Tigers ML (-302): WON** (+$3.31). MIN 5-2 at TOR; Towson 90-60.
+- **Best Shot $500K (Thu AM, -971): WON 6/6** (+$0.51). Rhode Island, Indiana, Minnesota, High Point, Penn State, Bowling Green all won by 12+.
+- **Devils + Senators Goalie-Edge Ice (-159): WON** (+$6.29). NJ 5-2; OTT 4-3 OT.
+- **Islanders + Blues Goalie-Edge Ice (-127): WON** (+$7.87). NYI 5-2 at LA; STL 1-0 SO at UTA (Utah on a back-to-back).
+- **Stars Home Ice + Suns Big Cushion (-200): LOST**. Suns +4.5 hit (PHX won 101-96), but Winnipeg beat Dallas 8-3; Oettinger allowed 6 on 27 shots and was pulled.
+- **Best Shot $500K (Thu PM, -297): WON 3/3** (+$1.68). WVU by 14, FLA 5-4, Louisiana by 21 at ULM.
+- Day: 6-1, legs 18/19.
+### Record after grading
+Overall **76-103** (-$158.93 on $1,595). Singles 26-25 (+$23.20). Parlays 44-45 (-$97.08). Lottery 6-33 (-$85.05). All-time legs 684 hit / 217 miss.
+### New lessons
+1. **Goalie-edge size matters.** The one NHL +1.5 miss of eight Thursday had the smallest edge (Oettinger .906 vs Skinner .883, ~.023). NHL +1.5 now needs an edge of ~.025+ with the favorite's starter at .910+, or an opponent on a back-to-back.
+2. **Low-major buy-downs keep landing on the number** (George Mason by 8 on -7.5; Tulsa by 9 on -8.5). Raise the projection bar from buy-down +5 to buy-down +7.
+3. **Road favorite on the plus side paid again.** Detroit needed 2OT to beat a Wizards team on a back-to-back; a minus line would have been a coin flip.
+4. **Tier-gap moneylines bounced back 9/9** (both Best Shots) a day after Seattle. Keep the rule; it is the reason they are safe.
+### How lessons changed today's card
+- Road favorites on the plus side: Blazers +1.5 (12 cushion at 0-6-at-home Sacramento), Knicks +1.5 (10 cushion, Haliburton out), Hawks +4.5 (11 cushion because Chicago's home losses were all by 4-6), Houston CFB +3.5 (13 cushion at Colorado).
+- Clearly-better favorite with point-differential support: Rockets -6.5 (10 off -16.5) vs a 0-10-in-last-10 Jazz team without Markkanen and Jackson Jr.
+- Buy-down +7 bar: Rutgers -13.5 (projected ~22.5, main -22.5, Bryant T-Rank ~335). FSU -14.5, NC State -13.5 and Purdue -10.5 buy-downs rejected (TAMU-CC 194, Troy 164, Ohio 193 are competent visitors), so FSU/NC State are moneyline-only and Purdue is skipped (lost at home to Valparaiso).
+- Backup-QB fade: UCLA (third-string QB Dieffenbach, short week, Illinois on a 4-game win streak) skipped despite 9-0.
+- Goalie rule: no NHL in the morning. Rangers (Garand .905 vs Merilainen .888, only ~.017) fails the new edge bar even vs a 3-16-1 Canucks team; Vegas fails outright (Saros .919 vs Hill .903 favors Nashville). Both held for 3 PM goalie confirmations.
+- Split plan: held for 3 PM: Spurs/Warriors (Fox, Vassell questionable; Curry out), Magic/Bucks (Suggs, da Silva questionable; Magic 0-4 at home), Thunder/Clippers (OKC depleted), NHL, Drake, Utah State. Pick'em games (CLE/MIA, MEM/NO, FSU/Pitt CFB) are skipped.
+- No singles (no plus-money edge). No +1000 lottery without coin-flip legs. Best Shot: 8 tier-gap moneylines at -767 (about $0.65 on $5), far short of $5K; stated rather than padded.
