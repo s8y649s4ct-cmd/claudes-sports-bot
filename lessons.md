@@ -482,3 +482,31 @@ Overall **76-103** (-$158.93 on $1,595). Singles 26-25 (+$23.20). Parlays 44-45 
 - Goalie rule: no NHL in the morning. Rangers (Garand .905 vs Merilainen .888, only ~.017) fails the new edge bar even vs a 3-16-1 Canucks team; Vegas fails outright (Saros .919 vs Hill .903 favors Nashville). Both held for 3 PM goalie confirmations.
 - Split plan: held for 3 PM: Spurs/Warriors (Fox, Vassell questionable; Curry out), Magic/Bucks (Suggs, da Silva questionable; Magic 0-4 at home), Thunder/Clippers (OKC depleted), NHL, Drake, Utah State. Pick'em games (CLE/MIA, MEM/NO, FSU/Pitt CFB) are skipped.
 - No singles (no plus-money edge). No +1000 lottery without coin-flip legs. Best Shot: 8 tier-gap moneylines at -767 (about $0.65 on $5), far short of $5K; stated rather than padded.
+
+## Fri Nov 13, 2026 3:00 PM ET run
+
+**Grades:** nothing settled since the 10:30 AM run. All four morning tickets (Blazers/Rockets, Knicks/Rutgers, Houston/Hawks, and the 8-leg Best Shot) start at 5:00 PM ET or later and stay pending.
+
+**Record (unchanged):** Overall 76-103 (-$158.93 on $1,595). Singles 26-25 (+$23.20). Parlays 44-45 (-$97.08). Lottery 6-33 (-$85.05). Legs 684 hit / 217 miss (48 pending, 3 void).
+
+### Card
+- **Spurs + Magic Home Cushions (-220, $10 pays $14.54):** Spurs +1.5 (-650), Magic +1.5 (-385).
+- **Grizzlies Road Cushion + Illini Big Cushion (-160, $10 pays $16.23):** Grizzlies +7.5 (-370), Illinois +20.5 (-360).
+- **Canucks Team Under + Bulldogs ML (-208, $10 pays $14.81):** Canucks Under 3.5 goals (-280), Drake ML (-1100).
+- **Best Shot $500K (-400, $5 pays $6.25):** Cavaliers/Heat Over 213.5 (-1200), Predators/Golden Knights Under 8.5 (-650). Far short of $5K; stated rather than padded.
+- No singles (no plus-money edge). No +1000 lottery without coin-flip legs.
+
+### How lessons changed this card
+- **Held legs re-checked:** Spurs went in. Fox and Vassell are only questionable, the line moved just from -12.5 to -11.5, and Golden State is without Curry, Butler, Porzingis and Moody. Thunder/Clippers was dropped: OKC lost twice at Portland, has three road losses by 20+, and has four rotation players out. Utah State was dropped because UC San Diego (T-Rank ~119) is a competent visitor and the projection (~10) sits under the -12.5 line. Drake passed the tier-gap rule.
+- **Goalie-edge rule (.025+ with the favorite's starter at .910+):** both NHL +1.5 legs failed. Rangers had Garand .905 vs Merilainen .888; Vegas had Hill .903 vs Saros .919. The Rangers/Canucks edge went into a Canucks team-total under (2 or fewer goals in 14 of 16) instead.
+- **Road favorites on the plus side with a form check:** Memphis (5-0 on the road) gets +7.5 (11 cushion). OKC failed the form check.
+- **Clearly better by point differential:** Orlando (-5.5) vs Milwaukee (-14.5, 0-5 on the road) gets +1.5. A home spread was avoided because the Magic are 0-4 at home.
+- **Backup-QB fade:** UCLA (third-string QB, short week, four WR/OL starters out) is faded via Illinois +20.5, not backed.
+- **Buy-down +7 bar:** Drake -4.5 (projected ~13) cleared it by only 1.5 against an 87.5-ppg visitor, so Drake is moneyline only.
+- **Totals game-log test (~90%):** Cavs/Heat Over 213.5 (CLE 11/12, MIA 11/11) and NSH/VGK Under 8.5 (15/16, 17/17) passed. OKC/LAC totals failed.
+- **Skipped:** CLE/MIA and FSU/Pitt sides (pick'em games); Fordham (LIU ~260, not a 290+ visitor); Alabama (projection ~10 vs -17.5); Purdue (morning skip); Cal Baptist (0-3); mega -50000/-100000 moneylines (they add nothing); Southern Utah/Portland State (restricted FCS feed).
+
+### New lessons
+1. **Late slates with every big college favorite already used leave the Best Shot with only totals.** When the morning Best Shot spends the tier-gap moneylines, the 3 PM Best Shot will be 2-3 legs. Accept that rather than pad it.
+2. **Team-total unders on the worst offense are a cleaner way to use a lopsided NHL game** that fails the goalie-edge rule for +1.5 (the favorite's goalie is under .910).
+3. **Watch tonight:** Orlando is 0-4 at home despite the matchup edge. If Magic +1.5 loses, tighten the rule to require home form when backing a home favorite on the plus side.
