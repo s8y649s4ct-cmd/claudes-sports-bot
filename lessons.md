@@ -510,3 +510,33 @@ Overall **76-103** (-$158.93 on $1,595). Singles 26-25 (+$23.20). Parlays 44-45 
 1. **Late slates with every big college favorite already used leave the Best Shot with only totals.** When the morning Best Shot spends the tier-gap moneylines, the 3 PM Best Shot will be 2-3 legs. Accept that rather than pad it.
 2. **Team-total unders on the worst offense are a cleaner way to use a lopsided NHL game** that fails the goalie-edge rule for +1.5 (the favorite's goalie is under .910).
 3. **Watch tonight:** Orlando is 0-4 at home despite the matchup edge. If Magic +1.5 loses, tighten the rule to require home form when backing a home favorite on the plus side.
+
+## Sat Nov 14, 2026 10:30 AM ET run: grading Friday Nov 13 (ESPN finals)
+### Grades
+- **Blazers Road Cushion + Rockets Bought-Down (-185): WON** (+$5.41). POR won 120-107 at SAC; HOU beat UTA 125-118 (-6.5 covered by half a point).
+- **Knicks Road Cushion + Scarlet Knights Bought-Down (-167): LOST**. Rutgers won by 21 (hit); Indiana beat New York 106-104 (Knicks +1.5 missed by half a point).
+- **Cougars Road Cushion + Hawks Big Cushion (-211): LOST, both legs.** Colorado beat No. 14 Houston 42-32 (Houston +3.5 lost by 10); Chicago beat Atlanta 125-117 in OT (110-110 after regulation; the Bulls snapped an 8-game skid).
+- **Best Shot $500K (Fri AM, -767): WON 8/8** (+$0.65). FSU, NC State, UCF, TCU, Arkansas, SMU by 12+; Liberty by 8; Tarleton State by only 4.
+- **Spurs + Magic Home Cushions (-220): WON** (+$4.55). SA 123-85; ORL 107-99.
+- **Grizzlies Road Cushion + Illini Big Cushion (-160): WON** (+$6.25). MEM 142-111 at NO; UCLA 22-14 (Illinois +20.5 covered by 12.5).
+- **Canucks Team Under + Bulldogs ML (-208): WON** (+$4.81). NYR 5-1 at VAN (Canucks scored 1); Drake 81-72.
+- **Best Shot $500K (Fri PM, -400): WON** (+$1.25). MIA 133-121 (254 total); NSH 3-2 SO at VGK (5 goals).
+- Day: 6-2, legs 19/22.
+### Record after grading
+Overall **82-105** (-$156.01 on $1,665). Singles 26-25 (+$23.20). Parlays 48-47 (-$96.06). Lottery 8-33 (-$83.15). All-time legs 703 hit / 220 miss.
+### Watch rule resolved (Magic +1.5 home form)
+Orlando (0-4 at home) won by 8 against a Bucks team that was 0-5 on the road. No tightening: a poor home record is OK when the visitor is also winless on the road and the differential gap is 9+.
+### New lessons
+1. **Home-loss check for road favorites on the plus side.** All three Friday misses were road favorites (Knicks -8.5, Hawks -6.5, Houston -9.5) against losing home teams. The NBA two had a warning sign: Indiana's home losses were by 5, 8, 4 and 12 and Chicago's by 4, 6, 6 and 5. The winners (Portland at Sacramento, Memphis at New Orleans) faced home teams being blown out (Kings home losses by 11-27). Rule: use a road favorite only if most of the home team's home losses are by 10+. If they are mostly within 8, skip it; more cushion is not the fix.
+2. **No CFB road favorites under -14 on any side.** Houston (-9.5) lost by 10 at a 3-6 Colorado team at night, giving up 67-, 38- and 32-yard TD runs. College home underdogs carry upset variance that a 3.5-point cushion does not cover.
+3. **Tier-gap moneylines need a host in the T-Rank top ~150.** The tier-gap rule is 23/23 over three Best Shots, but Tarleton (-2800, a low-major host) beat Alcorn by only 4 and Liberty (-3000) beat NC Central by 8.
+4. **NBA buy-downs land near the number** (Rockets by 7 on -6.5 even with Sengun scoring 43). Keep NBA buy-downs at 10+ points off the main line and only vs teams on a long losing streak or a back-to-back.
+5. **What kept working:** totals game-log test (2/2), team-total under on the worst NHL offense, backup-QB fade (Illinois +20.5), and clearly-better home favorites with a plus-side cushion (Spurs, Magic).
+### How lessons changed today's card
+- Home-loss check: Denver +1.5 passes (Pelicans lost their last two home games by 34 and 31 and are on a back-to-back). Pistons at Miami (-4.5) skipped: small road favorite, Duren and Joe out.
+- CFB road-favorite rule: only Alabama (-14.5, SP+ by 21) is used, at +1.5 in the Best Shot. ECU (-10.5, SP+ 22), Nevada at 0-9 NIU (-5.5, SP+ 18) and Wyoming at 1-8 UTEP (-7, SP+ 18) were skipped despite big model edges. Nebraska (-14.5) was left off to avoid stacking road favorites.
+- Buy-down +7 bar on SP+ projections: Liberty -10.5, Notre Dame -17.5, Iowa -7.5, Virginia Tech -5.5, Louisiana Tech -7.5 and New Mexico -7.5 all clear by 12.5+. Boise, Clemson, TCU, Ohio State, Miami and Georgia (vs ranked Missouri) were skipped.
+- NBA buy-down only vs a back-to-back opponent: Wolves -4.5 (10 off -14.5) vs a Bulls team that played OT last night.
+- Goalie-edge rule: Devils (Hellebuyck .916 confirmed vs Thompson .889) and Hurricanes (Kochetkov .920 vs Daccord .881; Seattle just back from Finland). Ottawa (Ullmark .938 vs Murashov .889) and the Islanders (Sorokin .915 vs Husso .869) pass but are held for 3 PM confirmations.
+- Tier-gap rule with a top-150 host: GT, Wake Forest, St. Bonaventure, Cal and Duquesne pass. ECU (175), Towson (162), San Francisco (161) and George Mason vs Bradley (MVC, not a bottom-tier visitor) were skipped.
+- No singles (no plus-money edge confirmed by injury news; SP+ disagreements on CSU/WSU and Fresno/Texas State were not explained, so not bet). No +1000 lottery without coin-flip legs. Best Shot is 6 legs at -282 ($6.77 on $5), far short of $5K; stated rather than padded.

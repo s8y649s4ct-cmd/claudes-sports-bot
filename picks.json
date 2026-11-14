@@ -1,150 +1,270 @@
 {
- "updated": "Fri Nov 13, 2026 3:00 PM ET",
- "run": "Friday 3:00 PM: nothing new settled since 10:30 AM (this morning's three 2-leg parlays and Best Shot all play tonight and stay pending; see the record). Three new 2-leg parlays from the events held back this morning: Spurs +1.5 (Curry out) and Magic +1.5 vs 1-11 Milwaukee, Grizzlies +7.5 (5-0 on the road) and Illinois +20.5 vs a UCLA team on its third-string QB, and a Canucks team-total under with Drake ML, plus a short 2-leg Best Shot of game-log-tested totals. NHL +1.5 legs were skipped (neither game passes the goalie-edge rule). No singles cleared the edge bar. No +1000 lottery was possible without coin-flip legs.",
+ "updated": "Sat Nov 14, 2026 10:30 AM ET",
+ "run": "Saturday 10:30 AM: Friday graded 6-2 (legs 19/22). Wins: Blazers/Rockets, both Best Shots, Spurs/Magic, Grizzlies/Illinois, Canucks under/Drake. Losses: Knicks +1.5 (lost by 2 at Indiana) and Houston +3.5/Hawks +4.5 (both road favorites lost outright). New rules from the losses: skip NBA road favorites when the home team keeps losing close at home, and no CFB road favorites under -14. Today: five 2-leg parlays (NBA back-to-back spots, four bought-down CFB home favorites with SP+ projections well past the +7 bar, and two goalie-edge NHL +1.5 legs) plus a 6-leg Best Shot. Ottawa/Islanders NHL legs held for 3 PM goalie confirmations. No singles cleared the edge bar. No +1000 lottery was possible without coin-flip legs.",
  "singles": [],
  "parlays": [
   {
-   "name": "Spurs + Magic Home Cushions",
-   "odds": -220,
+   "name": "Nuggets Road Cushion + Wolves Bought-Down",
+   "odds": -271,
    "stake": 10,
    "legs": [
     {
-     "pick": "San Antonio Spurs +1.5",
+     "pick": "Denver Nuggets +1.5",
      "market": "Alternate Spread",
-     "odds": -650,
+     "odds": -750,
      "sport": "NBA",
-     "event": "Golden State Warriors @ San Antonio Spurs",
-     "start": "Fri 9:40 PM ET",
-     "reason": "Held this morning for injury news. San Antonio (10-2, +11.2 differential, 10 straight wins) is the -11.5 home favorite (ML -700) vs a Golden State team without Stephen Curry (oblique tear, out 2-4 weeks), Jimmy Butler, Kristaps Porzingis, Moses Moody and Brandon Williams. The Warriors went 13-26 without Curry last season and are 2-3 on the road. De'Aaron Fox (hip) and Devin Vassell (adductor) are questionable; the line moved only from -12.5 to -11.5 on that news, and the Spurs won their last two without Vassell. Wembanyama is averaging 32.6 points and 4.5 blocks during the streak. Both teams are rested (neither played Thursday). +1.5 is 13 points of cushion: Golden State has to win by 2+ in San Antonio without its four best healthy-roster scorers. Tips 9:40 PM ET.",
-     "marketId": "742.197436952",
-     "selectionId": "7890823",
-     "eventId": 36307619,
-     "marketIdMD": "724.197575710"
+     "event": "Denver Nuggets @ New Orleans Pelicans",
+     "start": "Sat 7:10 PM ET",
+     "reason": "Denver (6-4, Jokic healthy at 23.5/10.8/9.0, only Strawther out) is the -12.5 road favorite (ML -750) at New Orleans (4-9). The Pelicans are on the second night of a back-to-back after losing 142-111 at home to Memphis on Friday, and they lost 145-111 at home to Brooklyn on Wednesday: a three-game home skid with losses by 34 and 31. Denver is rested (last played Wednesday) and has won at New Orleans already this season (by 13). New Orleans is still without Trey Murphy III, Missi and McGowens, with Mathurin doubtful as of Thursday. Road favorite on the plus side, and the new home-loss check passes: the Pelicans' recent home losses are blowouts, not close games (unlike Indiana and Chicago on Friday). +1.5 is 14 points of cushion, so New Orleans must win by 2+ on tired legs. Tips 7:10 PM ET.",
+     "marketId": "742.197620109",
+     "selectionId": "7889677",
+     "eventId": 36311557,
+     "marketIdMD": "724.197758845"
     },
     {
-     "pick": "Orlando Magic +1.5",
+     "pick": "Minnesota Timberwolves -4.5",
      "market": "Alternate Spread",
-     "odds": -385,
+     "odds": -480,
      "sport": "NBA",
-     "event": "Milwaukee Bucks @ Orlando Magic",
-     "start": "Fri 7:10 PM ET",
-     "reason": "Held this morning for injury news. Orlando (4-7, -5.5 differential, two straight wins, 4-3 on the road) is the -9.5 home favorite (moved from -8.5 this morning toward Orlando) vs Milwaukee (1-11, -14.5 differential, 8 straight losses, 0-5 on the road with road losses by 12, 11, 12, 7 and 32; seven of the eight straight losses by double digits). Banchero, Isaac, Penda and Nelson are out and Suggs/da Silva are questionable, which is why this is +1.5 rather than a spread. Risk noted: Orlando is 0-4 at home (losses by 7, 22, 11, 9). Both teams are rested. +1.5 is 11 points of cushion: the Bucks have to win by 2+ for only their second win of the season.",
-     "marketId": "742.197434881",
-     "selectionId": "7883280",
-     "eventId": 36307625,
-     "marketIdMD": "724.197573618"
+     "event": "Chicago Bulls @ Minnesota Timberwolves",
+     "start": "Sat 8:10 PM ET",
+     "reason": "Minnesota (9-3) is the -14.5 home favorite vs Chicago (2-9). The Wolves are without Anthony Edwards (knee, since Oct 29) and DiVincenzo, but have played most of their 9-3 start without Edwards and won home games by 23, 26, 12, 15 and 39 (one home loss, by 5 to Golden State). Chicago is on the second night of a back-to-back after an overtime win over Atlanta on Friday, has to travel to Minneapolis, and has lost road games by 43, 35, 14, 19 and 30 (one road win, at 1-11 Milwaukee). Chicago is without Caleb Wilson (18.9 ppg), Swain and Awaka. Clearly better by point differential and form; -4.5 is 10 points off the main line, so the Wolves need to win by 5+. Tips 8:10 PM ET.",
+     "marketId": "742.197620321",
+     "selectionId": "7891198",
+     "eventId": 36311554,
+     "marketIdMD": "724.197759059"
     }
    ],
-   "reason": "Two NBA home favorites from the clearly better side, each with 11-13 points of cushion: the 10-game-winning Spurs vs a Warriors team missing Curry and three other rotation players, and Orlando vs a 1-11 Bucks team that is 0-5 on the road."
+   "reason": "Two NBA favorites against tired, losing opponents on the second night of a back-to-back: Denver at a Pelicans team that just lost two home games by 30+, and Minnesota vs a Bulls team that played overtime last night and loses on the road by double digits."
   },
   {
-   "name": "Grizzlies Road Cushion + Illini Big Cushion",
-   "odds": -160,
+   "name": "Flames + Hawkeyes Bought-Down",
+   "odds": -153,
    "stake": 10,
    "legs": [
     {
-     "pick": "Memphis Grizzlies +7.5",
+     "pick": "Liberty -10.5",
      "market": "Alternate Spread",
      "odds": -370,
-     "sport": "NBA",
-     "event": "Memphis Grizzlies @ New Orleans Pelicans",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Memphis (7-4, +6.0 differential) is the -3.5 road favorite at New Orleans (4-8, -7.4, four straight losses including 145-111 at home to Brooklyn on Wednesday and 51 at Golden State). Memphis is 5-0 on the road (by 3, 11, 5, 21 and 16), so it passes the road-favorite form check. Both teams are rested. Memphis is missing Edey, Pippen Jr., Post and Saunders; New Orleans is missing Trey Murphy III, Missi and McGowens, with Dejounte Murray doubtful and Mathurin questionable. Road favorites go on the plus side: +7.5 is 11 points of cushion, so the Pelicans must win by 8+. They have won by 8+ only twice in seven home games.",
-     "marketId": "742.197436704",
-     "selectionId": "7890755",
-     "eventId": 36307620,
-     "marketIdMD": "724.197575452"
+     "sport": "NCAAF",
+     "event": "Middle Tennessee @ Liberty",
+     "start": "Sat 3:30 PM ET",
+     "reason": "Liberty (8-1, eight straight wins by an average of 23.1) is -21.5 at home vs Middle Tennessee (5-4). SP+ projects Liberty by 32 (Liberty 22nd, MTSU 123rd). Liberty's defense is 6th nationally (13.6 points allowed) and has held seven straight opponents under 20; its offense is 7th in EPA per play vs MTSU's 106th-ranked defense. QB Deshawn Purdie (11 TD, 1 INT) is healthy; Liberty has 5 turnovers all season. Buy-down +7 bar: the SP+ projection (32) clears -10.5 by 21.5. Risk noted: MTSU scored 51 last week vs WKU and needs one win for bowl eligibility. Kicks 3:30 PM ET.",
+     "marketId": "742.196717712",
+     "selectionId": "51123840",
+     "eventId": 36285345,
+     "marketIdMD": "724.196856451"
     },
     {
-     "pick": "Illinois +20.5",
+     "pick": "Iowa -7.5",
      "market": "Alternate Spread",
-     "odds": -360,
+     "odds": -330,
      "sport": "NCAAF",
-     "event": "Illinois @ UCLA",
-     "start": "Fri 9:00 PM ET",
-     "reason": "Backup-QB fade applied to the favorite: No. 4 UCLA (9-0) is -10.5 at home but is on a short week with its third-string QB Ty Dieffenbach (8 of 16 passing last week) and without starting QB Iamaleava, WRs Mikey Matthews, Jonah Smith and Jalen Saint Paul, OL Sam Yoon and Hall Schmidt, with C Riley Robell questionable. Illinois (6-3) has won four straight (Michigan State, Oregon, Maryland, Nebraska), has held three straight opponents under 20, and QB Katin Houser is healthy. Total is only 47.5, a low-scoring script. +20.5 is 10 points beyond the main line and past three touchdowns: UCLA must win by 21+.",
-     "marketId": "742.196714619",
-     "selectionId": "48315230",
-     "eventId": 36285251,
-     "marketIdMD": "724.196853357"
+     "event": "Purdue @ Iowa",
+     "start": "Sat 7:30 PM ET",
+     "reason": "No. 15 Iowa (7-2) is -17.5 at home vs Purdue (3-6, three straight losses; the Boilermakers fired their defensive coordinator after allowing 38, 31 and 34 in that stretch and rank 99th in run defense). Iowa leads the Big Ten in scoring defense (12.2 allowed) and has allowed 23 total points in its last three games; at Kinnick only Ohio State has scored more than 13 this season. Iowa's leading rusher Moulton is out, but Phillips Jr. (128 yards last week) and Williams carry the load. SP+ projects Iowa by 21 (SportsLine model 33-17). Buy-down +7 bar: 21 clears -7.5 by 13.5. Clear, 36F, no wind. Kicks 7:30 PM ET.",
+     "marketId": "742.196718800",
+     "selectionId": "48220011",
+     "eventId": 36285377,
+     "marketIdMD": "724.196857538"
     }
    ],
-   "reason": "An NBA road favorite that is 5-0 on the road with 11 points of cushion against a slumping, short-handed Pelicans team, plus a hot Illinois team getting 20.5 against an unbeaten UCLA team playing its third-string QB in a 47.5-total game."
+   "reason": "Two home favorites with elite defenses, each bought down 10-11 points and each projected well past the bar: Liberty (SP+ by 32) and Iowa (SP+ by 21)."
   },
   {
-   "name": "Canucks Team Under + Bulldogs ML",
-   "odds": -208,
+   "name": "Irish + Hokies Bought-Down",
+   "odds": -191,
    "stake": 10,
    "legs": [
     {
-     "pick": "Vancouver Canucks Under 3.5 Goals",
-     "market": "Vancouver Canucks Alt Total Goals",
-     "odds": -280,
-     "sport": "NHL",
-     "event": "New York Rangers @ Vancouver Canucks",
-     "start": "Fri 9:10 PM ET",
-     "reason": "Vancouver (3-16-1, six straight losses) has scored 1, 2, 2, 2, 2, 2, 3, 2, 2, 6, 2, 2, 4, 2, 2, 1 in its regular-season games: 4+ goals only twice in 16 (and two or fewer in five of the last six). Chytil is on IR. Under 3.5 loses only if the Canucks score 4+. The Rangers' Dylan Garand (.905, confirmed) has allowed three or fewer in five straight starts. This replaces a Rangers +1.5 leg, which fails the goalie-edge rule (Garand .905 vs Merilainen .888 is only ~.017 and the favorite's starter is under .910). NHL team totals have been one of our best Best Shot leg types.",
-     "marketId": "742.197470974",
-     "selectionId": "8359773",
-     "eventId": 36309172,
-     "marketIdMD": "724.197609697"
+     "pick": "Notre Dame -17.5",
+     "market": "Alternate Spread",
+     "odds": -500,
+     "sport": "NCAAF",
+     "event": "Boston College @ Notre Dame",
+     "start": "Sat 3:30 PM ET",
+     "reason": "No. 5 Notre Dame (8-1, won its last two vs Navy 35-13 and Miami 31-24) is -29.5 at home vs Boston College (4-5, lost its last two including 47-2 at Duke). QB CJ Carr is active. Notre Dame's injuries are on defense (LB Bowen, CB McKinney, S Johnson out; DTs Brewu/Onye questionable), which is the reason for 12 points of cushion rather than the main line. BC QB Mason McKenzie (57.2%, 10 TD, 8 INT) is a D-II transfer. SP+ projects Notre Dame by 32. Buy-down +7 bar: 32 clears -17.5 by 14.5. Cloudy, 40F, light wind. Kicks 3:30 PM ET.",
+     "marketId": "742.196717004",
+     "selectionId": "48219873",
+     "eventId": 36285329,
+     "marketIdMD": "724.196855741"
     },
     {
-     "pick": "Drake ML",
-     "market": "Moneyline",
-     "odds": -1100,
-     "sport": "NCAAB",
-     "event": "South Dakota @ Drake",
-     "start": "Fri 7:30 PM ET",
-     "reason": "Held this morning. Drake (2-0, T-Rank ~144, MVC; Jon Carroll 20.5 ppg) is -13.5 (ML -1100) at home vs South Dakota (1-3, T-Rank ~304, Summit), whose defense ranks near the bottom of D-I (adjusted ~114 points allowed per 100). Projection: Drake by ~13. Lower-league visitor ranked ~300 passes the tier-gap rule. Moneyline rather than a buy-down: South Dakota scores 87.5 a game (high variance), and Drake -4.5 would clear the +7 projection bar by only 1.5. Drake has won three straight in the series. Tips 7:30 PM ET.",
-     "marketId": "742.197387082",
-     "selectionId": "735897",
-     "eventId": 36313219,
-     "marketIdMD": "724.197525819"
+     "pick": "Virginia Tech -5.5",
+     "market": "Alternate Spread",
+     "odds": -370,
+     "sport": "NCAAF",
+     "event": "Stanford @ Virginia Tech",
+     "start": "Sat 7:30 PM ET",
+     "reason": "Virginia Tech (6-3) is -15.5 at home vs Stanford (4-5, 16 players on the ACC availability report). SP+ projects Virginia Tech by 22, so -5.5 (10 points off the main line) clears the buy-down +7 bar by 16.5. Lane Stadium at night in 36F weather is a hard trip for a West Coast team. Stanford QB Davis Warren is expected to start. Kicks 7:30 PM ET.",
+     "marketId": "742.196718724",
+     "selectionId": "48628929",
+     "eventId": 36285374,
+     "marketIdMD": "724.196857458"
     }
    ],
-   "reason": "A team-total under on the worst offense in the NHL (two or fewer goals in 14 of 16 games) plus a tier-gap home moneyline."
+   "reason": "Two ACC/independent home favorites bought down 10-12 points with SP+ projections 14-16 points past the bought line."
+  },
+  {
+   "name": "Bulldogs + Lobos Bought-Down",
+   "odds": -145,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Louisiana Tech -7.5",
+     "market": "Alternate Spread",
+     "odds": -320,
+     "sport": "NCAAF",
+     "event": "Southern Miss @ Louisiana Tech",
+     "start": "Sat 5:00 PM ET",
+     "reason": "Louisiana Tech (7-2) is -17.5 at home vs Southern Miss (3-6) in the Rivalry in Dixie. SP+ projects La Tech by 20, so -7.5 (10 points off the main line) clears the +7 bar by 12.5. QB Blake Baker is probable after a leg injury and RB Dylone Brooks is out (turf toe), which is why the cushion is 10 points; Southern Miss is missing WR Jaylen Himes and OL Aloalii Maui. Clear, 56F. Kicks 5:00 PM ET.",
+     "marketId": "742.196718408",
+     "selectionId": "49740847",
+     "eventId": 36285355,
+     "marketIdMD": "724.196857145"
+    },
+    {
+     "pick": "New Mexico -7.5",
+     "market": "Alternate Spread",
+     "odds": -350,
+     "sport": "NCAAF",
+     "event": "UNLV @ New Mexico",
+     "start": "Sat 7:30 PM ET",
+     "reason": "New Mexico (8-1, No. 1 scoring defense in the Mountain West) is -17.5 at home vs UNLV (5-4). SP+ projects New Mexico by 20; -7.5 clears the +7 bar by 12.5. UNLV benched QB Jackson Arnold late against Wyoming and has not settled on a starter (Arnold or Alex Orji). Risk noted: a 24% chance of rain with storms possible in Albuquerque. Kicks 7:30 PM ET.",
+     "marketId": "742.196719083",
+     "selectionId": "48218610",
+     "eventId": 36285385,
+     "marketIdMD": "724.196857821"
+    }
+   ],
+   "reason": "Two Group of 6 home favorites bought down 10 points with SP+ projections of 20, both against opponents with offensive problems."
+  },
+  {
+   "name": "Devils + Canes Goalie-Edge Ice",
+   "odds": -242,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "New Jersey Devils +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -320,
+     "sport": "NHL",
+     "event": "New Jersey Devils @ Washington Capitals",
+     "start": "Sat 7:08 PM ET",
+     "reason": "Goalie-edge rule passes: Connor Hellebuyck (6-0-0, .916, confirmed) vs Logan Thompson (.889, projected), an edge of .027 with the favorite's starter above .910. New Jersey (-120) beat Washington 5-2 on Thursday. +1.5 loses only if Washington wins by 2+. Faces off 7:08 PM ET.",
+     "marketId": "742.197648376",
+     "selectionId": "7000413",
+     "eventId": 36309166,
+     "marketIdMD": "724.197787122"
+    },
+    {
+     "pick": "Carolina Hurricanes +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -1300,
+     "sport": "NHL",
+     "event": "Seattle Kraken @ Carolina Hurricanes",
+     "start": "Sat 1:10 PM ET",
+     "reason": "Goalie-edge rule passes: Pyotr Kochetkov (11-1-0, .920) vs Joey Daccord (.881, likely; pulled in his last start after 3 goals on 10 shots and has allowed 3+ in four of five), an edge of .039. Carolina leads the NHL in expected goals (3.67 per game) and has outscored opponents 18-6 during a three-game win streak. Seattle is just back from its Global Series trip to Finland. Carolina is the -385 home favorite; +1.5 loses only if Seattle wins by 2+. Faces off 1:10 PM ET.",
+     "marketId": "742.197645715",
+     "selectionId": "7000401",
+     "eventId": 36309170,
+     "marketIdMD": "724.197784459"
+    }
+   ],
+   "reason": "The two NHL games that pass the goalie-edge rule with a confirmed or likely starter this morning. Ottawa (Ullmark .938) and the Islanders (Sorokin .915) also pass but are held for 3 PM goalie confirmations."
   }
  ],
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": -400,
+   "odds": -282,
    "stake": 5,
    "legs": [
     {
-     "pick": "Cavaliers/Heat Over 213.5",
-     "market": "Alternate Total Points",
-     "odds": -1200,
-     "sport": "NBA",
-     "event": "Cleveland Cavaliers @ Miami Heat",
-     "start": "Fri 8:10 PM ET",
-     "reason": "Main total 235.5, so 213.5 is 22 points of cushion. Game-log test: 11 of 12 Cleveland games (lowest 206, then 214) and 11 of 11 Miami games (lowest 220) went over 213.5. Cleveland is without Evan Mobley (its best defender) and Sam Merrill; Miami has Giannis (available) and Klay (probable). Both teams are rested. Passes the ~90% game-log rule.",
-     "marketId": "742.197436620",
-     "selectionId": "7712127",
-     "eventId": 36307621,
-     "marketIdMD": "724.197575356"
+     "pick": "Georgia Tech ML",
+     "market": "Moneyline",
+     "odds": -3500,
+     "sport": "NCAAB",
+     "event": "UNC Asheville @ Georgia Tech",
+     "start": "Sat 4:00 PM ET",
+     "reason": "Tier gap: Georgia Tech (3-0, T-Rank ~112, ACC) vs UNC Asheville (2-2, ~282, Big South). Host is top-150 (new rule) and the visitor is 200+.",
+     "marketId": "742.197577066",
+     "selectionId": "690519",
+     "eventId": 36317103,
+     "marketIdMD": "724.197715803"
     },
     {
-     "pick": "Predators/Golden Knights Under 8.5 Goals",
-     "market": "Alternate Total Goals",
-     "odds": -650,
-     "sport": "NHL",
-     "event": "Nashville Predators @ Vegas Golden Knights",
-     "start": "Fri 10:10 PM ET",
-     "reason": "Main total 6.5. Game-log test: 15 of 16 Nashville games and 17 of 17 Vegas games had 8 or fewer goals. Juuse Saros (.919, confirmed) has stopped 84 of 86 over his last three; Adin Hill (.903, confirmed) starts for Vegas. Nashville is on its third game in four nights (lower tempo). Under 8.5 loses only on 9+ goals.",
-     "marketId": "742.197470856",
-     "selectionId": "8359782",
-     "eventId": 36309171,
-     "marketIdMD": "724.197609608"
+     "pick": "Wake Forest ML",
+     "market": "Moneyline",
+     "odds": -4000,
+     "sport": "NCAAB",
+     "event": "Southern Utah @ Wake Forest",
+     "start": "Sat 4:00 PM ET",
+     "reason": "Tier gap: Wake Forest (T-Rank ~89, ACC) vs Southern Utah (~245, WAC/Big Sky tier).",
+     "marketId": "742.197584569",
+     "selectionId": "352102",
+     "eventId": 36317216,
+     "marketIdMD": "724.197723306"
+    },
+    {
+     "pick": "St. Bonaventure ML",
+     "market": "Moneyline",
+     "odds": -2500,
+     "sport": "NCAAB",
+     "event": "Lafayette @ St. Bonaventure",
+     "start": "Sat 4:00 PM ET",
+     "reason": "Tier gap: St. Bonaventure (T-Rank ~107, A-10) vs Lafayette (~337, Patriot).",
+     "marketId": "742.197588857",
+     "selectionId": "701609",
+     "eventId": 36317281,
+     "marketIdMD": "724.197727594"
+    },
+    {
+     "pick": "California ML",
+     "market": "Moneyline",
+     "odds": -1600,
+     "sport": "NCAAB",
+     "event": "Utah Tech @ California",
+     "start": "Sat 5:00 PM ET",
+     "reason": "Tier gap: California (T-Rank ~103, ACC) vs Utah Tech (1-2, ~316, WAC).",
+     "marketId": "742.197586256",
+     "selectionId": "352410",
+     "eventId": 36317237,
+     "marketIdMD": "724.197724993"
+    },
+    {
+     "pick": "Duquesne ML",
+     "market": "Moneyline",
+     "odds": -3000,
+     "sport": "NCAAB",
+     "event": "Binghamton @ Duquesne",
+     "start": "Sat 7:30 PM ET",
+     "reason": "Tier gap: Duquesne (3-0, T-Rank ~133, A-10) vs Binghamton (~327, America East).",
+     "marketId": "742.197590285",
+     "selectionId": "710164",
+     "eventId": 36317312,
+     "marketIdMD": "724.197729022"
+    },
+    {
+     "pick": "Alabama +1.5",
+     "market": "Alternate Spread",
+     "odds": -800,
+     "sport": "NCAAF",
+     "event": "Alabama @ Vanderbilt",
+     "start": "Sat 12:45 PM ET",
+     "reason": "No. 3 Alabama (7-2) is the -14.5 road favorite at Vanderbilt (4-5); SP+ projects Alabama by 21. Passes the new CFB road-favorite rule (only road favorites of -14 or more), and road favorites go on the plus side: +1.5 is 16 points of cushion, so Vanderbilt must win outright by 2+.",
+     "marketId": "742.196715682",
+     "selectionId": "48219807",
+     "eventId": 36285297,
+     "marketIdMD": "724.196854419"
     }
    ],
-   "reason": "A short-priced two-leg safety ticket from the two best total-cushion legs left after the 2-leg card. It is nowhere near +1000 or the $5K target: every high-probability side leg tonight is on the three 2-leg parlays (Ferdinand's priority) or on this morning's still-pending tickets, and no leg may repeat. The rest of the board is pick'em NBA/college games, goalie-rule failures (Rangers, Vegas), Thunder/Clippers (fails the road-favorite form check and the totals test), competent mid-major visitors (Utah State, Fordham, Alabama, UConn) or -50000 moneylines that add nothing. Reaching $5K on $5 would take about ten coin-flip legs, so it is not padded."
+   "reason": "A safety ticket of tier-gap moneylines (five hosts in the T-Rank top ~135 vs visitors ranked 245-337) plus Alabama +1.5. It is nowhere near the $5K target: reaching $5K on $5 would take roughly a dozen coin-flip legs, and the best high-probability legs are on the 2-leg parlays (no repeats). It is not padded."
   }
  ],
  "results": {
-  "updated": "Fri Nov 13, 2026 3:00 PM ET",
-  "sources": "FanDuel PA public odds (event-page API, pulled ~3:00 PM ET and refreshed at build); NBA official injury report 11/13 1:45 PM ET; ESPN NBA standings and team schedules (margins, game totals, rest), ESPN NBA scoreboards 11/11-11/12; ESPN NHL team schedules (Canucks, Predators, Golden Knights); Daily Faceoff starting goalies 11/13, CBS/RotoWire (Adin Hill), Pony xG; ClutchPoints, CBS Sports, Air Alamo, FanDuel Research, Hoops Nightly (Spurs-Warriors, Fox/Vassell); ClutchPoints, TheSpread, VSiN (Bucks-Magic, Heat-Cavaliers); UCLA Wire, CBS Sports, AP, Hello Rookie (Illinois-UCLA); Drake Athletics, AP (South Dakota-Drake); Barttorvik 2027 T-Rank ratings; lessons.md",
+  "updated": "Sat Nov 14, 2026 10:30 AM ET",
+  "sources": "FanDuel PA public odds (event-page API, pulled ~10:30 AM ET and refreshed at build); ESPN scoreboards and box scores 11/13 (grading); ESPN NBA team schedules (margins, rest); NBA official injury report 11/14 7:30 AM ET, HoopMetrics, TalkBasket, Hoops Nightly (Jokic); Daily Faceoff starting goalies 11/14; Early Downs SP+ previews (Week 11); Barttorvik 2027 T-Rank; SI/On3/Yahoo (Notre Dame-BC injuries), IndyStar/NBC/CBS (Purdue-Iowa), Liberty Athletics/Tennessean/AP (MTSU-Liberty), ACC Sports Journal (Stanford-VT), Albuquerque Journal (UNLV QB), Ruston Daily Leader/SI (Southern Miss-La Tech); lessons.md",
   "totals": {
    "singles": {
     "won": 26,
@@ -156,45 +276,45 @@
     "roiPct": 4.5
    },
    "parlays": {
-    "won": 44,
-    "lost": 45,
-    "pending": 6,
-    "staked": 890,
-    "profit": -97.08,
-    "winPct": 49.4,
-    "roiPct": -10.9
+    "won": 48,
+    "lost": 47,
+    "pending": 5,
+    "staked": 950,
+    "profit": -96.06,
+    "winPct": 50.5,
+    "roiPct": -10.1
    },
    "lottery": {
-    "won": 6,
+    "won": 8,
     "lost": 33,
-    "pending": 2,
-    "staked": 195,
-    "profit": -85.05,
-    "winPct": 15.4,
-    "roiPct": -43.6
+    "pending": 1,
+    "staked": 205,
+    "profit": -83.15,
+    "winPct": 19.5,
+    "roiPct": -40.6
    },
    "overall": {
-    "won": 76,
-    "lost": 103,
-    "pending": 8,
-    "staked": 1595,
-    "profit": -158.93,
-    "winPct": 42.5,
-    "roiPct": -10.0
+    "won": 82,
+    "lost": 105,
+    "pending": 6,
+    "staked": 1665,
+    "profit": -156.01,
+    "winPct": 43.9,
+    "roiPct": -9.4
    },
    "legs": {
-    "hit": 684,
-    "miss": 217,
-    "pending": 48,
+    "hit": 703,
+    "miss": 220,
+    "pending": 42,
     "void": 3
    },
-   "won": 76,
-   "lost": 103,
-   "pending": 8,
-   "winPct": 42.5,
-   "staked": 1595,
-   "profit": -158.93,
-   "roiPct": -10.0
+   "won": 82,
+   "lost": 105,
+   "pending": 6,
+   "winPct": 43.9,
+   "staked": 1665,
+   "profit": -156.01,
+   "roiPct": -9.4
   },
   "singles": {
    "won": 26,
@@ -206,22 +326,22 @@
    "roiPct": 4.5
   },
   "parlays": {
-   "won": 44,
-   "lost": 45,
-   "pending": 6,
-   "staked": 890,
-   "profit": -97.08,
-   "winPct": 49.4,
-   "roiPct": -10.9
+   "won": 48,
+   "lost": 47,
+   "pending": 5,
+   "staked": 950,
+   "profit": -96.06,
+   "winPct": 50.5,
+   "roiPct": -10.1
   },
   "lottery": {
-   "won": 6,
+   "won": 8,
    "lost": 33,
-   "pending": 2,
-   "staked": 195,
-   "profit": -85.05,
-   "winPct": 15.4,
-   "roiPct": -43.6
+   "pending": 1,
+   "staked": 205,
+   "profit": -83.15,
+   "winPct": 19.5,
+   "roiPct": -40.6
   },
   "history": [
    {
@@ -9247,26 +9367,26 @@
     "name": "Blazers Road Cushion + Rockets Bought-Down",
     "odds": -185,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 5.41,
     "legs": [
      {
       "pick": "Portland Trail Blazers +1.5",
       "odds": -430,
       "event": "Portland Trail Blazers @ Sacramento Kings",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "POR 120-107 at SAC (won by 13)"
      },
      {
       "pick": "Houston Rockets -6.5",
       "odds": -400,
       "event": "Utah Jazz @ Houston Rockets",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "HOU 125-118 vs UTA (won by 7, needed 7)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: Portland won 120-107 at Sacramento (+1.5 not needed) and Houston beat Utah 125-118, covering -6.5 by half a point.",
+    "lesson": "Blazers +1.5 was the model road-favorite leg: the Kings' home losses were by 11, 13, 15, 6, 7 and 27 (blowouts), and they lost by 13 again. Rockets -6.5 needed Sengun's 43 to clear by half a point vs an 11-straight-loss Jazz team; NBA buy-downs of ~10 points still land near the number, so buy-downs of NBA spreads should keep 10+ points off the main line."
    },
    {
     "date": "2026-11-13",
@@ -9275,26 +9395,26 @@
     "name": "Knicks Road Cushion + Scarlet Knights Bought-Down",
     "odds": -167,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "lost",
+    "profit": -10,
     "legs": [
      {
       "pick": "New York Knicks +1.5",
       "odds": -320,
       "event": "New York Knicks @ Indiana Pacers",
-      "result": "pending",
-      "actual": "pending"
+      "result": "miss",
+      "actual": "IND 106-104 vs NYK (Knicks lost by 2; needed to lose by 1 or less)"
      },
      {
       "pick": "Rutgers -13.5",
       "odds": -460,
       "event": "Bryant @ Rutgers",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "RUTG 72-51 vs Bryant (won by 21)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Lost: Rutgers beat Bryant 72-51 (covered -13.5 by 7.5), but Indiana beat New York 106-104 in an NBA Cup game; Knicks +1.5 missed by half a point.",
+    "lesson": "The Pacers' home losses before Friday were by 5, 8, 4 and 12, so they were a competitive home team despite 1-4. Brunson scored 33 but the Knicks lost the second quarter 32-22. Rule: a road favorite on the plus side needs a home team that has been getting blown out at home (most home losses by 10+, like Sacramento). If the bad home team's losses are mostly within 8, skip it. Also, NBA Cup games produced two outright wins by struggling home teams on Friday (Indiana, Chicago)."
    },
    {
     "date": "2026-11-13",
@@ -9303,26 +9423,26 @@
     "name": "Cougars Road Cushion + Hawks Big Cushion",
     "odds": -211,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "lost",
+    "profit": -10,
     "legs": [
      {
       "pick": "Houston +3.5",
       "odds": -650,
       "event": "Houston @ Colorado",
-      "result": "pending",
-      "actual": "pending"
+      "result": "miss",
+      "actual": "COLO 42-32 vs HOU (Houston lost by 10)"
      },
      {
       "pick": "Atlanta Hawks +4.5",
       "odds": -360,
       "event": "Atlanta Hawks @ Chicago Bulls",
-      "result": "pending",
-      "actual": "pending"
+      "result": "miss",
+      "actual": "CHI 125-117 OT vs ATL (110-110 after regulation; Bulls won OT 15-7, Hawks lost by 8)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Lost both legs: Colorado beat No. 14 Houston 42-32 (Houston +3.5 lost by 10), and Chicago beat Atlanta 125-117 in overtime (110-110 after regulation, so Hawks +4.5 lost when the Bulls won OT 15-7).",
+    "lesson": "Two road favorites against struggling home teams both lost outright. Colorado ran for 67-, 38- and 32-yard touchdowns at home at night with a coach on the hot seat. College road favorites under two touchdowns carry upset risk that +3.5 does not cover. Chicago's home losses were all by 4-6, which was the warning; we added cushion when we should have skipped. Rules: (1) no CFB road favorite of less than -14 on any side; (2) skip NBA road favorites when the home team keeps losing close at home (same as the Knicks lesson)."
    },
    {
     "date": "2026-11-13",
@@ -9331,68 +9451,68 @@
     "name": "Best Shot $500K",
     "odds": -767,
     "stake": 5,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 0.65,
     "legs": [
      {
       "pick": "Florida State ML",
       "odds": -10000,
       "event": "Texas A&M-CC @ Florida State",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "FSU 84-60 vs TAMU-CC"
      },
      {
       "pick": "NC State ML",
       "odds": -10000,
       "event": "Troy @ NC State",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "NCSU 81-62 vs Troy"
      },
      {
       "pick": "UCF ML",
       "odds": -10000,
       "event": "Georgia Southern @ UCF",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "UCF 84-70 vs Georgia Southern"
      },
      {
       "pick": "TCU ML",
       "odds": -10000,
       "event": "Milwaukee @ TCU",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "TCU 76-64 vs Milwaukee"
      },
      {
       "pick": "Arkansas ML",
       "odds": -20000,
       "event": "Central Arkansas @ Arkansas",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "ARK 79-66 vs Central Arkansas"
      },
      {
       "pick": "SMU ML",
       "odds": -10000,
       "event": "Ball State @ SMU",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "SMU 90-65 vs Ball State"
      },
      {
       "pick": "Liberty ML",
       "odds": -3000,
       "event": "North Carolina Central @ Liberty",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "LIB 74-66 vs NC Central"
      },
      {
       "pick": "Tarleton State ML",
       "odds": -2800,
       "event": "Alcorn State @ Tarleton State",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "TAR 73-69 vs Alcorn State (by 4)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won 8/8: Florida State by 24, NC State by 19, UCF by 14, TCU by 12, Arkansas by 13, SMU by 25, Liberty by 8 and Tarleton State by 4. Paid $0.65 on $5 at -767.",
+    "lesson": "The tier-gap rule went 8/8 again (23/23 over three Best Shots), but Tarleton (-2800) beat SWAC Alcorn by only 4 and Liberty (-3000) by 8. When the host is itself a low-major (T-Rank 150+), the tier gap is smaller than the price suggests. Tier-gap moneylines now need a host in the top ~150."
    },
    {
     "date": "2026-11-13",
@@ -9401,26 +9521,26 @@
     "name": "Spurs + Magic Home Cushions",
     "odds": -220,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 4.55,
     "legs": [
      {
       "pick": "San Antonio Spurs +1.5",
       "odds": -650,
       "event": "Golden State Warriors @ San Antonio Spurs",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "SA 123-85 vs GSW (won by 38)"
      },
      {
       "pick": "Orlando Magic +1.5",
       "odds": -385,
       "event": "Milwaukee Bucks @ Orlando Magic",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "ORL 107-99 vs MIL (won by 8)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: San Antonio beat Golden State 123-85 and Orlando beat Milwaukee 107-99.",
+    "lesson": "Both clearly-better home favorites cashed. Orlando was 0-4 at home but won by 8 against a 0-5-on-the-road Bucks team. The watch rule is resolved: no tightening needed when the visitor is also winless on the road and point differential favors the home team by 9+."
    },
    {
     "date": "2026-11-13",
@@ -9429,26 +9549,26 @@
     "name": "Grizzlies Road Cushion + Illini Big Cushion",
     "odds": -160,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 6.25,
     "legs": [
      {
       "pick": "Memphis Grizzlies +7.5",
       "odds": -370,
       "event": "Memphis Grizzlies @ New Orleans Pelicans",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "MEM 142-111 at NOP (won by 31)"
      },
      {
       "pick": "Illinois +20.5",
       "odds": -360,
       "event": "Illinois @ UCLA",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "UCLA 22-14 vs ILL (Illinois lost by 8)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: Memphis won 142-111 at New Orleans, and UCLA beat Illinois 22-14 (+20.5 covered by 12.5).",
+    "lesson": "Road favorite with a 5-0 road record vs a home team that had been blown out at home: an easy cover, the opposite of Chicago/Indiana. The backup-QB fade (points against UCLA's third-string QB in a 47.5-total game) cashed comfortably."
    },
    {
     "date": "2026-11-13",
@@ -9457,26 +9577,26 @@
     "name": "Canucks Team Under + Bulldogs ML",
     "odds": -208,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 4.81,
     "legs": [
      {
       "pick": "Vancouver Canucks Under 3.5 Goals",
       "odds": -280,
       "event": "New York Rangers @ Vancouver Canucks",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "NYR 5-1 at VAN (Canucks scored 1)"
      },
      {
       "pick": "Drake ML",
       "odds": -1100,
       "event": "South Dakota @ Drake",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "DRKE 81-72 vs South Dakota"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: the Rangers beat Vancouver 5-1 (Canucks scored once), and Drake beat South Dakota 81-72.",
+    "lesson": "A team-total under on the NHL's worst offense instead of a failed goalie-edge +1.5 worked as designed. Drake won by 9 against an 87.5-ppg visitor; moneyline (not a buy-down) was right."
    },
    {
     "date": "2026-11-13",
@@ -9485,20 +9605,216 @@
     "name": "Best Shot $500K",
     "odds": -400,
     "stake": 5,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 1.25,
     "legs": [
      {
       "pick": "Cavaliers/Heat Over 213.5",
       "odds": -1200,
       "event": "Cleveland Cavaliers @ Miami Heat",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "MIA 133-121 (254 total)"
      },
      {
       "pick": "Predators/Golden Knights Under 8.5 Goals",
       "odds": -650,
       "event": "Nashville Predators @ Vegas Golden Knights",
+      "result": "hit",
+      "actual": "NSH 3-2 SO at VGK (5 total goals incl. shootout goal)"
+     }
+    ],
+    "whyExplanation": "Won: Heat 133, Cavaliers 121 (254, Over 213.5 by 40.5), and Nashville won 3-2 in a shootout at Vegas (5 goals, Under 8.5). Paid $1.25 on $5 at -400.",
+    "lesson": "The ~90% game-log totals test went 2/2. Short, safe, low payout, as stated."
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Nuggets Road Cushion + Wolves Bought-Down",
+    "odds": -271,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Denver Nuggets +1.5",
+      "odds": -750,
+      "event": "Denver Nuggets @ New Orleans Pelicans",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Minnesota Timberwolves -4.5",
+      "odds": -480,
+      "event": "Chicago Bulls @ Minnesota Timberwolves",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Flames + Hawkeyes Bought-Down",
+    "odds": -153,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Liberty -10.5",
+      "odds": -370,
+      "event": "Middle Tennessee @ Liberty",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Iowa -7.5",
+      "odds": -330,
+      "event": "Purdue @ Iowa",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Irish + Hokies Bought-Down",
+    "odds": -191,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Notre Dame -17.5",
+      "odds": -500,
+      "event": "Boston College @ Notre Dame",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Virginia Tech -5.5",
+      "odds": -370,
+      "event": "Stanford @ Virginia Tech",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Bulldogs + Lobos Bought-Down",
+    "odds": -145,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Louisiana Tech -7.5",
+      "odds": -320,
+      "event": "Southern Miss @ Louisiana Tech",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "New Mexico -7.5",
+      "odds": -350,
+      "event": "UNLV @ New Mexico",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Devils + Canes Goalie-Edge Ice",
+    "odds": -242,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "New Jersey Devils +1.5",
+      "odds": -320,
+      "event": "New Jersey Devils @ Washington Capitals",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Carolina Hurricanes +1.5",
+      "odds": -1300,
+      "event": "Seattle Kraken @ Carolina Hurricanes",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "10:30 AM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": -282,
+    "stake": 5,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Georgia Tech ML",
+      "odds": -3500,
+      "event": "UNC Asheville @ Georgia Tech",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Wake Forest ML",
+      "odds": -4000,
+      "event": "Southern Utah @ Wake Forest",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "St. Bonaventure ML",
+      "odds": -2500,
+      "event": "Lafayette @ St. Bonaventure",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "California ML",
+      "odds": -1600,
+      "event": "Utah Tech @ California",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Duquesne ML",
+      "odds": -3000,
+      "event": "Binghamton @ Duquesne",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Alabama +1.5",
+      "odds": -800,
+      "event": "Alabama @ Vanderbilt",
       "result": "pending",
       "actual": "pending"
      }
@@ -9508,12 +9824,12 @@
    }
   ],
   "topLessons": [
-   "Held legs are re-checked, not pre-approved: Spurs went in (Fox/Vassell only questionable, line moved just one point, Curry out for Golden State); Thunder/Clippers was dropped (OKC lost twice at Portland, three road losses by 20+, four rotation players out).",
-   "Goalie-edge rule (~.025+ with the favorite's starter .910+, or an opponent on a back-to-back) kept NHL +1.5 off the card: Rangers (Garand .905 vs Merilainen .888) and Vegas (Hill .903 vs Saros .919) both fail. The Rangers/Canucks value went to a Canucks team-total under instead.",
-   "Road favorites go on the plus side, after a form check: Memphis (5-0 on the road) gets +7.5; OKC (3-4 on the road, two straight losses) was skipped.",
-   "Backup-QB fade, applied from the other side: points with Illinois (+20.5) against a UCLA team on its third-string QB rather than anything with UCLA.",
-   "NBA/NHL totals only when the ~90% game-log test passes: Cavaliers/Heat Over 213.5 (22/23) and Predators/Golden Knights Under 8.5 (32/33) passed; Thunder/Clippers failed.",
-   "Buy-down +7 bar: Drake -4.5 (projected ~13) cleared it by only 1.5 against a high-scoring visitor, so Drake is moneyline only."
+   "Road favorites on the plus side now need a home-loss check: Portland (+1.5 vs a Kings team losing at home by 11-27) won; Knicks +1.5 and Hawks +4.5 lost to Pacers/Bulls teams whose home losses were all close. Denver +1.5 passes (Pelicans lost their last two home games by 34 and 31).",
+   "No CFB road favorites under -14 on any side: Houston (-9.5) lost by 10 at Colorado. Today Alabama (-14.5) is the only CFB road favorite used, at +1.5; ECU, Nevada and Wyoming were skipped despite big SP+ edges.",
+   "Buy-down +7 bar on SP+ projections: Liberty -10.5 (SP+ 32), Notre Dame -17.5 (32), Iowa -7.5 (21), Virginia Tech -5.5 (22), Louisiana Tech -7.5 (20), New Mexico -7.5 (20). Boise (SP+ 12 vs -16.5), Clemson (13 vs -15.5) and TCU (5 vs -13.5) failed.",
+   "Goalie-edge rule (.025+, favorite starter .910+): Devils (Hellebuyck .916 vs Thompson .889) and Hurricanes (Kochetkov .920 vs Daccord .881) pass. Wild/Bruins (.012) and Avalanche/Canadiens (.023) fail; Panthers fail on starter quality (.901).",
+   "Tier-gap moneylines now require a top-150 host: five pass in the Best Shot. East Carolina (T-Rank 175) and Towson (162) were skipped because Tarleton (-2800) only beat Alcorn by 4 on Friday.",
+   "Back-to-back opponents are the cleanest NBA edges: both NBA legs today face a team on the second night of a back-to-back (Pelicans, Bulls)."
   ]
  }
 }
