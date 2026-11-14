@@ -540,3 +540,30 @@ Orlando (0-4 at home) won by 8 against a Bucks team that was 0-5 on the road. No
 - Goalie-edge rule: Devils (Hellebuyck .916 confirmed vs Thompson .889) and Hurricanes (Kochetkov .920 vs Daccord .881; Seattle just back from Finland). Ottawa (Ullmark .938 vs Murashov .889) and the Islanders (Sorokin .915 vs Husso .869) pass but are held for 3 PM confirmations.
 - Tier-gap rule with a top-150 host: GT, Wake Forest, St. Bonaventure, Cal and Duquesne pass. ECU (175), Towson (162), San Francisco (161) and George Mason vs Bradley (MVC, not a bottom-tier visitor) were skipped.
 - No singles (no plus-money edge confirmed by injury news; SP+ disagreements on CSU/WSU and Fresno/Texas State were not explained, so not bet). No +1000 lottery without coin-flip legs. Best Shot is 6 legs at -282 ($6.77 on $5), far short of $5K; stated rather than padded.
+
+## Sat Nov 14, 2026 3 PM ET run
+
+**Grades:** nothing from the 10:30 AM card was final at build time (ESPN, ~3:10 PM ET): Carolina led Seattle 4-1 after two periods (Canes +1.5 leg) and Alabama led Vanderbilt 21-6 in the 3rd (Alabama +1.5 in the Best Shot). Every other morning leg starts at 3:30 PM ET or later. All six morning tickets stay pending; no scores are recorded until final.
+
+**Record (unchanged):** Overall 82-105 (-$156.01 on $1,665). Singles 26-25 (+$23.20). Parlays 48-47 (-$96.06). Lottery 8-33 (-$83.15). Legs 703 hit / 220 miss.
+
+### Card
+- **Senators Goalie-Edge + Broncos Backup-QB Fade (-156, $10 pays $16.43):** Ottawa +1.5 (-360), Boise State -6.5 (-350).
+- **Falcons + Nittany Lions Bought-Down (-174, $10 pays $15.75):** Air Force -4.5 (-340), Penn State -2.5 (-460).
+- **Best Shot $500K (-371, $5 pays $6.35):** Wild/Bruins Under 8.5 (-650), Red Wings/Lightning Over 3.5 (-1000). Far short of $5K; stated rather than padded.
+- No singles (no plus-money edge). No +1000 lottery without coin-flip legs.
+
+### How lessons changed this card
+- **Held legs re-checked:** Ottawa passed (Ullmark .938 vs Murashov .889, both confirmed). The Islanders failed: Varlamov (.891) is the likely starter, not Sorokin, so the .910 bar fails.
+- **Goalie-edge rule:** Colorado +1.5 (Blackwood .901, under .910, despite Dobes at .847), Wild/Bruins (.012 edge), Panthers/Blues (pick'em, exactly .025) and Detroit +1.5 (an underdog at -152) were all skipped.
+- **Backup-QB fade:** Oregon State is without QB Atkinson (nation's leading passer), so Boise State -6.5 went in. The SP+ projection (12.5) plus a ~4.7-point QB adjustment clears the +7 bar.
+- **Buy-down +7 bar:** Air Force -4.5 (SP+ 14.3, PRIME 16.1) and Penn State -2.5 (SP+ 10.5; PRIME only 7, so the cushion is a full 10 points). BYU, Washington State, Texas State and Tulsa failed.
+- **No CFB road favorites under -14:** South Carolina (-7.5 at Arkansas), Louisville, Wyoming, Utah State, North Texas and NDSU were skipped.
+- **NBA home-loss check / lineup risk:** Dallas at Cleveland was skipped. Cleveland is 4-2 at home, and Mitchell, Harden and Allen are questionable on a back-to-back after an FAA ground stop. Detroit at Miami was skipped too: Detroit is short-handed and +4.5 at -280 is not near-certain. Brooklyn/Memphis is a pick'em.
+- **Totals game-log test (~90%):** Wild/Bruins Under 8.5 (36/40) and Red Wings/Lightning Over 3.5 (35/39) passed. Pistons/Heat and Nets/Grizzlies alt overs failed: Detroit and Brooklyn had several totals of 186-204. Flyers/Blue Jackets and Flames/Kings unders (83-87%) failed.
+- **Tier-gap rule:** no evening college hoops game passed (Wichita State vs Austin Peay 177, Davidson vs Howard 167, Nevada vs Utah Valley 123). The only true tier gaps (Villanova vs Rider, GCU vs UL Monroe) are -100000 moneylines that add nothing. Their deepest alt spreads (-26.5, -22.5) are not near-locks given the margins so far.
+
+### New lessons
+1. **Saturday 3 PM cards are thin when the morning card spends the best CFB/CBB spots.** Two quality 2-leg parlays beat four padded ones. Keep it that way.
+2. **Goalie confirmations change held legs.** The Islanders leg rested on Sorokin starting, and he isn't. Never pre-commit an NHL +1.5 before Daily Faceoff confirms the starter.
+3. **Watch tonight:** Penn State -2.5 is backed by SP+ and line movement, but PRIME (7) is only 4.5 past the bought line and the wind is strong. If it misses, require both SP+ and PRIME to clear the +7 bar.

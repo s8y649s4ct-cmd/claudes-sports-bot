@@ -1,270 +1,116 @@
 {
- "updated": "Sat Nov 14, 2026 10:30 AM ET",
- "run": "Saturday 10:30 AM: Friday graded 6-2 (legs 19/22). Wins: Blazers/Rockets, both Best Shots, Spurs/Magic, Grizzlies/Illinois, Canucks under/Drake. Losses: Knicks +1.5 (lost by 2 at Indiana) and Houston +3.5/Hawks +4.5 (both road favorites lost outright). New rules from the losses: skip NBA road favorites when the home team keeps losing close at home, and no CFB road favorites under -14. Today: five 2-leg parlays (NBA back-to-back spots, four bought-down CFB home favorites with SP+ projections well past the +7 bar, and two goalie-edge NHL +1.5 legs) plus a 6-leg Best Shot. Ottawa/Islanders NHL legs held for 3 PM goalie confirmations. No singles cleared the edge bar. No +1000 lottery was possible without coin-flip legs.",
+ "updated": "Sat Nov 14, 2026 3:00 PM ET",
+ "run": "Saturday 3:00 PM: nothing from this morning's card was final at build time (Carolina led Seattle 4-1 after two periods; Alabama led Vanderbilt 21-6 in the 3rd), so the record is unchanged and all six morning tickets stay pending. Two new 2-leg parlays: Ottawa +1.5 (Ullmark .938 vs Murashov .889, both confirmed) with Boise State -6.5 (Oregon State's starting QB, the nation's leading passer, is out), and Air Force -4.5 with Penn State -2.5 (home favorites bought down 9-10 points, SP+ by 14.3 and 10.5, lines moved toward both). Best Shot is two NHL totals that pass the 90% game-log test, far short of $5K and not padded. No singles and no +1000 lottery: nothing tonight clears the bar without coin-flip legs. The Islanders leg held this morning was dropped (Sorokin is not starting).",
  "singles": [],
  "parlays": [
   {
-   "name": "Nuggets Road Cushion + Wolves Bought-Down",
-   "odds": -271,
+   "name": "Senators Goalie-Edge + Broncos Backup-QB Fade",
+   "odds": -156,
    "stake": 10,
    "legs": [
     {
-     "pick": "Denver Nuggets +1.5",
-     "market": "Alternate Spread",
-     "odds": -750,
-     "sport": "NBA",
-     "event": "Denver Nuggets @ New Orleans Pelicans",
+     "pick": "Ottawa Senators +1.5",
+     "market": "Alternate Puck Line",
+     "odds": -360,
+     "sport": "NHL",
+     "event": "Ottawa Senators @ Pittsburgh Penguins",
      "start": "Sat 7:10 PM ET",
-     "reason": "Denver (6-4, Jokic healthy at 23.5/10.8/9.0, only Strawther out) is the -12.5 road favorite (ML -750) at New Orleans (4-9). The Pelicans are on the second night of a back-to-back after losing 142-111 at home to Memphis on Friday, and they lost 145-111 at home to Brooklyn on Wednesday: a three-game home skid with losses by 34 and 31. Denver is rested (last played Wednesday) and has won at New Orleans already this season (by 13). New Orleans is still without Trey Murphy III, Missi and McGowens, with Mathurin doubtful as of Thursday. Road favorite on the plus side, and the new home-loss check passes: the Pelicans' recent home losses are blowouts, not close games (unlike Indiana and Chicago on Friday). +1.5 is 14 points of cushion, so New Orleans must win by 2+ on tired legs. Tips 7:10 PM ET.",
-     "marketId": "742.197620109",
-     "selectionId": "7889677",
-     "eventId": 36311557,
-     "marketIdMD": "724.197758845"
+     "reason": "Held this morning for goalie confirmations; both are now confirmed (Daily Faceoff). Linus Ullmark (8-1-0, .938) starts for Ottawa vs Sergei Murashov (2-4-1, .889) for Pittsburgh, an edge of .049 with the favorite's starter far above the .910 bar. Ottawa is the -137 road favorite. +1.5 loses only if Pittsburgh wins by 2+ against the hottest goalie in the league. Faces off 7:10 PM ET.",
+     "marketId": "742.197649591",
+     "selectionId": "7000414",
+     "eventId": 36309162,
+     "marketIdMD": "724.197788323"
     },
     {
-     "pick": "Minnesota Timberwolves -4.5",
-     "market": "Alternate Spread",
-     "odds": -480,
-     "sport": "NBA",
-     "event": "Chicago Bulls @ Minnesota Timberwolves",
-     "start": "Sat 8:10 PM ET",
-     "reason": "Minnesota (9-3) is the -14.5 home favorite vs Chicago (2-9). The Wolves are without Anthony Edwards (knee, since Oct 29) and DiVincenzo, but have played most of their 9-3 start without Edwards and won home games by 23, 26, 12, 15 and 39 (one home loss, by 5 to Golden State). Chicago is on the second night of a back-to-back after an overtime win over Atlanta on Friday, has to travel to Minneapolis, and has lost road games by 43, 35, 14, 19 and 30 (one road win, at 1-11 Milwaukee). Chicago is without Caleb Wilson (18.9 ppg), Swain and Awaka. Clearly better by point differential and form; -4.5 is 10 points off the main line, so the Wolves need to win by 5+. Tips 8:10 PM ET.",
-     "marketId": "742.197620321",
-     "selectionId": "7891198",
-     "eventId": 36311554,
-     "marketIdMD": "724.197759059"
-    }
-   ],
-   "reason": "Two NBA favorites against tired, losing opponents on the second night of a back-to-back: Denver at a Pelicans team that just lost two home games by 30+, and Minnesota vs a Bulls team that played overtime last night and loses on the road by double digits."
-  },
-  {
-   "name": "Flames + Hawkeyes Bought-Down",
-   "odds": -153,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Liberty -10.5",
-     "market": "Alternate Spread",
-     "odds": -370,
-     "sport": "NCAAF",
-     "event": "Middle Tennessee @ Liberty",
-     "start": "Sat 3:30 PM ET",
-     "reason": "Liberty (8-1, eight straight wins by an average of 23.1) is -21.5 at home vs Middle Tennessee (5-4). SP+ projects Liberty by 32 (Liberty 22nd, MTSU 123rd). Liberty's defense is 6th nationally (13.6 points allowed) and has held seven straight opponents under 20; its offense is 7th in EPA per play vs MTSU's 106th-ranked defense. QB Deshawn Purdie (11 TD, 1 INT) is healthy; Liberty has 5 turnovers all season. Buy-down +7 bar: the SP+ projection (32) clears -10.5 by 21.5. Risk noted: MTSU scored 51 last week vs WKU and needs one win for bowl eligibility. Kicks 3:30 PM ET.",
-     "marketId": "742.196717712",
-     "selectionId": "51123840",
-     "eventId": 36285345,
-     "marketIdMD": "724.196856451"
-    },
-    {
-     "pick": "Iowa -7.5",
-     "market": "Alternate Spread",
-     "odds": -330,
-     "sport": "NCAAF",
-     "event": "Purdue @ Iowa",
-     "start": "Sat 7:30 PM ET",
-     "reason": "No. 15 Iowa (7-2) is -17.5 at home vs Purdue (3-6, three straight losses; the Boilermakers fired their defensive coordinator after allowing 38, 31 and 34 in that stretch and rank 99th in run defense). Iowa leads the Big Ten in scoring defense (12.2 allowed) and has allowed 23 total points in its last three games; at Kinnick only Ohio State has scored more than 13 this season. Iowa's leading rusher Moulton is out, but Phillips Jr. (128 yards last week) and Williams carry the load. SP+ projects Iowa by 21 (SportsLine model 33-17). Buy-down +7 bar: 21 clears -7.5 by 13.5. Clear, 36F, no wind. Kicks 7:30 PM ET.",
-     "marketId": "742.196718800",
-     "selectionId": "48220011",
-     "eventId": 36285377,
-     "marketIdMD": "724.196857538"
-    }
-   ],
-   "reason": "Two home favorites with elite defenses, each bought down 10-11 points and each projected well past the bar: Liberty (SP+ by 32) and Iowa (SP+ by 21)."
-  },
-  {
-   "name": "Irish + Hokies Bought-Down",
-   "odds": -191,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Notre Dame -17.5",
-     "market": "Alternate Spread",
-     "odds": -500,
-     "sport": "NCAAF",
-     "event": "Boston College @ Notre Dame",
-     "start": "Sat 3:30 PM ET",
-     "reason": "No. 5 Notre Dame (8-1, won its last two vs Navy 35-13 and Miami 31-24) is -29.5 at home vs Boston College (4-5, lost its last two including 47-2 at Duke). QB CJ Carr is active. Notre Dame's injuries are on defense (LB Bowen, CB McKinney, S Johnson out; DTs Brewu/Onye questionable), which is the reason for 12 points of cushion rather than the main line. BC QB Mason McKenzie (57.2%, 10 TD, 8 INT) is a D-II transfer. SP+ projects Notre Dame by 32. Buy-down +7 bar: 32 clears -17.5 by 14.5. Cloudy, 40F, light wind. Kicks 3:30 PM ET.",
-     "marketId": "742.196717004",
-     "selectionId": "48219873",
-     "eventId": 36285329,
-     "marketIdMD": "724.196855741"
-    },
-    {
-     "pick": "Virginia Tech -5.5",
-     "market": "Alternate Spread",
-     "odds": -370,
-     "sport": "NCAAF",
-     "event": "Stanford @ Virginia Tech",
-     "start": "Sat 7:30 PM ET",
-     "reason": "Virginia Tech (6-3) is -15.5 at home vs Stanford (4-5, 16 players on the ACC availability report). SP+ projects Virginia Tech by 22, so -5.5 (10 points off the main line) clears the buy-down +7 bar by 16.5. Lane Stadium at night in 36F weather is a hard trip for a West Coast team. Stanford QB Davis Warren is expected to start. Kicks 7:30 PM ET.",
-     "marketId": "742.196718724",
-     "selectionId": "48628929",
-     "eventId": 36285374,
-     "marketIdMD": "724.196857458"
-    }
-   ],
-   "reason": "Two ACC/independent home favorites bought down 10-12 points with SP+ projections 14-16 points past the bought line."
-  },
-  {
-   "name": "Bulldogs + Lobos Bought-Down",
-   "odds": -145,
-   "stake": 10,
-   "legs": [
-    {
-     "pick": "Louisiana Tech -7.5",
-     "market": "Alternate Spread",
-     "odds": -320,
-     "sport": "NCAAF",
-     "event": "Southern Miss @ Louisiana Tech",
-     "start": "Sat 5:00 PM ET",
-     "reason": "Louisiana Tech (7-2) is -17.5 at home vs Southern Miss (3-6) in the Rivalry in Dixie. SP+ projects La Tech by 20, so -7.5 (10 points off the main line) clears the +7 bar by 12.5. QB Blake Baker is probable after a leg injury and RB Dylone Brooks is out (turf toe), which is why the cushion is 10 points; Southern Miss is missing WR Jaylen Himes and OL Aloalii Maui. Clear, 56F. Kicks 5:00 PM ET.",
-     "marketId": "742.196718408",
-     "selectionId": "49740847",
-     "eventId": 36285355,
-     "marketIdMD": "724.196857145"
-    },
-    {
-     "pick": "New Mexico -7.5",
+     "pick": "Boise State -6.5",
      "market": "Alternate Spread",
      "odds": -350,
      "sport": "NCAAF",
-     "event": "UNLV @ New Mexico",
-     "start": "Sat 7:30 PM ET",
-     "reason": "New Mexico (8-1, No. 1 scoring defense in the Mountain West) is -17.5 at home vs UNLV (5-4). SP+ projects New Mexico by 20; -7.5 clears the +7 bar by 12.5. UNLV benched QB Jackson Arnold late against Wyoming and has not settled on a starter (Arnold or Alex Orji). Risk noted: a 24% chance of rain with storms possible in Albuquerque. Kicks 7:30 PM ET.",
-     "marketId": "742.196719083",
-     "selectionId": "48218610",
-     "eventId": 36285385,
-     "marketIdMD": "724.196857821"
+     "event": "Oregon State @ Boise State",
+     "start": "Sat 6:00 PM ET",
+     "reason": "Backup-QB fade: Oregon State QB Braden Atkinson (nation's leading passer, 3,169 yards, 25 TD) is OUT with a hand injury (Oregonian, downgraded Friday); Maalik Murphy (5 of 7, 1 INT in relief last week) starts. OSU also lost starting LT Jacob Anderson and OLB Will Haverland, and lost 42-21 at home to Texas State last week. No. 17-24 Boise State (8-1, four straight wins) hosts with College GameDay in town; the line moved from -10 to -16.5. SP+ projects Boise by 12.5 (PRIME 14.1) before the QB news; a ~4.7-point QB adjustment puts it near 17, so -6.5 (10 off the main line) clears the buy-down +7 bar. Risk noted: Boise QB Madsen is questionable, but backup Cutforth led a 64-38 win at Colorado State last week. Clear, 55F. Kicks 6:00 PM ET.",
+     "marketId": "742.196718467",
+     "selectionId": "48218654",
+     "eventId": 36285357,
+     "marketIdMD": "724.196857206"
     }
    ],
-   "reason": "Two Group of 6 home favorites bought down 10 points with SP+ projections of 20, both against opponents with offensive problems."
+   "reason": "The goalie-edge NHL leg held from this morning (Ullmark .938 vs Murashov .889, both confirmed) plus a home favorite bought down 10 points against an opponent missing the nation's leading passer."
   },
   {
-   "name": "Devils + Canes Goalie-Edge Ice",
-   "odds": -242,
+   "name": "Falcons + Nittany Lions Bought-Down",
+   "odds": -174,
    "stake": 10,
    "legs": [
     {
-     "pick": "New Jersey Devils +1.5",
-     "market": "Alternate Puck Line",
-     "odds": -320,
-     "sport": "NHL",
-     "event": "New Jersey Devils @ Washington Capitals",
-     "start": "Sat 7:08 PM ET",
-     "reason": "Goalie-edge rule passes: Connor Hellebuyck (6-0-0, .916, confirmed) vs Logan Thompson (.889, projected), an edge of .027 with the favorite's starter above .910. New Jersey (-120) beat Washington 5-2 on Thursday. +1.5 loses only if Washington wins by 2+. Faces off 7:08 PM ET.",
-     "marketId": "742.197648376",
-     "selectionId": "7000413",
-     "eventId": 36309166,
-     "marketIdMD": "724.197787122"
+     "pick": "Air Force -4.5",
+     "market": "Alternate Spread",
+     "odds": -340,
+     "sport": "NCAAF",
+     "event": "San Jose State @ Air Force",
+     "start": "Sat 7:00 PM ET",
+     "reason": "Air Force (7-2) is -13.5 at home vs San Jose State (5-5). SP+ projects Air Force by 14.3 and PRIME by 16.1; the line opened -10.5 and moved 3.5 points toward Air Force (sharp side). Forecast rain at Falcon Stadium favors the triple option and shortens the game, which is why the cushion is 9 points off the main line rather than the main line. Buy-down +7 bar: 14.3 clears -4.5 by 9.8. Air Force beat SJSU 26-16 last year. Kicks 7:00 PM ET.",
+     "marketId": "742.196718925",
+     "selectionId": "48441240",
+     "eventId": 36285381,
+     "marketIdMD": "724.196857660"
     },
     {
-     "pick": "Carolina Hurricanes +1.5",
-     "market": "Alternate Puck Line",
-     "odds": -1300,
-     "sport": "NHL",
-     "event": "Seattle Kraken @ Carolina Hurricanes",
-     "start": "Sat 1:10 PM ET",
-     "reason": "Goalie-edge rule passes: Pyotr Kochetkov (11-1-0, .920) vs Joey Daccord (.881, likely; pulled in his last start after 3 goals on 10 shots and has allowed 3+ in four of five), an edge of .039. Carolina leads the NHL in expected goals (3.67 per game) and has outscored opponents 18-6 during a three-game win streak. Seattle is just back from its Global Series trip to Finland. Carolina is the -385 home favorite; +1.5 loses only if Seattle wins by 2+. Faces off 1:10 PM ET.",
-     "marketId": "742.197645715",
-     "selectionId": "7000401",
-     "eventId": 36309170,
-     "marketIdMD": "724.197784459"
+     "pick": "Penn State -2.5",
+     "market": "Alternate Spread",
+     "odds": -460,
+     "sport": "NCAAF",
+     "event": "Minnesota @ Penn State",
+     "start": "Sat 7:00 PM ET",
+     "reason": "Penn State (5-4) is -12.5 at home vs Minnesota (5-4, fourth straight game without a bye). The line opened -7 and moved 5.5 points toward Penn State. SP+ projects Penn State by 10.5 (25-14), PRIME by 7. Matchup: Penn State's 3rd-down defense is 4th nationally vs Minnesota's 128th-ranked 3rd-down offense, and Minnesota is 131st in yards per play and 127th in EPA per play; Minnesota playmaker Theorin Randle is out. Buy-down +7 bar: SP+ 10.5 clears -2.5 by 8. Risk noted: 39F with NW wind gusting to 32 mph in a 41.5-total game, which is why this is 10 points off the main line. Kicks 7:00 PM ET.",
+     "marketId": "742.196718840",
+     "selectionId": "48068973",
+     "eventId": 36285378,
+     "marketIdMD": "724.196857585"
     }
    ],
-   "reason": "The two NHL games that pass the goalie-edge rule with a confirmed or likely starter this morning. Ottawa (Ullmark .938) and the Islanders (Sorokin .915) also pass but are held for 3 PM goalie confirmations."
+   "reason": "Two home favorites bought down 9-10 points, each backed by SP+/PRIME projections and by line movement toward them all week."
   }
  ],
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": -282,
+   "odds": -371,
    "stake": 5,
    "legs": [
     {
-     "pick": "Georgia Tech ML",
-     "market": "Moneyline",
-     "odds": -3500,
-     "sport": "NCAAB",
-     "event": "UNC Asheville @ Georgia Tech",
-     "start": "Sat 4:00 PM ET",
-     "reason": "Tier gap: Georgia Tech (3-0, T-Rank ~112, ACC) vs UNC Asheville (2-2, ~282, Big South). Host is top-150 (new rule) and the visitor is 200+.",
-     "marketId": "742.197577066",
-     "selectionId": "690519",
-     "eventId": 36317103,
-     "marketIdMD": "724.197715803"
+     "pick": "Wild/Bruins Under 8.5 Goals",
+     "market": "Alternate Total Goals",
+     "odds": -650,
+     "sport": "NHL",
+     "event": "Minnesota Wild @ Boston Bruins",
+     "start": "Sat 7:09 PM ET",
+     "reason": "Main total 6.5 (Under -138). Game-log test: 20 of 21 Minnesota games and 16 of 19 Boston games had 8 or fewer goals (36/40, 90%). Both starters are confirmed and both are good: Jesper Wallstedt (13-2-3, .925) and Jeremy Swayman (.913). Faces off 7:09 PM ET.",
+     "marketId": "742.197648582",
+     "selectionId": "8359782",
+     "eventId": 36309167,
+     "marketIdMD": "724.197787303"
     },
     {
-     "pick": "Wake Forest ML",
-     "market": "Moneyline",
-     "odds": -4000,
-     "sport": "NCAAB",
-     "event": "Southern Utah @ Wake Forest",
-     "start": "Sat 4:00 PM ET",
-     "reason": "Tier gap: Wake Forest (T-Rank ~89, ACC) vs Southern Utah (~245, WAC/Big Sky tier).",
-     "marketId": "742.197584569",
-     "selectionId": "352102",
-     "eventId": 36317216,
-     "marketIdMD": "724.197723306"
-    },
-    {
-     "pick": "St. Bonaventure ML",
-     "market": "Moneyline",
-     "odds": -2500,
-     "sport": "NCAAB",
-     "event": "Lafayette @ St. Bonaventure",
-     "start": "Sat 4:00 PM ET",
-     "reason": "Tier gap: St. Bonaventure (T-Rank ~107, A-10) vs Lafayette (~337, Patriot).",
-     "marketId": "742.197588857",
-     "selectionId": "701609",
-     "eventId": 36317281,
-     "marketIdMD": "724.197727594"
-    },
-    {
-     "pick": "California ML",
-     "market": "Moneyline",
-     "odds": -1600,
-     "sport": "NCAAB",
-     "event": "Utah Tech @ California",
-     "start": "Sat 5:00 PM ET",
-     "reason": "Tier gap: California (T-Rank ~103, ACC) vs Utah Tech (1-2, ~316, WAC).",
-     "marketId": "742.197586256",
-     "selectionId": "352410",
-     "eventId": 36317237,
-     "marketIdMD": "724.197724993"
-    },
-    {
-     "pick": "Duquesne ML",
-     "market": "Moneyline",
-     "odds": -3000,
-     "sport": "NCAAB",
-     "event": "Binghamton @ Duquesne",
-     "start": "Sat 7:30 PM ET",
-     "reason": "Tier gap: Duquesne (3-0, T-Rank ~133, A-10) vs Binghamton (~327, America East).",
-     "marketId": "742.197590285",
-     "selectionId": "710164",
-     "eventId": 36317312,
-     "marketIdMD": "724.197729022"
-    },
-    {
-     "pick": "Alabama +1.5",
-     "market": "Alternate Spread",
-     "odds": -800,
-     "sport": "NCAAF",
-     "event": "Alabama @ Vanderbilt",
-     "start": "Sat 12:45 PM ET",
-     "reason": "No. 3 Alabama (7-2) is the -14.5 road favorite at Vanderbilt (4-5); SP+ projects Alabama by 21. Passes the new CFB road-favorite rule (only road favorites of -14 or more), and road favorites go on the plus side: +1.5 is 16 points of cushion, so Vanderbilt must win outright by 2+.",
-     "marketId": "742.196715682",
-     "selectionId": "48219807",
-     "eventId": 36285297,
-     "marketIdMD": "724.196854419"
+     "pick": "Red Wings/Lightning Over 3.5 Goals",
+     "market": "Alternate Total Goals",
+     "odds": -1000,
+     "sport": "NHL",
+     "event": "Detroit Red Wings @ Tampa Bay Lightning",
+     "start": "Sat 7:10 PM ET",
+     "reason": "Main total 6.5. Game-log test: 19 of 19 Tampa Bay games and 16 of 20 Detroit games had 4+ goals (35/39, 90%). Vasilevskiy is at .885 this season (likely starter). Faces off 7:10 PM ET.",
+     "marketId": "742.197649410",
+     "selectionId": "8359769",
+     "eventId": 36309164,
+     "marketIdMD": "724.197788151"
     }
    ],
-   "reason": "A safety ticket of tier-gap moneylines (five hosts in the T-Rank top ~135 vs visitors ranked 245-337) plus Alabama +1.5. It is nowhere near the $5K target: reaching $5K on $5 would take roughly a dozen coin-flip legs, and the best high-probability legs are on the 2-leg parlays (no repeats). It is not padded."
+   "reason": "A two-leg safety ticket of the two NHL totals that pass the ~90% game-log test. It is nowhere near +1000 or the $5K target: every other leg tonight is either on the 2-leg parlays or is a coin flip, and this morning's card already used the tier-gap college hoops moneylines. Not padded."
   }
  ],
  "results": {
-  "updated": "Sat Nov 14, 2026 10:30 AM ET",
-  "sources": "FanDuel PA public odds (event-page API, pulled ~10:30 AM ET and refreshed at build); ESPN scoreboards and box scores 11/13 (grading); ESPN NBA team schedules (margins, rest); NBA official injury report 11/14 7:30 AM ET, HoopMetrics, TalkBasket, Hoops Nightly (Jokic); Daily Faceoff starting goalies 11/14; Early Downs SP+ previews (Week 11); Barttorvik 2027 T-Rank; SI/On3/Yahoo (Notre Dame-BC injuries), IndyStar/NBC/CBS (Purdue-Iowa), Liberty Athletics/Tennessean/AP (MTSU-Liberty), ACC Sports Journal (Stanford-VT), Albuquerque Journal (UNLV QB), Ruston Daily Leader/SI (Southern Miss-La Tech); lessons.md",
+  "updated": "Sat Nov 14, 2026 3:00 PM ET",
+  "sources": "FanDuel PA public odds (event-page API, pulled ~3:00-3:15 PM ET and refreshed at build); ESPN scoreboards 11/14 (grading check: nothing final from the morning card); Daily Faceoff starting goalies 11/14 (17 of 28 confirmed at pull); NBA official injury report 11/14 2:15 PM ET; SI/CBS (Cavaliers back-to-back after FAA ground stop); collegefootballcharts.com SP+/PRIME/Elo and line history (Week 11); Early Downs (Minnesota-Penn State); Oregonian, Idaho Statesman, TheSpread, Sharp Wire (Oregon State QB Atkinson out, Boise line move); ESPN NHL/NBA team schedules (game totals for the game-log test); Barttorvik 2027 T-Rank (team ranks).",
   "totals": {
    "singles": {
     "won": 26,
@@ -278,7 +124,7 @@
    "parlays": {
     "won": 48,
     "lost": 47,
-    "pending": 5,
+    "pending": 7,
     "staked": 950,
     "profit": -96.06,
     "winPct": 50.5,
@@ -287,7 +133,7 @@
    "lottery": {
     "won": 8,
     "lost": 33,
-    "pending": 1,
+    "pending": 2,
     "staked": 205,
     "profit": -83.15,
     "winPct": 19.5,
@@ -296,7 +142,7 @@
    "overall": {
     "won": 82,
     "lost": 105,
-    "pending": 6,
+    "pending": 9,
     "staked": 1665,
     "profit": -156.01,
     "winPct": 43.9,
@@ -305,12 +151,12 @@
    "legs": {
     "hit": 703,
     "miss": 220,
-    "pending": 42,
+    "pending": 48,
     "void": 3
    },
    "won": 82,
    "lost": 105,
-   "pending": 6,
+   "pending": 9,
    "winPct": 43.9,
    "staked": 1665,
    "profit": -156.01,
@@ -328,7 +174,7 @@
   "parlays": {
    "won": 48,
    "lost": 47,
-   "pending": 5,
+   "pending": 7,
    "staked": 950,
    "profit": -96.06,
    "winPct": 50.5,
@@ -337,7 +183,7 @@
   "lottery": {
    "won": 8,
    "lost": 33,
-   "pending": 1,
+   "pending": 2,
    "staked": 205,
    "profit": -83.15,
    "winPct": 19.5,
@@ -9821,15 +9667,100 @@
     ],
     "whyExplanation": "Pending.",
     "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Senators Goalie-Edge + Broncos Backup-QB Fade",
+    "odds": -156,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Ottawa Senators +1.5",
+      "odds": -360,
+      "event": "Ottawa Senators @ Pittsburgh Penguins",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Boise State -6.5",
+      "odds": -350,
+      "event": "Oregon State @ Boise State",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "3:00 PM",
+    "type": "parlay",
+    "name": "Falcons + Nittany Lions Bought-Down",
+    "odds": -174,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Air Force -4.5",
+      "odds": -340,
+      "event": "San Jose State @ Air Force",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Penn State -2.5",
+      "odds": -460,
+      "event": "Minnesota @ Penn State",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-14",
+    "run": "3:00 PM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": -371,
+    "stake": 5,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Wild/Bruins Under 8.5 Goals",
+      "odds": -650,
+      "event": "Minnesota Wild @ Boston Bruins",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Red Wings/Lightning Over 3.5 Goals",
+      "odds": -1000,
+      "event": "Detroit Red Wings @ Tampa Bay Lightning",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
    }
   ],
   "topLessons": [
-   "Road favorites on the plus side now need a home-loss check: Portland (+1.5 vs a Kings team losing at home by 11-27) won; Knicks +1.5 and Hawks +4.5 lost to Pacers/Bulls teams whose home losses were all close. Denver +1.5 passes (Pelicans lost their last two home games by 34 and 31).",
-   "No CFB road favorites under -14 on any side: Houston (-9.5) lost by 10 at Colorado. Today Alabama (-14.5) is the only CFB road favorite used, at +1.5; ECU, Nevada and Wyoming were skipped despite big SP+ edges.",
-   "Buy-down +7 bar on SP+ projections: Liberty -10.5 (SP+ 32), Notre Dame -17.5 (32), Iowa -7.5 (21), Virginia Tech -5.5 (22), Louisiana Tech -7.5 (20), New Mexico -7.5 (20). Boise (SP+ 12 vs -16.5), Clemson (13 vs -15.5) and TCU (5 vs -13.5) failed.",
-   "Goalie-edge rule (.025+, favorite starter .910+): Devils (Hellebuyck .916 vs Thompson .889) and Hurricanes (Kochetkov .920 vs Daccord .881) pass. Wild/Bruins (.012) and Avalanche/Canadiens (.023) fail; Panthers fail on starter quality (.901).",
-   "Tier-gap moneylines now require a top-150 host: five pass in the Best Shot. East Carolina (T-Rank 175) and Towson (162) were skipped because Tarleton (-2800) only beat Alcorn by 4 on Friday.",
-   "Back-to-back opponents are the cleanest NBA edges: both NBA legs today face a team on the second night of a back-to-back (Pelicans, Bulls)."
+   "Held legs are re-checked at 3 PM, not pre-approved: Ottawa went in (Ullmark .938 and Murashov .889 both confirmed). The Islanders were dropped: Varlamov (.891), not Sorokin, is the likely starter, which fails the .910 bar.",
+   "Goalie-edge rule (.025+ with the favorite's starter .910+) kept every other NHL +1.5 off: Colorado (Blackwood .901), Minnesota/Boston (.012 edge), Florida/St. Louis (pick'em, exactly .025) and Detroit (an underdog) all failed.",
+   "Backup-QB fade: Boise State -6.5 against an Oregon State team without the nation's leading passer (Atkinson out).",
+   "Buy-down +7 bar on SP+: Air Force -4.5 (SP+ 14.3, PRIME 16.1) and Penn State -2.5 (SP+ 10.5). BYU (SP+ 5.4 vs -7.5), Washington State (SP+ has CSU by 1), Texas State (SP+ 3.4) and Tulsa (4.9) failed.",
+   "NBA road favorites failed the home-loss check or have lineup risk: Dallas at a 4-2-at-home Cleveland team (Mitchell, Harden and Allen questionable on a back-to-back) and Detroit at Miami were skipped; Brooklyn/Memphis is a pick'em.",
+   "Totals only with the ~90% game-log test: Wild/Bruins Under 8.5 (36/40) and Red Wings/Lightning Over 3.5 (35/39) passed; Pistons/Heat and Nets/Grizzlies alt overs failed (Detroit and Brooklyn had several games near 186-204).",
+   "College hoops buy-downs were skipped: Villanova -26.5 vs Rider and Grand Canyon -22.5 vs UL Monroe are the deepest alt lines offered and neither team has shown a 27-point margin against comparable opponents; the -100000 moneylines add nothing."
   ]
  }
 }
