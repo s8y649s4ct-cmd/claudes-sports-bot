@@ -567,3 +567,33 @@ Orlando (0-4 at home) won by 8 against a Bucks team that was 0-5 on the road. No
 1. **Saturday 3 PM cards are thin when the morning card spends the best CFB/CBB spots.** Two quality 2-leg parlays beat four padded ones. Keep it that way.
 2. **Goalie confirmations change held legs.** The Islanders leg rested on Sorokin starting, and he isn't. Never pre-commit an NHL +1.5 before Daily Faceoff confirms the starter.
 3. **Watch tonight:** Penn State -2.5 is backed by SP+ and line movement, but PRIME (7) is only 4.5 past the bought line and the wind is strong. If it misses, require both SP+ and PRIME to clear the +7 bar.
+
+## Sun Nov 15, 2026 10:30 AM ET run: grading Saturday Nov 14 (logged at the 3 PM run)
+Saturday went 3-6. Winners: Devils + Canes Goalie-Edge, Falcons + Nittany Lions and the morning Best Shot (6/6). Losers: Nuggets + Wolves (Wolves -4.5 lost outright by 11), Flames + Hawkeyes (Liberty -10.5 won by only 5), Irish + Hokies (Virginia Tech lost by 18), Bulldogs + Lobos (New Mexico lost outright), Senators + Broncos (Boise -6.5 won by only 5) and the totals Best Shot (Detroit shut out Tampa Bay 2-0).
+Record after grading: Overall 85-111 (-$199.36 on $1,745). Singles 26-25 (+$23.20). Parlays 50-52 (-$136.18). Lottery 9-34 (-$86.38). Legs 719 hit / 226 miss.
+### Lessons (from grade_sun.py)
+1. No NBA favorite-side buy-downs. NBA legs only as plus-side cushions on clearly better teams that pass the home-loss check.
+2. CFB buy-downs only on home favorites of -17 or more, with line movement toward them. Mid-size favorites lost outright (VT, UNM).
+3. The backup-QB fade works on the underdog side, not by buying down the favorite.
+4. Goalie-edge NHL +1.5 went 3/3 and is the most reliable leg type.
+5. Tier gaps only vs visitors ranked 300+ (Georgia Tech survived by 1).
+6. NHL alt overs need two confirmed starters below .900.
+
+## Sun Nov 15, 2026 3 PM ET run
+**Grades:** nothing from the 10:30 AM card was final at build time (ESPN, ~2:45 PM ET). Chiefs led 14-3 in the 3rd (Chiefs +7.5 leg). Jaguars led 16-10 at half (Jaguars +2.5). Boston College led 43-35 in the 2nd half and Charleston led 28-21 in the 1st. Celtics, Spurs, Penn State, LMU and JMU had not started. Both morning tickets stay pending.
+**Record (unchanged):** Overall 85-111 (-$199.36 on $1,745). Singles 26-25 (+$23.20). Parlays 50-52 (-$136.18). Lottery 9-34 (-$86.38). Legs 719 hit / 226 miss.
+### Card
+- **Hawks Road Cushion + Rams Big Cushion (-231, $10 pays $14.33):** Atlanta +1.5 (-310) at 1-12 Milwaukee, Rams +3.5 (-1200) at 0-3-at-home Arizona.
+- **Best Shot $500K (-327, $5 pays $6.53):** Rockets +4.5 (-550) at Washington, Thunder +4.5 (-950) at Sacramento. Far short of $5K; stated rather than padded.
+- No singles. No +1000 lottery.
+### How lessons changed this card
+- **Plus-side cushions only (lesson 1, Sat):** every leg is a clearly better road team getting points. No favorite-side buy-downs.
+- **Home-loss check:** Bucks (5/6 home losses by 10+) and Cardinals (0-3 at home, all by 14+) pass. Skipped: Knicks at Toronto (home losses by 5, 7, 16), Lakers at Phoenix (Suns 5-3 at home), Seahawks at Las Vegas (Raiders lost at home by 3, 3, 14; Darnold out) and 49ers at Dallas (failed this morning).
+- **Cushion grows with injury risk:** Houston (no VanVleet, Capela or Smart) gets +4.5 instead of +1.5. OKC (no Holmgren, J. Williams or Wallace; 3-5 on the road) gets +4.5, 16 points off the main line, against a Kings team that is 0-7 at home.
+- **Goalie confirmation rule (Sat 3 PM lesson 2):** Nashville +1.5 (Saros .922 vs Nedeljkovic .895) was left off because Saros was only projected. Calgary (Cooley .913, confirmed) is an underdog. Edmonton (Jarry .903) and Vegas (Hart .896) fall below .910.
+- **Tier gaps vs 300+ visitors only:** none usable. USC vs APB is -100000. Seattle (152), SJSU (183) and Buffalo (220) are below the top 150; Coastal (239) and Alabama State (253) are not bottom-tier.
+- **Feed check:** women's college moneylines (UConn -1600, UCLA -8000) are sgmMarket=false, so they can't be parlayed.
+### New lessons
+1. **Sunday 3 PM pools are mostly NBA/NHL plus the late NFL games.** When the morning card already used the best spots and NHL starters are unconfirmed at 3 PM, a 2-ticket card is right.
+2. **Size the cushion to the injury list, not just the spread.** Tonight is the first test of +4.5 cushions on short-handed favorites (Rockets, Thunder). Grade them and compare with plain +1.5 legs.
+3. **Watch:** the Rams leg relies on Arizona's QB depletion. If it misses, add a rule that NFL plus-side cushions need the favorite's top two receivers healthy (Nacua and Adams are out).
