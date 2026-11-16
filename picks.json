@@ -1,82 +1,129 @@
 {
- "updated": "Sun Nov 15, 2026 3:00 PM ET",
- "run": "Sunday 3:00 PM: nothing from the 10:30 AM card was final at build time (Chiefs up 14-3 and Jaguars up 16-10 in the 1 PM games; Boston College and Charleston leading). Tonight's card is small: one 2-leg parlay (Hawks +1.5, Rams +3.5) and a 2-leg Best Shot (Rockets +4.5, Thunder +4.5). No singles and no +1000 lottery: no other leg passed the rules. NHL goalie-edge legs were skipped because no qualifying starter was confirmed by build time.",
+ "updated": "Mon Nov 16, 2026 10:30 AM ET",
+ "run": "Monday 10:30 AM: Sunday went 4-0 (both parlays and both Best Shots won, 13/13 legs). Today's card: two 2-leg NBA cushion parlays (Celtics +1.5 / Nuggets +4.5 and 76ers +4.5 / Cavs +4.5) and a 3-leg Best Shot (UC San Diego ML, Grizzlies +7.5, Chargers/Ravens Over 27.5). No singles (no real plus-money edge) and no +1000 lottery (it would need coin-flip legs). NHL legs were skipped because no starting goalie was confirmed at build time.",
  "singles": [],
  "parlays": [
   {
-   "name": "Hawks Road Cushion + Rams Big Cushion",
-   "odds": -231,
+   "name": "Celtics Home Cushion + Nuggets Home Cushion",
+   "odds": -201,
    "stake": 10,
    "legs": [
     {
-     "pick": "Atlanta Hawks +1.5",
+     "pick": "Boston Celtics +1.5",
      "market": "Alternate Spread",
-     "odds": -310,
+     "odds": -335,
      "sport": "NBA",
-     "event": "Atlanta Hawks @ Milwaukee Bucks",
-     "start": "Sun 8:10 PM ET",
-     "reason": "Atlanta (7-6, 4-3 on the road with wins at Orlando, Charlotte, Indiana and Washington) is the -7.5 road favorite at Milwaukee (1-12). Home-loss check passes clearly: the Bucks lost at home by 32 (Houston), 25 (Cleveland), 20 (Boston), 14 (Toronto), 11 (Lakers) and 7 (Chicago), so 5 of 6 home losses were by 10+; their only home win is over Indiana. Hawks are without rookie Kingston Flemings (back); Jock Landale is questionable. Milwaukee's Ryan Rollins is questionable and Ousmane Dieng is out (ESPN injury report). +1.5 loses only if Milwaukee wins outright by 2+. Tips 8:10 PM ET.",
-     "marketId": "742.197763360",
-     "selectionId": "7891042",
-     "eventId": 36314670,
-     "marketIdMD": "724.197902098"
+     "event": "Orlando Magic @ Boston Celtics",
+     "start": "Mon 7:10 PM ET",
+     "reason": "Boston (11-2, 6-0 at home) is the -8.5 home favorite over Orlando (5-7), which is without Paolo Banchero, Jonathan Isaac and Noah Penda. Boston already won by 11 in Orlando this season and has no injuries listed. The Celtics lose this leg only if Orlando wins outright by 2+. Priced at -335, far better value than the -850 we paid for the same leg Sunday. Tips 7:10 PM ET.",
+     "marketId": "742.197905079",
+     "selectionId": "7889290",
+     "eventId": 36319063,
+     "marketIdMD": "724.198043816"
     },
     {
-     "pick": "Los Angeles Rams +3.5",
+     "pick": "Denver Nuggets +4.5",
      "market": "Alternate Spread",
-     "odds": -1200,
-     "sport": "NFL",
-     "event": "Los Angeles Rams @ Arizona Cardinals",
-     "start": "Sun 4:06 PM ET",
-     "reason": "The Rams (5-4) are -9.5 at Arizona (3-6); +3.5 is 13 points off the main line and crosses the key number 3, so the Rams lose this leg only if Arizona wins by 4+. Arizona is 0-3 at home, losing by 24 (Seattle), 24 (Detroit) and 14 (Denver), so the home-loss check passes. Arizona's QB room is gutted: Gardner Minshew is on IR (season-ending UCL tear) and Joey Aguilar is inactive, and center Hjalte Froholdt and guard Jon Gaines are inactive (ESPN injury report). Risk noted: Puka Nacua and Davante Adams are on IR, Arizona won 18-16 at the Rams in Week 6, and Myles Garrett is questionable. Kicks 4:05 PM ET.",
-     "marketId": "742.196794532",
-     "selectionId": "12215071",
-     "eventId": 36275766,
-     "marketIdMD": "724.196933270"
+     "odds": -650,
+     "sport": "NBA",
+     "event": "Phoenix Suns @ Denver Nuggets",
+     "start": "Mon 9:10 PM ET",
+     "reason": "Denver (7-4) is -9.5 at home to Phoenix (5-7, 0-3 on the road: lost at Portland by 41, at OKC by 11, at Golden State by 3). +4.5 is 14 points off the main line. The bigger cushion (not +1.5) is because Denver is only 2-2 at home (lost to Golden State by 20 and Portland by 8). Only Julian Strawther is out for Denver; Phoenix is without Mark Williams. Tips 9:10 PM ET.",
+     "marketId": "742.197906292",
+     "selectionId": "7889533",
+     "eventId": 36319062,
+     "marketIdMD": "724.198045026"
     }
    ],
-   "reason": "Two plus-side cushions on clearly better road favorites whose hosts have been getting blown out at home (Bucks 1-12, five home losses by 10+; Cardinals 0-3 at home, all by 14+, and down to a backup QB)."
+   "reason": "Two strong home favorites taken on the plus side: the Celtics are unbeaten at home against a Banchero-less Magic, and the Nuggets get a 14-point cushion against a Suns team that has not won on the road."
+  },
+  {
+   "name": "76ers Road Cushion + Cavs Home Cushion",
+   "odds": -193,
+   "stake": 10,
+   "legs": [
+    {
+     "pick": "Philadelphia 76ers +4.5",
+     "market": "Alternate Spread",
+     "odds": -350,
+     "sport": "NBA",
+     "event": "Philadelphia 76ers @ Brooklyn Nets",
+     "start": "Mon 7:40 PM ET",
+     "reason": "Philadelphia (11-3, 5-1 on the road) is -5.5 at Brooklyn (3-9, 1-3 at home). Home-loss check passes: the Nets lost at home by 7 (Charlotte), 27 (Indiana) and 16 (Detroit). +4.5 is 10 points off the main line. The cushion is +4.5, not +1.5, because Joel Embiid is day-to-day. Tips 7:40 PM ET.",
+     "marketId": "742.197905578",
+     "selectionId": "7888487",
+     "eventId": 36319067,
+     "marketIdMD": "724.198044307"
+    },
+    {
+     "pick": "Cleveland Cavaliers +4.5",
+     "market": "Alternate Spread",
+     "odds": -550,
+     "sport": "NBA",
+     "event": "Chicago Bulls @ Cleveland Cavaliers",
+     "start": "Mon 7:10 PM ET",
+     "reason": "Cleveland (7-7, 5-2 at home) is -9.5 vs Chicago (3-9, 2-5 on the road, with road losses by 43, 35, 30, 19 and 14). +4.5 is 14 points off the main line. The cushion is sized up because Evan Mobley, Sam Merrill and Nae'Qwan Tomlin are out. Cleveland's two home losses were to OKC (by 5) and New York (by 12). Tips 7:10 PM ET.",
+     "marketId": "742.197905331",
+     "selectionId": "7888778",
+     "eventId": 36319064,
+     "marketIdMD": "724.198044069"
+    }
+   ],
+   "reason": "A clearly better road team against a Nets side that loses at home by 7+, plus a home favorite with a 14-point cushion against a Bulls team that gets blown out on the road. Both cushions are sized to the injury list."
   }
  ],
  "lottery": [
   {
    "name": "Best Shot $500K",
-   "odds": -327,
+   "odds": -206,
    "stake": 5,
    "legs": [
     {
-     "pick": "Houston Rockets +4.5",
-     "market": "Alternate Spread",
-     "odds": -550,
-     "sport": "NBA",
-     "event": "Houston Rockets @ Washington Wizards",
-     "start": "Sun 7:10 PM ET",
-     "reason": "Houston (10-3) is -8.5 at Washington (4-9); +4.5 is 13 points off the main line, so the Rockets lose this leg only if the Wizards win by 5+. The bigger cushion (instead of +1.5) is because Houston is without Fred VanVleet, Clint Capela and the suspended Marcus Smart. Washington's home losses were by 15 (Atlanta), 10 (Toronto) and 4 (Detroit, 144-140), and Alex Sarr, Tre Johnson and Bub Carrington are all questionable. Tips 7:10 PM ET.",
-     "marketId": "742.197763236",
-     "selectionId": "7891583",
-     "eventId": 36314671,
-     "marketIdMD": "724.197901973"
+     "pick": "UC San Diego ML",
+     "market": "Moneyline",
+     "odds": -4500,
+     "sport": "NCAAB",
+     "event": "Texas Southern @ UC San Diego",
+     "start": "Mon 10:00 PM ET",
+     "reason": "Tier gap: UC San Diego (T-Rank 129) hosts Texas Southern (T-Rank 335, 1-3). UCSD is -19.5. Tips 10:00 PM ET.",
+     "marketId": "742.197901133",
+     "selectionId": "41651551",
+     "eventId": 36326452,
+     "marketIdMD": "724.198039867"
     },
     {
-     "pick": "Oklahoma City Thunder +4.5",
+     "pick": "Memphis Grizzlies +7.5",
      "market": "Alternate Spread",
-     "odds": -950,
+     "odds": -385,
      "sport": "NBA",
-     "event": "Oklahoma City Thunder @ Sacramento Kings",
-     "start": "Sun 9:10 PM ET",
-     "reason": "Oklahoma City (8-5) is -11.5 at Sacramento (1-12, 0-7 at home); +4.5 is 16 points off the main line, so the Thunder lose this leg only if the Kings get their first home win by 5+. The deep cushion is deliberate: OKC is without Chet Holmgren, Jalen Williams and Cason Wallace and is 3-5 on the road. Sacramento is without Maxime Raynaud and Ben Simmons, with Keegan Murray and Precious Achiuwa questionable. Tips 9:10 PM ET.",
-     "marketId": "742.197763476",
-     "selectionId": "7890547",
-     "eventId": 36314669,
-     "marketIdMD": "724.197902211"
+     "event": "Memphis Grizzlies @ Washington Wizards",
+     "start": "Mon 7:10 PM ET",
+     "reason": "Memphis (9-4, 6-0 on the road, winning road games by 3, 5, 11, 16, 21 and 31) is -3.5 at Washington (4-10, 2-4 at home). +7.5 is 11 points off the main line, so the Wizards must win by 8+. The deep cushion is because Memphis is short-handed: Ty Jerome, Scotty Pippen Jr. and Quinten Post are out, and Zach Edey and Isaiah Stewart are day-to-day. Washington lost at home by 10, 15, 28 and 4. Tips 7:10 PM ET.",
+     "marketId": "742.197905174",
+     "selectionId": "7890755",
+     "eventId": 36319061,
+     "marketIdMD": "724.198043908"
+    },
+    {
+     "pick": "Chargers/Ravens Over 27.5 Points",
+     "market": "Alternate Total Points",
+     "odds": -650,
+     "sport": "NFL",
+     "event": "Los Angeles Chargers @ Baltimore Ravens",
+     "start": "Mon 8:21 PM ET",
+     "reason": "Game-log test: all 8 Chargers games have had 28+ total points (lowest 28, 33), and 8 of 9 Ravens games have too (the exception was 23). Main total is 38.5, so this is 11 points of cushion. Risk: Baltimore starts Jacoby Brissett with Lamar Jackson on IR, and the Chargers (0-8) are without Ladd McConkey. Kicks 8:15 PM ET.",
+     "marketId": "742.196796027",
+     "selectionId": "12197205",
+     "eventId": 36275768,
+     "marketIdMD": "724.196934761"
     }
    ],
-   "reason": "The two highest-probability legs left after the parlay: deep plus-side cushions (13 and 16 points off the main line) on short-handed but much better road teams. Nowhere near the $5K target. Every other leg tonight failed a rule (see notes) and would be a 60-80% leg, so it is not padded."
+   "reason": "The three highest-probability legs left after the two parlays: a bottom-tier college mismatch (the -100000 moneylines were left out because they add nothing), a deep 11-point cushion on an unbeaten road team, and a low NFL alt total that clears the game-log test. Far short of the $5K target; every other leg tonight failed a rule and would be a 60-80% leg, so it is not padded."
   }
  ],
  "results": {
-  "updated": "Sun Nov 15, 2026 3:00 PM ET",
-  "sources": "FanDuel PA public odds (content-managed pages and event-page API, pulled ~2:45-3:00 PM ET); ESPN scoreboards 11/15; ESPN NBA and NFL injury reports 11/15; ESPN team schedules (home-loss check); Daily Faceoff starting goalies 11/15; Barttorvik T-Rank.",
+  "updated": "Mon Nov 16, 2026 10:30 AM ET",
+  "sources": "FanDuel PA public odds (content-managed pages and event-page API, pulled ~10:30 AM ET 11/16); ESPN scoreboards 11/15 (grading) and 11/16; ESPN NBA and NFL injury reports 11/16; ESPN team schedules (home-loss check, game-log totals); Barttorvik T-Rank 2027.",
   "totals": {
    "singles": {
     "won": 26,
@@ -88,45 +135,45 @@
     "roiPct": 4.5
    },
    "parlays": {
-    "won": 50,
+    "won": 52,
     "lost": 52,
     "pending": 2,
-    "staked": 1020,
-    "profit": -136.18,
-    "winPct": 49.0,
-    "roiPct": -13.4
+    "staked": 1040,
+    "profit": -129.23,
+    "winPct": 50.0,
+    "roiPct": -12.4
    },
    "lottery": {
-    "won": 9,
+    "won": 11,
     "lost": 34,
-    "pending": 2,
-    "staked": 215,
-    "profit": -86.38,
-    "winPct": 20.9,
-    "roiPct": -40.2
+    "pending": 1,
+    "staked": 225,
+    "profit": -83.26,
+    "winPct": 24.4,
+    "roiPct": -37.0
    },
    "overall": {
-    "won": 85,
+    "won": 89,
     "lost": 111,
-    "pending": 4,
-    "staked": 1745,
-    "profit": -199.36,
-    "winPct": 43.4,
-    "roiPct": -11.4
+    "pending": 3,
+    "staked": 1775,
+    "profit": -189.29,
+    "winPct": 44.5,
+    "roiPct": -10.7
    },
    "legs": {
-    "hit": 719,
+    "hit": 732,
     "miss": 226,
-    "pending": 39,
+    "pending": 33,
     "void": 3
    },
-   "won": 85,
+   "won": 89,
    "lost": 111,
-   "pending": 4,
-   "winPct": 43.4,
-   "staked": 1745,
-   "profit": -199.36,
-   "roiPct": -11.4
+   "pending": 3,
+   "winPct": 44.5,
+   "staked": 1775,
+   "profit": -189.29,
+   "roiPct": -10.7
   },
   "singles": {
    "won": 26,
@@ -138,22 +185,22 @@
    "roiPct": 4.5
   },
   "parlays": {
-   "won": 50,
+   "won": 52,
    "lost": 52,
    "pending": 2,
-   "staked": 1020,
-   "profit": -136.18,
-   "winPct": 49.0,
-   "roiPct": -13.4
+   "staked": 1040,
+   "profit": -129.23,
+   "winPct": 50.0,
+   "roiPct": -12.4
   },
   "lottery": {
-   "won": 9,
+   "won": 11,
    "lost": 34,
-   "pending": 2,
-   "staked": 215,
-   "profit": -86.38,
-   "winPct": 20.9,
-   "roiPct": -40.2
+   "pending": 1,
+   "staked": 225,
+   "profit": -83.26,
+   "winPct": 24.4,
+   "roiPct": -37.0
   },
   "history": [
    {
@@ -9725,26 +9772,26 @@
     "name": "Celtics Home Cushion + Chiefs Big Cushion",
     "odds": -381,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 2.62,
     "legs": [
      {
       "pick": "Boston Celtics +1.5",
       "odds": -850,
       "event": "Dallas Mavericks @ Boston Celtics",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "BOS 131-94 vs DAL (won by 37)"
      },
      {
       "pick": "Kansas City Chiefs +7.5",
       "odds": -770,
       "event": "Kansas City Chiefs @ Atlanta Falcons",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "KC 35-13 at ATL (won by 22)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: Boston beat Dallas 131-94 and Kansas City won 35-13 at Atlanta. Both cushions were never in danger.",
+    "lesson": "Plus-side cushions on clearly better teams went 2/2; the Chiefs +7.5 (15 points off the main) was never needed. Keep this leg type as the backbone."
    },
    {
     "date": "2026-11-15",
@@ -9753,61 +9800,61 @@
     "name": "Best Shot $500K",
     "odds": -314,
     "stake": 5,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 1.59,
     "legs": [
      {
       "pick": "Jacksonville Jaguars +2.5",
       "odds": -1000,
       "event": "Jacksonville Jaguars @ Tennessee Titans",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "JAX 40-23 at TEN (won by 17)"
      },
      {
       "pick": "San Antonio Spurs +1.5",
       "odds": -1800,
       "event": "San Antonio Spurs @ Utah Jazz",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "SA 110-102 at UTAH (won by 8)"
      },
      {
       "pick": "Charleston ML",
       "odds": -3500,
       "event": "South Carolina State @ Charleston",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "COFC 90-66 vs SC State"
      },
      {
       "pick": "Boston College ML",
       "odds": -10000,
       "event": "New Hampshire @ Boston College",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "BC 67-55 vs New Hampshire"
      },
      {
       "pick": "Penn State ML",
       "odds": -10000,
       "event": "New Haven @ Penn State",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "PSU 86-52 vs New Haven"
      },
      {
       "pick": "Loyola Marymount ML",
       "odds": -4000,
       "event": "Chicago State @ Loyola Marymount",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "LMU 86-49 vs Chicago State"
      },
      {
       "pick": "James Madison ML",
       "odds": -1800,
       "event": "Mercyhurst @ James Madison",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "JMU 80-71 vs Mercyhurst (by 9)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won 7/7: Jaguars won by 17 at Tennessee, Spurs by 8 at Utah, and all five college hosts won (Charleston by 24, BC by 12, Penn State by 34, LMU by 37, JMU by 9).",
+    "lesson": "Tier gaps vs bottom-tier visitors went 5/5 (JMU vs Mercyhurst the closest at 9). Plus-side NFL/NBA cushions held. The rule set (bottom-tier visitors only, plus-side cushions, home-loss check) produced a clean sweep."
    },
    {
     "date": "2026-11-15",
@@ -9816,26 +9863,26 @@
     "name": "Hawks Road Cushion + Rams Big Cushion",
     "odds": -231,
     "stake": 10,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 4.33,
     "legs": [
      {
       "pick": "Atlanta Hawks +1.5",
       "odds": -310,
       "event": "Atlanta Hawks @ Milwaukee Bucks",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "ATL 113-106 at MIL (won by 7)"
      },
      {
       "pick": "Los Angeles Rams +3.5",
       "odds": -1200,
       "event": "Los Angeles Rams @ Arizona Cardinals",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "LAR 34-6 at ARI (won by 28)"
      }
     ],
-    "whyExplanation": "Pending.",
-    "lesson": ""
+    "whyExplanation": "Won: Atlanta won 113-106 at Milwaukee and the Rams won 34-6 at Arizona.",
+    "lesson": "The home-loss check (Bucks 5 of 6 home losses by 10+, Cardinals 0-3 at home by 14+) picked two hosts that lost again. Arizona's backup-QB situation was the decisive factor. Backup-QB fade on the plus side works."
    },
    {
     "date": "2026-11-15",
@@ -9844,20 +9891,111 @@
     "name": "Best Shot $500K",
     "odds": -327,
     "stake": 5,
-    "result": "pending",
-    "profit": 0,
+    "result": "won",
+    "profit": 1.53,
     "legs": [
      {
       "pick": "Houston Rockets +4.5",
       "odds": -550,
       "event": "Houston Rockets @ Washington Wizards",
-      "result": "pending",
-      "actual": "pending"
+      "result": "hit",
+      "actual": "HOU 147-119 at WSH (won by 28)"
      },
      {
       "pick": "Oklahoma City Thunder +4.5",
       "odds": -950,
       "event": "Oklahoma City Thunder @ Sacramento Kings",
+      "result": "hit",
+      "actual": "OKC 125-103 at SAC (won by 22)"
+     }
+    ],
+    "whyExplanation": "Won 2/2: Houston won 147-119 at Washington and OKC won 125-103 at Sacramento.",
+    "lesson": "Short-handed but much better road teams still won by 20+; the +4.5 injury-sized cushions were never tested. Keep sizing cushions to the injury list; the approach went 2/2 in its first test."
+   },
+   {
+    "date": "2026-11-16",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "Celtics Home Cushion + Nuggets Home Cushion",
+    "odds": -201,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Boston Celtics +1.5",
+      "odds": -335,
+      "event": "Orlando Magic @ Boston Celtics",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Denver Nuggets +4.5",
+      "odds": -650,
+      "event": "Phoenix Suns @ Denver Nuggets",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-16",
+    "run": "10:30 AM",
+    "type": "parlay",
+    "name": "76ers Road Cushion + Cavs Home Cushion",
+    "odds": -193,
+    "stake": 10,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "Philadelphia 76ers +4.5",
+      "odds": -350,
+      "event": "Philadelphia 76ers @ Brooklyn Nets",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Cleveland Cavaliers +4.5",
+      "odds": -550,
+      "event": "Chicago Bulls @ Cleveland Cavaliers",
+      "result": "pending",
+      "actual": "pending"
+     }
+    ],
+    "whyExplanation": "Pending.",
+    "lesson": ""
+   },
+   {
+    "date": "2026-11-16",
+    "run": "10:30 AM",
+    "type": "lottery",
+    "name": "Best Shot $500K",
+    "odds": -206,
+    "stake": 5,
+    "result": "pending",
+    "profit": 0,
+    "legs": [
+     {
+      "pick": "UC San Diego ML",
+      "odds": -4500,
+      "event": "Texas Southern @ UC San Diego",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Memphis Grizzlies +7.5",
+      "odds": -385,
+      "event": "Memphis Grizzlies @ Washington Wizards",
+      "result": "pending",
+      "actual": "pending"
+     },
+     {
+      "pick": "Chargers/Ravens Over 27.5 Points",
+      "odds": -650,
+      "event": "Los Angeles Chargers @ Baltimore Ravens",
       "result": "pending",
       "actual": "pending"
      }
@@ -9867,12 +10005,12 @@
    }
   ],
   "topLessons": [
-   "Plus-side cushions on clearly better teams are the main leg type. Tonight that means Hawks +1.5, Rams +3.5, Rockets +4.5 and Thunder +4.5. Favorite-side buy-downs stay paused.",
-   "Home-loss check decided the NBA and NFL picks. Bucks (5 of 6 home losses by 10+) and Cardinals (0-3 at home, all by 14+) pass. Raptors (lost at home by 5, 7 and 16; Knicks -5.5), Suns (5-3 at home) and Raiders (lost at home by 3, 3 and 14; Seattle without Darnold) fail.",
-   "The cushion grows with injury risk: Houston (no VanVleet, Capela or Smart) gets +4.5, not +1.5. OKC (no Holmgren, J. Williams or Wallace; 3-5 on the road) gets +4.5 against a Kings team that is 0-7 at home.",
-   "Goalie-edge NHL +1.5 only with a confirmed starter. Saros (.922) vs Nedeljkovic (.895) qualifies on paper, but it was only projected at build time, so Nashville +1.5 was left off. Calgary (Cooley .913, confirmed) is an underdog, so it was skipped too. Edmonton (Jarry .903) and Vegas (Hart .896) fall below .910.",
-   "Tier-gap moneylines: none tonight. USC vs Arkansas-Pine Bluff is -100000, which adds nothing. The other hosts are below the top 150 (Seattle 152, SJSU 183, Buffalo 220) or the visitors are above 300 (Coastal 239, Alabama State 253).",
-   "Women's college moneylines (UConn -1600, UCLA -8000) are on a restricted FanDuel feed (sgmMarket=false) and cannot be parlayed, so they were not used."
+   "Sunday went 4-0 and 13/13 legs with plus-side cushions, the home-loss check and bottom-tier tier gaps. Today's card uses only those leg types.",
+   "Size the cushion to the injury list: Celtics (healthy, opponent missing Banchero) get +1.5. Sixers (Embiid day-to-day) and Cavs (no Mobley) get +4.5. Memphis (four rotation players out or doubtful) gets +7.5.",
+   "Home-loss check: Nets (home losses by 7, 27, 16) and Wizards (by 10, 15, 28, 4) pass. Miami/Houston, New Orleans/Golden State (Curry, Butler, Porzingis out) and Minnesota/Portland (Edwards out) failed and were skipped.",
+   "Tier gaps only vs T-Rank 300+ visitors with a top-150 host: UCSD vs Texas Southern (335) passes. Clemson vs The Citadel (346) also passed, but FanDuel flags that moneyline as not parlay-safe (no in-play market), so it was left off. UTEP (162) vs FAMU failed the host test. The -100000 moneylines (Maryland, Ohio State, Kentucky, Minnesota, Texas A&M, UCLA) add nothing.",
+   "No MNF side: the Ravens are 1-3 at home with Brissett at QB, and the 0-8 Chargers are not a clearly better team. Only the alt total passed (game-log test 16/17).",
+   "NHL goalie-edge +1.5 legs need a confirmed starter. None was confirmed at 10:30 AM, so none were used."
   ]
  }
 }
