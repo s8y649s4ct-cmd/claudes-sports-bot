@@ -597,3 +597,26 @@ Record after grading: Overall 85-111 (-$199.36 on $1,745). Singles 26-25 (+$23.2
 1. **Sunday 3 PM pools are mostly NBA/NHL plus the late NFL games.** When the morning card already used the best spots and NHL starters are unconfirmed at 3 PM, a 2-ticket card is right.
 2. **Size the cushion to the injury list, not just the spread.** Tonight is the first test of +4.5 cushions on short-handed favorites (Rockets, Thunder). Grade them and compare with plain +1.5 legs.
 3. **Watch:** the Rams leg relies on Arizona's QB depletion. If it misses, add a rule that NFL plus-side cushions need the favorite's top two receivers healthy (Nacua and Adams are out).
+
+## Mon Nov 16, 2026 10:30 AM ET run: grading Sunday Nov 15
+Sunday went 4-0 and 13/13 legs. Celtics + Chiefs (BOS by 37, KC by 22), morning Best Shot 7/7 (Jaguars by 17, Spurs by 8, Charleston, BC, Penn State, LMU, JMU), Hawks + Rams (ATL by 7, LAR 34-6) and the evening Best Shot (Rockets by 28, Thunder by 22).
+Record after grading: Overall 89-111 (-$189.29 on $1,775). Singles 26-25 (+$23.20). Parlays 52-52 (-$129.23). Lottery 11-34 (-$83.26). Legs 732 hit / 226 miss.
+### Lessons (grade_mon_1116.py)
+1. Plus-side cushions on clearly better teams plus the home-loss check went 8/8 Sunday. This is the backbone leg type.
+2. Injury-sized cushions (+4.5 on short-handed Rockets/Thunder) went 2/2 and were never tested. Keep sizing to the injury list.
+3. Bottom-tier tier gaps (300+ visitors) went 5/5. The closest was JMU by 9 over Mercyhurst.
+4. Rams watch rule is moot (won by 28). The backup-QB situation on the host (Arizona) was decisive, which confirms the plus-side backup-QB fade.
+### Card (built ~10:30 AM ET)
+- **Celtics Home Cushion + Nuggets Home Cushion (-201, $10 pays $14.98):** Celtics +1.5 (-335), Nuggets +4.5 (-650).
+- **76ers Road Cushion + Cavs Home Cushion (-193, $10 pays $15.19):** 76ers +4.5 (-350), Cavaliers +4.5 (-550).
+- **Best Shot $500K (-206, $5 pays $7.43):** UC San Diego ML (-4500), Grizzlies +7.5 (-385), Chargers/Ravens Over 27.5 (-650). Far short of $5K; stated rather than padded.
+- No singles. No +1000 lottery.
+### How lessons changed this card
+- Only plus-side cushions on NBA favorites. The cushion is sized to injuries: Celtics +1.5 (healthy; Magic without Banchero), Sixers +4.5 (Embiid day-to-day), Cavs +4.5 (no Mobley), Nuggets +4.5 (2-2 at home), Grizzlies +7.5 (Jerome, Pippen and Post out; Edey and Stewart day-to-day).
+- Home-loss check: Nets and Wizards pass. Skipped Heat/Rockets (pick'em-ish), Pelicans/Warriors (Curry, Butler and Porzingis out) and Wolves/Blazers (Edwards out).
+- Tier gaps: only UCSD vs Texas Southern (335) was usable. Clemson vs The Citadel passed the rank test, but its ML is canTurnInPlay=false, so it isn't parlay-safe. UTEP (162) failed the top-150 host test. The -100000 MLs add nothing. Deep college alt spreads (around -400 at 9-12 points off) are not near-locks.
+- MNF: no side. Ravens are 1-3 at home with Brissett, and the Chargers are 0-8. Alt Over 27.5 passes the game-log test (LAC 8/8, BAL 8/9 at 28+).
+- NHL: no confirmed starters at 10:30 AM, so no goalie-edge legs.
+### New lessons / watch
+1. FanDuel priced Celtics +1.5 at -335, the same as the ML. When a +1.5 alt is priced at the ML, it is free cushion. Look for it.
+2. Watch the Over 27.5: first NFL low alt total. If it misses, require 100% game-log clearance for NFL alt overs.
